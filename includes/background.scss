@@ -1,0 +1,80 @@
+.ui.background {
+	&.red {
+		background-color: $red;
+	}
+	&.yellow {
+		background-color: $yellow;
+	}
+	&.olive {
+		background-color: $olive;
+	}
+	&.green {
+		background-color: $green;
+	}
+	&.teal {
+		background-color: $teal;
+	}
+	&.blue {
+		background-color: $blue;
+	}
+	&.violet {
+		background-color: $violet;
+	}
+	&.purple {
+		background-color: $purple;
+	}
+	&.pink {
+		background-color: $pink;
+	}
+	&.brown {
+		background-color: $brown;
+	}
+	&.grey {
+		background-color: $grey;
+	}
+	&.black {
+		background-color: $black;
+	}
+	&.white {
+		background-color: $white;
+	}
+	&.transparent {
+		background-color: $transparent;
+	}
+}
+
+.ui.background {
+	&.opacity {
+		opacity: 0 !important;
+		&.ten {
+			opacity: 0.1 !important;
+		}
+		&.twenty {
+			opacity: 0.2 !important;
+		}
+		&.thirty {
+			opacity: 0.3 !important;
+		}
+		&.forty {
+			opacity: 0.4 !important;
+		}
+		&.fifty {
+			opacity: 0.5 !important;
+		}
+		&.sixty {
+			opacity: 0.6 !important;
+		}
+		&.seventy {
+			opacity: 0.7 !important;
+		}
+		&.eighty {
+			opacity: 0.8 !important;
+		}
+		&.ninety {
+			opacity: 0.9 !important;
+		}
+		&.hundred {
+			opacity: 1 !important;
+		}
+	}
+}

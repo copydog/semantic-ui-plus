@@ -1,0 +1,44 @@
+// display show hide inline block
+.ui {
+	&.inline {
+		display: inline !important;
+	}
+	&.block, &.show {
+		display: block !important;
+	}
+	&.inline-block {
+		display: inline-block !important;
+	}
+	&.hide {
+		display: none !important;
+	}
+}
+
+// situational show hide
+.ui {
+	&.only {
+	}
+	&.excluded {
+
+	}
+}
+
+// overflow
+.ui.overflow {
+	&.hidden {
+		overflow: hidden;
+	}
+	&.auto {
+		overflow: auto;
+	}
+	&.scroll {
+		overflow: scroll;
+	}
+	&.visible {
+		overflow: visible;
+	}
+	&.inherit{
+		overflow: inherit;
+	}
+}
+

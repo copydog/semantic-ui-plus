@@ -1,0 +1,192 @@
+// color
+.ui.text {
+	&.red {
+		color: $red;
+	}
+	&.yellow {
+		color: $yellow;
+	}
+	&.olive {
+		color: $olive;
+	}
+	&.green {
+		color: $green;
+	}
+	&.teal {
+		color: $teal;
+	}
+	&.blue {
+		color: $blue;
+	}
+	&.violet {
+		color: $violet;
+	}
+	&.purple {
+		color: $purple;
+	}
+	&.pink {
+		color: $pink;
+	}
+	&.brown {
+		color: $brown;
+	}
+	&.grey {
+		color: $grey;
+	}
+	&.black {
+		color: $black;
+	}
+	&.white {
+		color: $white;
+	}
+	&.transparent {
+		color: transparent;
+	}
+}
+
+// position and special
+.ui.text {
+	&.aligned {
+		&.center {
+			text-align: center;
+		}
+		&.left {
+			text-align: left;
+		}
+		&.right {
+			text-align: right;
+		}
+	}
+	&.floated {
+		&.left {
+			float: left;
+		}
+		&.right {
+			float: right;
+		}
+	}
+	&.centered {
+		float: none;
+	}
+	&.indent {
+		text-indent: 20px;
+		.few {
+			text-indent: 15px;
+		}
+		.fewer {
+			text-indent: 10px;
+		}
+		.more {
+			text-indent: 25px;
+		}
+		.extra {
+			text-indent: 30px;
+		}
+	}
+	&.ten {
+		font-size: 10px;
+		line-height: 10px;
+	}
+	&.twelve {
+		font-size: 12px;
+		line-height: 12px;
+	}
+	&.fourteen {
+		font-size: 14px;
+		line-height: 14px;
+	}
+	&.sixteen {
+		font-size: 16px;
+		line-height: 16px;
+	}
+	&.eighteen {
+		font-size: 18px;
+		line-height: 18px;
+	}
+	&.twenty {
+		font-size: 20px;
+		&.two {
+			font-size: 22px;
+			line-height: 22px;
+		}
+		&.four {
+			font-size: 24px;
+			line-height: 24px;
+		}
+		&.six {
+			font-size: 26px;
+			line-height: 26px;
+		}
+		&.eight {
+			font-size: 28px;
+			line-height: 28px;
+		}
+	}
+	&.thirty {
+		font-size: 30px;
+		&.two {
+			font-size: 33px;
+			line-height: 32px;
+		}
+		&.four {
+			font-size: 34px;
+			line-height: 34px;
+		}
+		&.six {
+			font-size: 36px;
+			line-height: 36px;
+		}
+		&.eight {
+			font-size: 38px;
+			line-height: 38px;
+		}
+	}
+	&.forty {
+		font-size: 40px;
+		&.two {
+			font-size: 42px;
+			line-height: 42px;
+		}
+		&.four {
+			font-size: 44px;
+			line-height: 44px;
+		}
+		&.six {
+			font-size: 46px;
+			line-height: 46px;
+		}
+		&.eight {
+			font-size: 48px;
+			line-height: 48px;
+		}
+	}
+	&.fifty {
+		font-size: 50px;
+		line-height: 50px;
+	}
+
+}
+
+// style
+.ui.text {
+	&.normal {
+		font-weight: bold;
+		font-style: normal;
+	}
+	&.bold {
+		font-weight: normal;
+	}
+	&.italic {
+		font-style: italic;
+	}
+	// css 3
+	&.uppercase {
+		text-transform: uppercase;
+	}
+	&.lowercase {
+		text-transform: lowercase;
+	}
+	&.capitalize {
+		text-transform: capitalize;
+	}
+}

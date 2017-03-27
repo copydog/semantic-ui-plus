@@ -1,0 +1,29 @@
+.ui.border {
+	border-style: solid;
+	&.transparent {
+		border-color: transparent !important;
+	}
+
+	&.free, &.no {
+		border-width: 0 !important;
+	}
+}
+
+// style
+.ui.border{
+	&.dashed{
+		border-style: dashed;
+	}
+	&.dotted{
+		border-style: dotted;
+	}
+	&.solid{
+		border-style: solid;
+	}
+}
+
+.ui.box-shadow {
+	&.transparent, &.no {
+		box-shadow: none;
+	}
+}

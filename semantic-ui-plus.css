@@ -1,0 +1,261 @@
+.ui.menu.updown {
+  border-left: 0 solid;
+  border-right: 0 solid;
+  box-shadow: none;
+  border-radius: 0;
+  margin: 0 auto !important; }
+.ui.menu.transparent {
+  background-color: transparent; }
+.ui.menu.borderfree .item:before, .ui.menu.borderfree .item .menu .item:before, .ui.menu.borderfree .item:before {
+  background: none !important; }
+.ui.menu.borderfree {
+  box-shadow: none;
+  border: 0px solid transparent; }
+
+.ui.divider.light {
+  border-top-color: #ebebeb !important; }
+
+.ui.image.box .box {
+  position: absolute;
+  top: 0 !important;
+  left: 0 !important;
+  width: 100%;
+  height: 100%;
+  vertical-align: middle;
+  line-height: 1;
+  z-index: 1000; }
+  .ui.image.box .box .content {
+    width: 100%;
+    height: 100%;
+    display: table; }
+    .ui.image.box .box .content .center {
+      display: table-cell;
+      vertical-align: middle; }
+
+.ui.text.red {
+  color: #DB2828 !important; }
+.ui.text.yellow {
+  color: #FBBD08 !important; }
+.ui.text.olive {
+  color: #B5CC18 !important; }
+.ui.text.green {
+  color: #21BA45 !important; }
+.ui.text.teal {
+  color: #00B5AD !important; }
+.ui.text.blue {
+  color: #2185D0 !important; }
+.ui.text.violet {
+  color: #6435C9 !important; }
+.ui.text.purple {
+  color: #A333C8 !important; }
+.ui.text.pink {
+  color: #E03997 !important; }
+.ui.text.brown {
+  color: #A5673F !important; }
+.ui.text.grey {
+  color: #767676 !important; }
+.ui.text.black {
+  color: #1B1C1D !important; }
+.ui.text.white {
+  color: #ffffff !important; }
+.ui.text.transparent {
+  color: transparent; }
+
+.ui.text.aligned.center {
+  text-align: center; }
+.ui.text.aligned.left {
+  text-align: left; }
+.ui.text.aligned.right {
+  text-align: right; }
+.ui.text.floated.left {
+  float: left; }
+.ui.text.floated.right {
+  float: right; }
+.ui.text.centered {
+  float: none; }
+.ui.text.indent {
+  text-indent: 20px; }
+  .ui.text.indent .few {
+    text-indent: 15px; }
+  .ui.text.indent .fewer {
+    text-indent: 10px; }
+  .ui.text.indent .more {
+    text-indent: 25px; }
+  .ui.text.indent .extra {
+    text-indent: 30px; }
+.ui.text.ten {
+  font-size: 10px;
+  line-height: 10px; }
+.ui.text.twelve {
+  font-size: 12px;
+  line-height: 12px; }
+.ui.text.fourteen {
+  font-size: 14px;
+  line-height: 14px; }
+.ui.text.sixteen {
+  font-size: 16px;
+  line-height: 16px; }
+.ui.text.eighteen {
+  font-size: 18px;
+  line-height: 18px; }
+.ui.text.twenty {
+  font-size: 20px; }
+  .ui.text.twenty.two {
+    font-size: 22px;
+    line-height: 22px; }
+  .ui.text.twenty.four {
+    font-size: 24px;
+    line-height: 24px; }
+  .ui.text.twenty.six {
+    font-size: 26px;
+    line-height: 26px; }
+  .ui.text.twenty.eight {
+    font-size: 28px;
+    line-height: 28px; }
+.ui.text.thirty {
+  font-size: 30px; }
+  .ui.text.thirty.two {
+    font-size: 33px;
+    line-height: 32px; }
+  .ui.text.thirty.four {
+    font-size: 34px;
+    line-height: 34px; }
+  .ui.text.thirty.six {
+    font-size: 36px;
+    line-height: 36px; }
+  .ui.text.thirty.eight {
+    font-size: 38px;
+    line-height: 38px; }
+.ui.text.forty {
+  font-size: 40px; }
+  .ui.text.forty.two {
+    font-size: 42px;
+    line-height: 42px; }
+  .ui.text.forty.four {
+    font-size: 44px;
+    line-height: 44px; }
+  .ui.text.forty.six {
+    font-size: 46px;
+    line-height: 46px; }
+  .ui.text.forty.eight {
+    font-size: 48px;
+    line-height: 48px; }
+.ui.text.fifty {
+  font-size: 50px;
+  line-height: 50px; }
+
+.ui.text.normal {
+  font-weight: bold;
+  font-style: normal; }
+.ui.text.bold {
+  font-weight: normal; }
+.ui.text.italic {
+  font-style: italic; }
+.ui.text.uppercase {
+  text-transform: uppercase; }
+.ui.text.lowercase {
+  text-transform: lowercase; }
+.ui.text.capitalize {
+  text-transform: capitalize; }
+
+.ui.background.red {
+  background-color: #DB2828 !important; }
+.ui.background.yellow {
+  background-color: #FBBD08 !important; }
+.ui.background.olive {
+  background-color: #B5CC18 !important; }
+.ui.background.green {
+  background-color: #21BA45 !important; }
+.ui.background.teal {
+  background-color: #00B5AD !important; }
+.ui.background.blue {
+  background-color: #2185D0 !important; }
+.ui.background.violet {
+  background-color: #6435C9 !important; }
+.ui.background.purple {
+  background-color: #A333C8 !important; }
+.ui.background.pink {
+  background-color: #E03997 !important; }
+.ui.background.brown {
+  background-color: #A5673F !important; }
+.ui.background.grey {
+  background-color: #767676 !important; }
+.ui.background.black {
+  background-color: #1B1C1D !important; }
+.ui.background.white {
+  background-color: #ffffff !important; }
+.ui.background.transparent {
+  background-color: transparent !important; }
+
+.ui.background.opacity {
+  opacity: 0 !important; }
+  .ui.background.opacity.ten {
+    opacity: 0.1 !important; }
+  .ui.background.opacity.twenty {
+    opacity: 0.2 !important; }
+  .ui.background.opacity.thirty {
+    opacity: 0.3 !important; }
+  .ui.background.opacity.forty {
+    opacity: 0.4 !important; }
+  .ui.background.opacity.fifty {
+    opacity: 0.5 !important; }
+  .ui.background.opacity.sixty {
+    opacity: 0.6 !important; }
+  .ui.background.opacity.seventy {
+    opacity: 0.7 !important; }
+  .ui.background.opacity.eighty {
+    opacity: 0.8 !important; }
+  .ui.background.opacity.ninety {
+    opacity: 0.9 !important; }
+  .ui.background.opacity.hundred {
+    opacity: 1 !important; }
+
+.ui.cursor.pointer {
+  cursor: pointer; }
+.ui.cursor.no-allowed {
+  cursor: not-allowed; }
+.ui.cursor.none {
+  cursor: none; }
+.ui.cursor.default {
+  cursor: default; }
+.ui.cursor.text {
+  cursor: text; }
+
+.ui.border {
+  border-style: solid; }
+  .ui.border.transparent {
+    border-color: transparent !important; }
+  .ui.border.free, .ui.border.no {
+    border-width: 0 !important; }
+
+.ui.border.dashed {
+  border-style: dashed; }
+.ui.border.dotted {
+  border-style: dotted; }
+.ui.border.solid {
+  border-style: solid; }
+
+.ui.box-shadow.transparent, .ui.box-shadow.no {
+  box-shadow: none; }
+
+.ui.inline {
+  display: inline !important; }
+.ui.block, .ui.show {
+  display: block !important; }
+.ui.inline-block {
+  display: inline-block !important; }
+.ui.hide {
+  display: none !important; }
+
+.ui.overflow.hidden {
+  overflow: hidden; }
+.ui.overflow.auto {
+  overflow: auto; }
+.ui.overflow.scroll {
+  overflow: scroll; }
+.ui.overflow.visible {
+  overflow: visible; }
+.ui.overflow.inherit {
+  overflow: inherit; }
+
+/*# sourceMappingURL=semantic-ui-plus.css.map */
