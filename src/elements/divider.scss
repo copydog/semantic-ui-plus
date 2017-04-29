@@ -1,8 +1,11 @@
 .ui.divider, hr {
+	border-style: solid;
 	border-top: #dededf; // ie8 fallback
 	border-bottom: #dededf; // ie8 fallback
-	border-top: 1px solid rgba(34,36,38,.15);
-	border-bottom: 1px solid rgba(255,255,255,.1);
+	border-left: #dededf;
+	border-right: #dededf;
+	border-top: 1px solid rgba(34, 36, 38, .15);
+	border-bottom: 1px solid rgba(255, 255, 255, .1);
 	font-size: 1em;
 	margin: 14px 0;
 	&.lightest {
