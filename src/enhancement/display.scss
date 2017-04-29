@@ -27,6 +27,7 @@
 .invisible {
 	opacity: 0 !important;
 }
+
 //******************** overflow ********************
 [class*='overflow hidden'] {
 	overflow: hidden !important;
@@ -45,3 +46,58 @@
 }
 
 //******************** situational ********************
+@media only screen and (max-width: $mobileWidth) {
+	.mobile {
+		&.only {
+			display: block !important;
+		}
+
+		&.except {
+			display: none !important;
+		}
+	}
+}
+
+@media only screen and (min-width: $mobileWidth + 1) and (min-width: $tabletWidth) {
+	.tablet {
+		&.only {
+			display: block !important;
+		}
+
+		&.except {
+			display: none !important;
+		}
+	}
+}
+
+@media only screen and (min-width: $tabletWidth + 1) and (min-width: $computerWidth) {
+	.desktop {
+		&.only {
+			display: block !important;
+		}
+
+		&.except {
+			display: none !important;
+		}
+	}
+
+	.large.desktop.only {
+		display: none !important;
+	}
+}
+
+@media only screen and (min-width: $computerWidth + 1) {
+	.desktop {
+		&.only {
+			display: block !important;
+		}
+
+		&.except {
+			display: none !important;
+		}
+	}
+
+	.small.desktop.only {
+		display: none !important;
+	}
+}
