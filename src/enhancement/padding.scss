@@ -1,4 +1,39 @@
+//******************** all-way direction padding ********************
 [class*='no padding'] {
-	padding: 0;
+	padding: 0 !important;
 }
 
+[class*='default padding'] {
+    
+}
+
+[class*='padded padding'] {
+    
+}
+
+[class*='very padded padding'] {
+    
+}
+
+[class*='more padded padding'] {
+    
+}
+
+[class*='extra padded padding'] {
+    
+}
+
+[class*='most padded padding'] {
+    
+}
+
+//******************** two-way direction padding ********************
+[class*='no verticle padding'] {
+    
+}
+
+[class*='no horizontal padding'] {
+    
+}
+
+//******************** one-way direction ********************
