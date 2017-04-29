@@ -1,13 +1,52 @@
+//******************** default setting ********************
+.border {
+	border-style: solid;
+	border: 1px $grey;
+}
+
 //******************** width ********************
 [class*='no border'] {
 	border-width: 0 !important;
 }
 
-
 //******************** color ********************
-[class*='transparent border'] {
-	border-color: transparent !important;
-}
+$color-name: 'border';
+$color-css: 'border-color';
+
+@import "../colors/color";
 
 
 //******************** style ********************
+.border {
+	&.dotted {
+		border-style: dotted;
+	}
+
+	&.dashed {
+		border-style: dashed;
+	}
+
+	&.solid {
+		border-style: solid;
+	}
+
+	&.groove {
+		border-style: groove;
+	}
+
+	&.ridge {
+		border-style: ridge;
+	}
+
+	&.double {
+		border-style: double;
+	}
+
+	&.inset{
+		border-style: inset;
+	}
+
+	&.outset {
+		border-style: outset;
+	}
+}

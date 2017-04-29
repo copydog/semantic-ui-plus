@@ -10,3 +10,11 @@
 @import "pink";
 @import "brown";
 @import "grey";
+
+[class*='transparent #{$color-name}'] {
+    #{$color-css}: $transparent;
+}
+
+[class*='black #{$color-name}'] {
+	#{$color-css}: $black;
+}

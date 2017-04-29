@@ -397,6 +397,12 @@
 [class*='darkest grey background'] {
   background-color: #363636 !important; }
 
+[class*='transparent background'] {
+  background-color: transparent !important; }
+
+[class*='black background'] {
+  background-color: #1B1C1D !important; }
+
 [class*='cursor pointer'] {
   cursor: pointer !important; }
 
@@ -477,11 +483,434 @@
 
   .small.desktop.only {
     display: none !important; } }
+.border {
+  border-style: solid;
+  border: 1px #767676 !important; }
+
 [class*='no border'] {
   border-width: 0 !important; }
 
+[class*='red border'] {
+  border-color: #DB2828 !important; }
+
+[class*='light red border'] {
+  border-color: #df3e3e !important; }
+
+[class*='lighter red border'] {
+  border-color: #e25454 !important; }
+
+[class*='more lighter red border'] {
+  border-color: #e66a6a !important; }
+
+[class*='extra lighter red border'] {
+  border-color: #ea7f7f !important; }
+
+[class*='lightest red border'] {
+  border-color: #ed9595 !important; }
+
+[class*='dark red border'] {
+  border-color: #c82121 !important; }
+
+[class*='darker red border'] {
+  border-color: #b21e1e !important; }
+
+[class*='more darker red border'] {
+  border-color: #9c1a1a !important; }
+
+[class*='extra darker red border'] {
+  border-color: #861717 !important; }
+
+[class*='darkest red border'] {
+  border-color: #711313 !important; }
+
+[class*='orange border'] {
+  border-color: #F2711C !important; }
+
+[class*='light orange border'] {
+  border-color: #f38034 !important; }
+
+[class*='lighter orange border'] {
+  border-color: #f58f4c !important; }
+
+[class*='more lighter orange border'] {
+  border-color: light(#F2711C, 15%) !important; }
+
+[class*='extra lighter orange border'] {
+  border-color: #f8ad7c !important; }
+
+[class*='lightest orange border'] {
+  border-color: #f9bc95 !important; }
+
+[class*='dark orange border'] {
+  border-color: #e7640d !important; }
+
+[class*='darker orange border'] {
+  border-color: #cf590c !important; }
+
+[class*='more darker orange border'] {
+  border-color: #b74f0a !important; }
+
+[class*='extra darker orange border'] {
+  border-color: #9f4509 !important; }
+
+[class*='darkest orange border'] {
+  border-color: #873a08 !important; }
+
+[class*='yellow border'] {
+  border-color: #FBBD08 !important; }
+
+[class*='light yellow border'] {
+  border-color: #fbc421 !important; }
+
+[class*='lighter yellow border'] {
+  border-color: #fcca3a !important; }
+
+[class*='more lighter yellow border'] {
+  border-color: light(#FBBD08, 15%) !important; }
+
+[class*='extra lighter yellow border'] {
+  border-color: #fdd86c !important; }
+
+[class*='lightest yellow border'] {
+  border-color: #fddf85 !important; }
+
+[class*='dark yellow border'] {
+  border-color: #e6ac04 !important; }
+
+[class*='darker yellow border'] {
+  border-color: #cd9903 !important; }
+
+[class*='more darker yellow border'] {
+  border-color: #b48703 !important; }
+
+[class*='extra darker yellow border'] {
+  border-color: #9a7403 !important; }
+
+[class*='darkest yellow border'] {
+  border-color: #816102 !important; }
+
+.test {
+  color: border-color; }
+
+[class*='olive border'] {
+  border-color: #B5CC18 !important; }
+
+[class*='light olive border'] {
+  border-color: #c9e31b !important; }
+
+[class*='lighter olive border'] {
+  border-color: #cfe730 !important; }
+
+[class*='more lighter olive border'] {
+  border-color: light(#B5CC18, 15%) !important; }
+
+[class*='extra lighter olive border'] {
+  border-color: #daec5e !important; }
+
+[class*='lightest olive border'] {
+  border-color: #dfef75 !important; }
+
+[class*='dark olive border'] {
+  border-color: #a1b515 !important; }
+
+[class*='darker olive border'] {
+  border-color: #8d9e13 !important; }
+
+[class*='more darker olive border'] {
+  border-color: #788810 !important; }
+
+[class*='extra darker olive border'] {
+  border-color: #64710d !important; }
+
+[class*='darkest olive border'] {
+  border-color: #505a0b !important; }
+
+[class*='green border'] {
+  border-color: #21BA45 !important; }
+
+[class*='light green border'] {
+  border-color: #25d04d !important; }
+
+[class*='lighter green border'] {
+  border-color: #33db5b !important; }
+
+[class*='more lighter green border'] {
+  border-color: light(#21BA45, 15%) !important; }
+
+[class*='extra lighter green border'] {
+  border-color: #5ee37e !important; }
+
+[class*='lightest green border'] {
+  border-color: #74e68f !important; }
+
+[class*='dark green border'] {
+  border-color: #1da43d !important; }
+
+[class*='darker green border'] {
+  border-color: #198f35 !important; }
+
+[class*='more darker green border'] {
+  border-color: #15792d !important; }
+
+[class*='extra darker green border'] {
+  border-color: #126325 !important; }
+
+[class*='darkest green border'] {
+  border-color: #0e4e1d !important; }
+
+[class*='teal border'] {
+  border-color: #00B5AD !important; }
+
+[class*='light teal border'] {
+  border-color: #00cfc5 !important; }
+
+[class*='lighter teal border'] {
+  border-color: #00e8de !important; }
+
+[class*='more lighter teal border'] {
+  border-color: light(#00B5AD, 15%) !important; }
+
+[class*='extra lighter teal border'] {
+  border-color: #1cfff5 !important; }
+
+[class*='lightest teal border'] {
+  border-color: #36fff6 !important; }
+
+[class*='dark teal border'] {
+  border-color: #009c95 !important; }
+
+[class*='darker teal border'] {
+  border-color: #00827c !important; }
+
+[class*='more darker teal border'] {
+  border-color: #006964 !important; }
+
+[class*='extra darker teal border'] {
+  border-color: #004f4c !important; }
+
+[class*='darkest teal border'] {
+  border-color: #003633 !important; }
+
+[class*='blue border'] {
+  border-color: #2185D0 !important; }
+
+[class*='light blue border'] {
+  border-color: #2d92de !important; }
+
+[class*='lighter blue border'] {
+  border-color: #439de1 !important; }
+
+[class*='more lighter blue border'] {
+  border-color: light(#2185D0, 15%) !important; }
+
+[class*='extra lighter blue border'] {
+  border-color: #6fb4e8 !important; }
+
+[class*='lightest blue border'] {
+  border-color: #85c0ec !important; }
+
+[class*='dark blue border'] {
+  border-color: #1e77ba !important; }
+
+[class*='darker blue border'] {
+  border-color: #1a69a4 !important; }
+
+[class*='more darker blue border'] {
+  border-color: #175b8e !important; }
+
+[class*='extra darker blue border'] {
+  border-color: #134d78 !important; }
+
+[class*='darkest blue border'] {
+  border-color: #103f62 !important; }
+
+[class*='violet border'] {
+  border-color: #6435C9 !important; }
+
+[class*='light violet border'] {
+  border-color: #7349cf !important; }
+
+[class*='lighter violet border'] {
+  border-color: #835dd4 !important; }
+
+[class*='more lighter violet border'] {
+  border-color: light(#6435C9, 15%) !important; }
+
+[class*='extra lighter violet border'] {
+  border-color: #a285df !important; }
+
+[class*='lightest violet border'] {
+  border-color: #b199e4 !important; }
+
+[class*='dark violet border'] {
+  border-color: #5a30b5 !important; }
+
+[class*='darker violet border'] {
+  border-color: #502aa1 !important; }
+
+[class*='more darker violet border'] {
+  border-color: #46258c !important; }
+
+[class*='extra darker violet border'] {
+  border-color: #3c2078 !important; }
+
+[class*='darkest violet border'] {
+  border-color: #321a64 !important; }
+
+[class*='purple border'] {
+  border-color: #A333C8 !important; }
+
+[class*='light purple border'] {
+  border-color: #ad45d0 !important; }
+
+[class*='lighter purple border'] {
+  border-color: #b659d5 !important; }
+
+[class*='more lighter purple border'] {
+  border-color: light(#A333C8, 15%) !important; }
+
+[class*='extra lighter purple border'] {
+  border-color: #c882df !important; }
+
+[class*='lightest purple border'] {
+  border-color: #d196e4 !important; }
+
+[class*='dark purple border'] {
+  border-color: #922eb4 !important; }
+
+[class*='darker purple border'] {
+  border-color: #82299f !important; }
+
+[class*='more darker purple border'] {
+  border-color: #71238b !important; }
+
+[class*='extra darker purple border'] {
+  border-color: #611e77 !important; }
+
+[class*='darkest purple border'] {
+  border-color: #501962 !important; }
+
+[class*='pink border'] {
+  border-color: #E03997 !important; }
+
+[class*='light pink border'] {
+  border-color: #e34fa3 !important; }
+
+[class*='lighter pink border'] {
+  border-color: #e765ae !important; }
+
+[class*='more lighter pink border'] {
+  border-color: light(#E03997, 15%) !important; }
+
+[class*='extra lighter pink border'] {
+  border-color: #ee91c5 !important; }
+
+[class*='lightest pink border'] {
+  border-color: #f1a7d1 !important; }
+
+[class*='dark pink border'] {
+  border-color: #dd238b !important; }
+
+[class*='darker pink border'] {
+  border-color: #c71f7e !important; }
+
+[class*='more darker pink border'] {
+  border-color: #b11c70 !important; }
+
+[class*='extra darker pink border'] {
+  border-color: #9b1862 !important; }
+
+[class*='darkest pink border'] {
+  border-color: #851554 !important; }
+
+[class*='brown border'] {
+  border-color: #A5673F !important; }
+
+[class*='light brown border'] {
+  border-color: #b77346 !important; }
+
+[class*='lighter brown border'] {
+  border-color: #bf8058 !important; }
+
+[class*='more lighter brown border'] {
+  border-color: light(#A5673F, 15%) !important; }
+
+[class*='extra lighter brown border'] {
+  border-color: #cd9c7d !important; }
+
+[class*='lightest brown border'] {
+  border-color: #d4aa8f !important; }
+
+[class*='dark brown border'] {
+  border-color: #935b38 !important; }
+
+[class*='darker brown border'] {
+  border-color: #805031 !important; }
+
+[class*='more darker brown border'] {
+  border-color: #6e442a !important; }
+
+[class*='extra darker brown border'] {
+  border-color: #5b3923 !important; }
+
+[class*='darkest brown border'] {
+  border-color: #492d1c !important; }
+
+[class*='grey border'] {
+  border-color: #767676 !important; }
+
+[class*='light grey border'] {
+  border-color: #838383 !important; }
+
+[class*='lighter grey border'] {
+  border-color: #909090 !important; }
+
+[class*='more lighter grey border'] {
+  border-color: light(#767676, 15%) !important; }
+
+[class*='extra lighter grey border'] {
+  border-color: darkgray !important; }
+
+[class*='lightest grey border'] {
+  border-color: #b6b6b6 !important; }
+
+[class*='dark grey border'] {
+  border-color: dimgray !important; }
+
+[class*='darker grey border'] {
+  border-color: #5d5d5d !important; }
+
+[class*='more darker grey border'] {
+  border-color: #505050 !important; }
+
+[class*='extra darker grey border'] {
+  border-color: #434343 !important; }
+
+[class*='darkest grey border'] {
+  border-color: #363636 !important; }
+
 [class*='transparent border'] {
   border-color: transparent !important; }
+
+[class*='black border'] {
+  border-color: #1B1C1D !important; }
+
+.border.dotted {
+  border-style: dotted; }
+.border.dashed {
+  border-style: dashed; }
+.border.solid {
+  border-style: solid; }
+.border.groove {
+  border-style: groove; }
+.border.ridge {
+  border-style: ridge; }
+.border.double {
+  border-style: double; }
+.border.inset {
+  border-style: inset; }
+.border.outset {
+  border-style: outset; }
 
 [class*='zero percent opacity'] {
   opacity: 0 !important; }
@@ -945,24 +1374,30 @@
 [class*='darkest grey text'] {
   color: #363636 !important; }
 
+[class*='transparent text'] {
+  color: transparent !important; }
+
+[class*='black text'] {
+  color: #1B1C1D !important; }
+
 .text.normal {
-  font-weight: normal !important;
-  font-style: normal !important; }
+  font-weight: normal;
+  font-style: normal; }
 .text.bold {
-  font-weight: bold !important; }
+  font-weight: bold; }
 .text.italic {
-  font-style: italic !important; }
+  font-style: italic; }
 .text.uppercase {
-  text-transform: uppercase !important; }
+  text-transform: uppercase; }
 .text.lowercase {
-  text-transform: lowercase !important; }
+  text-transform: lowercase; }
 .text.capitalize {
-  text-transform: capitalize !important; }
+  text-transform: capitalize; }
 .text.upper {
-  text-transform: uppercase !important; }
+  text-transform: uppercase; }
 .text.lower {
-  text-transform: lowercase !important; }
+  text-transform: lowercase; }
 .text.cap {
-  text-transform: capitalize !important; }
+  text-transform: capitalize; }
 
 /*# sourceMappingURL=semantic-ui-plus.css.map */

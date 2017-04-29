@@ -7,36 +7,36 @@ $color-css: 'color';
 //******************** style ********************
 .text {
 	&.normal {
-		font-weight: normal !important;
-		font-style: normal !important;
+		font-weight: normal;
+		font-style: normal;
 	}
 	&.bold {
-		font-weight: bold !important;
+		font-weight: bold;
 	}
 	&.italic {
-		font-style: italic !important;
+		font-style: italic;
 	}
 
 	&.uppercase {
-		text-transform: uppercase !important;
+		text-transform: uppercase;
 	}
 	&.lowercase {
-		text-transform: lowercase !important;
+		text-transform: lowercase;
 	}
 	&.capitalize {
-		text-transform: capitalize !important;
+		text-transform: capitalize;
 	}
 
 	&.upper {
-		text-transform: uppercase !important;
+		text-transform: uppercase;
 	}
 
 	&.lower {
-		text-transform: lowercase !important;
+		text-transform: lowercase;
 	}
 
 	&.cap {
-		text-transform: capitalize !important;
+		text-transform: capitalize;
 	}
 
 }
