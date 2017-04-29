@@ -1,9 +1,8 @@
 .ui.divider, hr {
   border-style: solid;
-  border-top: #dededf;
-  border-bottom: #dededf;
-  border-left: #dededf;
-  border-right: #dededf;
+  border-top: 1px solid #dededf;
+  border-left: none;
+  border-right: none;
   border-top: 1px solid rgba(34, 36, 38, 0.15);
   border-bottom: 1px solid rgba(255, 255, 255, 0.1);
   font-size: 1em;
