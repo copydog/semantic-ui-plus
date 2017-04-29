@@ -1,47 +1,47 @@
 //******************** display ********************
 [class*='display inline'] {
-	display: inline;
+	display: inline !important;
 }
 
 [class*='display block'] {
-	display: block;
+	display: block !important;
 }
 
 [class*='display inline block'] {
-	display: inline-block;
+	display: inline-block !important;
 }
 
 [class*='display none'] {
-	display: none;
+	display: none !important;
 }
 
 [class*='display table'] {
-	display: table;
+	display: table !important;
 }
 
 //******************** visibility ********************
 .visible {
-	opacity: 1;
+	opacity: 1 !important;
 }
 
 .invisible {
-	opacity: 0;
+	opacity: 0 !important;
 }
 //******************** overflow ********************
 [class*='overflow hidden'] {
-	overflow: hidden;
+	overflow: hidden !important;
 }
 
 [class*='overflow auto'] {
-	overflow: auto;
+	overflow: auto !important;
 }
 
 [class*='overflow scroll'] {
-	overflow: scroll;
+	overflow: scroll !important;
 }
 
 [class*='overflow visible'] {
-	overflow: visible;
+	overflow: visible !important;
 }
 
 //******************** situational ********************
