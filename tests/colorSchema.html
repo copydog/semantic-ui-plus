@@ -1,0 +1,856 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.2.10/semantic.min.css">
+    <link rel="stylesheet" href="../src/semantic-ui-plus.css">
+    <title>Document</title>
+</head>
+<style>
+    .row > .column > div {
+        /*height: 100px;*/
+        padding-top: 100%;
+        position: relative;
+    }
+
+    .row > .column > div > .text {
+        position: absolute;
+        left: 0;
+        right: 0;
+        top: 0;
+        bottom: 0;
+        text-align: center;
+        color: white;
+        margin-top: 40%;
+    }
+</style>
+<body>
+<div class="ui container">
+    <div class="ui pointing menu">
+        <a class="item active" data-tab="color">按颜色分类</a>
+        <a class="item" data-tab="cate">按类别分类</a>
+    </div>
+    <div class="ui tab segment active" data-tab="color">
+        <div class="ui twelve item stackable menu">
+            <a href="#red" class="item red text">Red</a>
+            <a href="#orange" class="item orange text">Orange</a>
+            <a href="#yellow" class="item yellow text">Yellow</a>
+            <a href="#olive" class="item olive text">Olive</a>
+            <a href="#green" class="item green text">Green</a>
+            <a href="#teal" class="item teal text">Teal</a>
+            <a href="#blue" class="item blue text">Blue</a>
+            <a href="#violet" class="item violet text">Violet</a>
+            <a href="#purple" class="item purple text">Purple</a>
+            <a href="#pink" class="item pink text">Pink</a>
+            <a href="#brown" class="item brown text">Brown</a>
+            <a href="#grey" class="item grey text">Grey</a>
+        </div>
+        <!-- red -->
+        <h2 id="red">Red</h2>
+        <div class="ui divider"></div>
+        <div class="ui grid">
+            <div class="six column row">
+                <div class="column">
+                    <div class="lightest red background">
+                        <div class="text">Lightest</div>
+                    </div>
+                </div>
+                <div class="column">
+                    <div class="extra lighter red background">
+                        <div class="text">Extra Light</div>
+                    </div>
+                </div>
+                <div class="column">
+                    <div class="more lighter red background">
+                        <div class="text">More Lighter</div>
+                    </div>
+                </div>
+                <div class="column">
+                    <div class="lighter red background">
+                        <div class="text">Lighter</div>
+                    </div>
+                </div>
+                <div class="column">
+                    <div class="light red background">
+                        <div class="text">Lighter</div>
+                    </div>
+                </div>
+                <div class="column">
+                    <div class="red background">
+                        <div class="text">Red</div>
+                    </div>
+                </div>
+            </div>
+            <div class="six column row">
+                <div class="column">
+                    <div class="dark red background">
+                        <div class="text">Dark</div>
+                    </div>
+                </div>
+                <div class="column">
+                    <div class="darker red background">
+                        <div class="text">Darker</div>
+                    </div>
+                </div>
+                <div class="column">
+                    <div class="more darker red background">
+                        <div class="text">More Darker</div>
+                    </div>
+                </div>
+                <div class="column">
+                    <div class="extra darker red background">
+                        <div class="text">Extra Darker</div>
+                    </div>
+                </div>
+                <div class="column">
+                    <div class="darkest red background">
+                        <div class="text">Darkest</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- orange -->
+        <h2 id="orange">Orange</h2>
+        <div class="ui divider"></div>
+        <div class="ui grid">
+            <div class="six column row">
+                <div class="column">
+                    <div class="lightest orange background">
+                        <div class="text">Lightest</div>
+                    </div>
+                </div>
+                <div class="column">
+                    <div class="extra lighter orange background">
+                        <div class="text">Extra Lighter</div>
+                    </div>
+                </div>
+                <div class="column">
+                    <div class="more lighter orange background">
+                        <div class="text">More Lighter</div>
+                    </div>
+                </div>
+                <div class="column">
+                    <div class="lighter orange background">
+                        <div class="text">Lighter</div>
+                    </div>
+                </div>
+                <div class="column">
+                    <div class="light orange background">
+                        <div class="text">Light</div>
+                    </div>
+                </div>
+                <div class="column">
+                    <div class="orange background">
+                        <div class="text">Orange</div>
+                    </div>
+                </div>
+            </div>
+            <div class="six column row">
+                <div class="column">
+                    <div class="dark orange background">
+                        <div class="text">Dark</div>
+                    </div>
+                </div>
+                <div class="column">
+                    <div class="darker orange background">
+                        <div class="text">Darker</div>
+                    </div>
+                </div>
+                <div class="column">
+                    <div class="more darker orange background">
+                        <div class="text">More Darker</div>
+                    </div>
+                </div>
+                <div class="column">
+                    <div class="extra darker orange background">
+                        <div class="text">Extra Dark</div>
+                    </div>
+                </div>
+                <div class="column">
+                    <div class="darkest orange background">
+                        <div class="text">Darkest</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- yellow -->
+        <h2 id="yellow">Yellow</h2>
+        <div class="ui divider"></div>
+        <div class="ui grid">
+            <div class="six column row">
+                <div class="column">
+                    <div class="lightest yellow background">
+                        <div class="text">Lightest</div>
+                    </div>
+                </div>
+                <div class="column">
+                    <div class="extra lighter yellow background">
+                        <div class="text">Extra Light</div>
+                    </div>
+                </div>
+                <div class="column">
+                    <div class="more lighter yellow background">
+                        <div class="text">More Lighter</div>
+                    </div>
+                </div>
+                <div class="column">
+                    <div class="lighter yellow background">
+                        <div class="text">Lighter</div>
+                    </div>
+                </div>
+                <div class="column">
+                    <div class="light yellow background">
+                        <div class="text">Lighter</div>
+                    </div>
+                </div>
+                <div class="column">
+                    <div class="yellow background">
+                        <div class="text">Yellow</div>
+                    </div>
+                </div>
+            </div>
+            <div class="six column row">
+                <div class="column">
+                    <div class="dark yellow background">
+                        <div class="text">Dark</div>
+                    </div>
+                </div>
+                <div class="column">
+                    <div class="darker yellow background">
+                        <div class="text">Darker</div>
+                    </div>
+                </div>
+                <div class="column">
+                    <div class="more darker yellow background">
+                        <div class="text">More Darker</div>
+                    </div>
+                </div>
+                <div class="column">
+                    <div class="extra darker yellow background">
+                        <div class="text">Extra Darker</div>
+                    </div>
+                </div>
+                <div class="column">
+                    <div class="darkest yellow background">
+                        <div class="text">Darkest</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- olive -->
+        <h2 id="olive">Olive</h2>
+        <div class="ui divider"></div>
+        <div class="ui grid">
+            <div class="six column row">
+                <div class="column">
+                    <div class="lightest olive background">
+                        <div class="text">Lightest</div>
+                    </div>
+                </div>
+                <div class="column">
+                    <div class="extra lighter olive background">
+                        <div class="text">Extra Light</div>
+                    </div>
+                </div>
+                <div class="column">
+                    <div class="more lighter olive background">
+                        <div class="text">More Lighter</div>
+                    </div>
+                </div>
+                <div class="column">
+                    <div class="lighter olive background">
+                        <div class="text">Lighter</div>
+                    </div>
+                </div>
+                <div class="column">
+                    <div class="light olive background">
+                        <div class="text">Lighter</div>
+                    </div>
+                </div>
+                <div class="column">
+                    <div class="olive background">
+                        <div class="text">Olive</div>
+                    </div>
+                </div>
+            </div>
+            <div class="six column row">
+                <div class="column">
+                    <div class="dark olive background">
+                        <div class="text">Dark</div>
+                    </div>
+                </div>
+                <div class="column">
+                    <div class="darker olive background">
+                        <div class="text">Darker</div>
+                    </div>
+                </div>
+                <div class="column">
+                    <div class="more darker olive background">
+                        <div class="text">More Darker</div>
+                    </div>
+                </div>
+                <div class="column">
+                    <div class="extra darker olive background">
+                        <div class="text">Extra Darker</div>
+                    </div>
+                </div>
+                <div class="column">
+                    <div class="darkest olive background">
+                        <div class="text">Darkest</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- green -->
+        <h2 id="green">Green</h2>
+        <div class="ui divider"></div>
+        <div class="ui grid">
+            <div class="six column row">
+                <div class="column">
+                    <div class="lightest green background">
+                        <div class="text">Lightest</div>
+                    </div>
+                </div>
+                <div class="column">
+                    <div class="extra lighter green background">
+                        <div class="text">Extra Light</div>
+                    </div>
+                </div>
+                <div class="column">
+                    <div class="more lighter green background">
+                        <div class="text">More Lighter</div>
+                    </div>
+                </div>
+                <div class="column">
+                    <div class="lighter green background">
+                        <div class="text">Lighter</div>
+                    </div>
+                </div>
+                <div class="column">
+                    <div class="light green background">
+                        <div class="text">Lighter</div>
+                    </div>
+                </div>
+                <div class="column">
+                    <div class="green background">
+                        <div class="text">Green</div>
+                    </div>
+                </div>
+            </div>
+            <div class="six column row">
+                <div class="column">
+                    <div class="dark green background">
+                        <div class="text">Dark</div>
+                    </div>
+                </div>
+                <div class="column">
+                    <div class="darker green background">
+                        <div class="text">Darker</div>
+                    </div>
+                </div>
+                <div class="column">
+                    <div class="more darker green background">
+                        <div class="text">More Darker</div>
+                    </div>
+                </div>
+                <div class="column">
+                    <div class="extra darker green background">
+                        <div class="text">Extra Darker</div>
+                    </div>
+                </div>
+                <div class="column">
+                    <div class="darkest green background">
+                        <div class="text">Darkest</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- teal -->
+        <h2 id="teal">Teal</h2>
+        <div class="ui divider"></div>
+        <div class="ui grid">
+            <div class="six column row">
+                <div class="column">
+                    <div class="lightest teal background">
+                        <div class="text">Lightest</div>
+                    </div>
+                </div>
+                <div class="column">
+                    <div class="extra lighter teal background">
+                        <div class="text">Extra Light</div>
+                    </div>
+                </div>
+                <div class="column">
+                    <div class="more lighter teal background">
+                        <div class="text">More Lighter</div>
+                    </div>
+                </div>
+                <div class="column">
+                    <div class="lighter teal background">
+                        <div class="text">Lighter</div>
+                    </div>
+                </div>
+                <div class="column">
+                    <div class="light teal background">
+                        <div class="text">Lighter</div>
+                    </div>
+                </div>
+                <div class="column">
+                    <div class="teal background">
+                        <div class="text">Teal</div>
+                    </div>
+                </div>
+            </div>
+            <div class="six column row">
+                <div class="column">
+                    <div class="dark teal background">
+                        <div class="text">Dark</div>
+                    </div>
+                </div>
+                <div class="column">
+                    <div class="darker teal background">
+                        <div class="text">Darker</div>
+                    </div>
+                </div>
+                <div class="column">
+                    <div class="more darker teal background">
+                        <div class="text">More Darker</div>
+                    </div>
+                </div>
+                <div class="column">
+                    <div class="extra darker teal background">
+                        <div class="text">Extra Darker</div>
+                    </div>
+                </div>
+                <div class="column">
+                    <div class="darkest teal background">
+                        <div class="text">Darkest</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- blue -->
+        <h2 id="blue">Blue</h2>
+        <div class="ui divider"></div>
+        <div class="ui grid">
+            <div class="six column row">
+                <div class="column">
+                    <div class="lightest blue background">
+                        <div class="text">Lightest</div>
+                    </div>
+                </div>
+                <div class="column">
+                    <div class="extra lighter blue background">
+                        <div class="text">Extra Light</div>
+                    </div>
+                </div>
+                <div class="column">
+                    <div class="more lighter blue background">
+                        <div class="text">More Lighter</div>
+                    </div>
+                </div>
+                <div class="column">
+                    <div class="lighter blue background">
+                        <div class="text">Lighter</div>
+                    </div>
+                </div>
+                <div class="column">
+                    <div class="light blue background">
+                        <div class="text">Lighter</div>
+                    </div>
+                </div>
+                <div class="column">
+                    <div class="blue background">
+                        <div class="text">Blue</div>
+                    </div>
+                </div>
+            </div>
+            <div class="six column row">
+                <div class="column">
+                    <div class="dark blue background">
+                        <div class="text">Dark</div>
+                    </div>
+                </div>
+                <div class="column">
+                    <div class="darker blue background">
+                        <div class="text">Darker</div>
+                    </div>
+                </div>
+                <div class="column">
+                    <div class="more darker blue background">
+                        <div class="text">More Darker</div>
+                    </div>
+                </div>
+                <div class="column">
+                    <div class="extra darker blue background">
+                        <div class="text">Extra Darker</div>
+                    </div>
+                </div>
+                <div class="column">
+                    <div class="darkest blue background">
+                        <div class="text">Darkest</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- violet -->
+        <h2 id="violet">Violet</h2>
+        <div class="ui divider"></div>
+        <div class="ui grid">
+            <div class="six column row">
+                <div class="column">
+                    <div class="lightest violet background">
+                        <div class="text">Lightest</div>
+                    </div>
+                </div>
+                <div class="column">
+                    <div class="extra lighter violet background">
+                        <div class="text">Extra Light</div>
+                    </div>
+                </div>
+                <div class="column">
+                    <div class="more lighter violet background">
+                        <div class="text">More Lighter</div>
+                    </div>
+                </div>
+                <div class="column">
+                    <div class="lighter violet background">
+                        <div class="text">Lighter</div>
+                    </div>
+                </div>
+                <div class="column">
+                    <div class="light violet background">
+                        <div class="text">Lighter</div>
+                    </div>
+                </div>
+                <div class="column">
+                    <div class="violet background">
+                        <div class="text">Violet</div>
+                    </div>
+                </div>
+            </div>
+            <div class="six column row">
+                <div class="column">
+                    <div class="dark violet background">
+                        <div class="text">Dark</div>
+                    </div>
+                </div>
+                <div class="column">
+                    <div class="darker violet background">
+                        <div class="text">Darker</div>
+                    </div>
+                </div>
+                <div class="column">
+                    <div class="more darker violet background">
+                        <div class="text">More Darker</div>
+                    </div>
+                </div>
+                <div class="column">
+                    <div class="extra darker violet background">
+                        <div class="text">Extra Darker</div>
+                    </div>
+                </div>
+                <div class="column">
+                    <div class="darkest violet background">
+                        <div class="text">Darkest</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- purple -->
+        <h2 id="purple">Purple</h2>
+        <div class="ui divider"></div>
+        <div class="ui grid">
+            <div class="six column row">
+                <div class="column">
+                    <div class="lightest purple background">
+                        <div class="text">Lightest</div>
+                    </div>
+                </div>
+                <div class="column">
+                    <div class="extra lighter purple background">
+                        <div class="text">Extra Light</div>
+                    </div>
+                </div>
+                <div class="column">
+                    <div class="more lighter purple background">
+                        <div class="text">More Lighter</div>
+                    </div>
+                </div>
+                <div class="column">
+                    <div class="lighter purple background">
+                        <div class="text">Lighter</div>
+                    </div>
+                </div>
+                <div class="column">
+                    <div class="light purple background">
+                        <div class="text">Lighter</div>
+                    </div>
+                </div>
+                <div class="column">
+                    <div class="purple background">
+                        <div class="text">Purple</div>
+                    </div>
+                </div>
+            </div>
+            <div class="six column row">
+                <div class="column">
+                    <div class="dark purple background">
+                        <div class="text">Dark</div>
+                    </div>
+                </div>
+                <div class="column">
+                    <div class="darker purple background">
+                        <div class="text">Darker</div>
+                    </div>
+                </div>
+                <div class="column">
+                    <div class="more darker purple background">
+                        <div class="text">More Darker</div>
+                    </div>
+                </div>
+                <div class="column">
+                    <div class="extra darker purple background">
+                        <div class="text">Extra Darker</div>
+                    </div>
+                </div>
+                <div class="column">
+                    <div class="darkest purple background">
+                        <div class="text">Darkest</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- pink -->
+        <h2 id="pink">Pink</h2>
+        <div class="ui divider"></div>
+        <div class="ui grid">
+            <div class="six column row">
+                <div class="column">
+                    <div class="lightest pink background">
+                        <div class="text">Lightest</div>
+                    </div>
+                </div>
+                <div class="column">
+                    <div class="extra lighter pink background">
+                        <div class="text">Extra Light</div>
+                    </div>
+                </div>
+                <div class="column">
+                    <div class="more lighter pink background">
+                        <div class="text">More Lighter</div>
+                    </div>
+                </div>
+                <div class="column">
+                    <div class="lighter pink background">
+                        <div class="text">Lighter</div>
+                    </div>
+                </div>
+                <div class="column">
+                    <div class="light pink background">
+                        <div class="text">Lighter</div>
+                    </div>
+                </div>
+                <div class="column">
+                    <div class="pink background">
+                        <div class="text">Pink</div>
+                    </div>
+                </div>
+            </div>
+            <div class="six column row">
+                <div class="column">
+                    <div class="dark pink background">
+                        <div class="text">Dark</div>
+                    </div>
+                </div>
+                <div class="column">
+                    <div class="darker pink background">
+                        <div class="text">Darker</div>
+                    </div>
+                </div>
+                <div class="column">
+                    <div class="more darker pink background">
+                        <div class="text">More Darker</div>
+                    </div>
+                </div>
+                <div class="column">
+                    <div class="extra darker pink background">
+                        <div class="text">Extra Darker</div>
+                    </div>
+                </div>
+                <div class="column">
+                    <div class="darkest pink background">
+                        <div class="text">Darkest</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- brown -->
+        <h2 id="brown">Brown</h2>
+        <div class="ui divider"></div>
+        <div class="ui grid">
+            <div class="six column row">
+                <div class="column">
+                    <div class="lightest brown background">
+                        <div class="text">Lightest</div>
+                    </div>
+                </div>
+                <div class="column">
+                    <div class="extra lighter brown background">
+                        <div class="text">Extra Light</div>
+                    </div>
+                </div>
+                <div class="column">
+                    <div class="more lighter brown background">
+                        <div class="text">More Lighter</div>
+                    </div>
+                </div>
+                <div class="column">
+                    <div class="lighter brown background">
+                        <div class="text">Lighter</div>
+                    </div>
+                </div>
+                <div class="column">
+                    <div class="light brown background">
+                        <div class="text">Lighter</div>
+                    </div>
+                </div>
+                <div class="column">
+                    <div class="brown background">
+                        <div class="text">Brown</div>
+                    </div>
+                </div>
+            </div>
+            <div class="six column row">
+                <div class="column">
+                    <div class="dark brown background">
+                        <div class="text">Dark</div>
+                    </div>
+                </div>
+                <div class="column">
+                    <div class="darker brown background">
+                        <div class="text">Darker</div>
+                    </div>
+                </div>
+                <div class="column">
+                    <div class="more darker brown background">
+                        <div class="text">More Darker</div>
+                    </div>
+                </div>
+                <div class="column">
+                    <div class="extra darker brown background">
+                        <div class="text">Extra Darker</div>
+                    </div>
+                </div>
+                <div class="column">
+                    <div class="darkest brown background">
+                        <div class="text">Darkest</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- grey -->
+        <h2 id="grey">Grey</h2>
+        <div class="ui divider"></div>
+        <div class="ui grid">
+            <div class="six column row">
+                <div class="column">
+                    <div class="lightest grey background">
+                        <div class="text">Lightest</div>
+                    </div>
+                </div>
+                <div class="column">
+                    <div class="extra lighter grey background">
+                        <div class="text">Extra Light</div>
+                    </div>
+                </div>
+                <div class="column">
+                    <div class="more lighter grey background">
+                        <div class="text">More Lighter</div>
+                    </div>
+                </div>
+                <div class="column">
+                    <div class="lighter grey background">
+                        <div class="text">Lighter</div>
+                    </div>
+                </div>
+                <div class="column">
+                    <div class="light grey background">
+                        <div class="text">Lighter</div>
+                    </div>
+                </div>
+                <div class="column">
+                    <div class="grey background">
+                        <div class="text">Grey</div>
+                    </div>
+                </div>
+            </div>
+            <div class="six column row">
+                <div class="column">
+                    <div class="dark grey background">
+                        <div class="text">Dark</div>
+                    </div>
+                </div>
+                <div class="column">
+                    <div class="darker grey background">
+                        <div class="text">Darker</div>
+                    </div>
+                </div>
+                <div class="column">
+                    <div class="more darker grey background">
+                        <div class="text">More Darker</div>
+                    </div>
+                </div>
+                <div class="column">
+                    <div class="extra darker grey background">
+                        <div class="text">Extra Darker</div>
+                    </div>
+                </div>
+                <div class="column">
+                    <div class="darkest grey background">
+                        <div class="text">Darkest</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="ui tab segment" data-tab="cate">
+        <div class="ui stackable eleven item menu">
+            <a href="#lightest" class="item lightest green text">Lightest</a>
+            <a href="#" class="item extra lighter green text">Extra</a>
+            <a href="#" class="item more lighter green text">More</a>
+            <a href="#" class="item lighter green text">Lighter</a>
+            <a href="#" class="item light green text">Light</a>
+            <a href="#" class="item green text">Original</a>
+            <a href="#" class="item dark green text">Dark</a>
+            <a href="#" class="item darker green text">Darker</a>
+            <a href="#" class="item more darker green text">More</a>
+            <a href="#" class="item extra darker green text">Extra</a>
+            <a href="#" class="item darkest green text">Darkest</a>
+        </div>
+
+        <!-- lightest -->
+    </div>
+</div>
+</body>
+<script
+        src="https://code.jquery.com/jquery-1.12.4.min.js"
+        integrity="sha256-ZosEbRLbNQzLpnKIkEdrPv7lOy9C27hHQ+Xp8a4MxAQ="
+        crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.2.10/semantic.min.js"></script>
+<script>
+    $('.pointing.menu .item').tab();
+</script>
+</html>

@@ -2,100 +2,100 @@
   color: #DB2828 !important; }
 
 [class*='light red text'] {
-  color: #DB2828 !important; }
+  color: #df3e3e !important; }
 
 [class*='lighter red text'] {
-  color: #DB2828 !important; }
+  color: #e25454 !important; }
 
 [class*='more lighter red text'] {
-  color: #DB2828 !important; }
+  color: #e66a6a !important; }
 
 [class*='extra lighter red text'] {
-  color: #DB2828 !important; }
+  color: #ea7f7f !important; }
 
 [class*='lightest red text'] {
-  color: #DB2828 !important; }
+  color: #ed9595 !important; }
 
 [class*='dark red text'] {
-  color: #DB2828 !important; }
+  color: #c82121 !important; }
 
 [class*='darker red text'] {
-  color: #DB2828 !important; }
+  color: #b21e1e !important; }
 
 [class*='more darker red text'] {
-  color: #DB2828 !important; }
+  color: #9c1a1a !important; }
 
 [class*='extra darker red text'] {
-  color: #DB2828 !important; }
+  color: #861717 !important; }
 
 [class*='darkest red text'] {
-  color: #DB2828 !important; }
+  color: #711313 !important; }
 
 [class*='orange text'] {
   color: #F2711C !important; }
 
 [class*='light orange text'] {
-  color: #F2711C !important; }
+  color: #f38034 !important; }
 
 [class*='lighter orange text'] {
-  color: #F2711C !important; }
+  color: #f58f4c !important; }
 
 [class*='more lighter orange text'] {
-  color: #F2711C !important; }
+  color: light(#F2711C, 15%) !important; }
 
 [class*='extra lighter orange text'] {
-  color: #F2711C !important; }
+  color: #f8ad7c !important; }
 
 [class*='lightest orange text'] {
-  color: #F2711C !important; }
+  color: #f9bc95 !important; }
 
 [class*='dark orange text'] {
-  color: #F2711C !important; }
+  color: #e7640d !important; }
 
 [class*='darker orange text'] {
-  color: #F2711C !important; }
+  color: #cf590c !important; }
 
 [class*='more darker orange text'] {
-  color: #F2711C !important; }
+  color: #b74f0a !important; }
 
 [class*='extra darker orange text'] {
-  color: #F2711C !important; }
+  color: #9f4509 !important; }
 
 [class*='darkest orange text'] {
-  color: #F2711C !important; }
+  color: #873a08 !important; }
 
 [class*='yellow text'] {
   color: #FBBD08 !important; }
 
 [class*='light yellow text'] {
-  color: #FBBD08 !important; }
+  color: #fbc421 !important; }
 
 [class*='lighter yellow text'] {
-  color: #FBBD08 !important; }
+  color: #fcca3a !important; }
 
 [class*='more lighter yellow text'] {
-  color: #FBBD08 !important; }
+  color: light(#FBBD08, 15%) !important; }
 
 [class*='extra lighter yellow text'] {
-  color: #FBBD08 !important; }
+  color: #fdd86c !important; }
 
 [class*='lightest yellow text'] {
-  color: #FBBD08 !important; }
+  color: #fddf85 !important; }
 
 [class*='dark yellow text'] {
-  color: #FBBD08 !important; }
+  color: #e6ac04 !important; }
 
 [class*='darker yellow text'] {
-  color: #FBBD08 !important; }
+  color: #cd9903 !important; }
 
 [class*='more darker yellow text'] {
-  color: #FBBD08 !important; }
+  color: #b48703 !important; }
 
 [class*='extra darker yellow text'] {
-  color: #FBBD08 !important; }
+  color: #9a7403 !important; }
 
 [class*='darkest yellow text'] {
-  color: #FBBD08 !important; }
+  color: #816102 !important; }
 
 .test {
   color: color; }
@@ -104,397 +104,397 @@
   color: #B5CC18 !important; }
 
 [class*='light olive text'] {
-  color: #B5CC18 !important; }
+  color: #c9e31b !important; }
 
 [class*='lighter olive text'] {
-  color: #B5CC18 !important; }
+  color: #cfe730 !important; }
 
 [class*='more lighter olive text'] {
-  color: #B5CC18 !important; }
+  color: light(#B5CC18, 15%) !important; }
 
 [class*='extra lighter olive text'] {
-  color: #B5CC18 !important; }
+  color: #daec5e !important; }
 
 [class*='lightest olive text'] {
-  color: #B5CC18 !important; }
+  color: #dfef75 !important; }
 
 [class*='dark olive text'] {
-  color: #B5CC18 !important; }
+  color: #a1b515 !important; }
 
 [class*='darker olive text'] {
-  color: #B5CC18 !important; }
+  color: #8d9e13 !important; }
 
 [class*='more darker olive text'] {
-  color: #B5CC18 !important; }
+  color: #788810 !important; }
 
 [class*='extra darker olive text'] {
-  color: #B5CC18 !important; }
+  color: #64710d !important; }
 
 [class*='darkest olive text'] {
-  color: #B5CC18 !important; }
+  color: #505a0b !important; }
 
 [class*='green text'] {
   color: #21BA45 !important; }
 
 [class*='light green text'] {
-  color: #21BA45 !important; }
+  color: #25d04d !important; }
 
 [class*='lighter green text'] {
-  color: #21BA45 !important; }
+  color: #33db5b !important; }
 
 [class*='more lighter green text'] {
-  color: #21BA45 !important; }
+  color: light(#21BA45, 15%) !important; }
 
 [class*='extra lighter green text'] {
-  color: #21BA45 !important; }
+  color: #5ee37e !important; }
 
 [class*='lightest green text'] {
-  color: #21BA45 !important; }
+  color: #74e68f !important; }
 
 [class*='dark green text'] {
-  color: #21BA45 !important; }
+  color: #1da43d !important; }
 
 [class*='darker green text'] {
-  color: #21BA45 !important; }
+  color: #198f35 !important; }
 
 [class*='more darker green text'] {
-  color: #21BA45 !important; }
+  color: #15792d !important; }
 
 [class*='extra darker green text'] {
-  color: #21BA45 !important; }
+  color: #126325 !important; }
 
 [class*='darkest green text'] {
-  color: #21BA45 !important; }
+  color: #0e4e1d !important; }
 
 [class*='teal text'] {
   color: #00B5AD !important; }
 
 [class*='light teal text'] {
-  color: #00B5AD !important; }
+  color: #00cfc5 !important; }
 
 [class*='lighter teal text'] {
-  color: #00B5AD !important; }
+  color: #00e8de !important; }
 
 [class*='more lighter teal text'] {
-  color: #00B5AD !important; }
+  color: light(#00B5AD, 15%) !important; }
 
 [class*='extra lighter teal text'] {
-  color: #00B5AD !important; }
+  color: #1cfff5 !important; }
 
 [class*='lightest teal text'] {
-  color: #00B5AD !important; }
+  color: #36fff6 !important; }
 
 [class*='dark teal text'] {
-  color: #00B5AD !important; }
+  color: #009c95 !important; }
 
 [class*='darker teal text'] {
-  color: #00B5AD !important; }
+  color: #00827c !important; }
 
 [class*='more darker teal text'] {
-  color: #00B5AD !important; }
+  color: #006964 !important; }
 
 [class*='extra darker teal text'] {
-  color: #00B5AD !important; }
+  color: #004f4c !important; }
 
 [class*='darkest teal text'] {
-  color: #00B5AD !important; }
+  color: #003633 !important; }
 
 [class*='blue text'] {
   color: #2185D0 !important; }
 
 [class*='light blue text'] {
-  color: #2185D0 !important; }
+  color: #2d92de !important; }
 
 [class*='lighter blue text'] {
-  color: #2185D0 !important; }
+  color: #439de1 !important; }
 
 [class*='more lighter blue text'] {
-  color: #2185D0 !important; }
+  color: light(#2185D0, 15%) !important; }
 
 [class*='extra lighter blue text'] {
-  color: #2185D0 !important; }
+  color: #6fb4e8 !important; }
 
 [class*='lightest blue text'] {
-  color: #2185D0 !important; }
+  color: #85c0ec !important; }
 
 [class*='dark blue text'] {
-  color: #2185D0 !important; }
+  color: #1e77ba !important; }
 
 [class*='darker blue text'] {
-  color: #2185D0 !important; }
+  color: #1a69a4 !important; }
 
 [class*='more darker blue text'] {
-  color: #2185D0 !important; }
+  color: #175b8e !important; }
 
 [class*='extra darker blue text'] {
-  color: #2185D0 !important; }
+  color: #134d78 !important; }
 
 [class*='darkest blue text'] {
-  color: #2185D0 !important; }
+  color: #103f62 !important; }
 
 [class*='violet text'] {
   color: #6435C9 !important; }
 
 [class*='light violet text'] {
-  color: #6435C9 !important; }
+  color: #7349cf !important; }
 
 [class*='lighter violet text'] {
-  color: #6435C9 !important; }
+  color: #835dd4 !important; }
 
 [class*='more lighter violet text'] {
-  color: #6435C9 !important; }
+  color: light(#6435C9, 15%) !important; }
 
 [class*='extra lighter violet text'] {
-  color: #6435C9 !important; }
+  color: #a285df !important; }
 
 [class*='lightest violet text'] {
-  color: #6435C9 !important; }
+  color: #b199e4 !important; }
 
 [class*='dark violet text'] {
-  color: #6435C9 !important; }
+  color: #5a30b5 !important; }
 
 [class*='darker violet text'] {
-  color: #6435C9 !important; }
+  color: #502aa1 !important; }
 
 [class*='more darker violet text'] {
-  color: #6435C9 !important; }
+  color: #46258c !important; }
 
 [class*='extra darker violet text'] {
-  color: #6435C9 !important; }
+  color: #3c2078 !important; }
 
 [class*='darkest violet text'] {
-  color: #6435C9 !important; }
+  color: #321a64 !important; }
 
 [class*='purple text'] {
   color: #A333C8 !important; }
 
 [class*='light purple text'] {
-  color: #A333C8 !important; }
+  color: #ad45d0 !important; }
 
 [class*='lighter purple text'] {
-  color: #A333C8 !important; }
+  color: #b659d5 !important; }
 
 [class*='more lighter purple text'] {
-  color: #A333C8 !important; }
+  color: light(#A333C8, 15%) !important; }
 
 [class*='extra lighter purple text'] {
-  color: #A333C8 !important; }
+  color: #c882df !important; }
 
 [class*='lightest purple text'] {
-  color: #A333C8 !important; }
+  color: #d196e4 !important; }
 
 [class*='dark purple text'] {
-  color: #A333C8 !important; }
+  color: #922eb4 !important; }
 
 [class*='darker purple text'] {
-  color: #A333C8 !important; }
+  color: #82299f !important; }
 
 [class*='more darker purple text'] {
-  color: #A333C8 !important; }
+  color: #71238b !important; }
 
 [class*='extra darker purple text'] {
-  color: #A333C8 !important; }
+  color: #611e77 !important; }
 
 [class*='darkest purple text'] {
-  color: #A333C8 !important; }
+  color: #501962 !important; }
 
 [class*='pink text'] {
   color: #E03997 !important; }
 
 [class*='light pink text'] {
-  color: #E03997 !important; }
+  color: #e34fa3 !important; }
 
 [class*='lighter pink text'] {
-  color: #E03997 !important; }
+  color: #e765ae !important; }
 
 [class*='more lighter pink text'] {
-  color: #E03997 !important; }
+  color: light(#E03997, 15%) !important; }
 
 [class*='extra lighter pink text'] {
-  color: #E03997 !important; }
+  color: #ee91c5 !important; }
 
 [class*='lightest pink text'] {
-  color: #E03997 !important; }
+  color: #f1a7d1 !important; }
 
 [class*='dark pink text'] {
-  color: #E03997 !important; }
+  color: #dd238b !important; }
 
 [class*='darker pink text'] {
-  color: #E03997 !important; }
+  color: #c71f7e !important; }
 
 [class*='more darker pink text'] {
-  color: #E03997 !important; }
+  color: #b11c70 !important; }
 
 [class*='extra darker pink text'] {
-  color: #E03997 !important; }
+  color: #9b1862 !important; }
 
 [class*='darkest pink text'] {
-  color: #E03997 !important; }
+  color: #851554 !important; }
 
 [class*='brown text'] {
   color: #A5673F !important; }
 
 [class*='light brown text'] {
-  color: #A5673F !important; }
+  color: #b77346 !important; }
 
 [class*='lighter brown text'] {
-  color: #A5673F !important; }
+  color: #bf8058 !important; }
 
 [class*='more lighter brown text'] {
-  color: #A5673F !important; }
+  color: light(#A5673F, 15%) !important; }
 
 [class*='extra lighter brown text'] {
-  color: #A5673F !important; }
+  color: #cd9c7d !important; }
 
 [class*='lightest brown text'] {
-  color: #A5673F !important; }
+  color: #d4aa8f !important; }
 
 [class*='dark brown text'] {
-  color: #A5673F !important; }
+  color: #935b38 !important; }
 
 [class*='darker brown text'] {
-  color: #A5673F !important; }
+  color: #805031 !important; }
 
 [class*='more darker brown text'] {
-  color: #A5673F !important; }
+  color: #6e442a !important; }
 
 [class*='extra darker brown text'] {
-  color: #A5673F !important; }
+  color: #5b3923 !important; }
 
 [class*='darkest brown text'] {
-  color: #A5673F !important; }
+  color: #492d1c !important; }
 
 [class*='grey text'] {
   color: #767676 !important; }
 
 [class*='light grey text'] {
-  color: #767676 !important; }
+  color: #838383 !important; }
 
 [class*='lighter grey text'] {
-  color: #767676 !important; }
+  color: #909090 !important; }
 
 [class*='more lighter grey text'] {
-  color: #767676 !important; }
+  color: light(#767676, 15%) !important; }
 
 [class*='extra lighter grey text'] {
-  color: #767676 !important; }
+  color: darkgray !important; }
 
 [class*='lightest grey text'] {
-  color: #767676 !important; }
+  color: #b6b6b6 !important; }
 
 [class*='dark grey text'] {
-  color: #767676 !important; }
+  color: dimgray !important; }
 
 [class*='darker grey text'] {
-  color: #767676 !important; }
+  color: #5d5d5d !important; }
 
 [class*='more darker grey text'] {
-  color: #767676 !important; }
+  color: #505050 !important; }
 
 [class*='extra darker grey text'] {
-  color: #767676 !important; }
+  color: #434343 !important; }
 
 [class*='darkest grey text'] {
-  color: #767676 !important; }
+  color: #363636 !important; }
 
 [class*='red background'] {
   background-color: #DB2828 !important; }
 
 [class*='light red background'] {
-  background-color: #DB2828 !important; }
+  background-color: #df3e3e !important; }
 
 [class*='lighter red background'] {
-  background-color: #DB2828 !important; }
+  background-color: #e25454 !important; }
 
 [class*='more lighter red background'] {
-  background-color: #DB2828 !important; }
+  background-color: #e66a6a !important; }
 
 [class*='extra lighter red background'] {
-  background-color: #DB2828 !important; }
+  background-color: #ea7f7f !important; }
 
 [class*='lightest red background'] {
-  background-color: #DB2828 !important; }
+  background-color: #ed9595 !important; }
 
 [class*='dark red background'] {
-  background-color: #DB2828 !important; }
+  background-color: #c82121 !important; }
 
 [class*='darker red background'] {
-  background-color: #DB2828 !important; }
+  background-color: #b21e1e !important; }
 
 [class*='more darker red background'] {
-  background-color: #DB2828 !important; }
+  background-color: #9c1a1a !important; }
 
 [class*='extra darker red background'] {
-  background-color: #DB2828 !important; }
+  background-color: #861717 !important; }
 
 [class*='darkest red background'] {
-  background-color: #DB2828 !important; }
+  background-color: #711313 !important; }
 
 [class*='orange background'] {
   background-color: #F2711C !important; }
 
 [class*='light orange background'] {
-  background-color: #F2711C !important; }
+  background-color: #f38034 !important; }
 
 [class*='lighter orange background'] {
-  background-color: #F2711C !important; }
+  background-color: #f58f4c !important; }
 
 [class*='more lighter orange background'] {
-  background-color: #F2711C !important; }
+  background-color: light(#F2711C, 15%) !important; }
 
 [class*='extra lighter orange background'] {
-  background-color: #F2711C !important; }
+  background-color: #f8ad7c !important; }
 
 [class*='lightest orange background'] {
-  background-color: #F2711C !important; }
+  background-color: #f9bc95 !important; }
 
 [class*='dark orange background'] {
-  background-color: #F2711C !important; }
+  background-color: #e7640d !important; }
 
 [class*='darker orange background'] {
-  background-color: #F2711C !important; }
+  background-color: #cf590c !important; }
 
 [class*='more darker orange background'] {
-  background-color: #F2711C !important; }
+  background-color: #b74f0a !important; }
 
 [class*='extra darker orange background'] {
-  background-color: #F2711C !important; }
+  background-color: #9f4509 !important; }
 
 [class*='darkest orange background'] {
-  background-color: #F2711C !important; }
+  background-color: #873a08 !important; }
 
 [class*='yellow background'] {
   background-color: #FBBD08 !important; }
 
 [class*='light yellow background'] {
-  background-color: #FBBD08 !important; }
+  background-color: #fbc421 !important; }
 
 [class*='lighter yellow background'] {
-  background-color: #FBBD08 !important; }
+  background-color: #fcca3a !important; }
 
 [class*='more lighter yellow background'] {
-  background-color: #FBBD08 !important; }
+  background-color: light(#FBBD08, 15%) !important; }
 
 [class*='extra lighter yellow background'] {
-  background-color: #FBBD08 !important; }
+  background-color: #fdd86c !important; }
 
 [class*='lightest yellow background'] {
-  background-color: #FBBD08 !important; }
+  background-color: #fddf85 !important; }
 
 [class*='dark yellow background'] {
-  background-color: #FBBD08 !important; }
+  background-color: #e6ac04 !important; }
 
 [class*='darker yellow background'] {
-  background-color: #FBBD08 !important; }
+  background-color: #cd9903 !important; }
 
 [class*='more darker yellow background'] {
-  background-color: #FBBD08 !important; }
+  background-color: #b48703 !important; }
 
 [class*='extra darker yellow background'] {
-  background-color: #FBBD08 !important; }
+  background-color: #9a7403 !important; }
 
 [class*='darkest yellow background'] {
-  background-color: #FBBD08 !important; }
+  background-color: #816102 !important; }
 
 .test {
   color: background-color; }
@@ -503,298 +503,298 @@
   background-color: #B5CC18 !important; }
 
 [class*='light olive background'] {
-  background-color: #B5CC18 !important; }
+  background-color: #c9e31b !important; }
 
 [class*='lighter olive background'] {
-  background-color: #B5CC18 !important; }
+  background-color: #cfe730 !important; }
 
 [class*='more lighter olive background'] {
-  background-color: #B5CC18 !important; }
+  background-color: light(#B5CC18, 15%) !important; }
 
 [class*='extra lighter olive background'] {
-  background-color: #B5CC18 !important; }
+  background-color: #daec5e !important; }
 
 [class*='lightest olive background'] {
-  background-color: #B5CC18 !important; }
+  background-color: #dfef75 !important; }
 
 [class*='dark olive background'] {
-  background-color: #B5CC18 !important; }
+  background-color: #a1b515 !important; }
 
 [class*='darker olive background'] {
-  background-color: #B5CC18 !important; }
+  background-color: #8d9e13 !important; }
 
 [class*='more darker olive background'] {
-  background-color: #B5CC18 !important; }
+  background-color: #788810 !important; }
 
 [class*='extra darker olive background'] {
-  background-color: #B5CC18 !important; }
+  background-color: #64710d !important; }
 
 [class*='darkest olive background'] {
-  background-color: #B5CC18 !important; }
+  background-color: #505a0b !important; }
 
 [class*='green background'] {
   background-color: #21BA45 !important; }
 
 [class*='light green background'] {
-  background-color: #21BA45 !important; }
+  background-color: #25d04d !important; }
 
 [class*='lighter green background'] {
-  background-color: #21BA45 !important; }
+  background-color: #33db5b !important; }
 
 [class*='more lighter green background'] {
-  background-color: #21BA45 !important; }
+  background-color: light(#21BA45, 15%) !important; }
 
 [class*='extra lighter green background'] {
-  background-color: #21BA45 !important; }
+  background-color: #5ee37e !important; }
 
 [class*='lightest green background'] {
-  background-color: #21BA45 !important; }
+  background-color: #74e68f !important; }
 
 [class*='dark green background'] {
-  background-color: #21BA45 !important; }
+  background-color: #1da43d !important; }
 
 [class*='darker green background'] {
-  background-color: #21BA45 !important; }
+  background-color: #198f35 !important; }
 
 [class*='more darker green background'] {
-  background-color: #21BA45 !important; }
+  background-color: #15792d !important; }
 
 [class*='extra darker green background'] {
-  background-color: #21BA45 !important; }
+  background-color: #126325 !important; }
 
 [class*='darkest green background'] {
-  background-color: #21BA45 !important; }
+  background-color: #0e4e1d !important; }
 
 [class*='teal background'] {
   background-color: #00B5AD !important; }
 
 [class*='light teal background'] {
-  background-color: #00B5AD !important; }
+  background-color: #00cfc5 !important; }
 
 [class*='lighter teal background'] {
-  background-color: #00B5AD !important; }
+  background-color: #00e8de !important; }
 
 [class*='more lighter teal background'] {
-  background-color: #00B5AD !important; }
+  background-color: light(#00B5AD, 15%) !important; }
 
 [class*='extra lighter teal background'] {
-  background-color: #00B5AD !important; }
+  background-color: #1cfff5 !important; }
 
 [class*='lightest teal background'] {
-  background-color: #00B5AD !important; }
+  background-color: #36fff6 !important; }
 
 [class*='dark teal background'] {
-  background-color: #00B5AD !important; }
+  background-color: #009c95 !important; }
 
 [class*='darker teal background'] {
-  background-color: #00B5AD !important; }
+  background-color: #00827c !important; }
 
 [class*='more darker teal background'] {
-  background-color: #00B5AD !important; }
+  background-color: #006964 !important; }
 
 [class*='extra darker teal background'] {
-  background-color: #00B5AD !important; }
+  background-color: #004f4c !important; }
 
 [class*='darkest teal background'] {
-  background-color: #00B5AD !important; }
+  background-color: #003633 !important; }
 
 [class*='blue background'] {
   background-color: #2185D0 !important; }
 
 [class*='light blue background'] {
-  background-color: #2185D0 !important; }
+  background-color: #2d92de !important; }
 
 [class*='lighter blue background'] {
-  background-color: #2185D0 !important; }
+  background-color: #439de1 !important; }
 
 [class*='more lighter blue background'] {
-  background-color: #2185D0 !important; }
+  background-color: light(#2185D0, 15%) !important; }
 
 [class*='extra lighter blue background'] {
-  background-color: #2185D0 !important; }
+  background-color: #6fb4e8 !important; }
 
 [class*='lightest blue background'] {
-  background-color: #2185D0 !important; }
+  background-color: #85c0ec !important; }
 
 [class*='dark blue background'] {
-  background-color: #2185D0 !important; }
+  background-color: #1e77ba !important; }
 
 [class*='darker blue background'] {
-  background-color: #2185D0 !important; }
+  background-color: #1a69a4 !important; }
 
 [class*='more darker blue background'] {
-  background-color: #2185D0 !important; }
+  background-color: #175b8e !important; }
 
 [class*='extra darker blue background'] {
-  background-color: #2185D0 !important; }
+  background-color: #134d78 !important; }
 
 [class*='darkest blue background'] {
-  background-color: #2185D0 !important; }
+  background-color: #103f62 !important; }
 
 [class*='violet background'] {
   background-color: #6435C9 !important; }
 
 [class*='light violet background'] {
-  background-color: #6435C9 !important; }
+  background-color: #7349cf !important; }
 
 [class*='lighter violet background'] {
-  background-color: #6435C9 !important; }
+  background-color: #835dd4 !important; }
 
 [class*='more lighter violet background'] {
-  background-color: #6435C9 !important; }
+  background-color: light(#6435C9, 15%) !important; }
 
 [class*='extra lighter violet background'] {
-  background-color: #6435C9 !important; }
+  background-color: #a285df !important; }
 
 [class*='lightest violet background'] {
-  background-color: #6435C9 !important; }
+  background-color: #b199e4 !important; }
 
 [class*='dark violet background'] {
-  background-color: #6435C9 !important; }
+  background-color: #5a30b5 !important; }
 
 [class*='darker violet background'] {
-  background-color: #6435C9 !important; }
+  background-color: #502aa1 !important; }
 
 [class*='more darker violet background'] {
-  background-color: #6435C9 !important; }
+  background-color: #46258c !important; }
 
 [class*='extra darker violet background'] {
-  background-color: #6435C9 !important; }
+  background-color: #3c2078 !important; }
 
 [class*='darkest violet background'] {
-  background-color: #6435C9 !important; }
+  background-color: #321a64 !important; }
 
 [class*='purple background'] {
   background-color: #A333C8 !important; }
 
 [class*='light purple background'] {
-  background-color: #A333C8 !important; }
+  background-color: #ad45d0 !important; }
 
 [class*='lighter purple background'] {
-  background-color: #A333C8 !important; }
+  background-color: #b659d5 !important; }
 
 [class*='more lighter purple background'] {
-  background-color: #A333C8 !important; }
+  background-color: light(#A333C8, 15%) !important; }
 
 [class*='extra lighter purple background'] {
-  background-color: #A333C8 !important; }
+  background-color: #c882df !important; }
 
 [class*='lightest purple background'] {
-  background-color: #A333C8 !important; }
+  background-color: #d196e4 !important; }
 
 [class*='dark purple background'] {
-  background-color: #A333C8 !important; }
+  background-color: #922eb4 !important; }
 
 [class*='darker purple background'] {
-  background-color: #A333C8 !important; }
+  background-color: #82299f !important; }
 
 [class*='more darker purple background'] {
-  background-color: #A333C8 !important; }
+  background-color: #71238b !important; }
 
 [class*='extra darker purple background'] {
-  background-color: #A333C8 !important; }
+  background-color: #611e77 !important; }
 
 [class*='darkest purple background'] {
-  background-color: #A333C8 !important; }
+  background-color: #501962 !important; }
 
 [class*='pink background'] {
   background-color: #E03997 !important; }
 
 [class*='light pink background'] {
-  background-color: #E03997 !important; }
+  background-color: #e34fa3 !important; }
 
 [class*='lighter pink background'] {
-  background-color: #E03997 !important; }
+  background-color: #e765ae !important; }
 
 [class*='more lighter pink background'] {
-  background-color: #E03997 !important; }
+  background-color: light(#E03997, 15%) !important; }
 
 [class*='extra lighter pink background'] {
-  background-color: #E03997 !important; }
+  background-color: #ee91c5 !important; }
 
 [class*='lightest pink background'] {
-  background-color: #E03997 !important; }
+  background-color: #f1a7d1 !important; }
 
 [class*='dark pink background'] {
-  background-color: #E03997 !important; }
+  background-color: #dd238b !important; }
 
 [class*='darker pink background'] {
-  background-color: #E03997 !important; }
+  background-color: #c71f7e !important; }
 
 [class*='more darker pink background'] {
-  background-color: #E03997 !important; }
+  background-color: #b11c70 !important; }
 
 [class*='extra darker pink background'] {
-  background-color: #E03997 !important; }
+  background-color: #9b1862 !important; }
 
 [class*='darkest pink background'] {
-  background-color: #E03997 !important; }
+  background-color: #851554 !important; }
 
 [class*='brown background'] {
   background-color: #A5673F !important; }
 
 [class*='light brown background'] {
-  background-color: #A5673F !important; }
+  background-color: #b77346 !important; }
 
 [class*='lighter brown background'] {
-  background-color: #A5673F !important; }
+  background-color: #bf8058 !important; }
 
 [class*='more lighter brown background'] {
-  background-color: #A5673F !important; }
+  background-color: light(#A5673F, 15%) !important; }
 
 [class*='extra lighter brown background'] {
-  background-color: #A5673F !important; }
+  background-color: #cd9c7d !important; }
 
 [class*='lightest brown background'] {
-  background-color: #A5673F !important; }
+  background-color: #d4aa8f !important; }
 
 [class*='dark brown background'] {
-  background-color: #A5673F !important; }
+  background-color: #935b38 !important; }
 
 [class*='darker brown background'] {
-  background-color: #A5673F !important; }
+  background-color: #805031 !important; }
 
 [class*='more darker brown background'] {
-  background-color: #A5673F !important; }
+  background-color: #6e442a !important; }
 
 [class*='extra darker brown background'] {
-  background-color: #A5673F !important; }
+  background-color: #5b3923 !important; }
 
 [class*='darkest brown background'] {
-  background-color: #A5673F !important; }
+  background-color: #492d1c !important; }
 
 [class*='grey background'] {
   background-color: #767676 !important; }
 
 [class*='light grey background'] {
-  background-color: #767676 !important; }
+  background-color: #838383 !important; }
 
 [class*='lighter grey background'] {
-  background-color: #767676 !important; }
+  background-color: #909090 !important; }
 
 [class*='more lighter grey background'] {
-  background-color: #767676 !important; }
+  background-color: light(#767676, 15%) !important; }
 
 [class*='extra lighter grey background'] {
-  background-color: #767676 !important; }
+  background-color: darkgray !important; }
 
 [class*='lightest grey background'] {
-  background-color: #767676 !important; }
+  background-color: #b6b6b6 !important; }
 
 [class*='dark grey background'] {
-  background-color: #767676 !important; }
+  background-color: dimgray !important; }
 
 [class*='darker grey background'] {
-  background-color: #767676 !important; }
+  background-color: #5d5d5d !important; }
 
 [class*='more darker grey background'] {
-  background-color: #767676 !important; }
+  background-color: #505050 !important; }
 
 [class*='extra darker grey background'] {
-  background-color: #767676 !important; }
+  background-color: #434343 !important; }
 
 [class*='darkest grey background'] {
-  background-color: #767676 !important; }
+  background-color: #363636 !important; }
 
 [class*='cursor pointer'] {
   cursor: pointer !important; }
