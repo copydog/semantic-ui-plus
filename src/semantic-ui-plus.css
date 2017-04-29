@@ -815,38 +815,64 @@
   cursor: not-allowed !important; }
 
 [class*='display inline'] {
-  display: inline; }
+  display: inline !important; }
 
 [class*='display block'] {
-  display: block; }
+  display: block !important; }
 
 [class*='display inline block'] {
-  display: inline-block; }
+  display: inline-block !important; }
 
 [class*='display none'] {
-  display: none; }
+  display: none !important; }
 
 [class*='display table'] {
-  display: table; }
+  display: table !important; }
 
 .visible {
-  opacity: 1; }
+  opacity: 1 !important; }
 
 .invisible {
-  opacity: 0; }
+  opacity: 0 !important; }
 
 [class*='overflow hidden'] {
-  overflow: hidden; }
+  overflow: hidden !important; }
 
 [class*='overflow auto'] {
-  overflow: auto; }
+  overflow: auto !important; }
 
 [class*='overflow scroll'] {
-  overflow: scroll; }
+  overflow: scroll !important; }
 
 [class*='overflow visible'] {
-  overflow: visible; }
+  overflow: visible !important; }
 
+@media only screen and (max-width: 768px) {
+  .mobile.only {
+    display: block !important; }
+  .mobile.except {
+    display: none !important; } }
+@media only screen and (min-width: 769px) and (min-width: 991px) {
+  .tablet.only {
+    display: block !important; }
+  .tablet.except {
+    display: none !important; } }
+@media only screen and (min-width: 992px) and (min-width: 1200px) {
+  .desktop.only {
+    display: block !important; }
+  .desktop.except {
+    display: none !important; }
+
+  .large.desktop.only {
+    display: none !important; } }
+@media only screen and (min-width: 1201px) {
+  .desktop.only {
+    display: block !important; }
+  .desktop.except {
+    display: none !important; }
+
+  .small.desktop.only {
+    display: none !important; } }
 [class*='no border'] {
   border-width: 0 !important; }
 
