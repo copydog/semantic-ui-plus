@@ -1,0 +1,26 @@
+.ui.divider, hr {
+	border-top: #dededf; // ie8 fallback
+	border-bottom: #dededf; // ie8 fallback
+	border-top: 1px solid rgba(34,36,38,.15);
+	border-bottom: 1px solid rgba(255,255,255,.1);
+	font-size: 1em;
+	margin: 14px 0;
+	&.lightest {
+
+	}
+	&.lighter {
+
+	}
+	&.light {
+		border-top-color: #ebebeb !important;
+	}
+	&.dark {
+
+	}
+	&.darker {
+
+	}
+	&.darkest {
+
+	}
+}
