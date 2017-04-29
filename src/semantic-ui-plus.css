@@ -975,6 +975,9 @@
 [class*='hundred percent opacity'] {
   opacity: 1 !important; }
 
+[class*='no padding'] {
+  padding: 0; }
+
 [class*='red text'] {
   color: #DB2828 !important; }
 
