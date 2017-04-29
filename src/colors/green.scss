@@ -1,0 +1,45 @@
+[class*='green #{$color-name}'] {
+	#{$color-css}: $green;
+}
+
+// light
+[class*='light green #{$color-name}'] {
+	#{$color-css}: $light-green;
+}
+
+[class*='lighter green #{$color-name}'] {
+	#{$color-css}: $lighter-green;
+}
+
+[class*='more lighter green #{$color-name}'] {
+	#{$color-css}: $more-lighter-green;
+}
+
+[class*='extra lighter green #{$color-name}'] {
+	#{$color-css}: $extra-lighter-green;
+}
+
+[class*='lightest green #{$color-name}'] {
+	#{$color-css}: $lightest-green;
+}
+
+// dark
+[class*='dark green #{$color-name}'] {
+	#{$color-css}: $dark-green;
+}
+
+[class*='darker green #{$color-name}'] {
+	#{$color-css}: $darker-green;
+}
+
+[class*='more darker green #{$color-name}'] {
+	#{$color-css}: $more-darker-green;
+}
+
+[class*='extra darker green #{$color-name}'] {
+	#{$color-css}: $extra-darker-green;
+}
+
+[class*='darkest green #{$color-name}'] {
+	#{$color-css}: $darkest-green;
+}

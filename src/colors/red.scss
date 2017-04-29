@@ -1,0 +1,46 @@
+
+[class*='red #{$color-name}'] {
+	#{$color-css}: $red;
+}
+
+// light
+[class*='light red #{$color-name}'] {
+	#{$color-css}: $light-red;
+}
+
+[class*='lighter red #{$color-name}'] {
+	#{$color-css}: $lighter-red;
+}
+
+[class*='more lighter red #{$color-name}'] {
+	#{$color-css}: $more-lighter-red;
+}
+
+[class*='extra lighter red #{$color-name}'] {
+	#{$color-css}: $extra-lighter-red;
+}
+
+[class*='lightest red #{$color-name}'] {
+	#{$color-css}: $lightest-red;
+}
+
+// dark
+[class*='dark red #{$color-name}'] {
+	#{$color-css}: $dark-red;
+}
+
+[class*='darker red #{$color-name}'] {
+	#{$color-css}: $darker-red;
+}
+
+[class*='more darker red #{$color-name}'] {
+	#{$color-css}: $more-darker-red;
+}
+
+[class*='extra darker red #{$color-name}'] {
+	#{$color-css}: $extra-darker-red;
+}
+
+[class*='darkest red #{$color-name}'] {
+	#{$color-css}: $darkest-red;
+}

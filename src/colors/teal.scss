@@ -1,0 +1,45 @@
+[class*='teal #{$color-name}'] {
+	#{$color-css}: $teal;
+}
+
+// light
+[class*='light teal #{$color-name}'] {
+	#{$color-css}: $light-teal;
+}
+
+[class*='lighter teal #{$color-name}'] {
+	#{$color-css}: $lighter-teal;
+}
+
+[class*='more lighter teal #{$color-name}'] {
+	#{$color-css}: $more-lighter-teal;
+}
+
+[class*='extra lighter teal #{$color-name}'] {
+	#{$color-css}: $extra-lighter-teal;
+}
+
+[class*='lightest teal #{$color-name}'] {
+	#{$color-css}: $lightest-teal;
+}
+
+// dark
+[class*='dark teal #{$color-name}'] {
+	#{$color-css}: $dark-teal;
+}
+
+[class*='darker teal #{$color-name}'] {
+	#{$color-css}: $darker-teal;
+}
+
+[class*='more darker teal #{$color-name}'] {
+	#{$color-css}: $more-darker-teal;
+}
+
+[class*='extra darker teal #{$color-name}'] {
+	#{$color-css}: $extra-darker-teal;
+}
+
+[class*='darkest teal #{$color-name}'] {
+	#{$color-css}: $darkest-teal;
+}

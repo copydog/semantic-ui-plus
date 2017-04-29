@@ -1,3 +1,7 @@
+// special color
+$transparent: transparent !important;
+
+// basic color
 $red: #DB2828 !important;
 $orange: #F2711C !important;
 $yellow: #FBBD08 !important;
@@ -11,5 +15,154 @@ $pink: #E03997 !important;
 $brown: #A5673F !important;
 $grey: #767676 !important;
 $black: #1B1C1D !important;
-$white: #ffffff !important;
-$transparent: transparent !important;
+
+
+// light
+$light-red: #DB2828 !important;
+$light-orange: #F2711C !important;
+$light-yellow: #FBBD08 !important;
+$light-olive: #B5CC18 !important;
+$light-green: #21BA45 !important;
+$light-teal: #00B5AD !important;
+$light-blue: #2185D0 !important;
+$light-violet: #6435C9 !important;
+$light-purple: #A333C8 !important;
+$light-pink: #E03997 !important;
+$light-brown: #A5673F !important;
+$light-grey: #767676 !important;
+$light-black: #1B1C1D !important;
+
+// lighter
+$lighter-red: #DB2828 !important;
+$lighter-orange: #F2711C !important;
+$lighter-yellow: #FBBD08 !important;
+$lighter-olive: #B5CC18 !important;
+$lighter-green: #21BA45 !important;
+$lighter-teal: #00B5AD !important;
+$lighter-blue: #2185D0 !important;
+$lighter-violet: #6435C9 !important;
+$lighter-purple: #A333C8 !important;
+$lighter-pink: #E03997 !important;
+$lighter-brown: #A5673F !important;
+$lighter-grey: #767676 !important;
+
+// more lighter
+$more-lighter-red: #DB2828 !important;
+$more-lighter-orange: #F2711C !important;
+$more-lighter-yellow: #FBBD08 !important;
+$more-lighter-olive: #B5CC18 !important;
+$more-lighter-green: #21BA45 !important;
+$more-lighter-teal: #00B5AD !important;
+$more-lighter-blue: #2185D0 !important;
+$more-lighter-violet: #6435C9 !important;
+$more-lighter-purple: #A333C8 !important;
+$more-lighter-pink: #E03997 !important;
+$more-lighter-brown: #A5673F !important;
+$more-lighter-grey: #767676 !important;
+$more-lighter-black: #1B1C1D !important;
+
+// extra lighter
+$extra-lighter-red: #DB2828 !important;
+$extra-lighter-orange: #F2711C !important;
+$extra-lighter-yellow: #FBBD08 !important;
+$extra-lighter-olive: #B5CC18 !important;
+$extra-lighter-green: #21BA45 !important;
+$extra-lighter-teal: #00B5AD !important;
+$extra-lighter-blue: #2185D0 !important;
+$extra-lighter-violet: #6435C9 !important;
+$extra-lighter-purple: #A333C8 !important;
+$extra-lighter-pink: #E03997 !important;
+$extra-lighter-brown: #A5673F !important;
+$extra-lighter-grey: #767676 !important;
+
+// lightest
+$lightest-red: #DB2828 !important;
+$lightest-orange: #F2711C !important;
+$lightest-yellow: #FBBD08 !important;
+$lightest-olive: #B5CC18 !important;
+$lightest-green: #21BA45 !important;
+$lightest-teal: #00B5AD !important;
+$lightest-blue: #2185D0 !important;
+$lightest-violet: #6435C9 !important;
+$lightest-purple: #A333C8 !important;
+$lightest-pink: #E03997 !important;
+$lightest-brown: #A5673F !important;
+$lightest-grey: #767676 !important;
+
+// dark
+$dark-red: #DB2828 !important;
+$dark-orange: #F2711C !important;
+$dark-yellow: #FBBD08 !important;
+$dark-olive: #B5CC18 !important;
+$dark-green: #21BA45 !important;
+$dark-teal: #00B5AD !important;
+$dark-blue: #2185D0 !important;
+$dark-violet: #6435C9 !important;
+$dark-purple: #A333C8 !important;
+$dark-pink: #E03997 !important;
+$dark-brown: #A5673F !important;
+$dark-grey: #767676 !important;
+
+// darker
+$darker-red: #DB2828 !important;
+$darker-orange: #F2711C !important;
+$darker-yellow: #FBBD08 !important;
+$darker-olive: #B5CC18 !important;
+$darker-green: #21BA45 !important;
+$darker-teal: #00B5AD !important;
+$darker-blue: #2185D0 !important;
+$darker-violet: #6435C9 !important;
+$darker-purple: #A333C8 !important;
+$darker-pink: #E03997 !important;
+$darker-brown: #A5673F !important;
+$darker-grey: #767676 !important;
+$darker-black: #1B1C1D !important;
+
+// more darker
+$more-darker-red: #DB2828 !important;
+$more-darker-orange: #F2711C !important;
+$more-darker-yellow: #FBBD08 !important;
+$more-darker-olive: #B5CC18 !important;
+$more-darker-green: #21BA45 !important;
+$more-darker-teal: #00B5AD !important;
+$more-darker-blue: #2185D0 !important;
+$more-darker-violet: #6435C9 !important;
+$more-darker-purple: #A333C8 !important;
+$more-darker-pink: #E03997 !important;
+$more-darker-brown: #A5673F !important;
+$more-darker-grey: #767676 !important;
+$more-darker-black: #1B1C1D !important;
+
+// extra darker
+$extra-darker-red: #DB2828 !important;
+$extra-darker-orange: #F2711C !important;
+$extra-darker-yellow: #FBBD08 !important;
+$extra-darker-olive: #B5CC18 !important;
+$extra-darker-green: #21BA45 !important;
+$extra-darker-teal: #00B5AD !important;
+$extra-darker-blue: #2185D0 !important;
+$extra-darker-violet: #6435C9 !important;
+$extra-darker-purple: #A333C8 !important;
+$extra-darker-pink: #E03997 !important;
+$extra-darker-brown: #A5673F !important;
+$extra-darker-grey: #767676 !important;
+$extra-darker-black: #1B1C1D !important;
+
+// darkest
+$darkest-red: #DB2828 !important;
+$darkest-orange: #F2711C !important;
+$darkest-yellow: #FBBD08 !important;
+$darkest-olive: #B5CC18 !important;
+$darkest-green: #21BA45 !important;
+$darkest-teal: #00B5AD !important;
+$darkest-blue: #2185D0 !important;
+$darkest-violet: #6435C9 !important;
+$darkest-purple: #A333C8 !important;
+$darkest-pink: #E03997 !important;
+$darkest-brown: #A5673F !important;
+$darkest-grey: #767676 !important;
+$darkest-black: #1B1C1D !important;
+
+// girlish
+
+// little sb

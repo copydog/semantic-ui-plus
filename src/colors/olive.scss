@@ -1,0 +1,49 @@
+.test {
+	color: #{$color-css};
+}
+
+[class*='olive #{$color-name}'] {
+	#{$color-css}: $olive;
+}
+
+// light
+[class*='light olive #{$color-name}'] {
+	#{$color-css}: $light-olive;
+}
+
+[class*='lighter olive #{$color-name}'] {
+	#{$color-css}: $lighter-olive;
+}
+
+[class*='more lighter olive #{$color-name}'] {
+	#{$color-css}: $more-lighter-olive;
+}
+
+[class*='extra lighter olive #{$color-name}'] {
+	#{$color-css}: $extra-lighter-olive;
+}
+
+[class*='lightest olive #{$color-name}'] {
+	#{$color-css}: $lightest-olive;
+}
+
+// dark
+[class*='dark olive #{$color-name}'] {
+	#{$color-css}: $dark-olive;
+}
+
+[class*='darker olive #{$color-name}'] {
+	#{$color-css}: $darker-olive;
+}
+
+[class*='more darker olive #{$color-name}'] {
+	#{$color-css}: $more-darker-olive;
+}
+
+[class*='extra darker olive #{$color-name}'] {
+	#{$color-css}: $extra-darker-olive;
+}
+
+[class*='darkest olive #{$color-name}'] {
+	#{$color-css}: $darkest-olive;
+}

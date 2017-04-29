@@ -1,0 +1,45 @@
+[class*='brown #{$color-name}'] {
+	#{$color-css}: $brown;
+}
+
+// light
+[class*='light brown #{$color-name}'] {
+	#{$color-css}: $light-brown;
+}
+
+[class*='lighter brown #{$color-name}'] {
+	#{$color-css}: $lighter-brown;
+}
+
+[class*='more lighter brown #{$color-name}'] {
+	#{$color-css}: $more-lighter-brown;
+}
+
+[class*='extra lighter brown #{$color-name}'] {
+	#{$color-css}: $extra-lighter-brown;
+}
+
+[class*='lightest brown #{$color-name}'] {
+	#{$color-css}: $lightest-brown;
+}
+
+// dark
+[class*='dark brown #{$color-name}'] {
+	#{$color-css}: $dark-brown;
+}
+
+[class*='darker brown #{$color-name}'] {
+	#{$color-css}: $darker-brown;
+}
+
+[class*='more darker brown #{$color-name}'] {
+	#{$color-css}: $more-darker-brown;
+}
+
+[class*='extra darker brown #{$color-name}'] {
+	#{$color-css}: $extra-darker-brown;
+}
+
+[class*='darkest brown #{$color-name}'] {
+	#{$color-css}: $darkest-brown;
+}

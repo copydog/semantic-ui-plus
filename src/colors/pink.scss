@@ -1,0 +1,45 @@
+[class*='pink #{$color-name}'] {
+	#{$color-css}: $pink;
+}
+
+// light
+[class*='light pink #{$color-name}'] {
+	#{$color-css}: $light-pink;
+}
+
+[class*='lighter pink #{$color-name}'] {
+	#{$color-css}: $lighter-pink;
+}
+
+[class*='more lighter pink #{$color-name}'] {
+	#{$color-css}: $more-lighter-pink;
+}
+
+[class*='extra lighter pink #{$color-name}'] {
+	#{$color-css}: $extra-lighter-pink;
+}
+
+[class*='lightest pink #{$color-name}'] {
+	#{$color-css}: $lightest-pink;
+}
+
+// dark
+[class*='dark pink #{$color-name}'] {
+	#{$color-css}: $dark-pink;
+}
+
+[class*='darker pink #{$color-name}'] {
+	#{$color-css}: $darker-pink;
+}
+
+[class*='more darker pink #{$color-name}'] {
+	#{$color-css}: $more-darker-pink;
+}
+
+[class*='extra darker pink #{$color-name}'] {
+	#{$color-css}: $extra-darker-pink;
+}
+
+[class*='darkest pink #{$color-name}'] {
+	#{$color-css}: $darkest-pink;
+}

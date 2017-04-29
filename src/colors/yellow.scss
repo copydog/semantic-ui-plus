@@ -1,0 +1,45 @@
+[class*='yellow #{$color-name}'] {
+	#{$color-css}: $yellow;
+}
+
+// light
+[class*='light yellow #{$color-name}'] {
+	#{$color-css}: $light-yellow;
+}
+
+[class*='lighter yellow #{$color-name}'] {
+	#{$color-css}: $lighter-yellow;
+}
+
+[class*='more lighter yellow #{$color-name}'] {
+	#{$color-css}: $more-lighter-yellow;
+}
+
+[class*='extra lighter yellow #{$color-name}'] {
+	#{$color-css}: $extra-lighter-yellow;
+}
+
+[class*='lightest yellow #{$color-name}'] {
+	#{$color-css}: $lightest-yellow;
+}
+
+// dark
+[class*='dark yellow #{$color-name}'] {
+	#{$color-css}: $dark-yellow;
+}
+
+[class*='darker yellow #{$color-name}'] {
+	#{$color-css}: $darker-yellow;
+}
+
+[class*='more darker yellow #{$color-name}'] {
+	#{$color-css}: $more-darker-yellow;
+}
+
+[class*='extra darker yellow #{$color-name}'] {
+	#{$color-css}: $extra-darker-yellow;
+}
+
+[class*='darkest yellow #{$color-name}'] {
+	#{$color-css}: $darkest-yellow;
+}

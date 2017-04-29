@@ -1,0 +1,45 @@
+[class*='blue #{$color-name}'] {
+	#{$color-css}: $blue;
+}
+
+// light
+[class*='light blue #{$color-name}'] {
+	#{$color-css}: $light-blue;
+}
+
+[class*='lighter blue #{$color-name}'] {
+	#{$color-css}: $lighter-blue;
+}
+
+[class*='more lighter blue #{$color-name}'] {
+	#{$color-css}: $more-lighter-blue;
+}
+
+[class*='extra lighter blue #{$color-name}'] {
+	#{$color-css}: $extra-lighter-blue;
+}
+
+[class*='lightest blue #{$color-name}'] {
+	#{$color-css}: $lightest-blue;
+}
+
+// dark
+[class*='dark blue #{$color-name}'] {
+	#{$color-css}: $dark-blue;
+}
+
+[class*='darker blue #{$color-name}'] {
+	#{$color-css}: $darker-blue;
+}
+
+[class*='more darker blue #{$color-name}'] {
+	#{$color-css}: $more-darker-blue;
+}
+
+[class*='extra darker blue #{$color-name}'] {
+	#{$color-css}: $extra-darker-blue;
+}
+
+[class*='darkest blue #{$color-name}'] {
+	#{$color-css}: $darkest-blue;
+}

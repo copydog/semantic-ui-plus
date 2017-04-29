@@ -1,0 +1,47 @@
+//******************** display ********************
+[class*='display inline'] {
+	display: inline;
+}
+
+[class*='display block'] {
+	display: block;
+}
+
+[class*='display inline block'] {
+	display: inline-block;
+}
+
+[class*='display none'] {
+	display: none;
+}
+
+[class*='display table'] {
+	display: table;
+}
+
+//******************** visibility ********************
+.visible {
+	opacity: 1;
+}
+
+.invisible {
+	opacity: 0;
+}
+//******************** overflow ********************
+[class*='overflow hidden'] {
+	overflow: hidden;
+}
+
+[class*='overflow auto'] {
+	overflow: auto;
+}
+
+[class*='overflow scroll'] {
+	overflow: scroll;
+}
+
+[class*='overflow visible'] {
+	overflow: visible;
+}
+
+//******************** situational ********************

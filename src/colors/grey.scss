@@ -1,0 +1,45 @@
+[class*='grey #{$color-name}'] {
+	#{$color-css}: $grey;
+}
+
+// light
+[class*='light grey #{$color-name}'] {
+	#{$color-css}: $light-grey;
+}
+
+[class*='lighter grey #{$color-name}'] {
+	#{$color-css}: $lighter-grey;
+}
+
+[class*='more lighter grey #{$color-name}'] {
+	#{$color-css}: $more-lighter-grey;
+}
+
+[class*='extra lighter grey #{$color-name}'] {
+	#{$color-css}: $extra-lighter-grey;
+}
+
+[class*='lightest grey #{$color-name}'] {
+	#{$color-css}: $lightest-grey;
+}
+
+// dark
+[class*='dark grey #{$color-name}'] {
+	#{$color-css}: $dark-grey;
+}
+
+[class*='darker grey #{$color-name}'] {
+	#{$color-css}: $darker-grey;
+}
+
+[class*='more darker grey #{$color-name}'] {
+	#{$color-css}: $more-darker-grey;
+}
+
+[class*='extra darker grey #{$color-name}'] {
+	#{$color-css}: $extra-darker-grey;
+}
+
+[class*='darkest grey #{$color-name}'] {
+	#{$color-css}: $darkest-grey;
+}

@@ -1,0 +1,45 @@
+[class*='orange #{$color-name}'] {
+	#{$color-css}: $orange;
+}
+
+// light
+[class*='light orange #{$color-name}'] {
+	#{$color-css}: $light-orange;
+}
+
+[class*='lighter orange #{$color-name}'] {
+	#{$color-css}: $lighter-orange;
+}
+
+[class*='more lighter orange #{$color-name}'] {
+	#{$color-css}: $more-lighter-orange;
+}
+
+[class*='extra lighter orange #{$color-name}'] {
+	#{$color-css}: $extra-lighter-orange;
+}
+
+[class*='lightest orange #{$color-name}'] {
+	#{$color-css}: $lightest-orange;
+}
+
+// dark
+[class*='dark orange #{$color-name}'] {
+	#{$color-css}: $dark-orange;
+}
+
+[class*='darker orange #{$color-name}'] {
+	#{$color-css}: $darker-orange;
+}
+
+[class*='more darker orange #{$color-name}'] {
+	#{$color-css}: $more-darker-orange;
+}
+
+[class*='extra darker orange #{$color-name}'] {
+	#{$color-css}: $extra-darker-orange;
+}
+
+[class*='darkest orange #{$color-name}'] {
+	#{$color-css}: $darkest-orange;
+}

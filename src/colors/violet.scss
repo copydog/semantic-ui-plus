@@ -1,0 +1,45 @@
+[class*='violet #{$color-name}'] {
+	#{$color-css}: $violet;
+}
+
+// light
+[class*='light violet #{$color-name}'] {
+	#{$color-css}: $light-violet;
+}
+
+[class*='lighter violet #{$color-name}'] {
+	#{$color-css}: $lighter-violet;
+}
+
+[class*='more lighter violet #{$color-name}'] {
+	#{$color-css}: $more-lighter-violet;
+}
+
+[class*='extra lighter violet #{$color-name}'] {
+	#{$color-css}: $extra-lighter-violet;
+}
+
+[class*='lightest violet #{$color-name}'] {
+	#{$color-css}: $lightest-violet;
+}
+
+// dark
+[class*='dark violet #{$color-name}'] {
+	#{$color-css}: $dark-violet;
+}
+
+[class*='darker violet #{$color-name}'] {
+	#{$color-css}: $darker-violet;
+}
+
+[class*='more darker violet #{$color-name}'] {
+	#{$color-css}: $more-darker-violet;
+}
+
+[class*='extra darker violet #{$color-name}'] {
+	#{$color-css}: $extra-darker-violet;
+}
+
+[class*='darkest violet #{$color-name}'] {
+	#{$color-css}: $darkest-violet;
+}

@@ -1,0 +1,45 @@
+[class*='purple #{$color-name}'] {
+	#{$color-css}: $purple;
+}
+
+// light
+[class*='light purple #{$color-name}'] {
+	#{$color-css}: $light-purple;
+}
+
+[class*='lighter purple #{$color-name}'] {
+	#{$color-css}: $lighter-purple;
+}
+
+[class*='more lighter purple #{$color-name}'] {
+	#{$color-css}: $more-lighter-purple;
+}
+
+[class*='extra lighter purple #{$color-name}'] {
+	#{$color-css}: $extra-lighter-purple;
+}
+
+[class*='lightest purple #{$color-name}'] {
+	#{$color-css}: $lightest-purple;
+}
+
+// dark
+[class*='dark purple #{$color-name}'] {
+	#{$color-css}: $dark-purple;
+}
+
+[class*='darker purple #{$color-name}'] {
+	#{$color-css}: $darker-purple;
+}
+
+[class*='more darker purple #{$color-name}'] {
+	#{$color-css}: $more-darker-purple;
+}
+
+[class*='extra darker purple #{$color-name}'] {
+	#{$color-css}: $extra-darker-purple;
+}
+
+[class*='darkest purple #{$color-name}'] {
+	#{$color-css}: $darkest-purple;
+}
