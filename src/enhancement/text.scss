@@ -1,0 +1,43 @@
+//******************** color ********************
+$color-name: 'text';
+$color-css: 'color';
+
+@import "../colors/color";
+
+//******************** style ********************
+.text {
+	&.normal {
+		font-weight: normal !important;
+		font-style: normal !important;
+	}
+	&.bold {
+		font-weight: bold !important;
+	}
+	&.italic {
+		font-style: italic !important;
+	}
+
+	&.uppercase {
+		text-transform: uppercase !important;
+	}
+	&.lowercase {
+		text-transform: lowercase !important;
+	}
+	&.capitalize {
+		text-transform: capitalize !important;
+	}
+
+	&.upper {
+		text-transform: uppercase !important;
+	}
+
+	&.lower {
+		text-transform: lowercase !important;
+	}
+
+	&.cap {
+		text-transform: capitalize !important;
+	}
+
+}
+

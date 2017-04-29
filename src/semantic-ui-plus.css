@@ -1,402 +1,3 @@
-[class*='red text'] {
-  color: #DB2828 !important; }
-
-[class*='light red text'] {
-  color: #df3e3e !important; }
-
-[class*='lighter red text'] {
-  color: #e25454 !important; }
-
-[class*='more lighter red text'] {
-  color: #e66a6a !important; }
-
-[class*='extra lighter red text'] {
-  color: #ea7f7f !important; }
-
-[class*='lightest red text'] {
-  color: #ed9595 !important; }
-
-[class*='dark red text'] {
-  color: #c82121 !important; }
-
-[class*='darker red text'] {
-  color: #b21e1e !important; }
-
-[class*='more darker red text'] {
-  color: #9c1a1a !important; }
-
-[class*='extra darker red text'] {
-  color: #861717 !important; }
-
-[class*='darkest red text'] {
-  color: #711313 !important; }
-
-[class*='orange text'] {
-  color: #F2711C !important; }
-
-[class*='light orange text'] {
-  color: #f38034 !important; }
-
-[class*='lighter orange text'] {
-  color: #f58f4c !important; }
-
-[class*='more lighter orange text'] {
-  color: light(#F2711C, 15%) !important; }
-
-[class*='extra lighter orange text'] {
-  color: #f8ad7c !important; }
-
-[class*='lightest orange text'] {
-  color: #f9bc95 !important; }
-
-[class*='dark orange text'] {
-  color: #e7640d !important; }
-
-[class*='darker orange text'] {
-  color: #cf590c !important; }
-
-[class*='more darker orange text'] {
-  color: #b74f0a !important; }
-
-[class*='extra darker orange text'] {
-  color: #9f4509 !important; }
-
-[class*='darkest orange text'] {
-  color: #873a08 !important; }
-
-[class*='yellow text'] {
-  color: #FBBD08 !important; }
-
-[class*='light yellow text'] {
-  color: #fbc421 !important; }
-
-[class*='lighter yellow text'] {
-  color: #fcca3a !important; }
-
-[class*='more lighter yellow text'] {
-  color: light(#FBBD08, 15%) !important; }
-
-[class*='extra lighter yellow text'] {
-  color: #fdd86c !important; }
-
-[class*='lightest yellow text'] {
-  color: #fddf85 !important; }
-
-[class*='dark yellow text'] {
-  color: #e6ac04 !important; }
-
-[class*='darker yellow text'] {
-  color: #cd9903 !important; }
-
-[class*='more darker yellow text'] {
-  color: #b48703 !important; }
-
-[class*='extra darker yellow text'] {
-  color: #9a7403 !important; }
-
-[class*='darkest yellow text'] {
-  color: #816102 !important; }
-
-.test {
-  color: color; }
-
-[class*='olive text'] {
-  color: #B5CC18 !important; }
-
-[class*='light olive text'] {
-  color: #c9e31b !important; }
-
-[class*='lighter olive text'] {
-  color: #cfe730 !important; }
-
-[class*='more lighter olive text'] {
-  color: light(#B5CC18, 15%) !important; }
-
-[class*='extra lighter olive text'] {
-  color: #daec5e !important; }
-
-[class*='lightest olive text'] {
-  color: #dfef75 !important; }
-
-[class*='dark olive text'] {
-  color: #a1b515 !important; }
-
-[class*='darker olive text'] {
-  color: #8d9e13 !important; }
-
-[class*='more darker olive text'] {
-  color: #788810 !important; }
-
-[class*='extra darker olive text'] {
-  color: #64710d !important; }
-
-[class*='darkest olive text'] {
-  color: #505a0b !important; }
-
-[class*='green text'] {
-  color: #21BA45 !important; }
-
-[class*='light green text'] {
-  color: #25d04d !important; }
-
-[class*='lighter green text'] {
-  color: #33db5b !important; }
-
-[class*='more lighter green text'] {
-  color: light(#21BA45, 15%) !important; }
-
-[class*='extra lighter green text'] {
-  color: #5ee37e !important; }
-
-[class*='lightest green text'] {
-  color: #74e68f !important; }
-
-[class*='dark green text'] {
-  color: #1da43d !important; }
-
-[class*='darker green text'] {
-  color: #198f35 !important; }
-
-[class*='more darker green text'] {
-  color: #15792d !important; }
-
-[class*='extra darker green text'] {
-  color: #126325 !important; }
-
-[class*='darkest green text'] {
-  color: #0e4e1d !important; }
-
-[class*='teal text'] {
-  color: #00B5AD !important; }
-
-[class*='light teal text'] {
-  color: #00cfc5 !important; }
-
-[class*='lighter teal text'] {
-  color: #00e8de !important; }
-
-[class*='more lighter teal text'] {
-  color: light(#00B5AD, 15%) !important; }
-
-[class*='extra lighter teal text'] {
-  color: #1cfff5 !important; }
-
-[class*='lightest teal text'] {
-  color: #36fff6 !important; }
-
-[class*='dark teal text'] {
-  color: #009c95 !important; }
-
-[class*='darker teal text'] {
-  color: #00827c !important; }
-
-[class*='more darker teal text'] {
-  color: #006964 !important; }
-
-[class*='extra darker teal text'] {
-  color: #004f4c !important; }
-
-[class*='darkest teal text'] {
-  color: #003633 !important; }
-
-[class*='blue text'] {
-  color: #2185D0 !important; }
-
-[class*='light blue text'] {
-  color: #2d92de !important; }
-
-[class*='lighter blue text'] {
-  color: #439de1 !important; }
-
-[class*='more lighter blue text'] {
-  color: light(#2185D0, 15%) !important; }
-
-[class*='extra lighter blue text'] {
-  color: #6fb4e8 !important; }
-
-[class*='lightest blue text'] {
-  color: #85c0ec !important; }
-
-[class*='dark blue text'] {
-  color: #1e77ba !important; }
-
-[class*='darker blue text'] {
-  color: #1a69a4 !important; }
-
-[class*='more darker blue text'] {
-  color: #175b8e !important; }
-
-[class*='extra darker blue text'] {
-  color: #134d78 !important; }
-
-[class*='darkest blue text'] {
-  color: #103f62 !important; }
-
-[class*='violet text'] {
-  color: #6435C9 !important; }
-
-[class*='light violet text'] {
-  color: #7349cf !important; }
-
-[class*='lighter violet text'] {
-  color: #835dd4 !important; }
-
-[class*='more lighter violet text'] {
-  color: light(#6435C9, 15%) !important; }
-
-[class*='extra lighter violet text'] {
-  color: #a285df !important; }
-
-[class*='lightest violet text'] {
-  color: #b199e4 !important; }
-
-[class*='dark violet text'] {
-  color: #5a30b5 !important; }
-
-[class*='darker violet text'] {
-  color: #502aa1 !important; }
-
-[class*='more darker violet text'] {
-  color: #46258c !important; }
-
-[class*='extra darker violet text'] {
-  color: #3c2078 !important; }
-
-[class*='darkest violet text'] {
-  color: #321a64 !important; }
-
-[class*='purple text'] {
-  color: #A333C8 !important; }
-
-[class*='light purple text'] {
-  color: #ad45d0 !important; }
-
-[class*='lighter purple text'] {
-  color: #b659d5 !important; }
-
-[class*='more lighter purple text'] {
-  color: light(#A333C8, 15%) !important; }
-
-[class*='extra lighter purple text'] {
-  color: #c882df !important; }
-
-[class*='lightest purple text'] {
-  color: #d196e4 !important; }
-
-[class*='dark purple text'] {
-  color: #922eb4 !important; }
-
-[class*='darker purple text'] {
-  color: #82299f !important; }
-
-[class*='more darker purple text'] {
-  color: #71238b !important; }
-
-[class*='extra darker purple text'] {
-  color: #611e77 !important; }
-
-[class*='darkest purple text'] {
-  color: #501962 !important; }
-
-[class*='pink text'] {
-  color: #E03997 !important; }
-
-[class*='light pink text'] {
-  color: #e34fa3 !important; }
-
-[class*='lighter pink text'] {
-  color: #e765ae !important; }
-
-[class*='more lighter pink text'] {
-  color: light(#E03997, 15%) !important; }
-
-[class*='extra lighter pink text'] {
-  color: #ee91c5 !important; }
-
-[class*='lightest pink text'] {
-  color: #f1a7d1 !important; }
-
-[class*='dark pink text'] {
-  color: #dd238b !important; }
-
-[class*='darker pink text'] {
-  color: #c71f7e !important; }
-
-[class*='more darker pink text'] {
-  color: #b11c70 !important; }
-
-[class*='extra darker pink text'] {
-  color: #9b1862 !important; }
-
-[class*='darkest pink text'] {
-  color: #851554 !important; }
-
-[class*='brown text'] {
-  color: #A5673F !important; }
-
-[class*='light brown text'] {
-  color: #b77346 !important; }
-
-[class*='lighter brown text'] {
-  color: #bf8058 !important; }
-
-[class*='more lighter brown text'] {
-  color: light(#A5673F, 15%) !important; }
-
-[class*='extra lighter brown text'] {
-  color: #cd9c7d !important; }
-
-[class*='lightest brown text'] {
-  color: #d4aa8f !important; }
-
-[class*='dark brown text'] {
-  color: #935b38 !important; }
-
-[class*='darker brown text'] {
-  color: #805031 !important; }
-
-[class*='more darker brown text'] {
-  color: #6e442a !important; }
-
-[class*='extra darker brown text'] {
-  color: #5b3923 !important; }
-
-[class*='darkest brown text'] {
-  color: #492d1c !important; }
-
-[class*='grey text'] {
-  color: #767676 !important; }
-
-[class*='light grey text'] {
-  color: #838383 !important; }
-
-[class*='lighter grey text'] {
-  color: #909090 !important; }
-
-[class*='more lighter grey text'] {
-  color: light(#767676, 15%) !important; }
-
-[class*='extra lighter grey text'] {
-  color: darkgray !important; }
-
-[class*='lightest grey text'] {
-  color: #b6b6b6 !important; }
-
-[class*='dark grey text'] {
-  color: dimgray !important; }
-
-[class*='darker grey text'] {
-  color: #5d5d5d !important; }
-
-[class*='more darker grey text'] {
-  color: #505050 !important; }
-
-[class*='extra darker grey text'] {
-  color: #434343 !important; }
-
-[class*='darkest grey text'] {
-  color: #363636 !important; }
-
 [class*='red background'] {
   background-color: #DB2828 !important; }
 
@@ -814,6 +415,9 @@
 [class*='cursor not allowed'] {
   cursor: not-allowed !important; }
 
+[class*='cursor inherit'] {
+  cursor: inherit !important; }
+
 [class*='display inline'] {
   display: inline !important; }
 
@@ -878,5 +482,487 @@
 
 [class*='transparent border'] {
   border-color: transparent !important; }
+
+[class*='zero percent opacity'] {
+  opacity: 0 !important; }
+
+[class*='five percent opacity'] {
+  opacity: .05 !important; }
+
+[class*='ten percent opacity'] {
+  opacity: .1 !important; }
+
+[class*='fifteen percent opacity'] {
+  opacity: .15 !important; }
+
+[class*='tweenty percent opacity'] {
+  opacity: .2 !important; }
+
+[class*='tweenty five percent opacity'] {
+  opacity: .25 !important; }
+
+[class*='thirty percent opacity'] {
+  opacity: .3 !important; }
+
+[class*='thirty five percent opacity'] {
+  opacity: .35 !important; }
+
+[class*='forty percent opacity'] {
+  opacity: .4 !important; }
+
+[class*='forty five percent opacity'] {
+  opacity: .45 !important; }
+
+[class*='fifty percent opacity'] {
+  opacity: .5 !important; }
+
+[class*='fifty five percent opacity'] {
+  opacity: .55 !important; }
+
+[class*='sixty percent opacity'] {
+  opacity: .6 !important; }
+
+[class*='sixty five percent opacity'] {
+  opacity: .65 !important; }
+
+[class*='seventy percent opacity'] {
+  opacity: .7 !important; }
+
+[class*='seventy five percent opacity'] {
+  opacity: .75 !important; }
+
+[class*='eighty percent opacity'] {
+  opacity: .8 !important; }
+
+[class*='eighty five percent opacity'] {
+  opacity: .85 !important; }
+
+[class*='ninety percent opacity'] {
+  opacity: .9 !important; }
+
+[class*='ninety five percent opacity'] {
+  opacity: .95 !important; }
+
+[class*='hundred percent opacity'] {
+  opacity: 1 !important; }
+
+[class*='red text'] {
+  color: #DB2828 !important; }
+
+[class*='light red text'] {
+  color: #df3e3e !important; }
+
+[class*='lighter red text'] {
+  color: #e25454 !important; }
+
+[class*='more lighter red text'] {
+  color: #e66a6a !important; }
+
+[class*='extra lighter red text'] {
+  color: #ea7f7f !important; }
+
+[class*='lightest red text'] {
+  color: #ed9595 !important; }
+
+[class*='dark red text'] {
+  color: #c82121 !important; }
+
+[class*='darker red text'] {
+  color: #b21e1e !important; }
+
+[class*='more darker red text'] {
+  color: #9c1a1a !important; }
+
+[class*='extra darker red text'] {
+  color: #861717 !important; }
+
+[class*='darkest red text'] {
+  color: #711313 !important; }
+
+[class*='orange text'] {
+  color: #F2711C !important; }
+
+[class*='light orange text'] {
+  color: #f38034 !important; }
+
+[class*='lighter orange text'] {
+  color: #f58f4c !important; }
+
+[class*='more lighter orange text'] {
+  color: light(#F2711C, 15%) !important; }
+
+[class*='extra lighter orange text'] {
+  color: #f8ad7c !important; }
+
+[class*='lightest orange text'] {
+  color: #f9bc95 !important; }
+
+[class*='dark orange text'] {
+  color: #e7640d !important; }
+
+[class*='darker orange text'] {
+  color: #cf590c !important; }
+
+[class*='more darker orange text'] {
+  color: #b74f0a !important; }
+
+[class*='extra darker orange text'] {
+  color: #9f4509 !important; }
+
+[class*='darkest orange text'] {
+  color: #873a08 !important; }
+
+[class*='yellow text'] {
+  color: #FBBD08 !important; }
+
+[class*='light yellow text'] {
+  color: #fbc421 !important; }
+
+[class*='lighter yellow text'] {
+  color: #fcca3a !important; }
+
+[class*='more lighter yellow text'] {
+  color: light(#FBBD08, 15%) !important; }
+
+[class*='extra lighter yellow text'] {
+  color: #fdd86c !important; }
+
+[class*='lightest yellow text'] {
+  color: #fddf85 !important; }
+
+[class*='dark yellow text'] {
+  color: #e6ac04 !important; }
+
+[class*='darker yellow text'] {
+  color: #cd9903 !important; }
+
+[class*='more darker yellow text'] {
+  color: #b48703 !important; }
+
+[class*='extra darker yellow text'] {
+  color: #9a7403 !important; }
+
+[class*='darkest yellow text'] {
+  color: #816102 !important; }
+
+.test {
+  color: color; }
+
+[class*='olive text'] {
+  color: #B5CC18 !important; }
+
+[class*='light olive text'] {
+  color: #c9e31b !important; }
+
+[class*='lighter olive text'] {
+  color: #cfe730 !important; }
+
+[class*='more lighter olive text'] {
+  color: light(#B5CC18, 15%) !important; }
+
+[class*='extra lighter olive text'] {
+  color: #daec5e !important; }
+
+[class*='lightest olive text'] {
+  color: #dfef75 !important; }
+
+[class*='dark olive text'] {
+  color: #a1b515 !important; }
+
+[class*='darker olive text'] {
+  color: #8d9e13 !important; }
+
+[class*='more darker olive text'] {
+  color: #788810 !important; }
+
+[class*='extra darker olive text'] {
+  color: #64710d !important; }
+
+[class*='darkest olive text'] {
+  color: #505a0b !important; }
+
+[class*='green text'] {
+  color: #21BA45 !important; }
+
+[class*='light green text'] {
+  color: #25d04d !important; }
+
+[class*='lighter green text'] {
+  color: #33db5b !important; }
+
+[class*='more lighter green text'] {
+  color: light(#21BA45, 15%) !important; }
+
+[class*='extra lighter green text'] {
+  color: #5ee37e !important; }
+
+[class*='lightest green text'] {
+  color: #74e68f !important; }
+
+[class*='dark green text'] {
+  color: #1da43d !important; }
+
+[class*='darker green text'] {
+  color: #198f35 !important; }
+
+[class*='more darker green text'] {
+  color: #15792d !important; }
+
+[class*='extra darker green text'] {
+  color: #126325 !important; }
+
+[class*='darkest green text'] {
+  color: #0e4e1d !important; }
+
+[class*='teal text'] {
+  color: #00B5AD !important; }
+
+[class*='light teal text'] {
+  color: #00cfc5 !important; }
+
+[class*='lighter teal text'] {
+  color: #00e8de !important; }
+
+[class*='more lighter teal text'] {
+  color: light(#00B5AD, 15%) !important; }
+
+[class*='extra lighter teal text'] {
+  color: #1cfff5 !important; }
+
+[class*='lightest teal text'] {
+  color: #36fff6 !important; }
+
+[class*='dark teal text'] {
+  color: #009c95 !important; }
+
+[class*='darker teal text'] {
+  color: #00827c !important; }
+
+[class*='more darker teal text'] {
+  color: #006964 !important; }
+
+[class*='extra darker teal text'] {
+  color: #004f4c !important; }
+
+[class*='darkest teal text'] {
+  color: #003633 !important; }
+
+[class*='blue text'] {
+  color: #2185D0 !important; }
+
+[class*='light blue text'] {
+  color: #2d92de !important; }
+
+[class*='lighter blue text'] {
+  color: #439de1 !important; }
+
+[class*='more lighter blue text'] {
+  color: light(#2185D0, 15%) !important; }
+
+[class*='extra lighter blue text'] {
+  color: #6fb4e8 !important; }
+
+[class*='lightest blue text'] {
+  color: #85c0ec !important; }
+
+[class*='dark blue text'] {
+  color: #1e77ba !important; }
+
+[class*='darker blue text'] {
+  color: #1a69a4 !important; }
+
+[class*='more darker blue text'] {
+  color: #175b8e !important; }
+
+[class*='extra darker blue text'] {
+  color: #134d78 !important; }
+
+[class*='darkest blue text'] {
+  color: #103f62 !important; }
+
+[class*='violet text'] {
+  color: #6435C9 !important; }
+
+[class*='light violet text'] {
+  color: #7349cf !important; }
+
+[class*='lighter violet text'] {
+  color: #835dd4 !important; }
+
+[class*='more lighter violet text'] {
+  color: light(#6435C9, 15%) !important; }
+
+[class*='extra lighter violet text'] {
+  color: #a285df !important; }
+
+[class*='lightest violet text'] {
+  color: #b199e4 !important; }
+
+[class*='dark violet text'] {
+  color: #5a30b5 !important; }
+
+[class*='darker violet text'] {
+  color: #502aa1 !important; }
+
+[class*='more darker violet text'] {
+  color: #46258c !important; }
+
+[class*='extra darker violet text'] {
+  color: #3c2078 !important; }
+
+[class*='darkest violet text'] {
+  color: #321a64 !important; }
+
+[class*='purple text'] {
+  color: #A333C8 !important; }
+
+[class*='light purple text'] {
+  color: #ad45d0 !important; }
+
+[class*='lighter purple text'] {
+  color: #b659d5 !important; }
+
+[class*='more lighter purple text'] {
+  color: light(#A333C8, 15%) !important; }
+
+[class*='extra lighter purple text'] {
+  color: #c882df !important; }
+
+[class*='lightest purple text'] {
+  color: #d196e4 !important; }
+
+[class*='dark purple text'] {
+  color: #922eb4 !important; }
+
+[class*='darker purple text'] {
+  color: #82299f !important; }
+
+[class*='more darker purple text'] {
+  color: #71238b !important; }
+
+[class*='extra darker purple text'] {
+  color: #611e77 !important; }
+
+[class*='darkest purple text'] {
+  color: #501962 !important; }
+
+[class*='pink text'] {
+  color: #E03997 !important; }
+
+[class*='light pink text'] {
+  color: #e34fa3 !important; }
+
+[class*='lighter pink text'] {
+  color: #e765ae !important; }
+
+[class*='more lighter pink text'] {
+  color: light(#E03997, 15%) !important; }
+
+[class*='extra lighter pink text'] {
+  color: #ee91c5 !important; }
+
+[class*='lightest pink text'] {
+  color: #f1a7d1 !important; }
+
+[class*='dark pink text'] {
+  color: #dd238b !important; }
+
+[class*='darker pink text'] {
+  color: #c71f7e !important; }
+
+[class*='more darker pink text'] {
+  color: #b11c70 !important; }
+
+[class*='extra darker pink text'] {
+  color: #9b1862 !important; }
+
+[class*='darkest pink text'] {
+  color: #851554 !important; }
+
+[class*='brown text'] {
+  color: #A5673F !important; }
+
+[class*='light brown text'] {
+  color: #b77346 !important; }
+
+[class*='lighter brown text'] {
+  color: #bf8058 !important; }
+
+[class*='more lighter brown text'] {
+  color: light(#A5673F, 15%) !important; }
+
+[class*='extra lighter brown text'] {
+  color: #cd9c7d !important; }
+
+[class*='lightest brown text'] {
+  color: #d4aa8f !important; }
+
+[class*='dark brown text'] {
+  color: #935b38 !important; }
+
+[class*='darker brown text'] {
+  color: #805031 !important; }
+
+[class*='more darker brown text'] {
+  color: #6e442a !important; }
+
+[class*='extra darker brown text'] {
+  color: #5b3923 !important; }
+
+[class*='darkest brown text'] {
+  color: #492d1c !important; }
+
+[class*='grey text'] {
+  color: #767676 !important; }
+
+[class*='light grey text'] {
+  color: #838383 !important; }
+
+[class*='lighter grey text'] {
+  color: #909090 !important; }
+
+[class*='more lighter grey text'] {
+  color: light(#767676, 15%) !important; }
+
+[class*='extra lighter grey text'] {
+  color: darkgray !important; }
+
+[class*='lightest grey text'] {
+  color: #b6b6b6 !important; }
+
+[class*='dark grey text'] {
+  color: dimgray !important; }
+
+[class*='darker grey text'] {
+  color: #5d5d5d !important; }
+
+[class*='more darker grey text'] {
+  color: #505050 !important; }
+
+[class*='extra darker grey text'] {
+  color: #434343 !important; }
+
+[class*='darkest grey text'] {
+  color: #363636 !important; }
+
+.text.normal {
+  font-weight: normal !important;
+  font-style: normal !important; }
+.text.bold {
+  font-weight: bold !important; }
+.text.italic {
+  font-style: italic !important; }
+.text.uppercase {
+  text-transform: uppercase !important; }
+.text.lowercase {
+  text-transform: lowercase !important; }
+.text.capitalize {
+  text-transform: capitalize !important; }
+.text.upper {
+  text-transform: uppercase !important; }
+.text.lower {
+  text-transform: lowercase !important; }
+.text.cap {
+  text-transform: capitalize !important; }
 
 /*# sourceMappingURL=semantic-ui-plus.css.map */
