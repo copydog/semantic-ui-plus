@@ -1,29 +1,29 @@
 //******************** all-way direction padding ********************
-[class*='no padding'] {
+[class*='no padding']:not(.mobile):not(.tablet):not(.monitor) {
 	padding: 0 !important;
 }
 
-[class*='default padding'] {
+[class*='default padding']:not(.mobile):not(.tablet):not(.monitor) {
     
 }
 
-[class*='padded padding'] {
+[class*='padded padding']:not(.mobile):not(.tablet):not(.monitor) {
     
 }
 
-[class*='very padded padding'] {
+[class*='very padded padding']:not(.mobile):not(.tablet):not(.monitor) {
     
 }
 
-[class*='more padded padding'] {
+[class*='more padded padding']:not(.mobile):not(.tablet):not(.monitor) {
     
 }
 
-[class*='extra padded padding'] {
+[class*='extra padded padding']:not(.mobile):not(.tablet):not(.monitor) {
     
 }
 
-[class*='most padded padding'] {
+[class*='most padded padding']:not(.mobile):not(.tablet):not(.monitor) {
     
 }
 
@@ -52,14 +52,16 @@
 	[class*='small monitor no padding'] {
 		padding: 0;
 	}
-
-	[class*='all monitor no padding'] {
-		padding: 0;
-	}
 }
 
 @media only screen and (min-width: $computerWidth + 1) {
 	[class*='large monitor no padding'] {
+		padding: 0;
+	}
+}
+
+@media only screen and (min-width: $tabletWidth + 1) {
+	[class*='all monitor no padding'] {
 		padding: 0;
 	}
 }

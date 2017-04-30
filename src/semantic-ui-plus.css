@@ -987,7 +987,7 @@
 [class*='hundred percent opacity'] {
   opacity: 1 !important; }
 
-[class*='no padding'] {
+[class*='no padding']:not(.mobile):not(.tablet):not(.monitor) {
   padding: 0 !important; }
 
 @media only screen and (max-width: 768px) {
@@ -1004,12 +1004,12 @@
     padding: 0; } }
 @media only screen and (min-width: 992px) and (min-width: 1200px) {
   [class*='small monitor no padding'] {
-    padding: 0; }
-
-  [class*='all monitor no padding'] {
     padding: 0; } }
 @media only screen and (min-width: 1201px) {
   [class*='large monitor no padding'] {
+    padding: 0; } }
+@media only screen and (min-width: 992px) {
+  [class*='all monitor no padding'] {
     padding: 0; } }
 [class*='red text'] {
   color: #DB2828 !important; }
