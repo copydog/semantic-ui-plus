@@ -480,21 +480,21 @@
   .tablet.except {
     display: none !important; } }
 @media only screen and (min-width: 992px) and (min-width: 1200px) {
-  .desktop.only {
+  .all.monitor.only {
     display: block !important; }
-  .desktop.except {
+  .all.monitor.except {
     display: none !important; }
 
-  .large.desktop.only {
-    display: none !important; } }
+  .small.monitor.only {
+    display: block !important; } }
 @media only screen and (min-width: 1201px) {
-  .desktop.only {
+  .all.monitor.only {
     display: block !important; }
-  .desktop.except {
+  .all.monitor.except {
     display: none !important; }
 
-  .small.desktop.only {
-    display: none !important; } }
+  .large.monitor.only {
+    display: block !important; } }
 .border {
   border-style: solid;
   border: 1px #767676 !important; }
@@ -990,6 +990,27 @@
 [class*='no padding'] {
   padding: 0 !important; }
 
+@media only screen and (max-width: 768px) {
+  [class*='mobile no padding'] {
+    padding: 0; }
+
+  [class*='none monitor no padding'] {
+    padding: 0; } }
+@media only screen and (min-width: 769px) and (min-width: 991px) {
+  [class*='tablet no padding'] {
+    padding: 0; }
+
+  [class*='none monitor no padding'] {
+    padding: 0; } }
+@media only screen and (min-width: 992px) and (min-width: 1200px) {
+  [class*='small monitor no padding'] {
+    padding: 0; }
+
+  [class*='all monitor no padding'] {
+    padding: 0; } }
+@media only screen and (min-width: 1201px) {
+  [class*='large monitor no padding'] {
+    padding: 0; } }
 [class*='red text'] {
   color: #DB2828 !important; }
 

@@ -71,7 +71,7 @@
 }
 
 @media only screen and (min-width: $tabletWidth + 1) and (min-width: $computerWidth) {
-	.desktop {
+	.all.monitor {
 		&.only {
 			display: block !important;
 		}
@@ -81,13 +81,13 @@
 		}
 	}
 
-	.large.desktop.only {
-		display: none !important;
+	.small.monitor.only {
+		display: block !important;
 	}
 }
 
 @media only screen and (min-width: $computerWidth + 1) {
-	.desktop {
+	.all.monitor {
 		&.only {
 			display: block !important;
 		}
@@ -97,7 +97,7 @@
 		}
 	}
 
-	.small.desktop.only {
-		display: none !important;
+	.large.monitor.only {
+		display: block !important;
 	}
 }
