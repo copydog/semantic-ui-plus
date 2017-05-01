@@ -2,23 +2,23 @@
 $i: 0;
 @while($i <= 200) {
 	[class*='#{$i}px margin'] {
-		margin: $i * 1px;
+		margin: $i * 1px !important;
 	}
 
 	[class*='#{$i}px top margin'] {
-		margin-top: $i * 1px;
+		margin-top: $i * 1px !important;
 	}
 
 	[class*='#{$i}px right margin'] {
-		margin-right: $i * 1px;
+		margin-right: $i * 1px !important;
 	}
 
 	[class*='#{$i}px left margin'] {
-		margin-left: $i * 1px;
+		margin-left: $i * 1px !important;
 	}
 
 	[class*='#{$i}px bottom margin'] {
-		margin-bottom: $i * 1px;
+		margin-bottom: $i * 1px !important;
 	}
 	$i: $i+2;
 }
@@ -26,47 +26,47 @@ $i: 0;
 $i: 0;
 @while($i <= 100) {
 	[class*='#{$i}vh margin'] {
-		margin: $i * 1vh;
+		margin: $i * 1vh !important;
 	}
 
 	[class*='#{$i}vh top margin'] {
-		margin-top: $i * 1vh;
+		margin-top: $i * 1vh !important;
 	}
 
 	[class*='#{$i}vh right margin'] {
-		margin-right: $i * 1vh;
+		margin-right: $i * 1vh !important;
 	}
 
 	[class*='#{$i}vh left margin'] {
-		margin-left: $i * 1vh;
+		margin-left: $i * 1vh !important;
 	}
 
 	[class*='#{$i}vh bottom margin'] {
-		margin-bottom: $i * 1vh;
+		margin-bottom: $i * 1vh !important;
 	}
 	$i: $i+5;
 }
 
 $i: 0;
 @while($i <= 100) {
-	[class*='#{$i}vm margin'] {
-		margin: $i * 1vm;
+	[class*='#{$i}vw margin'] {
+		margin: $i * 1vw !important;
 	}
 
-	[class*='#{$i}vm top margin'] {
-		margin-top: $i * 1vm;
+	[class*='#{$i}vw top margin'] {
+		margin-top: $i * 1vw !important;
 	}
 
-	[class*='#{$i}vm right margin'] {
-		margin-right: $i * 1vm;
+	[class*='#{$i}vw right margin'] {
+		margin-right: $i * 1vw !important;
 	}
 
-	[class*='#{$i}vm left margin'] {
-		margin-left: $i * 1vm;
+	[class*='#{$i}vw left margin'] {
+		margin-left: $i * 1vw !important;
 	}
 
-	[class*='#{$i}vm bottom margin'] {
-		margin-bottom: $i * 1vm;
+	[class*='#{$i}vw bottom margin'] {
+		margin-bottom: $i * 1vw !important;
 	}
 	$i: $i+5;
 }
