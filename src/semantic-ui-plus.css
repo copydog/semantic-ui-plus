@@ -1851,165 +1851,165 @@
   padding-left: 49px !important; }
 
 @media only screen and (max-width: 768px) {
-  [class*='no padding mobile'] {
+  [class*='no padding on mobile'] {
     padding: 0 !important; }
 
-  [class*='default padding mobile'] {
+  [class*='default padding on mobile'] {
     padding: 14px !important; }
 
-  [class*='padded padding mobile'] {
+  [class*='padded padding on mobile'] {
     padding: 21px !important; }
 
-  [class*='very padded padding mobile'] {
+  [class*='very padded padding on mobile'] {
     padding: 28px !important; }
 
-  [class*='more padded padding mobile'] {
+  [class*='more padded padding on mobile'] {
     padding: 35px !important; }
 
-  [class*='extra padded padding mobile'] {
+  [class*='extra padded padding on mobile'] {
     padding: 42px !important; }
 
-  [class*='most padded padding mobile'] {
+  [class*='most padded padding on mobile'] {
     padding: 49px !important; }
 
-  [class*='no horizontal padding mobile'] {
+  [class*='no horizontal padding on mobile'] {
     padding-left: 0 !important;
     padding-right: 0 !important; }
 
-  [class*='default horizontal padding mobile'] {
+  [class*='default horizontal padding on mobile'] {
     padding-left: 14px !important;
     padding-right: 14px !important; }
 
-  [class*='padded horizontal padding mobile'] {
+  [class*='padded horizontal padding on mobile'] {
     padding-left: 21px !important;
     padding-right: 21px !important; }
 
-  [class*='very padded horizontal padding mobile'] {
+  [class*='very padded horizontal padding on mobile'] {
     padding-left: 28px !important;
     padding-right: 28px !important; }
 
-  [class*='more padded horizontal padding mobile'] {
+  [class*='more padded horizontal padding on mobile'] {
     padding-left: 35px !important;
     padding-right: 35px !important; }
 
-  [class*='extra padded horizontal padding mobile'] {
+  [class*='extra padded horizontal padding on mobile'] {
     padding-left: 42px !important;
     padding-right: 42px !important; }
 
-  [class*='most padded horizontal padding mobile'] {
+  [class*='most padded horizontal padding on mobile'] {
     padding-left: 49px !important;
     padding-right: 49px !important; }
 
-  [class*='no vertical padding mobile'] {
+  [class*='no vertical padding on mobile'] {
     padding-top: 0 !important;
     padding-bottom: 0 !important; }
 
-  [class*='default vertical padding mobile'] {
+  [class*='default vertical padding on mobile'] {
     padding-top: 14px !important;
     padding-bottom: 14px !important; }
 
-  [class*='padded vertical padding mobile'] {
+  [class*='padded vertical padding on mobile'] {
     padding-top: 21px !important;
     padding-bottom: 21px !important; }
 
-  [class*='very padded vertical padding mobile'] {
+  [class*='very padded vertical padding on mobile'] {
     padding-top: 28px !important;
     padding-bottom: 28px !important; }
 
-  [class*='more padded vertical padding mobile'] {
+  [class*='more padded vertical padding on mobile'] {
     padding-top: 35px !important;
     padding-bottom: 35px !important; }
 
-  [class*='extra padded vertical padding mobile'] {
+  [class*='extra padded vertical padding on mobile'] {
     padding-top: 42px !important;
     padding-bottom: 42px !important; }
 
-  [class*='most padded vertical padding mobile'] {
+  [class*='most padded vertical padding on mobile'] {
     padding-top: 49px !important;
     padding-bottom: 49px !important; }
 
-  [class*='no top padding mobile'] {
+  [class*='no top padding on mobile'] {
     padding-top: 0 !important; }
 
-  [class*='default top padding mobile'] {
+  [class*='default top padding on mobile'] {
     padding-top: 14px !important; }
 
-  [class*='padded top padding mobile'] {
+  [class*='padded top padding on mobile'] {
     padding-top: 21px !important; }
 
-  [class*='very padded top padding mobile'] {
+  [class*='very padded top padding on mobile'] {
     padding-top: 28px !important; }
 
-  [class*='more padded top padding mobile'] {
+  [class*='more padded top padding on mobile'] {
     padding-top: 35px !important; }
 
-  [class*='extra padded top padding mobile'] {
+  [class*='extra padded top padding on mobile'] {
     padding-top: 42px !important; }
 
-  [class*='most padded top padding mobile'] {
+  [class*='most padded top padding on mobile'] {
     padding-top: 49px !important; }
 
-  [class*='no right padding mobile'] {
+  [class*='no right padding on mobile'] {
     padding-right: 0 !important; }
 
-  [class*='default right padding mobile'] {
+  [class*='default right padding on mobile'] {
     padding-right: 14px !important; }
 
-  [class*='padded right padding mobile'] {
+  [class*='padded right padding on mobile'] {
     padding-right: 21px !important; }
 
-  [class*='very padded right padding mobile'] {
+  [class*='very padded right padding on mobile'] {
     padding-right: 28px !important; }
 
-  [class*='more padded right padding mobile'] {
+  [class*='more padded right padding on mobile'] {
     padding-right: 35px !important; }
 
-  [class*='extra padded right padding mobile'] {
+  [class*='extra padded right padding on mobile'] {
     padding-right: 42px !important; }
 
-  [class*='most padded top padding mobile'] {
+  [class*='most padded top padding on mobile'] {
     padding-top: 49px !important; }
 
-  [class*='no bottom padding mobile'] {
+  [class*='no bottom padding on mobile'] {
     padding-bottom: 0 !important; }
 
-  [class*='default bottom padding mobile'] {
+  [class*='default bottom padding on mobile'] {
     padding-bottom: 14px !important; }
 
-  [class*='padded bottom padding mobile'] {
+  [class*='padded bottom padding on mobile'] {
     padding-bottom: 21px !important; }
 
-  [class*='very padded bottom padding mobile'] {
+  [class*='very padded bottom padding on mobile'] {
     padding-bottom: 28px !important; }
 
-  [class*='more padded bottom padding mobile'] {
+  [class*='more padded bottom padding on mobile'] {
     padding-bottom: 35px !important; }
 
-  [class*='extra padded bottom padding mobile'] {
+  [class*='extra padded bottom padding on mobile'] {
     padding-bottom: 42px !important; }
 
-  [class*='most padded bottom padding mobile'] {
+  [class*='most padded bottom padding on mobile'] {
     padding-bottom: 49px !important; }
 
-  [class*='no left padding mobile'] {
+  [class*='no left padding on mobile'] {
     padding-left: 0 !important; }
 
-  [class*='default left padding mobile'] {
+  [class*='default left padding on mobile'] {
     padding-left: 14px !important; }
 
-  [class*='padded left padding mobile'] {
+  [class*='padded left padding on mobile'] {
     padding-left: 21px !important; }
 
-  [class*='very padded left padding mobile'] {
+  [class*='very padded left padding on mobile'] {
     padding-left: 28px !important; }
 
-  [class*='more padded left padding mobile'] {
+  [class*='more padded left padding on mobile'] {
     padding-left: 35px !important; }
 
-  [class*='extra padded left padding mobile'] {
+  [class*='extra padded left padding on mobile'] {
     padding-left: 42px !important; }
 
-  [class*='most padded left padding mobile'] {
+  [class*='most padded left padding on mobile'] {
     padding-left: 49px !important; } }
 @media only screen and (min-width: 769px) and (max-width: 991px) {
   [class*='no padding on tablet'] {

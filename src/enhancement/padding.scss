@@ -224,7 +224,7 @@ $device-name: 'as default';
 
 // mobile
 @media only screen and (max-width: $mobileWidth) {
-	$device-name: 'mobile';
+	$device-name: 'on mobile';
 	@import "paddingNMargin-part";
 }
 
