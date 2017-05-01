@@ -219,35 +219,35 @@
 $class-name: 'margin';
 @media only screen and (max-width: $mobileWidth) {
 	$device-name: 'mobile';
-	@import "distance";
+	@import "paddingNMargin-part";
 }
 
 // tablet
 @media only screen and (min-width: $mobileWidth + 1) and (max-width: $tabletWidth) {
 	$device-name: 'tablet';
-	@import "distance";
+	@import "paddingNMargin-part";
 }
 
 // portable (mobile & tablet)
 @media only screen and (max-width: $tabletWidth) {
 	$device-name: 'portable';
-	@import "distance";
+	@import "paddingNMargin-part";
 }
 
 // small screen
 @media only screen and (min-width: $tabletWidth + 1) and (max-width: $computerWidth) {
 	$device-name: 'small screen';
-	@import "distance";
+	@import "paddingNMargin-part";
 }
 
 // large screen
 @media only screen and (min-width: $computerWidth + 1) {
 	$device-name: 'large screen';
-	@import "distance";
+	@import "paddingNMargin-part";
 }
 
 // monitor (small & large screen)
 @media only screen and (min-width: $tabletWidth + 1) {
 	$device-name: 'monitor';
-	@import "distance";
+	@import "paddingNMargin-part";
 }
