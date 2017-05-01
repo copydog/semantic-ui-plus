@@ -1,9 +1,5 @@
 //******************** overwrite x-wide column ********************
 .ui.grid > .row, .ui.grid > .column.row, .ui.grid, .ui.column.grid {
-	//>[class*='column'].column {
-	//	width: 100%/16*1 !important;
-	//}
-
 	>[class*='two wide column'].column {
 		width: 100%/16*2 !important;
 	}
@@ -130,4 +126,41 @@
 
 .ui[class*="sixteen column"].grid > .row > .column, .ui[class*="sixteen column"].grid > .column, .ui.grid > [class*="sixteen column row"].row > .column {
 	width: 100%/16*1 !important;
+}
+
+//******************** situational ********************
+// mobile
+@media only screen and (max-width: $mobileWidth) {
+	$device-name: 'mobile';
+	@import "grid-part";
+}
+
+// tablet
+@media only screen and (min-width: $mobileWidth + 1) and (max-width: $tabletWidth) {
+	$device-name: 'tablet';
+	@import "grid-part";
+}
+
+// portable (mobile & tablet)
+@media only screen and (max-width: $tabletWidth) {
+	$device-name: 'portable';
+	@import "grid-part";
+}
+
+// small screen
+@media only screen and (min-width: $tabletWidth + 1) and (max-width: $computerWidth) {
+	$device-name: 'small screen';
+	@import "grid-part";
+}
+
+// large screen
+@media only screen and (min-width: $computerWidth + 1) {
+	$device-name: 'large screen';
+	@import "grid-part";
+}
+
+// monitor (small & large screen)
+@media only screen and (min-width: $tabletWidth + 1) {
+	$device-name: 'monitor';
+	@import "grid-part";
 }
