@@ -9,22 +9,22 @@
 
 }
 
-// mobile & tablet
+// portable (mobile & tablet)
 @media only screen and (max-width: $tabletWidth) {
 
 }
 
-// small monitor
+// small screen
 @media only screen and (min-width: $tabletWidth + 1) and (max-width: $computerWidth) {
 
 }
 
-// large monitor
+// large screen
 @media only screen and (min-width: $computerWidth + 1) {
 
 }
 
-// desktop (small + large monitor)
+// monitor (small & large screen)
 @media only screen and (min-width: $tabletWidth + 1) {
 
 }

@@ -1,0 +1,253 @@
+//******************** all-way direction margin ********************
+// basic
+[class*='no margin']:not(.mobile):not(.tablet):not(.monitor):not(.screen):not(.portable) {
+	margin: 0 !important;
+}
+
+[class*='default margin']:not(.mobile):not(.tablet):not(.monitor):not(.screen):not(.portable) {
+	margin: $emSize !important;
+}
+
+[class*='padded margin']:not(.mobile):not(.tablet):not(.monitor):not(.screen):not(.portable) {
+	margin: 1.5 * $emSize !important;
+}
+
+[class*='very padded margin']:not(.mobile):not(.tablet):not(.monitor):not(.screen):not(.portable) {
+	margin: 2 * $emSize !important;
+}
+
+[class*='more padded margin']:not(.mobile):not(.tablet):not(.monitor):not(.screen):not(.portable) {
+	margin: 2.5 * $emSize !important;
+}
+
+[class*='extra padded margin']:not(.mobile):not(.tablet):not(.monitor):not(.screen):not(.portable) {
+	margin: 3 * $emSize !important;
+}
+
+[class*='most padded margin']:not(.mobile):not(.tablet):not(.monitor):not(.screen):not(.portable) {
+	margin: 3.5 * $emSize !important;
+}
+
+//******************** two-way direction margin ********************
+// horizontal
+[class*='no horizontal margin']:not(.mobile):not(.tablet):not(.monitor):not(.screen):not(.portable) {
+	margin-left: 0 !important;
+	margin-right: 0 !important;
+}
+
+[class*='default horizontal margin']:not(.mobile):not(.tablet):not(.monitor):not(.screen):not(.portable) {
+	margin-left: $emSize !important;
+	margin-right: $emSize !important;
+}
+
+[class*='padded horizontal margin']:not(.mobile):not(.tablet):not(.monitor):not(.screen):not(.portable) {
+	margin-left: 1.5 * $emSize !important;
+	margin-right: 1.5 * $emSize !important;
+}
+
+[class*='very padded horizontal margin']:not(.mobile):not(.tablet):not(.monitor):not(.screen):not(.portable) {
+	margin-left: 2 * $emSize !important;
+	margin-right: 2 * $emSize !important;
+}
+
+[class*='more padded horizontal margin']:not(.mobile):not(.tablet):not(.monitor):not(.screen):not(.portable) {
+	margin-left: 2.5 * $emSize !important;
+	margin-right: 2.5 * $emSize !important;
+}
+
+[class*='extra padded horizontal margin']:not(.mobile):not(.tablet):not(.monitor):not(.screen):not(.portable) {
+	margin-left: 3 * $emSize !important;
+	margin-right: 3 * $emSize !important;
+}
+
+[class*='most padded horizontal margin']:not(.mobile):not(.tablet):not(.monitor):not(.screen):not(.portable) {
+	margin-left: 3.5 * $emSize !important;
+	margin-right: 3.5 * $emSize !important;
+}
+// vertical
+[class*='no vertical margin']:not(.mobile):not(.tablet):not(.monitor):not(.screen):not(.portable) {
+	margin-top: 0 !important;
+	margin-bottom: 0 !important;
+}
+
+[class*='default vertical margin']:not(.mobile):not(.tablet):not(.monitor):not(.screen):not(.portable) {
+	margin-top: $emSize !important;
+	margin-bottom: $emSize !important;
+}
+
+[class*='padded vertical margin']:not(.mobile):not(.tablet):not(.monitor):not(.screen):not(.portable) {
+	margin-top: 1.5 * $emSize !important;
+	margin-bottom: 1.5 * $emSize !important;
+}
+
+[class*='very padded vertical margin']:not(.mobile):not(.tablet):not(.monitor):not(.screen):not(.portable) {
+	margin-top: 2 * $emSize !important;
+	margin-bottom: 2 * $emSize !important;
+}
+
+[class*='more padded vertical margin']:not(.mobile):not(.tablet):not(.monitor):not(.screen):not(.portable) {
+	margin-top: 2.5 * $emSize !important;
+	margin-bottom: 2.5 * $emSize !important;
+}
+
+[class*='extra padded vertical margin']:not(.mobile):not(.tablet):not(.monitor):not(.screen):not(.portable) {
+	margin-top: 3 * $emSize !important;
+	margin-bottom: 3 * $emSize !important;
+}
+
+[class*='most padded vertical margin']:not(.mobile):not(.tablet):not(.monitor):not(.screen):not(.portable) {
+	margin-top: 3.5 * $emSize !important;
+	margin-bottom: 3.5 * $emSize !important;
+}
+//******************** one-way direction ********************
+// top
+[class*='no top margin']:not(.mobile):not(.tablet):not(.monitor):not(.screen):not(.portable) {
+	margin-top: 0 !important;
+}
+
+[class*='default top margin']:not(.mobile):not(.tablet):not(.monitor):not(.screen):not(.portable) {
+	margin-top: $emSize !important;
+}
+
+[class*='padded top margin']:not(.mobile):not(.tablet):not(.monitor):not(.screen):not(.portable) {
+	margin-top: 1.5 * $emSize !important;
+}
+
+[class*='very padded top margin']:not(.mobile):not(.tablet):not(.monitor):not(.screen):not(.portable) {
+	margin-top: 2 * $emSize !important;
+}
+
+[class*='more padded top margin']:not(.mobile):not(.tablet):not(.monitor):not(.screen):not(.portable) {
+	margin-top: 2.5 * $emSize !important;
+}
+
+[class*='extra padded top margin']:not(.mobile):not(.tablet):not(.monitor):not(.screen):not(.portable) {
+	margin-top: 3 * $emSize !important;
+}
+
+[class*='most padded top margin']:not(.mobile):not(.tablet):not(.monitor):not(.screen):not(.portable) {
+	margin-top: 3.5 * $emSize !important;
+}
+// right
+[class*='no right margin']:not(.mobile):not(.tablet):not(.monitor):not(.screen):not(.portable) {
+	margin-right: 0 !important;
+}
+
+[class*='default right margin']:not(.mobile):not(.tablet):not(.monitor):not(.screen):not(.portable) {
+	margin-right: $emSize !important;
+}
+
+[class*='padded right margin']:not(.mobile):not(.tablet):not(.monitor):not(.screen):not(.portable) {
+	margin-right: 1.5 * $emSize !important;
+}
+
+[class*='very padded right margin']:not(.mobile):not(.tablet):not(.monitor):not(.screen):not(.portable) {
+	margin-right: 2 * $emSize !important;
+}
+
+[class*='more padded right margin']:not(.mobile):not(.tablet):not(.monitor):not(.screen):not(.portable) {
+	margin-right: 2.5 * $emSize !important;
+}
+
+[class*='extra padded right margin']:not(.mobile):not(.tablet):not(.monitor):not(.screen):not(.portable) {
+	margin-right: 3 * $emSize !important;
+}
+
+[class*='most padded top margin']:not(.mobile):not(.tablet):not(.monitor):not(.screen):not(.portable) {
+	margin-top: 3.5 * $emSize !important;
+}
+// bottom
+[class*='no bottom margin']:not(.mobile):not(.tablet):not(.monitor):not(.screen):not(.portable) {
+	margin-bottom: 0 !important;
+}
+
+[class*='default bottom margin']:not(.mobile):not(.tablet):not(.monitor):not(.screen):not(.portable) {
+	margin-bottom: $emSize !important;
+}
+
+[class*='padded bottom margin']:not(.mobile):not(.tablet):not(.monitor):not(.screen):not(.portable) {
+	margin-bottom: 1.5 * $emSize !important;
+}
+
+[class*='very padded bottom margin']:not(.mobile):not(.tablet):not(.monitor):not(.screen):not(.portable) {
+	margin-bottom: 2 * $emSize !important;
+}
+
+[class*='more padded bottom margin']:not(.mobile):not(.tablet):not(.monitor):not(.screen):not(.portable) {
+	margin-bottom: 2.5 * $emSize !important;
+}
+
+[class*='extra padded bottom margin']:not(.mobile):not(.tablet):not(.monitor):not(.screen):not(.portable) {
+	margin-bottom: 3 * $emSize !important;
+}
+
+[class*='most padded bottom margin']:not(.mobile):not(.tablet):not(.monitor):not(.screen):not(.portable) {
+	margin-bottom: 3.5 * $emSize !important;
+}
+
+// left
+[class*='no left margin']:not(.mobile):not(.tablet):not(.monitor):not(.screen):not(.portable) {
+	margin-left: 0 !important;
+}
+
+[class*='default left margin']:not(.mobile):not(.tablet):not(.monitor):not(.screen):not(.portable) {
+	margin-left: $emSize !important;
+}
+
+[class*='padded left margin']:not(.mobile):not(.tablet):not(.monitor):not(.screen):not(.portable) {
+	margin-left: 1.5 * $emSize !important;
+}
+
+[class*='very padded left margin']:not(.mobile):not(.tablet):not(.monitor):not(.screen):not(.portable) {
+	margin-left: 2 * $emSize !important;
+}
+
+[class*='more padded left margin']:not(.mobile):not(.tablet):not(.monitor):not(.screen):not(.portable) {
+	margin-left: 2.5 * $emSize !important;
+}
+
+[class*='extra padded left margin']:not(.mobile):not(.tablet):not(.monitor):not(.screen):not(.portable) {
+	margin-left: 3 * $emSize !important;
+}
+
+[class*='most padded left margin']:not(.mobile):not(.tablet):not(.monitor):not(.screen):not(.portable) {
+	margin-left: 3.5 * $emSize !important;
+}
+
+//******************** situational ********************
+// mobile
+$class-name: 'margin';
+@media only screen and (max-width: $mobileWidth) {
+	$device-name: 'mobile';
+	@import "distance";
+}
+
+// tablet
+@media only screen and (min-width: $mobileWidth + 1) and (max-width: $tabletWidth) {
+	$device-name: 'tablet';
+	@import "distance";
+}
+
+// portable (mobile & tablet)
+@media only screen and (max-width: $tabletWidth) {
+	$device-name: 'portable';
+	@import "distance";
+}
+
+// small screen
+@media only screen and (min-width: $tabletWidth + 1) and (max-width: $computerWidth) {
+	$device-name: 'small screen';
+	@import "distance";
+}
+
+// large screen
+@media only screen and (min-width: $computerWidth + 1) {
+	$device-name: 'large screen';
+	@import "distance";
+}
+
+// monitor (small & large screen)
+@media only screen and (min-width: $tabletWidth + 1) {
+	$device-name: 'monitor';
+	@import "distance";
+}

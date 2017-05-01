@@ -987,26 +987,166 @@
 [class*='hundred percent opacity'] {
   opacity: 1 !important; }
 
-[class*='no padding']:not(.mobile):not(.tablet):not(.monitor) {
+[class*='no padding']:not(.mobile):not(.tablet):not(.monitor):not(.screen):not(.portable) {
   padding: 0 !important; }
 
-[class*='default padding']:not(.mobile):not(.tablet):not(.monitor) {
+[class*='default padding']:not(.mobile):not(.tablet):not(.monitor):not(.screen):not(.portable) {
   padding: 14px !important; }
 
-[class*='padded padding']:not(.mobile):not(.tablet):not(.monitor) {
+[class*='padded padding']:not(.mobile):not(.tablet):not(.monitor):not(.screen):not(.portable) {
   padding: 21px !important; }
 
-[class*='very padded padding']:not(.mobile):not(.tablet):not(.monitor) {
+[class*='very padded padding']:not(.mobile):not(.tablet):not(.monitor):not(.screen):not(.portable) {
   padding: 28px !important; }
 
-[class*='more padded padding']:not(.mobile):not(.tablet):not(.monitor) {
+[class*='more padded padding']:not(.mobile):not(.tablet):not(.monitor):not(.screen):not(.portable) {
   padding: 35px !important; }
 
-[class*='extra padded padding']:not(.mobile):not(.tablet):not(.monitor) {
+[class*='extra padded padding']:not(.mobile):not(.tablet):not(.monitor):not(.screen):not(.portable) {
   padding: 42px !important; }
 
-[class*='most padded padding']:not(.mobile):not(.tablet):not(.monitor) {
+[class*='most padded padding']:not(.mobile):not(.tablet):not(.monitor):not(.screen):not(.portable) {
   padding: 49px !important; }
+
+[class*='no horizontal padding']:not(.mobile):not(.tablet):not(.monitor):not(.screen):not(.portable) {
+  padding-left: 0 !important;
+  padding-right: 0 !important; }
+
+[class*='default horizontal padding']:not(.mobile):not(.tablet):not(.monitor):not(.screen):not(.portable) {
+  padding-left: 14px !important;
+  padding-right: 14px !important; }
+
+[class*='padded horizontal padding']:not(.mobile):not(.tablet):not(.monitor):not(.screen):not(.portable) {
+  padding-left: 21px !important;
+  padding-right: 21px !important; }
+
+[class*='very padded horizontal padding']:not(.mobile):not(.tablet):not(.monitor):not(.screen):not(.portable) {
+  padding-left: 28px !important;
+  padding-right: 28px !important; }
+
+[class*='more padded horizontal padding']:not(.mobile):not(.tablet):not(.monitor):not(.screen):not(.portable) {
+  padding-left: 35px !important;
+  padding-right: 35px !important; }
+
+[class*='extra padded horizontal padding']:not(.mobile):not(.tablet):not(.monitor):not(.screen):not(.portable) {
+  padding-left: 42px !important;
+  padding-right: 42px !important; }
+
+[class*='most padded horizontal padding']:not(.mobile):not(.tablet):not(.monitor):not(.screen):not(.portable) {
+  padding-left: 49px !important;
+  padding-right: 49px !important; }
+
+[class*='no vertical padding']:not(.mobile):not(.tablet):not(.monitor):not(.screen):not(.portable) {
+  padding-top: 0 !important;
+  padding-bottom: 0 !important; }
+
+[class*='default vertical padding']:not(.mobile):not(.tablet):not(.monitor):not(.screen):not(.portable) {
+  padding-top: 14px !important;
+  padding-bottom: 14px !important; }
+
+[class*='padded vertical padding']:not(.mobile):not(.tablet):not(.monitor):not(.screen):not(.portable) {
+  padding-top: 21px !important;
+  padding-bottom: 21px !important; }
+
+[class*='very padded vertical padding']:not(.mobile):not(.tablet):not(.monitor):not(.screen):not(.portable) {
+  padding-top: 28px !important;
+  padding-bottom: 28px !important; }
+
+[class*='more padded vertical padding']:not(.mobile):not(.tablet):not(.monitor):not(.screen):not(.portable) {
+  padding-top: 35px !important;
+  padding-bottom: 35px !important; }
+
+[class*='extra padded vertical padding']:not(.mobile):not(.tablet):not(.monitor):not(.screen):not(.portable) {
+  padding-top: 42px !important;
+  padding-bottom: 42px !important; }
+
+[class*='most padded vertical padding']:not(.mobile):not(.tablet):not(.monitor):not(.screen):not(.portable) {
+  padding-top: 49px !important;
+  padding-bottom: 49px !important; }
+
+[class*='no top padding']:not(.mobile):not(.tablet):not(.monitor):not(.screen):not(.portable) {
+  padding-top: 0 !important; }
+
+[class*='default top padding']:not(.mobile):not(.tablet):not(.monitor):not(.screen):not(.portable) {
+  padding-top: 14px !important; }
+
+[class*='padded top padding']:not(.mobile):not(.tablet):not(.monitor):not(.screen):not(.portable) {
+  padding-top: 21px !important; }
+
+[class*='very padded top padding']:not(.mobile):not(.tablet):not(.monitor):not(.screen):not(.portable) {
+  padding-top: 28px !important; }
+
+[class*='more padded top padding']:not(.mobile):not(.tablet):not(.monitor):not(.screen):not(.portable) {
+  padding-top: 35px !important; }
+
+[class*='extra padded top padding']:not(.mobile):not(.tablet):not(.monitor):not(.screen):not(.portable) {
+  padding-top: 42px !important; }
+
+[class*='most padded top padding']:not(.mobile):not(.tablet):not(.monitor):not(.screen):not(.portable) {
+  padding-top: 49px !important; }
+
+[class*='no right padding']:not(.mobile):not(.tablet):not(.monitor):not(.screen):not(.portable) {
+  padding-right: 0 !important; }
+
+[class*='default right padding']:not(.mobile):not(.tablet):not(.monitor):not(.screen):not(.portable) {
+  padding-right: 14px !important; }
+
+[class*='padded right padding']:not(.mobile):not(.tablet):not(.monitor):not(.screen):not(.portable) {
+  padding-right: 21px !important; }
+
+[class*='very padded right padding']:not(.mobile):not(.tablet):not(.monitor):not(.screen):not(.portable) {
+  padding-right: 28px !important; }
+
+[class*='more padded right padding']:not(.mobile):not(.tablet):not(.monitor):not(.screen):not(.portable) {
+  padding-right: 35px !important; }
+
+[class*='extra padded right padding']:not(.mobile):not(.tablet):not(.monitor):not(.screen):not(.portable) {
+  padding-right: 42px !important; }
+
+[class*='most padded top padding']:not(.mobile):not(.tablet):not(.monitor):not(.screen):not(.portable) {
+  padding-top: 49px !important; }
+
+[class*='no bottom padding']:not(.mobile):not(.tablet):not(.monitor):not(.screen):not(.portable) {
+  padding-bottom: 0 !important; }
+
+[class*='default bottom padding']:not(.mobile):not(.tablet):not(.monitor):not(.screen):not(.portable) {
+  padding-bottom: 14px !important; }
+
+[class*='padded bottom padding']:not(.mobile):not(.tablet):not(.monitor):not(.screen):not(.portable) {
+  padding-bottom: 21px !important; }
+
+[class*='very padded bottom padding']:not(.mobile):not(.tablet):not(.monitor):not(.screen):not(.portable) {
+  padding-bottom: 28px !important; }
+
+[class*='more padded bottom padding']:not(.mobile):not(.tablet):not(.monitor):not(.screen):not(.portable) {
+  padding-bottom: 35px !important; }
+
+[class*='extra padded bottom padding']:not(.mobile):not(.tablet):not(.monitor):not(.screen):not(.portable) {
+  padding-bottom: 42px !important; }
+
+[class*='most padded bottom padding']:not(.mobile):not(.tablet):not(.monitor):not(.screen):not(.portable) {
+  padding-bottom: 49px !important; }
+
+[class*='no left padding']:not(.mobile):not(.tablet):not(.monitor):not(.screen):not(.portable) {
+  padding-left: 0 !important; }
+
+[class*='default left padding']:not(.mobile):not(.tablet):not(.monitor):not(.screen):not(.portable) {
+  padding-left: 14px !important; }
+
+[class*='padded left padding']:not(.mobile):not(.tablet):not(.monitor):not(.screen):not(.portable) {
+  padding-left: 21px !important; }
+
+[class*='very padded left padding']:not(.mobile):not(.tablet):not(.monitor):not(.screen):not(.portable) {
+  padding-left: 28px !important; }
+
+[class*='more padded left padding']:not(.mobile):not(.tablet):not(.monitor):not(.screen):not(.portable) {
+  padding-left: 35px !important; }
+
+[class*='extra padded left padding']:not(.mobile):not(.tablet):not(.monitor):not(.screen):not(.portable) {
+  padding-left: 42px !important; }
+
+[class*='most padded left padding']:not(.mobile):not(.tablet):not(.monitor):not(.screen):not(.portable) {
+  padding-left: 49px !important; }
 
 @media only screen and (max-width: 768px) {
   [class*='mobile no padding'] {
@@ -1030,29 +1170,2077 @@
   [class*='mobile most padded padding'] {
     padding: 49px !important; }
 
-  [class*='none monitor no padding'] {
-    padding: 0 !important; } }
+  [class*='mobile no horizontal padding'] {
+    padding-left: 0 !important;
+    padding-right: 0 !important; }
+
+  [class*='mobile default horizontal padding'] {
+    padding-left: 14px !important;
+    padding-right: 14px !important; }
+
+  [class*='mobile padded horizontal padding'] {
+    padding-left: 21px !important;
+    padding-right: 21px !important; }
+
+  [class*='mobile very padded horizontal padding'] {
+    padding-left: 28px !important;
+    padding-right: 28px !important; }
+
+  [class*='mobile more padded horizontal padding'] {
+    padding-left: 35px !important;
+    padding-right: 35px !important; }
+
+  [class*='mobile extra padded horizontal padding'] {
+    padding-left: 42px !important;
+    padding-right: 42px !important; }
+
+  [class*='mobile most padded horizontal padding'] {
+    padding-left: 49px !important;
+    padding-right: 49px !important; }
+
+  [class*='mobile no vertical padding'] {
+    padding-top: 0 !important;
+    padding-bottom: 0 !important; }
+
+  [class*='mobile default vertical padding'] {
+    padding-top: 14px !important;
+    padding-bottom: 14px !important; }
+
+  [class*='mobile padded vertical padding'] {
+    padding-top: 21px !important;
+    padding-bottom: 21px !important; }
+
+  [class*='mobile very padded vertical padding'] {
+    padding-top: 28px !important;
+    padding-bottom: 28px !important; }
+
+  [class*='mobile more padded vertical padding'] {
+    padding-top: 35px !important;
+    padding-bottom: 35px !important; }
+
+  [class*='mobile extra padded vertical padding'] {
+    padding-top: 42px !important;
+    padding-bottom: 42px !important; }
+
+  [class*='mobile most padded vertical padding'] {
+    padding-top: 49px !important;
+    padding-bottom: 49px !important; }
+
+  [class*='mobile no top padding'] {
+    padding-top: 0 !important; }
+
+  [class*='mobile default top padding'] {
+    padding-top: 14px !important; }
+
+  [class*='mobile padded top padding'] {
+    padding-top: 21px !important; }
+
+  [class*='mobile very padded top padding'] {
+    padding-top: 28px !important; }
+
+  [class*='mobile more padded top padding'] {
+    padding-top: 35px !important; }
+
+  [class*='mobile extra padded top padding'] {
+    padding-top: 42px !important; }
+
+  [class*='mobile most padded top padding'] {
+    padding-top: 49px !important; }
+
+  [class*='mobile no right padding'] {
+    padding-right: 0 !important; }
+
+  [class*='mobile default right padding'] {
+    padding-right: 14px !important; }
+
+  [class*='mobile padded right padding'] {
+    padding-right: 21px !important; }
+
+  [class*='mobile very padded right padding'] {
+    padding-right: 28px !important; }
+
+  [class*='mobile more padded right padding'] {
+    padding-right: 35px !important; }
+
+  [class*='mobile extra padded right padding'] {
+    padding-right: 42px !important; }
+
+  [class*='mobile most padded top padding'] {
+    padding-top: 49px !important; }
+
+  [class*='mobile no bottom padding'] {
+    padding-bottom: 0 !important; }
+
+  [class*='mobile default bottom padding'] {
+    padding-bottom: 14px !important; }
+
+  [class*='mobile padded bottom padding'] {
+    padding-bottom: 21px !important; }
+
+  [class*='mobile very padded bottom padding'] {
+    padding-bottom: 28px !important; }
+
+  [class*='mobile more padded bottom padding'] {
+    padding-bottom: 35px !important; }
+
+  [class*='mobile extra padded bottom padding'] {
+    padding-bottom: 42px !important; }
+
+  [class*='mobile most padded bottom padding'] {
+    padding-bottom: 49px !important; }
+
+  [class*='mobile no left padding'] {
+    padding-left: 0 !important; }
+
+  [class*='mobile default left padding'] {
+    padding-left: 14px !important; }
+
+  [class*='mobile padded left padding'] {
+    padding-left: 21px !important; }
+
+  [class*='mobile very padded left padding'] {
+    padding-left: 28px !important; }
+
+  [class*='mobile more padded left padding'] {
+    padding-left: 35px !important; }
+
+  [class*='mobile extra padded left padding'] {
+    padding-left: 42px !important; }
+
+  [class*='mobile most padded left padding'] {
+    padding-left: 49px !important; } }
 @media only screen and (min-width: 769px) and (max-width: 991px) {
   [class*='tablet no padding'] {
     padding: 0 !important; }
 
-  [class*='none monitor no padding'] {
-    padding: 0 !important; } }
-@media only screen and (min-width: 769px) and (max-width: 991px) {
-  [class*='tablet no padding'] {
+  [class*='tablet default padding'] {
+    padding: 14px !important; }
+
+  [class*='tablet padded padding'] {
+    padding: 21px !important; }
+
+  [class*='tablet very padded padding'] {
+    padding: 28px !important; }
+
+  [class*='tablet more padded padding'] {
+    padding: 35px !important; }
+
+  [class*='tablet extra padded padding'] {
+    padding: 42px !important; }
+
+  [class*='tablet most padded padding'] {
+    padding: 49px !important; }
+
+  [class*='tablet no horizontal padding'] {
+    padding-left: 0 !important;
+    padding-right: 0 !important; }
+
+  [class*='tablet default horizontal padding'] {
+    padding-left: 14px !important;
+    padding-right: 14px !important; }
+
+  [class*='tablet padded horizontal padding'] {
+    padding-left: 21px !important;
+    padding-right: 21px !important; }
+
+  [class*='tablet very padded horizontal padding'] {
+    padding-left: 28px !important;
+    padding-right: 28px !important; }
+
+  [class*='tablet more padded horizontal padding'] {
+    padding-left: 35px !important;
+    padding-right: 35px !important; }
+
+  [class*='tablet extra padded horizontal padding'] {
+    padding-left: 42px !important;
+    padding-right: 42px !important; }
+
+  [class*='tablet most padded horizontal padding'] {
+    padding-left: 49px !important;
+    padding-right: 49px !important; }
+
+  [class*='tablet no vertical padding'] {
+    padding-top: 0 !important;
+    padding-bottom: 0 !important; }
+
+  [class*='tablet default vertical padding'] {
+    padding-top: 14px !important;
+    padding-bottom: 14px !important; }
+
+  [class*='tablet padded vertical padding'] {
+    padding-top: 21px !important;
+    padding-bottom: 21px !important; }
+
+  [class*='tablet very padded vertical padding'] {
+    padding-top: 28px !important;
+    padding-bottom: 28px !important; }
+
+  [class*='tablet more padded vertical padding'] {
+    padding-top: 35px !important;
+    padding-bottom: 35px !important; }
+
+  [class*='tablet extra padded vertical padding'] {
+    padding-top: 42px !important;
+    padding-bottom: 42px !important; }
+
+  [class*='tablet most padded vertical padding'] {
+    padding-top: 49px !important;
+    padding-bottom: 49px !important; }
+
+  [class*='tablet no top padding'] {
+    padding-top: 0 !important; }
+
+  [class*='tablet default top padding'] {
+    padding-top: 14px !important; }
+
+  [class*='tablet padded top padding'] {
+    padding-top: 21px !important; }
+
+  [class*='tablet very padded top padding'] {
+    padding-top: 28px !important; }
+
+  [class*='tablet more padded top padding'] {
+    padding-top: 35px !important; }
+
+  [class*='tablet extra padded top padding'] {
+    padding-top: 42px !important; }
+
+  [class*='tablet most padded top padding'] {
+    padding-top: 49px !important; }
+
+  [class*='tablet no right padding'] {
+    padding-right: 0 !important; }
+
+  [class*='tablet default right padding'] {
+    padding-right: 14px !important; }
+
+  [class*='tablet padded right padding'] {
+    padding-right: 21px !important; }
+
+  [class*='tablet very padded right padding'] {
+    padding-right: 28px !important; }
+
+  [class*='tablet more padded right padding'] {
+    padding-right: 35px !important; }
+
+  [class*='tablet extra padded right padding'] {
+    padding-right: 42px !important; }
+
+  [class*='tablet most padded top padding'] {
+    padding-top: 49px !important; }
+
+  [class*='tablet no bottom padding'] {
+    padding-bottom: 0 !important; }
+
+  [class*='tablet default bottom padding'] {
+    padding-bottom: 14px !important; }
+
+  [class*='tablet padded bottom padding'] {
+    padding-bottom: 21px !important; }
+
+  [class*='tablet very padded bottom padding'] {
+    padding-bottom: 28px !important; }
+
+  [class*='tablet more padded bottom padding'] {
+    padding-bottom: 35px !important; }
+
+  [class*='tablet extra padded bottom padding'] {
+    padding-bottom: 42px !important; }
+
+  [class*='tablet most padded bottom padding'] {
+    padding-bottom: 49px !important; }
+
+  [class*='tablet no left padding'] {
+    padding-left: 0 !important; }
+
+  [class*='tablet default left padding'] {
+    padding-left: 14px !important; }
+
+  [class*='tablet padded left padding'] {
+    padding-left: 21px !important; }
+
+  [class*='tablet very padded left padding'] {
+    padding-left: 28px !important; }
+
+  [class*='tablet more padded left padding'] {
+    padding-left: 35px !important; }
+
+  [class*='tablet extra padded left padding'] {
+    padding-left: 42px !important; }
+
+  [class*='tablet most padded left padding'] {
+    padding-left: 49px !important; } }
+@media only screen and (max-width: 991px) {
+  [class*='portable no padding'] {
     padding: 0 !important; }
 
-  [class*='none monitor no padding'] {
-    padding: 0 !important; } }
+  [class*='portable default padding'] {
+    padding: 14px !important; }
+
+  [class*='portable padded padding'] {
+    padding: 21px !important; }
+
+  [class*='portable very padded padding'] {
+    padding: 28px !important; }
+
+  [class*='portable more padded padding'] {
+    padding: 35px !important; }
+
+  [class*='portable extra padded padding'] {
+    padding: 42px !important; }
+
+  [class*='portable most padded padding'] {
+    padding: 49px !important; }
+
+  [class*='portable no horizontal padding'] {
+    padding-left: 0 !important;
+    padding-right: 0 !important; }
+
+  [class*='portable default horizontal padding'] {
+    padding-left: 14px !important;
+    padding-right: 14px !important; }
+
+  [class*='portable padded horizontal padding'] {
+    padding-left: 21px !important;
+    padding-right: 21px !important; }
+
+  [class*='portable very padded horizontal padding'] {
+    padding-left: 28px !important;
+    padding-right: 28px !important; }
+
+  [class*='portable more padded horizontal padding'] {
+    padding-left: 35px !important;
+    padding-right: 35px !important; }
+
+  [class*='portable extra padded horizontal padding'] {
+    padding-left: 42px !important;
+    padding-right: 42px !important; }
+
+  [class*='portable most padded horizontal padding'] {
+    padding-left: 49px !important;
+    padding-right: 49px !important; }
+
+  [class*='portable no vertical padding'] {
+    padding-top: 0 !important;
+    padding-bottom: 0 !important; }
+
+  [class*='portable default vertical padding'] {
+    padding-top: 14px !important;
+    padding-bottom: 14px !important; }
+
+  [class*='portable padded vertical padding'] {
+    padding-top: 21px !important;
+    padding-bottom: 21px !important; }
+
+  [class*='portable very padded vertical padding'] {
+    padding-top: 28px !important;
+    padding-bottom: 28px !important; }
+
+  [class*='portable more padded vertical padding'] {
+    padding-top: 35px !important;
+    padding-bottom: 35px !important; }
+
+  [class*='portable extra padded vertical padding'] {
+    padding-top: 42px !important;
+    padding-bottom: 42px !important; }
+
+  [class*='portable most padded vertical padding'] {
+    padding-top: 49px !important;
+    padding-bottom: 49px !important; }
+
+  [class*='portable no top padding'] {
+    padding-top: 0 !important; }
+
+  [class*='portable default top padding'] {
+    padding-top: 14px !important; }
+
+  [class*='portable padded top padding'] {
+    padding-top: 21px !important; }
+
+  [class*='portable very padded top padding'] {
+    padding-top: 28px !important; }
+
+  [class*='portable more padded top padding'] {
+    padding-top: 35px !important; }
+
+  [class*='portable extra padded top padding'] {
+    padding-top: 42px !important; }
+
+  [class*='portable most padded top padding'] {
+    padding-top: 49px !important; }
+
+  [class*='portable no right padding'] {
+    padding-right: 0 !important; }
+
+  [class*='portable default right padding'] {
+    padding-right: 14px !important; }
+
+  [class*='portable padded right padding'] {
+    padding-right: 21px !important; }
+
+  [class*='portable very padded right padding'] {
+    padding-right: 28px !important; }
+
+  [class*='portable more padded right padding'] {
+    padding-right: 35px !important; }
+
+  [class*='portable extra padded right padding'] {
+    padding-right: 42px !important; }
+
+  [class*='portable most padded top padding'] {
+    padding-top: 49px !important; }
+
+  [class*='portable no bottom padding'] {
+    padding-bottom: 0 !important; }
+
+  [class*='portable default bottom padding'] {
+    padding-bottom: 14px !important; }
+
+  [class*='portable padded bottom padding'] {
+    padding-bottom: 21px !important; }
+
+  [class*='portable very padded bottom padding'] {
+    padding-bottom: 28px !important; }
+
+  [class*='portable more padded bottom padding'] {
+    padding-bottom: 35px !important; }
+
+  [class*='portable extra padded bottom padding'] {
+    padding-bottom: 42px !important; }
+
+  [class*='portable most padded bottom padding'] {
+    padding-bottom: 49px !important; }
+
+  [class*='portable no left padding'] {
+    padding-left: 0 !important; }
+
+  [class*='portable default left padding'] {
+    padding-left: 14px !important; }
+
+  [class*='portable padded left padding'] {
+    padding-left: 21px !important; }
+
+  [class*='portable very padded left padding'] {
+    padding-left: 28px !important; }
+
+  [class*='portable more padded left padding'] {
+    padding-left: 35px !important; }
+
+  [class*='portable extra padded left padding'] {
+    padding-left: 42px !important; }
+
+  [class*='portable most padded left padding'] {
+    padding-left: 49px !important; } }
 @media only screen and (min-width: 992px) and (max-width: 1200px) {
-  [class*='small monitor no padding'] {
-    padding: 0 !important; } }
+  [class*='small screen no padding'] {
+    padding: 0 !important; }
+
+  [class*='small screen default padding'] {
+    padding: 14px !important; }
+
+  [class*='small screen padded padding'] {
+    padding: 21px !important; }
+
+  [class*='small screen very padded padding'] {
+    padding: 28px !important; }
+
+  [class*='small screen more padded padding'] {
+    padding: 35px !important; }
+
+  [class*='small screen extra padded padding'] {
+    padding: 42px !important; }
+
+  [class*='small screen most padded padding'] {
+    padding: 49px !important; }
+
+  [class*='small screen no horizontal padding'] {
+    padding-left: 0 !important;
+    padding-right: 0 !important; }
+
+  [class*='small screen default horizontal padding'] {
+    padding-left: 14px !important;
+    padding-right: 14px !important; }
+
+  [class*='small screen padded horizontal padding'] {
+    padding-left: 21px !important;
+    padding-right: 21px !important; }
+
+  [class*='small screen very padded horizontal padding'] {
+    padding-left: 28px !important;
+    padding-right: 28px !important; }
+
+  [class*='small screen more padded horizontal padding'] {
+    padding-left: 35px !important;
+    padding-right: 35px !important; }
+
+  [class*='small screen extra padded horizontal padding'] {
+    padding-left: 42px !important;
+    padding-right: 42px !important; }
+
+  [class*='small screen most padded horizontal padding'] {
+    padding-left: 49px !important;
+    padding-right: 49px !important; }
+
+  [class*='small screen no vertical padding'] {
+    padding-top: 0 !important;
+    padding-bottom: 0 !important; }
+
+  [class*='small screen default vertical padding'] {
+    padding-top: 14px !important;
+    padding-bottom: 14px !important; }
+
+  [class*='small screen padded vertical padding'] {
+    padding-top: 21px !important;
+    padding-bottom: 21px !important; }
+
+  [class*='small screen very padded vertical padding'] {
+    padding-top: 28px !important;
+    padding-bottom: 28px !important; }
+
+  [class*='small screen more padded vertical padding'] {
+    padding-top: 35px !important;
+    padding-bottom: 35px !important; }
+
+  [class*='small screen extra padded vertical padding'] {
+    padding-top: 42px !important;
+    padding-bottom: 42px !important; }
+
+  [class*='small screen most padded vertical padding'] {
+    padding-top: 49px !important;
+    padding-bottom: 49px !important; }
+
+  [class*='small screen no top padding'] {
+    padding-top: 0 !important; }
+
+  [class*='small screen default top padding'] {
+    padding-top: 14px !important; }
+
+  [class*='small screen padded top padding'] {
+    padding-top: 21px !important; }
+
+  [class*='small screen very padded top padding'] {
+    padding-top: 28px !important; }
+
+  [class*='small screen more padded top padding'] {
+    padding-top: 35px !important; }
+
+  [class*='small screen extra padded top padding'] {
+    padding-top: 42px !important; }
+
+  [class*='small screen most padded top padding'] {
+    padding-top: 49px !important; }
+
+  [class*='small screen no right padding'] {
+    padding-right: 0 !important; }
+
+  [class*='small screen default right padding'] {
+    padding-right: 14px !important; }
+
+  [class*='small screen padded right padding'] {
+    padding-right: 21px !important; }
+
+  [class*='small screen very padded right padding'] {
+    padding-right: 28px !important; }
+
+  [class*='small screen more padded right padding'] {
+    padding-right: 35px !important; }
+
+  [class*='small screen extra padded right padding'] {
+    padding-right: 42px !important; }
+
+  [class*='small screen most padded top padding'] {
+    padding-top: 49px !important; }
+
+  [class*='small screen no bottom padding'] {
+    padding-bottom: 0 !important; }
+
+  [class*='small screen default bottom padding'] {
+    padding-bottom: 14px !important; }
+
+  [class*='small screen padded bottom padding'] {
+    padding-bottom: 21px !important; }
+
+  [class*='small screen very padded bottom padding'] {
+    padding-bottom: 28px !important; }
+
+  [class*='small screen more padded bottom padding'] {
+    padding-bottom: 35px !important; }
+
+  [class*='small screen extra padded bottom padding'] {
+    padding-bottom: 42px !important; }
+
+  [class*='small screen most padded bottom padding'] {
+    padding-bottom: 49px !important; }
+
+  [class*='small screen no left padding'] {
+    padding-left: 0 !important; }
+
+  [class*='small screen default left padding'] {
+    padding-left: 14px !important; }
+
+  [class*='small screen padded left padding'] {
+    padding-left: 21px !important; }
+
+  [class*='small screen very padded left padding'] {
+    padding-left: 28px !important; }
+
+  [class*='small screen more padded left padding'] {
+    padding-left: 35px !important; }
+
+  [class*='small screen extra padded left padding'] {
+    padding-left: 42px !important; }
+
+  [class*='small screen most padded left padding'] {
+    padding-left: 49px !important; } }
 @media only screen and (min-width: 1201px) {
-  [class*='large monitor no padding'] {
-    padding: 0 !important; } }
+  [class*='large screen no padding'] {
+    padding: 0 !important; }
+
+  [class*='large screen default padding'] {
+    padding: 14px !important; }
+
+  [class*='large screen padded padding'] {
+    padding: 21px !important; }
+
+  [class*='large screen very padded padding'] {
+    padding: 28px !important; }
+
+  [class*='large screen more padded padding'] {
+    padding: 35px !important; }
+
+  [class*='large screen extra padded padding'] {
+    padding: 42px !important; }
+
+  [class*='large screen most padded padding'] {
+    padding: 49px !important; }
+
+  [class*='large screen no horizontal padding'] {
+    padding-left: 0 !important;
+    padding-right: 0 !important; }
+
+  [class*='large screen default horizontal padding'] {
+    padding-left: 14px !important;
+    padding-right: 14px !important; }
+
+  [class*='large screen padded horizontal padding'] {
+    padding-left: 21px !important;
+    padding-right: 21px !important; }
+
+  [class*='large screen very padded horizontal padding'] {
+    padding-left: 28px !important;
+    padding-right: 28px !important; }
+
+  [class*='large screen more padded horizontal padding'] {
+    padding-left: 35px !important;
+    padding-right: 35px !important; }
+
+  [class*='large screen extra padded horizontal padding'] {
+    padding-left: 42px !important;
+    padding-right: 42px !important; }
+
+  [class*='large screen most padded horizontal padding'] {
+    padding-left: 49px !important;
+    padding-right: 49px !important; }
+
+  [class*='large screen no vertical padding'] {
+    padding-top: 0 !important;
+    padding-bottom: 0 !important; }
+
+  [class*='large screen default vertical padding'] {
+    padding-top: 14px !important;
+    padding-bottom: 14px !important; }
+
+  [class*='large screen padded vertical padding'] {
+    padding-top: 21px !important;
+    padding-bottom: 21px !important; }
+
+  [class*='large screen very padded vertical padding'] {
+    padding-top: 28px !important;
+    padding-bottom: 28px !important; }
+
+  [class*='large screen more padded vertical padding'] {
+    padding-top: 35px !important;
+    padding-bottom: 35px !important; }
+
+  [class*='large screen extra padded vertical padding'] {
+    padding-top: 42px !important;
+    padding-bottom: 42px !important; }
+
+  [class*='large screen most padded vertical padding'] {
+    padding-top: 49px !important;
+    padding-bottom: 49px !important; }
+
+  [class*='large screen no top padding'] {
+    padding-top: 0 !important; }
+
+  [class*='large screen default top padding'] {
+    padding-top: 14px !important; }
+
+  [class*='large screen padded top padding'] {
+    padding-top: 21px !important; }
+
+  [class*='large screen very padded top padding'] {
+    padding-top: 28px !important; }
+
+  [class*='large screen more padded top padding'] {
+    padding-top: 35px !important; }
+
+  [class*='large screen extra padded top padding'] {
+    padding-top: 42px !important; }
+
+  [class*='large screen most padded top padding'] {
+    padding-top: 49px !important; }
+
+  [class*='large screen no right padding'] {
+    padding-right: 0 !important; }
+
+  [class*='large screen default right padding'] {
+    padding-right: 14px !important; }
+
+  [class*='large screen padded right padding'] {
+    padding-right: 21px !important; }
+
+  [class*='large screen very padded right padding'] {
+    padding-right: 28px !important; }
+
+  [class*='large screen more padded right padding'] {
+    padding-right: 35px !important; }
+
+  [class*='large screen extra padded right padding'] {
+    padding-right: 42px !important; }
+
+  [class*='large screen most padded top padding'] {
+    padding-top: 49px !important; }
+
+  [class*='large screen no bottom padding'] {
+    padding-bottom: 0 !important; }
+
+  [class*='large screen default bottom padding'] {
+    padding-bottom: 14px !important; }
+
+  [class*='large screen padded bottom padding'] {
+    padding-bottom: 21px !important; }
+
+  [class*='large screen very padded bottom padding'] {
+    padding-bottom: 28px !important; }
+
+  [class*='large screen more padded bottom padding'] {
+    padding-bottom: 35px !important; }
+
+  [class*='large screen extra padded bottom padding'] {
+    padding-bottom: 42px !important; }
+
+  [class*='large screen most padded bottom padding'] {
+    padding-bottom: 49px !important; }
+
+  [class*='large screen no left padding'] {
+    padding-left: 0 !important; }
+
+  [class*='large screen default left padding'] {
+    padding-left: 14px !important; }
+
+  [class*='large screen padded left padding'] {
+    padding-left: 21px !important; }
+
+  [class*='large screen very padded left padding'] {
+    padding-left: 28px !important; }
+
+  [class*='large screen more padded left padding'] {
+    padding-left: 35px !important; }
+
+  [class*='large screen extra padded left padding'] {
+    padding-left: 42px !important; }
+
+  [class*='large screen most padded left padding'] {
+    padding-left: 49px !important; } }
 @media only screen and (min-width: 992px) {
-  [class*='all monitor no padding'] {
-    padding: 0 !important; } }
+  [class*='monitor no padding'] {
+    padding: 0 !important; }
+
+  [class*='monitor default padding'] {
+    padding: 14px !important; }
+
+  [class*='monitor padded padding'] {
+    padding: 21px !important; }
+
+  [class*='monitor very padded padding'] {
+    padding: 28px !important; }
+
+  [class*='monitor more padded padding'] {
+    padding: 35px !important; }
+
+  [class*='monitor extra padded padding'] {
+    padding: 42px !important; }
+
+  [class*='monitor most padded padding'] {
+    padding: 49px !important; }
+
+  [class*='monitor no horizontal padding'] {
+    padding-left: 0 !important;
+    padding-right: 0 !important; }
+
+  [class*='monitor default horizontal padding'] {
+    padding-left: 14px !important;
+    padding-right: 14px !important; }
+
+  [class*='monitor padded horizontal padding'] {
+    padding-left: 21px !important;
+    padding-right: 21px !important; }
+
+  [class*='monitor very padded horizontal padding'] {
+    padding-left: 28px !important;
+    padding-right: 28px !important; }
+
+  [class*='monitor more padded horizontal padding'] {
+    padding-left: 35px !important;
+    padding-right: 35px !important; }
+
+  [class*='monitor extra padded horizontal padding'] {
+    padding-left: 42px !important;
+    padding-right: 42px !important; }
+
+  [class*='monitor most padded horizontal padding'] {
+    padding-left: 49px !important;
+    padding-right: 49px !important; }
+
+  [class*='monitor no vertical padding'] {
+    padding-top: 0 !important;
+    padding-bottom: 0 !important; }
+
+  [class*='monitor default vertical padding'] {
+    padding-top: 14px !important;
+    padding-bottom: 14px !important; }
+
+  [class*='monitor padded vertical padding'] {
+    padding-top: 21px !important;
+    padding-bottom: 21px !important; }
+
+  [class*='monitor very padded vertical padding'] {
+    padding-top: 28px !important;
+    padding-bottom: 28px !important; }
+
+  [class*='monitor more padded vertical padding'] {
+    padding-top: 35px !important;
+    padding-bottom: 35px !important; }
+
+  [class*='monitor extra padded vertical padding'] {
+    padding-top: 42px !important;
+    padding-bottom: 42px !important; }
+
+  [class*='monitor most padded vertical padding'] {
+    padding-top: 49px !important;
+    padding-bottom: 49px !important; }
+
+  [class*='monitor no top padding'] {
+    padding-top: 0 !important; }
+
+  [class*='monitor default top padding'] {
+    padding-top: 14px !important; }
+
+  [class*='monitor padded top padding'] {
+    padding-top: 21px !important; }
+
+  [class*='monitor very padded top padding'] {
+    padding-top: 28px !important; }
+
+  [class*='monitor more padded top padding'] {
+    padding-top: 35px !important; }
+
+  [class*='monitor extra padded top padding'] {
+    padding-top: 42px !important; }
+
+  [class*='monitor most padded top padding'] {
+    padding-top: 49px !important; }
+
+  [class*='monitor no right padding'] {
+    padding-right: 0 !important; }
+
+  [class*='monitor default right padding'] {
+    padding-right: 14px !important; }
+
+  [class*='monitor padded right padding'] {
+    padding-right: 21px !important; }
+
+  [class*='monitor very padded right padding'] {
+    padding-right: 28px !important; }
+
+  [class*='monitor more padded right padding'] {
+    padding-right: 35px !important; }
+
+  [class*='monitor extra padded right padding'] {
+    padding-right: 42px !important; }
+
+  [class*='monitor most padded top padding'] {
+    padding-top: 49px !important; }
+
+  [class*='monitor no bottom padding'] {
+    padding-bottom: 0 !important; }
+
+  [class*='monitor default bottom padding'] {
+    padding-bottom: 14px !important; }
+
+  [class*='monitor padded bottom padding'] {
+    padding-bottom: 21px !important; }
+
+  [class*='monitor very padded bottom padding'] {
+    padding-bottom: 28px !important; }
+
+  [class*='monitor more padded bottom padding'] {
+    padding-bottom: 35px !important; }
+
+  [class*='monitor extra padded bottom padding'] {
+    padding-bottom: 42px !important; }
+
+  [class*='monitor most padded bottom padding'] {
+    padding-bottom: 49px !important; }
+
+  [class*='monitor no left padding'] {
+    padding-left: 0 !important; }
+
+  [class*='monitor default left padding'] {
+    padding-left: 14px !important; }
+
+  [class*='monitor padded left padding'] {
+    padding-left: 21px !important; }
+
+  [class*='monitor very padded left padding'] {
+    padding-left: 28px !important; }
+
+  [class*='monitor more padded left padding'] {
+    padding-left: 35px !important; }
+
+  [class*='monitor extra padded left padding'] {
+    padding-left: 42px !important; }
+
+  [class*='monitor most padded left padding'] {
+    padding-left: 49px !important; } }
+[class*='no margin']:not(.mobile):not(.tablet):not(.monitor):not(.screen):not(.portable) {
+  margin: 0 !important; }
+
+[class*='default margin']:not(.mobile):not(.tablet):not(.monitor):not(.screen):not(.portable) {
+  margin: 14px !important; }
+
+[class*='padded margin']:not(.mobile):not(.tablet):not(.monitor):not(.screen):not(.portable) {
+  margin: 21px !important; }
+
+[class*='very padded margin']:not(.mobile):not(.tablet):not(.monitor):not(.screen):not(.portable) {
+  margin: 28px !important; }
+
+[class*='more padded margin']:not(.mobile):not(.tablet):not(.monitor):not(.screen):not(.portable) {
+  margin: 35px !important; }
+
+[class*='extra padded margin']:not(.mobile):not(.tablet):not(.monitor):not(.screen):not(.portable) {
+  margin: 42px !important; }
+
+[class*='most padded margin']:not(.mobile):not(.tablet):not(.monitor):not(.screen):not(.portable) {
+  margin: 49px !important; }
+
+[class*='no horizontal margin']:not(.mobile):not(.tablet):not(.monitor):not(.screen):not(.portable) {
+  margin-left: 0 !important;
+  margin-right: 0 !important; }
+
+[class*='default horizontal margin']:not(.mobile):not(.tablet):not(.monitor):not(.screen):not(.portable) {
+  margin-left: 14px !important;
+  margin-right: 14px !important; }
+
+[class*='padded horizontal margin']:not(.mobile):not(.tablet):not(.monitor):not(.screen):not(.portable) {
+  margin-left: 21px !important;
+  margin-right: 21px !important; }
+
+[class*='very padded horizontal margin']:not(.mobile):not(.tablet):not(.monitor):not(.screen):not(.portable) {
+  margin-left: 28px !important;
+  margin-right: 28px !important; }
+
+[class*='more padded horizontal margin']:not(.mobile):not(.tablet):not(.monitor):not(.screen):not(.portable) {
+  margin-left: 35px !important;
+  margin-right: 35px !important; }
+
+[class*='extra padded horizontal margin']:not(.mobile):not(.tablet):not(.monitor):not(.screen):not(.portable) {
+  margin-left: 42px !important;
+  margin-right: 42px !important; }
+
+[class*='most padded horizontal margin']:not(.mobile):not(.tablet):not(.monitor):not(.screen):not(.portable) {
+  margin-left: 49px !important;
+  margin-right: 49px !important; }
+
+[class*='no vertical margin']:not(.mobile):not(.tablet):not(.monitor):not(.screen):not(.portable) {
+  margin-top: 0 !important;
+  margin-bottom: 0 !important; }
+
+[class*='default vertical margin']:not(.mobile):not(.tablet):not(.monitor):not(.screen):not(.portable) {
+  margin-top: 14px !important;
+  margin-bottom: 14px !important; }
+
+[class*='padded vertical margin']:not(.mobile):not(.tablet):not(.monitor):not(.screen):not(.portable) {
+  margin-top: 21px !important;
+  margin-bottom: 21px !important; }
+
+[class*='very padded vertical margin']:not(.mobile):not(.tablet):not(.monitor):not(.screen):not(.portable) {
+  margin-top: 28px !important;
+  margin-bottom: 28px !important; }
+
+[class*='more padded vertical margin']:not(.mobile):not(.tablet):not(.monitor):not(.screen):not(.portable) {
+  margin-top: 35px !important;
+  margin-bottom: 35px !important; }
+
+[class*='extra padded vertical margin']:not(.mobile):not(.tablet):not(.monitor):not(.screen):not(.portable) {
+  margin-top: 42px !important;
+  margin-bottom: 42px !important; }
+
+[class*='most padded vertical margin']:not(.mobile):not(.tablet):not(.monitor):not(.screen):not(.portable) {
+  margin-top: 49px !important;
+  margin-bottom: 49px !important; }
+
+[class*='no top margin']:not(.mobile):not(.tablet):not(.monitor):not(.screen):not(.portable) {
+  margin-top: 0 !important; }
+
+[class*='default top margin']:not(.mobile):not(.tablet):not(.monitor):not(.screen):not(.portable) {
+  margin-top: 14px !important; }
+
+[class*='padded top margin']:not(.mobile):not(.tablet):not(.monitor):not(.screen):not(.portable) {
+  margin-top: 21px !important; }
+
+[class*='very padded top margin']:not(.mobile):not(.tablet):not(.monitor):not(.screen):not(.portable) {
+  margin-top: 28px !important; }
+
+[class*='more padded top margin']:not(.mobile):not(.tablet):not(.monitor):not(.screen):not(.portable) {
+  margin-top: 35px !important; }
+
+[class*='extra padded top margin']:not(.mobile):not(.tablet):not(.monitor):not(.screen):not(.portable) {
+  margin-top: 42px !important; }
+
+[class*='most padded top margin']:not(.mobile):not(.tablet):not(.monitor):not(.screen):not(.portable) {
+  margin-top: 49px !important; }
+
+[class*='no right margin']:not(.mobile):not(.tablet):not(.monitor):not(.screen):not(.portable) {
+  margin-right: 0 !important; }
+
+[class*='default right margin']:not(.mobile):not(.tablet):not(.monitor):not(.screen):not(.portable) {
+  margin-right: 14px !important; }
+
+[class*='padded right margin']:not(.mobile):not(.tablet):not(.monitor):not(.screen):not(.portable) {
+  margin-right: 21px !important; }
+
+[class*='very padded right margin']:not(.mobile):not(.tablet):not(.monitor):not(.screen):not(.portable) {
+  margin-right: 28px !important; }
+
+[class*='more padded right margin']:not(.mobile):not(.tablet):not(.monitor):not(.screen):not(.portable) {
+  margin-right: 35px !important; }
+
+[class*='extra padded right margin']:not(.mobile):not(.tablet):not(.monitor):not(.screen):not(.portable) {
+  margin-right: 42px !important; }
+
+[class*='most padded top margin']:not(.mobile):not(.tablet):not(.monitor):not(.screen):not(.portable) {
+  margin-top: 49px !important; }
+
+[class*='no bottom margin']:not(.mobile):not(.tablet):not(.monitor):not(.screen):not(.portable) {
+  margin-bottom: 0 !important; }
+
+[class*='default bottom margin']:not(.mobile):not(.tablet):not(.monitor):not(.screen):not(.portable) {
+  margin-bottom: 14px !important; }
+
+[class*='padded bottom margin']:not(.mobile):not(.tablet):not(.monitor):not(.screen):not(.portable) {
+  margin-bottom: 21px !important; }
+
+[class*='very padded bottom margin']:not(.mobile):not(.tablet):not(.monitor):not(.screen):not(.portable) {
+  margin-bottom: 28px !important; }
+
+[class*='more padded bottom margin']:not(.mobile):not(.tablet):not(.monitor):not(.screen):not(.portable) {
+  margin-bottom: 35px !important; }
+
+[class*='extra padded bottom margin']:not(.mobile):not(.tablet):not(.monitor):not(.screen):not(.portable) {
+  margin-bottom: 42px !important; }
+
+[class*='most padded bottom margin']:not(.mobile):not(.tablet):not(.monitor):not(.screen):not(.portable) {
+  margin-bottom: 49px !important; }
+
+[class*='no left margin']:not(.mobile):not(.tablet):not(.monitor):not(.screen):not(.portable) {
+  margin-left: 0 !important; }
+
+[class*='default left margin']:not(.mobile):not(.tablet):not(.monitor):not(.screen):not(.portable) {
+  margin-left: 14px !important; }
+
+[class*='padded left margin']:not(.mobile):not(.tablet):not(.monitor):not(.screen):not(.portable) {
+  margin-left: 21px !important; }
+
+[class*='very padded left margin']:not(.mobile):not(.tablet):not(.monitor):not(.screen):not(.portable) {
+  margin-left: 28px !important; }
+
+[class*='more padded left margin']:not(.mobile):not(.tablet):not(.monitor):not(.screen):not(.portable) {
+  margin-left: 35px !important; }
+
+[class*='extra padded left margin']:not(.mobile):not(.tablet):not(.monitor):not(.screen):not(.portable) {
+  margin-left: 42px !important; }
+
+[class*='most padded left margin']:not(.mobile):not(.tablet):not(.monitor):not(.screen):not(.portable) {
+  margin-left: 49px !important; }
+
+@media only screen and (max-width: 768px) {
+  [class*='mobile no margin'] {
+    margin: 0 !important; }
+
+  [class*='mobile default margin'] {
+    margin: 14px !important; }
+
+  [class*='mobile padded margin'] {
+    margin: 21px !important; }
+
+  [class*='mobile very padded margin'] {
+    margin: 28px !important; }
+
+  [class*='mobile more padded margin'] {
+    margin: 35px !important; }
+
+  [class*='mobile extra padded margin'] {
+    margin: 42px !important; }
+
+  [class*='mobile most padded margin'] {
+    margin: 49px !important; }
+
+  [class*='mobile no horizontal margin'] {
+    margin-left: 0 !important;
+    margin-right: 0 !important; }
+
+  [class*='mobile default horizontal margin'] {
+    margin-left: 14px !important;
+    margin-right: 14px !important; }
+
+  [class*='mobile padded horizontal margin'] {
+    margin-left: 21px !important;
+    margin-right: 21px !important; }
+
+  [class*='mobile very padded horizontal margin'] {
+    margin-left: 28px !important;
+    margin-right: 28px !important; }
+
+  [class*='mobile more padded horizontal margin'] {
+    margin-left: 35px !important;
+    margin-right: 35px !important; }
+
+  [class*='mobile extra padded horizontal margin'] {
+    margin-left: 42px !important;
+    margin-right: 42px !important; }
+
+  [class*='mobile most padded horizontal margin'] {
+    margin-left: 49px !important;
+    margin-right: 49px !important; }
+
+  [class*='mobile no vertical margin'] {
+    margin-top: 0 !important;
+    margin-bottom: 0 !important; }
+
+  [class*='mobile default vertical margin'] {
+    margin-top: 14px !important;
+    margin-bottom: 14px !important; }
+
+  [class*='mobile padded vertical margin'] {
+    margin-top: 21px !important;
+    margin-bottom: 21px !important; }
+
+  [class*='mobile very padded vertical margin'] {
+    margin-top: 28px !important;
+    margin-bottom: 28px !important; }
+
+  [class*='mobile more padded vertical margin'] {
+    margin-top: 35px !important;
+    margin-bottom: 35px !important; }
+
+  [class*='mobile extra padded vertical margin'] {
+    margin-top: 42px !important;
+    margin-bottom: 42px !important; }
+
+  [class*='mobile most padded vertical margin'] {
+    margin-top: 49px !important;
+    margin-bottom: 49px !important; }
+
+  [class*='mobile no top margin'] {
+    margin-top: 0 !important; }
+
+  [class*='mobile default top margin'] {
+    margin-top: 14px !important; }
+
+  [class*='mobile padded top margin'] {
+    margin-top: 21px !important; }
+
+  [class*='mobile very padded top margin'] {
+    margin-top: 28px !important; }
+
+  [class*='mobile more padded top margin'] {
+    margin-top: 35px !important; }
+
+  [class*='mobile extra padded top margin'] {
+    margin-top: 42px !important; }
+
+  [class*='mobile most padded top margin'] {
+    margin-top: 49px !important; }
+
+  [class*='mobile no right margin'] {
+    margin-right: 0 !important; }
+
+  [class*='mobile default right margin'] {
+    margin-right: 14px !important; }
+
+  [class*='mobile padded right margin'] {
+    margin-right: 21px !important; }
+
+  [class*='mobile very padded right margin'] {
+    margin-right: 28px !important; }
+
+  [class*='mobile more padded right margin'] {
+    margin-right: 35px !important; }
+
+  [class*='mobile extra padded right margin'] {
+    margin-right: 42px !important; }
+
+  [class*='mobile most padded top margin'] {
+    margin-top: 49px !important; }
+
+  [class*='mobile no bottom margin'] {
+    margin-bottom: 0 !important; }
+
+  [class*='mobile default bottom margin'] {
+    margin-bottom: 14px !important; }
+
+  [class*='mobile padded bottom margin'] {
+    margin-bottom: 21px !important; }
+
+  [class*='mobile very padded bottom margin'] {
+    margin-bottom: 28px !important; }
+
+  [class*='mobile more padded bottom margin'] {
+    margin-bottom: 35px !important; }
+
+  [class*='mobile extra padded bottom margin'] {
+    margin-bottom: 42px !important; }
+
+  [class*='mobile most padded bottom margin'] {
+    margin-bottom: 49px !important; }
+
+  [class*='mobile no left margin'] {
+    margin-left: 0 !important; }
+
+  [class*='mobile default left margin'] {
+    margin-left: 14px !important; }
+
+  [class*='mobile padded left margin'] {
+    margin-left: 21px !important; }
+
+  [class*='mobile very padded left margin'] {
+    margin-left: 28px !important; }
+
+  [class*='mobile more padded left margin'] {
+    margin-left: 35px !important; }
+
+  [class*='mobile extra padded left margin'] {
+    margin-left: 42px !important; }
+
+  [class*='mobile most padded left margin'] {
+    margin-left: 49px !important; } }
+@media only screen and (min-width: 769px) and (max-width: 991px) {
+  [class*='tablet no margin'] {
+    margin: 0 !important; }
+
+  [class*='tablet default margin'] {
+    margin: 14px !important; }
+
+  [class*='tablet padded margin'] {
+    margin: 21px !important; }
+
+  [class*='tablet very padded margin'] {
+    margin: 28px !important; }
+
+  [class*='tablet more padded margin'] {
+    margin: 35px !important; }
+
+  [class*='tablet extra padded margin'] {
+    margin: 42px !important; }
+
+  [class*='tablet most padded margin'] {
+    margin: 49px !important; }
+
+  [class*='tablet no horizontal margin'] {
+    margin-left: 0 !important;
+    margin-right: 0 !important; }
+
+  [class*='tablet default horizontal margin'] {
+    margin-left: 14px !important;
+    margin-right: 14px !important; }
+
+  [class*='tablet padded horizontal margin'] {
+    margin-left: 21px !important;
+    margin-right: 21px !important; }
+
+  [class*='tablet very padded horizontal margin'] {
+    margin-left: 28px !important;
+    margin-right: 28px !important; }
+
+  [class*='tablet more padded horizontal margin'] {
+    margin-left: 35px !important;
+    margin-right: 35px !important; }
+
+  [class*='tablet extra padded horizontal margin'] {
+    margin-left: 42px !important;
+    margin-right: 42px !important; }
+
+  [class*='tablet most padded horizontal margin'] {
+    margin-left: 49px !important;
+    margin-right: 49px !important; }
+
+  [class*='tablet no vertical margin'] {
+    margin-top: 0 !important;
+    margin-bottom: 0 !important; }
+
+  [class*='tablet default vertical margin'] {
+    margin-top: 14px !important;
+    margin-bottom: 14px !important; }
+
+  [class*='tablet padded vertical margin'] {
+    margin-top: 21px !important;
+    margin-bottom: 21px !important; }
+
+  [class*='tablet very padded vertical margin'] {
+    margin-top: 28px !important;
+    margin-bottom: 28px !important; }
+
+  [class*='tablet more padded vertical margin'] {
+    margin-top: 35px !important;
+    margin-bottom: 35px !important; }
+
+  [class*='tablet extra padded vertical margin'] {
+    margin-top: 42px !important;
+    margin-bottom: 42px !important; }
+
+  [class*='tablet most padded vertical margin'] {
+    margin-top: 49px !important;
+    margin-bottom: 49px !important; }
+
+  [class*='tablet no top margin'] {
+    margin-top: 0 !important; }
+
+  [class*='tablet default top margin'] {
+    margin-top: 14px !important; }
+
+  [class*='tablet padded top margin'] {
+    margin-top: 21px !important; }
+
+  [class*='tablet very padded top margin'] {
+    margin-top: 28px !important; }
+
+  [class*='tablet more padded top margin'] {
+    margin-top: 35px !important; }
+
+  [class*='tablet extra padded top margin'] {
+    margin-top: 42px !important; }
+
+  [class*='tablet most padded top margin'] {
+    margin-top: 49px !important; }
+
+  [class*='tablet no right margin'] {
+    margin-right: 0 !important; }
+
+  [class*='tablet default right margin'] {
+    margin-right: 14px !important; }
+
+  [class*='tablet padded right margin'] {
+    margin-right: 21px !important; }
+
+  [class*='tablet very padded right margin'] {
+    margin-right: 28px !important; }
+
+  [class*='tablet more padded right margin'] {
+    margin-right: 35px !important; }
+
+  [class*='tablet extra padded right margin'] {
+    margin-right: 42px !important; }
+
+  [class*='tablet most padded top margin'] {
+    margin-top: 49px !important; }
+
+  [class*='tablet no bottom margin'] {
+    margin-bottom: 0 !important; }
+
+  [class*='tablet default bottom margin'] {
+    margin-bottom: 14px !important; }
+
+  [class*='tablet padded bottom margin'] {
+    margin-bottom: 21px !important; }
+
+  [class*='tablet very padded bottom margin'] {
+    margin-bottom: 28px !important; }
+
+  [class*='tablet more padded bottom margin'] {
+    margin-bottom: 35px !important; }
+
+  [class*='tablet extra padded bottom margin'] {
+    margin-bottom: 42px !important; }
+
+  [class*='tablet most padded bottom margin'] {
+    margin-bottom: 49px !important; }
+
+  [class*='tablet no left margin'] {
+    margin-left: 0 !important; }
+
+  [class*='tablet default left margin'] {
+    margin-left: 14px !important; }
+
+  [class*='tablet padded left margin'] {
+    margin-left: 21px !important; }
+
+  [class*='tablet very padded left margin'] {
+    margin-left: 28px !important; }
+
+  [class*='tablet more padded left margin'] {
+    margin-left: 35px !important; }
+
+  [class*='tablet extra padded left margin'] {
+    margin-left: 42px !important; }
+
+  [class*='tablet most padded left margin'] {
+    margin-left: 49px !important; } }
+@media only screen and (max-width: 991px) {
+  [class*='portable no margin'] {
+    margin: 0 !important; }
+
+  [class*='portable default margin'] {
+    margin: 14px !important; }
+
+  [class*='portable padded margin'] {
+    margin: 21px !important; }
+
+  [class*='portable very padded margin'] {
+    margin: 28px !important; }
+
+  [class*='portable more padded margin'] {
+    margin: 35px !important; }
+
+  [class*='portable extra padded margin'] {
+    margin: 42px !important; }
+
+  [class*='portable most padded margin'] {
+    margin: 49px !important; }
+
+  [class*='portable no horizontal margin'] {
+    margin-left: 0 !important;
+    margin-right: 0 !important; }
+
+  [class*='portable default horizontal margin'] {
+    margin-left: 14px !important;
+    margin-right: 14px !important; }
+
+  [class*='portable padded horizontal margin'] {
+    margin-left: 21px !important;
+    margin-right: 21px !important; }
+
+  [class*='portable very padded horizontal margin'] {
+    margin-left: 28px !important;
+    margin-right: 28px !important; }
+
+  [class*='portable more padded horizontal margin'] {
+    margin-left: 35px !important;
+    margin-right: 35px !important; }
+
+  [class*='portable extra padded horizontal margin'] {
+    margin-left: 42px !important;
+    margin-right: 42px !important; }
+
+  [class*='portable most padded horizontal margin'] {
+    margin-left: 49px !important;
+    margin-right: 49px !important; }
+
+  [class*='portable no vertical margin'] {
+    margin-top: 0 !important;
+    margin-bottom: 0 !important; }
+
+  [class*='portable default vertical margin'] {
+    margin-top: 14px !important;
+    margin-bottom: 14px !important; }
+
+  [class*='portable padded vertical margin'] {
+    margin-top: 21px !important;
+    margin-bottom: 21px !important; }
+
+  [class*='portable very padded vertical margin'] {
+    margin-top: 28px !important;
+    margin-bottom: 28px !important; }
+
+  [class*='portable more padded vertical margin'] {
+    margin-top: 35px !important;
+    margin-bottom: 35px !important; }
+
+  [class*='portable extra padded vertical margin'] {
+    margin-top: 42px !important;
+    margin-bottom: 42px !important; }
+
+  [class*='portable most padded vertical margin'] {
+    margin-top: 49px !important;
+    margin-bottom: 49px !important; }
+
+  [class*='portable no top margin'] {
+    margin-top: 0 !important; }
+
+  [class*='portable default top margin'] {
+    margin-top: 14px !important; }
+
+  [class*='portable padded top margin'] {
+    margin-top: 21px !important; }
+
+  [class*='portable very padded top margin'] {
+    margin-top: 28px !important; }
+
+  [class*='portable more padded top margin'] {
+    margin-top: 35px !important; }
+
+  [class*='portable extra padded top margin'] {
+    margin-top: 42px !important; }
+
+  [class*='portable most padded top margin'] {
+    margin-top: 49px !important; }
+
+  [class*='portable no right margin'] {
+    margin-right: 0 !important; }
+
+  [class*='portable default right margin'] {
+    margin-right: 14px !important; }
+
+  [class*='portable padded right margin'] {
+    margin-right: 21px !important; }
+
+  [class*='portable very padded right margin'] {
+    margin-right: 28px !important; }
+
+  [class*='portable more padded right margin'] {
+    margin-right: 35px !important; }
+
+  [class*='portable extra padded right margin'] {
+    margin-right: 42px !important; }
+
+  [class*='portable most padded top margin'] {
+    margin-top: 49px !important; }
+
+  [class*='portable no bottom margin'] {
+    margin-bottom: 0 !important; }
+
+  [class*='portable default bottom margin'] {
+    margin-bottom: 14px !important; }
+
+  [class*='portable padded bottom margin'] {
+    margin-bottom: 21px !important; }
+
+  [class*='portable very padded bottom margin'] {
+    margin-bottom: 28px !important; }
+
+  [class*='portable more padded bottom margin'] {
+    margin-bottom: 35px !important; }
+
+  [class*='portable extra padded bottom margin'] {
+    margin-bottom: 42px !important; }
+
+  [class*='portable most padded bottom margin'] {
+    margin-bottom: 49px !important; }
+
+  [class*='portable no left margin'] {
+    margin-left: 0 !important; }
+
+  [class*='portable default left margin'] {
+    margin-left: 14px !important; }
+
+  [class*='portable padded left margin'] {
+    margin-left: 21px !important; }
+
+  [class*='portable very padded left margin'] {
+    margin-left: 28px !important; }
+
+  [class*='portable more padded left margin'] {
+    margin-left: 35px !important; }
+
+  [class*='portable extra padded left margin'] {
+    margin-left: 42px !important; }
+
+  [class*='portable most padded left margin'] {
+    margin-left: 49px !important; } }
+@media only screen and (min-width: 992px) and (max-width: 1200px) {
+  [class*='small screen no margin'] {
+    margin: 0 !important; }
+
+  [class*='small screen default margin'] {
+    margin: 14px !important; }
+
+  [class*='small screen padded margin'] {
+    margin: 21px !important; }
+
+  [class*='small screen very padded margin'] {
+    margin: 28px !important; }
+
+  [class*='small screen more padded margin'] {
+    margin: 35px !important; }
+
+  [class*='small screen extra padded margin'] {
+    margin: 42px !important; }
+
+  [class*='small screen most padded margin'] {
+    margin: 49px !important; }
+
+  [class*='small screen no horizontal margin'] {
+    margin-left: 0 !important;
+    margin-right: 0 !important; }
+
+  [class*='small screen default horizontal margin'] {
+    margin-left: 14px !important;
+    margin-right: 14px !important; }
+
+  [class*='small screen padded horizontal margin'] {
+    margin-left: 21px !important;
+    margin-right: 21px !important; }
+
+  [class*='small screen very padded horizontal margin'] {
+    margin-left: 28px !important;
+    margin-right: 28px !important; }
+
+  [class*='small screen more padded horizontal margin'] {
+    margin-left: 35px !important;
+    margin-right: 35px !important; }
+
+  [class*='small screen extra padded horizontal margin'] {
+    margin-left: 42px !important;
+    margin-right: 42px !important; }
+
+  [class*='small screen most padded horizontal margin'] {
+    margin-left: 49px !important;
+    margin-right: 49px !important; }
+
+  [class*='small screen no vertical margin'] {
+    margin-top: 0 !important;
+    margin-bottom: 0 !important; }
+
+  [class*='small screen default vertical margin'] {
+    margin-top: 14px !important;
+    margin-bottom: 14px !important; }
+
+  [class*='small screen padded vertical margin'] {
+    margin-top: 21px !important;
+    margin-bottom: 21px !important; }
+
+  [class*='small screen very padded vertical margin'] {
+    margin-top: 28px !important;
+    margin-bottom: 28px !important; }
+
+  [class*='small screen more padded vertical margin'] {
+    margin-top: 35px !important;
+    margin-bottom: 35px !important; }
+
+  [class*='small screen extra padded vertical margin'] {
+    margin-top: 42px !important;
+    margin-bottom: 42px !important; }
+
+  [class*='small screen most padded vertical margin'] {
+    margin-top: 49px !important;
+    margin-bottom: 49px !important; }
+
+  [class*='small screen no top margin'] {
+    margin-top: 0 !important; }
+
+  [class*='small screen default top margin'] {
+    margin-top: 14px !important; }
+
+  [class*='small screen padded top margin'] {
+    margin-top: 21px !important; }
+
+  [class*='small screen very padded top margin'] {
+    margin-top: 28px !important; }
+
+  [class*='small screen more padded top margin'] {
+    margin-top: 35px !important; }
+
+  [class*='small screen extra padded top margin'] {
+    margin-top: 42px !important; }
+
+  [class*='small screen most padded top margin'] {
+    margin-top: 49px !important; }
+
+  [class*='small screen no right margin'] {
+    margin-right: 0 !important; }
+
+  [class*='small screen default right margin'] {
+    margin-right: 14px !important; }
+
+  [class*='small screen padded right margin'] {
+    margin-right: 21px !important; }
+
+  [class*='small screen very padded right margin'] {
+    margin-right: 28px !important; }
+
+  [class*='small screen more padded right margin'] {
+    margin-right: 35px !important; }
+
+  [class*='small screen extra padded right margin'] {
+    margin-right: 42px !important; }
+
+  [class*='small screen most padded top margin'] {
+    margin-top: 49px !important; }
+
+  [class*='small screen no bottom margin'] {
+    margin-bottom: 0 !important; }
+
+  [class*='small screen default bottom margin'] {
+    margin-bottom: 14px !important; }
+
+  [class*='small screen padded bottom margin'] {
+    margin-bottom: 21px !important; }
+
+  [class*='small screen very padded bottom margin'] {
+    margin-bottom: 28px !important; }
+
+  [class*='small screen more padded bottom margin'] {
+    margin-bottom: 35px !important; }
+
+  [class*='small screen extra padded bottom margin'] {
+    margin-bottom: 42px !important; }
+
+  [class*='small screen most padded bottom margin'] {
+    margin-bottom: 49px !important; }
+
+  [class*='small screen no left margin'] {
+    margin-left: 0 !important; }
+
+  [class*='small screen default left margin'] {
+    margin-left: 14px !important; }
+
+  [class*='small screen padded left margin'] {
+    margin-left: 21px !important; }
+
+  [class*='small screen very padded left margin'] {
+    margin-left: 28px !important; }
+
+  [class*='small screen more padded left margin'] {
+    margin-left: 35px !important; }
+
+  [class*='small screen extra padded left margin'] {
+    margin-left: 42px !important; }
+
+  [class*='small screen most padded left margin'] {
+    margin-left: 49px !important; } }
+@media only screen and (min-width: 1201px) {
+  [class*='large screen no margin'] {
+    margin: 0 !important; }
+
+  [class*='large screen default margin'] {
+    margin: 14px !important; }
+
+  [class*='large screen padded margin'] {
+    margin: 21px !important; }
+
+  [class*='large screen very padded margin'] {
+    margin: 28px !important; }
+
+  [class*='large screen more padded margin'] {
+    margin: 35px !important; }
+
+  [class*='large screen extra padded margin'] {
+    margin: 42px !important; }
+
+  [class*='large screen most padded margin'] {
+    margin: 49px !important; }
+
+  [class*='large screen no horizontal margin'] {
+    margin-left: 0 !important;
+    margin-right: 0 !important; }
+
+  [class*='large screen default horizontal margin'] {
+    margin-left: 14px !important;
+    margin-right: 14px !important; }
+
+  [class*='large screen padded horizontal margin'] {
+    margin-left: 21px !important;
+    margin-right: 21px !important; }
+
+  [class*='large screen very padded horizontal margin'] {
+    margin-left: 28px !important;
+    margin-right: 28px !important; }
+
+  [class*='large screen more padded horizontal margin'] {
+    margin-left: 35px !important;
+    margin-right: 35px !important; }
+
+  [class*='large screen extra padded horizontal margin'] {
+    margin-left: 42px !important;
+    margin-right: 42px !important; }
+
+  [class*='large screen most padded horizontal margin'] {
+    margin-left: 49px !important;
+    margin-right: 49px !important; }
+
+  [class*='large screen no vertical margin'] {
+    margin-top: 0 !important;
+    margin-bottom: 0 !important; }
+
+  [class*='large screen default vertical margin'] {
+    margin-top: 14px !important;
+    margin-bottom: 14px !important; }
+
+  [class*='large screen padded vertical margin'] {
+    margin-top: 21px !important;
+    margin-bottom: 21px !important; }
+
+  [class*='large screen very padded vertical margin'] {
+    margin-top: 28px !important;
+    margin-bottom: 28px !important; }
+
+  [class*='large screen more padded vertical margin'] {
+    margin-top: 35px !important;
+    margin-bottom: 35px !important; }
+
+  [class*='large screen extra padded vertical margin'] {
+    margin-top: 42px !important;
+    margin-bottom: 42px !important; }
+
+  [class*='large screen most padded vertical margin'] {
+    margin-top: 49px !important;
+    margin-bottom: 49px !important; }
+
+  [class*='large screen no top margin'] {
+    margin-top: 0 !important; }
+
+  [class*='large screen default top margin'] {
+    margin-top: 14px !important; }
+
+  [class*='large screen padded top margin'] {
+    margin-top: 21px !important; }
+
+  [class*='large screen very padded top margin'] {
+    margin-top: 28px !important; }
+
+  [class*='large screen more padded top margin'] {
+    margin-top: 35px !important; }
+
+  [class*='large screen extra padded top margin'] {
+    margin-top: 42px !important; }
+
+  [class*='large screen most padded top margin'] {
+    margin-top: 49px !important; }
+
+  [class*='large screen no right margin'] {
+    margin-right: 0 !important; }
+
+  [class*='large screen default right margin'] {
+    margin-right: 14px !important; }
+
+  [class*='large screen padded right margin'] {
+    margin-right: 21px !important; }
+
+  [class*='large screen very padded right margin'] {
+    margin-right: 28px !important; }
+
+  [class*='large screen more padded right margin'] {
+    margin-right: 35px !important; }
+
+  [class*='large screen extra padded right margin'] {
+    margin-right: 42px !important; }
+
+  [class*='large screen most padded top margin'] {
+    margin-top: 49px !important; }
+
+  [class*='large screen no bottom margin'] {
+    margin-bottom: 0 !important; }
+
+  [class*='large screen default bottom margin'] {
+    margin-bottom: 14px !important; }
+
+  [class*='large screen padded bottom margin'] {
+    margin-bottom: 21px !important; }
+
+  [class*='large screen very padded bottom margin'] {
+    margin-bottom: 28px !important; }
+
+  [class*='large screen more padded bottom margin'] {
+    margin-bottom: 35px !important; }
+
+  [class*='large screen extra padded bottom margin'] {
+    margin-bottom: 42px !important; }
+
+  [class*='large screen most padded bottom margin'] {
+    margin-bottom: 49px !important; }
+
+  [class*='large screen no left margin'] {
+    margin-left: 0 !important; }
+
+  [class*='large screen default left margin'] {
+    margin-left: 14px !important; }
+
+  [class*='large screen padded left margin'] {
+    margin-left: 21px !important; }
+
+  [class*='large screen very padded left margin'] {
+    margin-left: 28px !important; }
+
+  [class*='large screen more padded left margin'] {
+    margin-left: 35px !important; }
+
+  [class*='large screen extra padded left margin'] {
+    margin-left: 42px !important; }
+
+  [class*='large screen most padded left margin'] {
+    margin-left: 49px !important; } }
+@media only screen and (min-width: 992px) {
+  [class*='monitor no margin'] {
+    margin: 0 !important; }
+
+  [class*='monitor default margin'] {
+    margin: 14px !important; }
+
+  [class*='monitor padded margin'] {
+    margin: 21px !important; }
+
+  [class*='monitor very padded margin'] {
+    margin: 28px !important; }
+
+  [class*='monitor more padded margin'] {
+    margin: 35px !important; }
+
+  [class*='monitor extra padded margin'] {
+    margin: 42px !important; }
+
+  [class*='monitor most padded margin'] {
+    margin: 49px !important; }
+
+  [class*='monitor no horizontal margin'] {
+    margin-left: 0 !important;
+    margin-right: 0 !important; }
+
+  [class*='monitor default horizontal margin'] {
+    margin-left: 14px !important;
+    margin-right: 14px !important; }
+
+  [class*='monitor padded horizontal margin'] {
+    margin-left: 21px !important;
+    margin-right: 21px !important; }
+
+  [class*='monitor very padded horizontal margin'] {
+    margin-left: 28px !important;
+    margin-right: 28px !important; }
+
+  [class*='monitor more padded horizontal margin'] {
+    margin-left: 35px !important;
+    margin-right: 35px !important; }
+
+  [class*='monitor extra padded horizontal margin'] {
+    margin-left: 42px !important;
+    margin-right: 42px !important; }
+
+  [class*='monitor most padded horizontal margin'] {
+    margin-left: 49px !important;
+    margin-right: 49px !important; }
+
+  [class*='monitor no vertical margin'] {
+    margin-top: 0 !important;
+    margin-bottom: 0 !important; }
+
+  [class*='monitor default vertical margin'] {
+    margin-top: 14px !important;
+    margin-bottom: 14px !important; }
+
+  [class*='monitor padded vertical margin'] {
+    margin-top: 21px !important;
+    margin-bottom: 21px !important; }
+
+  [class*='monitor very padded vertical margin'] {
+    margin-top: 28px !important;
+    margin-bottom: 28px !important; }
+
+  [class*='monitor more padded vertical margin'] {
+    margin-top: 35px !important;
+    margin-bottom: 35px !important; }
+
+  [class*='monitor extra padded vertical margin'] {
+    margin-top: 42px !important;
+    margin-bottom: 42px !important; }
+
+  [class*='monitor most padded vertical margin'] {
+    margin-top: 49px !important;
+    margin-bottom: 49px !important; }
+
+  [class*='monitor no top margin'] {
+    margin-top: 0 !important; }
+
+  [class*='monitor default top margin'] {
+    margin-top: 14px !important; }
+
+  [class*='monitor padded top margin'] {
+    margin-top: 21px !important; }
+
+  [class*='monitor very padded top margin'] {
+    margin-top: 28px !important; }
+
+  [class*='monitor more padded top margin'] {
+    margin-top: 35px !important; }
+
+  [class*='monitor extra padded top margin'] {
+    margin-top: 42px !important; }
+
+  [class*='monitor most padded top margin'] {
+    margin-top: 49px !important; }
+
+  [class*='monitor no right margin'] {
+    margin-right: 0 !important; }
+
+  [class*='monitor default right margin'] {
+    margin-right: 14px !important; }
+
+  [class*='monitor padded right margin'] {
+    margin-right: 21px !important; }
+
+  [class*='monitor very padded right margin'] {
+    margin-right: 28px !important; }
+
+  [class*='monitor more padded right margin'] {
+    margin-right: 35px !important; }
+
+  [class*='monitor extra padded right margin'] {
+    margin-right: 42px !important; }
+
+  [class*='monitor most padded top margin'] {
+    margin-top: 49px !important; }
+
+  [class*='monitor no bottom margin'] {
+    margin-bottom: 0 !important; }
+
+  [class*='monitor default bottom margin'] {
+    margin-bottom: 14px !important; }
+
+  [class*='monitor padded bottom margin'] {
+    margin-bottom: 21px !important; }
+
+  [class*='monitor very padded bottom margin'] {
+    margin-bottom: 28px !important; }
+
+  [class*='monitor more padded bottom margin'] {
+    margin-bottom: 35px !important; }
+
+  [class*='monitor extra padded bottom margin'] {
+    margin-bottom: 42px !important; }
+
+  [class*='monitor most padded bottom margin'] {
+    margin-bottom: 49px !important; }
+
+  [class*='monitor no left margin'] {
+    margin-left: 0 !important; }
+
+  [class*='monitor default left margin'] {
+    margin-left: 14px !important; }
+
+  [class*='monitor padded left margin'] {
+    margin-left: 21px !important; }
+
+  [class*='monitor very padded left margin'] {
+    margin-left: 28px !important; }
+
+  [class*='monitor more padded left margin'] {
+    margin-left: 35px !important; }
+
+  [class*='monitor extra padded left margin'] {
+    margin-left: 42px !important; }
+
+  [class*='monitor most padded left margin'] {
+    margin-left: 49px !important; } }
 [class*='red text'] {
   color: #DB2828 !important; }
 
