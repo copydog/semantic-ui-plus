@@ -6,9 +6,11 @@ supper enhancement for semantic ui
 - Semantic
 
 ## Browser Support
-- Padding and Margin require ie9
+- Padding and Margin require javascript to work on ie8
 - Other require ie8
 - Considering make all component support ie8
+
+- All elements using vh vw only works with ie9 or later
 
 ## Design
 - all attribute selector([class*='']) are using **!important**
