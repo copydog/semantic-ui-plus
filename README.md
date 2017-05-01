@@ -12,3 +12,16 @@ supper enhancement for semantic ui
 
 ## Design
 - all attribute selector([class*='']) are using **!important**
+
+## Finished
+- background
+- cursor
+- display(need recheck)
+- margin
+- padding
+- opacity
+
+## Developing
+- border
+- text
+- divider

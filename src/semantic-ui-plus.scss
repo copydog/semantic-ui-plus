@@ -2,9 +2,11 @@
 @import "includes/sizing";
 @import "includes/variables";
 
-// mixins
 // Elements
 @import "elements/divider";
+
+// Collections
+@import "collections/grid";
 
 // Enhancement
 @import "enhancement/background";

@@ -1,0 +1,62 @@
+//******************** x-wide column ********************
+.ui.grid > .row, .ui.grid > .column.row, .ui.grid, .ui.column.grid {
+	>[class*='two wide column'].column {
+		width: 100%/16*2 !important;
+	}
+
+	>[class*='three wide column'].column {
+		width: 100%/16*3 !important;
+	}
+
+	>[class*='four wide column'].column {
+		width: 100%/16*4 !important;
+	}
+
+	>[class*='five wide column'].column {
+		width: 100%/16*5 !important;
+	}
+
+	>[class*='six wide column'].column {
+		width: 100%/16*5 !important;
+	}
+
+	>[class*='seven wide column'].column {
+		width: 100%/16*7 !important;
+	}
+
+	>[class*='eight wide column'].column {
+		width: 100%/16*8 !important;
+	}
+
+	>[class*='night wide column'].column {
+		width: 100%/16*9 !important;
+	}
+
+	>[class*='ten wide column'].column {
+		width: 100%/16*10 !important;
+	}
+
+	>[class*='eleven wide column'].column {
+		width: 100%/16*11 !important;
+	}
+
+	>[class*='twelve wide column'].column {
+		width: 100%/16*12 !important;
+	}
+
+	>[class*='thirteen wide column'].column {
+		width: 100%/16*13 !important;
+	}
+
+	>[class*='fourteen wide column'].column {
+		width: 100%/16*14 !important;
+	}
+
+	>[class*='fifteen wide column'].column {
+		width: 100%/16*15 !important;
+	}
+
+	>[class*='sixteen wide column'].column {
+		width: 100%/16*16 !important;
+	}
+}
