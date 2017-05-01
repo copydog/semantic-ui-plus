@@ -41,3 +41,28 @@ $color-css: 'color';
 
 }
 
+//******************** size ********************
+$i: 0;
+@while($i <= 100) {
+	[class*='#{$i}px size'].text {
+		font-size: $i * 1px;
+	}
+	$i: $i+1;
+}
+//******************** aligned ********************
+[class*='left aligned'] {
+	text-align: left !important;
+}
+
+[class*='right aligned'] {
+	text-align: right !important;
+}
+
+[class*='justify aligned'] {
+	text-align: justify !important;
+}
+
+[class*='center aligned'] {
+	text-align: center !important;
+}
+

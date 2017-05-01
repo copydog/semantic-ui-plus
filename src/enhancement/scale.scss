@@ -1,0 +1,48 @@
+//******************** height ********************
+$i: 0;
+@while($i <= 500) {
+	[class*='#{$i}px height'] {
+		height: $i * 1px;
+	}
+	$i: $i+5;
+}
+
+$i: 0;
+@while($i <= 100) {
+	[class*='#{$i}% height'] {
+		height: $i * 1%;
+	}
+	$i: $i+1;
+}
+//******************** width ********************
+$i: 0;
+@while($i <= 500) {
+	[class*='#{$i}px width'] {
+		width: $i * 1px;
+	}
+	$i: $i+5;
+}
+
+$i: 0;
+@while($i <= 100) {
+	[class*='#{$i}% width'] {
+		width: $i * 1%;
+	}
+	$i: $i+1;
+}
+//******************** line height ********************
+$i: 0;
+@while($i <= 500) {
+	[class*='#{$i}px line height'] {
+		line-height: $i * 1px;
+	}
+	$i: $i+5;
+}
+
+$i: 0;
+@while($i <= 100) {
+	[class*='#{$i}% line height'] {
+		line-height: $i * 1%;
+	}
+	$i: $i+1;
+}

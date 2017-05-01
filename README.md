@@ -16,6 +16,11 @@ supper enhancement for semantic ui
 ## Todo
 - animation
 
+## Considering
+- color divider
+- border radius direction
+- border direction
+
 ## Finished
 - background
 - cursor
@@ -23,9 +28,13 @@ supper enhancement for semantic ui
 - margin
 - padding
 - opacity
-
-## Developing
+- scale (width, height, line height | percentage, px)
+- text
 - border
 - border radius
-- text
+
+## Developing
 - divider
+
+## Need Fallback
+- padding/margin (ie8)

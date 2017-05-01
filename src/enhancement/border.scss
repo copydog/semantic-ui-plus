@@ -9,6 +9,14 @@
 	border-width: 0 !important;
 }
 
+$i: 0;
+@while($i <= 20) {
+	[class*='1px wide'].border {
+		border-width: $i * 1px;
+	}
+	$i: $i+1;
+}
+
 //******************** color ********************
 $color-name: 'border';
 $color-css: 'border-color';
@@ -49,4 +57,34 @@ $color-css: 'border-color';
 	&.outset {
 		border-style: outset;
 	}
+}
+//******************** border radius ********************
+// readable
+[class*='no radius border'] {
+	-webkit-border-radius: 0;
+	-moz-border-radius: 0;
+	border-radius: 0;
+}
+
+[class*='round corner'].border {
+	-webkit-border-radius: 50%;
+	-moz-border-radius: 50%;
+	border-radius: 50%;
+}
+
+[class*='circle shape'] {
+	-webkit-border-radius: 50%;
+	-moz-border-radius: 50%;
+	border-radius: 50%;
+}
+
+// px
+$i: 0;
+@while($i <= 100) {
+	[class*='#{$i}px radius border'] {
+		-webkit-border-radius: $i * 1px;
+		-moz-border-radius: $i * 1px;
+		border-radius: $i * 1px;
+	}
+	$i: $i+1;
 }
