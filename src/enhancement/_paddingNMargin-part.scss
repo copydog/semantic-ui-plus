@@ -1,214 +1,214 @@
 // basic
-[class*='#{$device-name} no #{$class-name}'] {
+[class*='no #{$class-name} #{$device-name}'] {
 	#{$class-name}: 0 !important;
 }
 
-[class*='#{$device-name} default #{$class-name}'] {
+[class*='default #{$class-name} #{$device-name}'] {
 	#{$class-name}: $emSize !important;
 }
 
-[class*='#{$device-name} padded #{$class-name}'] {
+[class*='padded #{$class-name} #{$device-name}'] {
 	#{$class-name}: 1.5 * $emSize !important;
 }
 
-[class*='#{$device-name} very padded #{$class-name}'] {
+[class*='very padded #{$class-name} #{$device-name}'] {
 	#{$class-name}: 2 * $emSize !important;
 }
 
-[class*='#{$device-name} more padded #{$class-name}'] {
+[class*='more padded #{$class-name} #{$device-name}'] {
 	#{$class-name}: 2.5 * $emSize !important;
 }
 
-[class*='#{$device-name} extra padded #{$class-name}'] {
+[class*='extra padded #{$class-name} #{$device-name}'] {
 	#{$class-name}: 3 * $emSize !important;
 }
 
-[class*='#{$device-name} most padded #{$class-name}'] {
+[class*='most padded #{$class-name} #{$device-name}'] {
 	#{$class-name}: 3.5 * $emSize !important;
 }
 
 //******************** two-way direction #{$class-name} ********************
 // horizontal
-[class*='#{$device-name} no horizontal #{$class-name}'] {
+[class*='no horizontal #{$class-name} #{$device-name}'] {
 	#{$class-name}-left: 0 !important;
 	#{$class-name}-right: 0 !important;
 }
 
-[class*='#{$device-name} default horizontal #{$class-name}'] {
+[class*='default horizontal #{$class-name} #{$device-name}'] {
 	#{$class-name}-left: $emSize !important;
 	#{$class-name}-right: $emSize !important;
 }
 
-[class*='#{$device-name} padded horizontal #{$class-name}'] {
+[class*='padded horizontal #{$class-name} #{$device-name}'] {
 	#{$class-name}-left: 1.5 * $emSize !important;
 	#{$class-name}-right: 1.5 * $emSize !important;
 }
 
-[class*='#{$device-name} very padded horizontal #{$class-name}'] {
+[class*='very padded horizontal #{$class-name} #{$device-name}'] {
 	#{$class-name}-left: 2 * $emSize !important;
 	#{$class-name}-right: 2 * $emSize !important;
 }
 
-[class*='#{$device-name} more padded horizontal #{$class-name}'] {
+[class*='more padded horizontal #{$class-name} #{$device-name}'] {
 	#{$class-name}-left: 2.5 * $emSize !important;
 	#{$class-name}-right: 2.5 * $emSize !important;
 }
 
-[class*='#{$device-name} extra padded horizontal #{$class-name}'] {
+[class*='extra padded horizontal #{$class-name} #{$device-name}'] {
 	#{$class-name}-left: 3 * $emSize !important;
 	#{$class-name}-right: 3 * $emSize !important;
 }
 
-[class*='#{$device-name} most padded horizontal #{$class-name}'] {
+[class*='most padded horizontal #{$class-name} #{$device-name}'] {
 	#{$class-name}-left: 3.5 * $emSize !important;
 	#{$class-name}-right: 3.5 * $emSize !important;
 }
 // vertical
-[class*='#{$device-name} no vertical #{$class-name}'] {
+[class*='no vertical #{$class-name} #{$device-name}'] {
 	#{$class-name}-top: 0 !important;
 	#{$class-name}-bottom: 0 !important;
 }
 
-[class*='#{$device-name} default vertical #{$class-name}'] {
+[class*='default vertical #{$class-name} #{$device-name}'] {
 	#{$class-name}-top: $emSize !important;
 	#{$class-name}-bottom: $emSize !important;
 }
 
-[class*='#{$device-name} padded vertical #{$class-name}'] {
+[class*='padded vertical #{$class-name} #{$device-name}'] {
 	#{$class-name}-top: 1.5 * $emSize !important;
 	#{$class-name}-bottom: 1.5 * $emSize !important;
 }
 
-[class*='#{$device-name} very padded vertical #{$class-name}'] {
+[class*='very padded vertical #{$class-name} #{$device-name}'] {
 	#{$class-name}-top: 2 * $emSize !important;
 	#{$class-name}-bottom: 2 * $emSize !important;
 }
 
-[class*='#{$device-name} more padded vertical #{$class-name}'] {
+[class*='more padded vertical #{$class-name} #{$device-name}'] {
 	#{$class-name}-top: 2.5 * $emSize !important;
 	#{$class-name}-bottom: 2.5 * $emSize !important;
 }
 
-[class*='#{$device-name} extra padded vertical #{$class-name}'] {
+[class*='extra padded vertical #{$class-name} #{$device-name}'] {
 	#{$class-name}-top: 3 * $emSize !important;
 	#{$class-name}-bottom: 3 * $emSize !important;
 }
 
-[class*='#{$device-name} most padded vertical #{$class-name}'] {
+[class*='most padded vertical #{$class-name} #{$device-name}'] {
 	#{$class-name}-top: 3.5 * $emSize !important;
 	#{$class-name}-bottom: 3.5 * $emSize !important;
 }
 //******************** one-way direction ********************
 // top
-[class*='#{$device-name} no top #{$class-name}'] {
+[class*='no top #{$class-name} #{$device-name}'] {
 	#{$class-name}-top: 0 !important;
 }
 
-[class*='#{$device-name} default top #{$class-name}'] {
+[class*='default top #{$class-name} #{$device-name}'] {
 	#{$class-name}-top: $emSize !important;
 }
 
-[class*='#{$device-name} padded top #{$class-name}'] {
+[class*='padded top #{$class-name} #{$device-name}'] {
 	#{$class-name}-top: 1.5 * $emSize !important;
 }
 
-[class*='#{$device-name} very padded top #{$class-name}'] {
+[class*='very padded top #{$class-name} #{$device-name}'] {
 	#{$class-name}-top: 2 * $emSize !important;
 }
 
-[class*='#{$device-name} more padded top #{$class-name}'] {
+[class*='more padded top #{$class-name} #{$device-name}'] {
 	#{$class-name}-top: 2.5 * $emSize !important;
 }
 
-[class*='#{$device-name} extra padded top #{$class-name}'] {
+[class*='extra padded top #{$class-name} #{$device-name}'] {
 	#{$class-name}-top: 3 * $emSize !important;
 }
 
-[class*='#{$device-name} most padded top #{$class-name}'] {
+[class*='most padded top #{$class-name} #{$device-name}'] {
 	#{$class-name}-top: 3.5 * $emSize !important;
 }
 // right
-[class*='#{$device-name} no right #{$class-name}'] {
+[class*='no right #{$class-name} #{$device-name}'] {
 	#{$class-name}-right: 0 !important;
 }
 
-[class*='#{$device-name} default right #{$class-name}'] {
+[class*='default right #{$class-name} #{$device-name}'] {
 	#{$class-name}-right: $emSize !important;
 }
 
-[class*='#{$device-name} padded right #{$class-name}'] {
+[class*='padded right #{$class-name} #{$device-name}'] {
 	#{$class-name}-right: 1.5 * $emSize !important;
 }
 
-[class*='#{$device-name} very padded right #{$class-name}'] {
+[class*='very padded right #{$class-name} #{$device-name}'] {
 	#{$class-name}-right: 2 * $emSize !important;
 }
 
-[class*='#{$device-name} more padded right #{$class-name}'] {
+[class*='more padded right #{$class-name} #{$device-name}'] {
 	#{$class-name}-right: 2.5 * $emSize !important;
 }
 
-[class*='#{$device-name} extra padded right #{$class-name}'] {
+[class*='extra padded right #{$class-name} #{$device-name}'] {
 	#{$class-name}-right: 3 * $emSize !important;
 }
 
-[class*='#{$device-name} most padded top #{$class-name}'] {
+[class*='most padded top #{$class-name} #{$device-name}'] {
 	#{$class-name}-top: 3.5 * $emSize !important;
 }
 // bottom
-[class*='#{$device-name} no bottom #{$class-name}'] {
+[class*='no bottom #{$class-name} #{$device-name}'] {
 	#{$class-name}-bottom: 0 !important;
 }
 
-[class*='#{$device-name} default bottom #{$class-name}'] {
+[class*='default bottom #{$class-name} #{$device-name}'] {
 	#{$class-name}-bottom: $emSize !important;
 }
 
-[class*='#{$device-name} padded bottom #{$class-name}'] {
+[class*='padded bottom #{$class-name} #{$device-name}'] {
 	#{$class-name}-bottom: 1.5 * $emSize !important;
 }
 
-[class*='#{$device-name} very padded bottom #{$class-name}'] {
+[class*='very padded bottom #{$class-name} #{$device-name}'] {
 	#{$class-name}-bottom: 2 * $emSize !important;
 }
 
-[class*='#{$device-name} more padded bottom #{$class-name}'] {
+[class*='more padded bottom #{$class-name} #{$device-name}'] {
 	#{$class-name}-bottom: 2.5 * $emSize !important;
 }
 
-[class*='#{$device-name} extra padded bottom #{$class-name}'] {
+[class*='extra padded bottom #{$class-name} #{$device-name}'] {
 	#{$class-name}-bottom: 3 * $emSize !important;
 }
 
-[class*='#{$device-name} most padded bottom #{$class-name}'] {
+[class*='most padded bottom #{$class-name} #{$device-name}'] {
 	#{$class-name}-bottom: 3.5 * $emSize !important;
 }
 
 // left
-[class*='#{$device-name} no left #{$class-name}'] {
+[class*='no left #{$class-name} #{$device-name}'] {
 	#{$class-name}-left: 0 !important;
 }
 
-[class*='#{$device-name} default left #{$class-name}'] {
+[class*='default left #{$class-name} #{$device-name}'] {
 	#{$class-name}-left: $emSize !important;
 }
 
-[class*='#{$device-name} padded left #{$class-name}'] {
+[class*='padded left #{$class-name} #{$device-name}'] {
 	#{$class-name}-left: 1.5 * $emSize !important;
 }
 
-[class*='#{$device-name} very padded left #{$class-name}'] {
+[class*='very padded left #{$class-name} #{$device-name}'] {
 	#{$class-name}-left: 2 * $emSize !important;
 }
 
-[class*='#{$device-name} more padded left #{$class-name}'] {
+[class*='more padded left #{$class-name} #{$device-name}'] {
 	#{$class-name}-left: 2.5 * $emSize !important;
 }
 
-[class*='#{$device-name} extra padded left #{$class-name}'] {
+[class*='extra padded left #{$class-name} #{$device-name}'] {
 	#{$class-name}-left: 3 * $emSize !important;
 }
 
-[class*='#{$device-name} most padded left #{$class-name}'] {
+[class*='most padded left #{$class-name} #{$device-name}'] {
 	#{$class-name}-left: 3.5 * $emSize !important;
 }

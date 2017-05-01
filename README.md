@@ -13,6 +13,9 @@ supper enhancement for semantic ui
 ## Design
 - all attribute selector([class*='']) are using **!important**
 
+## Todo
+- animation
+
 ## Finished
 - background
 - cursor
@@ -23,5 +26,6 @@ supper enhancement for semantic ui
 
 ## Developing
 - border
+- border radius
 - text
 - divider

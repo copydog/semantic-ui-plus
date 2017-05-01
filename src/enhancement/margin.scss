@@ -215,39 +215,44 @@
 }
 
 //******************** situational ********************
-// mobile
 $class-name: 'margin';
+
+// default
+$device-name: 'as default';
+@import "paddingNMargin-part";
+
+// mobile
 @media only screen and (max-width: $mobileWidth) {
-	$device-name: 'mobile';
+	$device-name: 'on mobile';
 	@import "paddingNMargin-part";
 }
 
 // tablet
 @media only screen and (min-width: $mobileWidth + 1) and (max-width: $tabletWidth) {
-	$device-name: 'tablet';
+	$device-name: 'on tablet';
 	@import "paddingNMargin-part";
 }
 
 // portable (mobile & tablet)
 @media only screen and (max-width: $tabletWidth) {
-	$device-name: 'portable';
+	$device-name: 'on portable';
 	@import "paddingNMargin-part";
 }
 
 // small screen
 @media only screen and (min-width: $tabletWidth + 1) and (max-width: $computerWidth) {
-	$device-name: 'small screen';
+	$device-name: 'on small screen';
 	@import "paddingNMargin-part";
 }
 
 // large screen
 @media only screen and (min-width: $computerWidth + 1) {
-	$device-name: 'large screen';
+	$device-name: 'on large screen';
 	@import "paddingNMargin-part";
 }
 
 // monitor (small & large screen)
 @media only screen and (min-width: $tabletWidth + 1) {
-	$device-name: 'monitor';
+	$device-name: 'on monitor';
 	@import "paddingNMargin-part";
 }

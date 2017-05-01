@@ -10,236 +10,236 @@
   .ui.divider.light, hr.light {
     border-top-color: #ebebeb !important; }
 
-.ui.grid > .row > [class*='two wide column'].column, .ui.grid > .column.row > [class*='two wide column'].column, .ui.grid > [class*='two wide column'].column, .ui.column.grid > [class*='two wide column'].column {
+.ui.grid > .row > [class*='two wide as default'].column, .ui.grid > .column.row > [class*='two wide as default'].column, .ui.grid > [class*='two wide as default'].column, .ui.column.grid > [class*='two wide as default'].column {
   width: 12.5% !important; }
-.ui.grid > .row > [class*='three wide column'].column, .ui.grid > .column.row > [class*='three wide column'].column, .ui.grid > [class*='three wide column'].column, .ui.column.grid > [class*='three wide column'].column {
+.ui.grid > .row > [class*='three wide as default'].column, .ui.grid > .column.row > [class*='three wide as default'].column, .ui.grid > [class*='three wide as default'].column, .ui.column.grid > [class*='three wide as default'].column {
   width: 18.75% !important; }
-.ui.grid > .row > [class*='four wide column'].column, .ui.grid > .column.row > [class*='four wide column'].column, .ui.grid > [class*='four wide column'].column, .ui.column.grid > [class*='four wide column'].column {
+.ui.grid > .row > [class*='four wide as default'].column, .ui.grid > .column.row > [class*='four wide as default'].column, .ui.grid > [class*='four wide as default'].column, .ui.column.grid > [class*='four wide as default'].column {
   width: 25% !important; }
-.ui.grid > .row > [class*='five wide column'].column, .ui.grid > .column.row > [class*='five wide column'].column, .ui.grid > [class*='five wide column'].column, .ui.column.grid > [class*='five wide column'].column {
+.ui.grid > .row > [class*='five wide as default'].column, .ui.grid > .column.row > [class*='five wide as default'].column, .ui.grid > [class*='five wide as default'].column, .ui.column.grid > [class*='five wide as default'].column {
   width: 31.25% !important; }
-.ui.grid > .row > [class*='six wide column'].column, .ui.grid > .column.row > [class*='six wide column'].column, .ui.grid > [class*='six wide column'].column, .ui.column.grid > [class*='six wide column'].column {
+.ui.grid > .row > [class*='six wide as default'].column, .ui.grid > .column.row > [class*='six wide as default'].column, .ui.grid > [class*='six wide as default'].column, .ui.column.grid > [class*='six wide as default'].column {
   width: 31.25% !important; }
-.ui.grid > .row > [class*='seven wide column'].column, .ui.grid > .column.row > [class*='seven wide column'].column, .ui.grid > [class*='seven wide column'].column, .ui.column.grid > [class*='seven wide column'].column {
+.ui.grid > .row > [class*='seven wide as default'].column, .ui.grid > .column.row > [class*='seven wide as default'].column, .ui.grid > [class*='seven wide as default'].column, .ui.column.grid > [class*='seven wide as default'].column {
   width: 43.75% !important; }
-.ui.grid > .row > [class*='eight wide column'].column, .ui.grid > .column.row > [class*='eight wide column'].column, .ui.grid > [class*='eight wide column'].column, .ui.column.grid > [class*='eight wide column'].column {
+.ui.grid > .row > [class*='eight wide as default'].column, .ui.grid > .column.row > [class*='eight wide as default'].column, .ui.grid > [class*='eight wide as default'].column, .ui.column.grid > [class*='eight wide as default'].column {
   width: 50% !important; }
-.ui.grid > .row > [class*='night wide column'].column, .ui.grid > .column.row > [class*='night wide column'].column, .ui.grid > [class*='night wide column'].column, .ui.column.grid > [class*='night wide column'].column {
+.ui.grid > .row > [class*='night wide as default'].column, .ui.grid > .column.row > [class*='night wide as default'].column, .ui.grid > [class*='night wide as default'].column, .ui.column.grid > [class*='night wide as default'].column {
   width: 56.25% !important; }
-.ui.grid > .row > [class*='ten wide column'].column, .ui.grid > .column.row > [class*='ten wide column'].column, .ui.grid > [class*='ten wide column'].column, .ui.column.grid > [class*='ten wide column'].column {
+.ui.grid > .row > [class*='ten wide as default'].column, .ui.grid > .column.row > [class*='ten wide as default'].column, .ui.grid > [class*='ten wide as default'].column, .ui.column.grid > [class*='ten wide as default'].column {
   width: 62.5% !important; }
-.ui.grid > .row > [class*='eleven wide column'].column, .ui.grid > .column.row > [class*='eleven wide column'].column, .ui.grid > [class*='eleven wide column'].column, .ui.column.grid > [class*='eleven wide column'].column {
+.ui.grid > .row > [class*='eleven wide as default'].column, .ui.grid > .column.row > [class*='eleven wide as default'].column, .ui.grid > [class*='eleven wide as default'].column, .ui.column.grid > [class*='eleven wide as default'].column {
   width: 68.75% !important; }
-.ui.grid > .row > [class*='twelve wide column'].column, .ui.grid > .column.row > [class*='twelve wide column'].column, .ui.grid > [class*='twelve wide column'].column, .ui.column.grid > [class*='twelve wide column'].column {
+.ui.grid > .row > [class*='twelve wide as default'].column, .ui.grid > .column.row > [class*='twelve wide as default'].column, .ui.grid > [class*='twelve wide as default'].column, .ui.column.grid > [class*='twelve wide as default'].column {
   width: 75% !important; }
-.ui.grid > .row > [class*='thirteen wide column'].column, .ui.grid > .column.row > [class*='thirteen wide column'].column, .ui.grid > [class*='thirteen wide column'].column, .ui.column.grid > [class*='thirteen wide column'].column {
+.ui.grid > .row > [class*='thirteen wide as default'].column, .ui.grid > .column.row > [class*='thirteen wide as default'].column, .ui.grid > [class*='thirteen wide as default'].column, .ui.column.grid > [class*='thirteen wide as default'].column {
   width: 81.25% !important; }
-.ui.grid > .row > [class*='fourteen wide column'].column, .ui.grid > .column.row > [class*='fourteen wide column'].column, .ui.grid > [class*='fourteen wide column'].column, .ui.column.grid > [class*='fourteen wide column'].column {
+.ui.grid > .row > [class*='fourteen wide as default'].column, .ui.grid > .column.row > [class*='fourteen wide as default'].column, .ui.grid > [class*='fourteen wide as default'].column, .ui.column.grid > [class*='fourteen wide as default'].column {
   width: 87.5% !important; }
-.ui.grid > .row > [class*='fifteen wide column'].column, .ui.grid > .column.row > [class*='fifteen wide column'].column, .ui.grid > [class*='fifteen wide column'].column, .ui.column.grid > [class*='fifteen wide column'].column {
+.ui.grid > .row > [class*='fifteen wide as default'].column, .ui.grid > .column.row > [class*='fifteen wide as default'].column, .ui.grid > [class*='fifteen wide as default'].column, .ui.column.grid > [class*='fifteen wide as default'].column {
   width: 93.75% !important; }
-.ui.grid > .row > [class*='sixteen wide column'].column, .ui.grid > .column.row > [class*='sixteen wide column'].column, .ui.grid > [class*='sixteen wide column'].column, .ui.column.grid > [class*='sixteen wide column'].column {
+.ui.grid > .row > [class*='sixteen wide as default'].column, .ui.grid > .column.row > [class*='sixteen wide as default'].column, .ui.grid > [class*='sixteen wide as default'].column, .ui.column.grid > [class*='sixteen wide as default'].column {
   width: 100% !important; }
 
-.ui[class*="two column grid"].grid > .row.column {
+.ui[class*="two column grid"].grid > .row.row.column {
   width: 100% !important; }
 
-.ui[class*="two column grid"].grid > .row > .column, .ui[class*="two column grid"].grid > .column, .ui.grid > [class*="two column row"].row > .column {
+.ui[class*="two column as default"].grid > .row > .column, .ui[class*="two column as default"].grid > .column, .ui.grid > [class*="two column as default"].row > .column {
   width: 50% !important; }
 
-.ui[class*="three column grid"].grid > .row > .column, .ui[class*="three column grid"].grid > .column, .ui.grid > [class*="three column row"].row > .column {
+.ui[class*="three column as default"].grid > .row > .column, .ui[class*="three column as default"].grid > .column, .ui.grid > [class*="three column as default"].row > .column {
   width: 33.33333% !important; }
 
-.ui[class*="four column grid"].grid > .row > .column, .ui[class*="four column grid"].grid > .column, .ui.grid > [class*="four column row"].row > .column {
+.ui[class*="four column as default"].grid > .row > .column, .ui[class*="four column as default"].grid > .column, .ui.grid > [class*="four column as default"].row > .column {
   width: 25% !important; }
 
-.ui[class*="two column grid"].grid > .row > .column, .ui[class*="five column grid"].grid > .column, .ui.grid > [class*="five column row"].row > .column {
+.ui[class*="two column as default"].grid > .row > .column, .ui[class*="five column as default"].grid > .column, .ui.grid > [class*="five column as default"].row > .column {
   width: 20% !important; }
 
-.ui[class*="six column grid"].grid > .row > .column, .ui[class*="six column grid"].grid > .column, .ui.grid > [class*="six column row"].row > .column {
+.ui[class*="six column as default"].grid > .row > .column, .ui[class*="six column as default"].grid > .column, .ui.grid > [class*="six column as default"].row > .column {
   width: 16.66667% !important; }
 
-.ui[class*="seven column grid"].grid > .row > .column, .ui[class*="seven column grid"].grid > .column, .ui.grid > [class*="seven column row"].row > .column {
+.ui[class*="seven column as default"].grid > .row > .column, .ui[class*="seven column as default"].grid > .column, .ui.grid > [class*="seven column as default"].row > .column {
   width: 14.28571% !important; }
 
-.ui[class*="eight column grid"].grid > .row > .column, .ui[class*="eight column grid"].grid > .column, .ui.grid > [class*="eight column row"].row > .column {
+.ui[class*="eight column as default"].grid > .row > .column, .ui[class*="eight column as default"].grid > .column, .ui.grid > [class*="eight column as default"].row > .column {
   width: 12.5% !important; }
 
-.ui[class*="nine column grid"].grid > .row > .column, .ui[class*="nine column grid"].grid > .column, .ui.grid > [class*="nine column row"].row > .column {
+.ui[class*="nine column as default"].grid > .row > .column, .ui[class*="nine column as default"].grid > .column, .ui.grid > [class*="nine column as default"].row > .column {
   width: 11.11111% !important; }
 
-.ui[class*="ten column grid"].grid > .row > .column, .ui[class*="ten column grid"].grid > .column, .ui.grid > [class*="ten column row"].row > .column {
+.ui[class*="ten column as default"].grid > .row > .column, .ui[class*="ten column as default"].grid > .column, .ui.grid > [class*="ten column as default"].row > .column {
   width: 10% !important; }
 
-.ui[class*="eleven column grid"].grid > .row > .column, .ui[class*="eleven column grid"].grid > .column, .ui.grid > [class*="eleven column row"].row > .column {
+.ui[class*="eleven column as default"].grid > .row > .column, .ui[class*="eleven column as default"].grid > .column, .ui.grid > [class*="eleven column as default"].row > .column {
   width: 9.09091% !important; }
 
-.ui[class*="twelve column grid"].grid > .row > .column, .ui[class*="twelve column grid"].grid > .column, .ui.grid > [class*="twelve column row"].row > .column {
+.ui[class*="twelve column as default"].grid > .row > .column, .ui[class*="twelve column as default"].grid > .column, .ui.grid > [class*="twelve column as default"].row > .column {
   width: 8.33333% !important; }
 
-.ui[class*="thirteen column grid"].grid > .row > .column, .ui[class*="thirteen column grid"].grid > .column, .ui.grid > [class*="thirteen column row"].row > .column {
+.ui[class*="thirteen column as default"].grid > .row > .column, .ui[class*="thirteen column as default"].grid > .column, .ui.grid > [class*="thirteen column as default"].row > .column {
   width: 7.69231% !important; }
 
-.ui[class*="fourteen column grid"].grid > .row > .column, .ui[class*="fourteen column grid"].grid > .column, .ui.grid > [class*="fourteen column row"].row > .column {
+.ui[class*="fourteen column as default"].grid > .row > .column, .ui[class*="fourteen column as default"].grid > .column, .ui.grid > [class*="fourteen column as default"].row > .column {
   width: 7.14286% !important; }
 
-.ui[class*="fifteen column"].grid > .row > .column, .ui[class*="fifteen column"].grid > .column, .ui.grid > [class*="fifteen column row"].row > .column {
+.ui[class*="fifteen column as default"].grid > .row > .column, .ui[class*="fifteen column as default"].grid > .column, .ui.grid > [class*="fifteen column as default"].row > .column {
   width: 6.66667% !important; }
 
-.ui[class*="sixteen column"].grid > .row > .column, .ui[class*="sixteen column"].grid > .column, .ui.grid > [class*="sixteen column row"].row > .column {
+.ui[class*="sixteen column as default"].grid > .row > .column, .ui[class*="sixteen column as default"].grid > .column, .ui.grid > [class*="sixteen column as default"].row > .column {
   width: 6.25% !important; }
 
 @media only screen and (max-width: 768px) {
-  .ui.grid > .row > [class*="mobile two wide"].column, .ui.grid > .column.row > [class*="mobile two wide"].column, .ui.grid > [class*="mobile two wide"].column, .ui.column.grid > [class*="mobile two wide"].column {
+  .ui.grid > .row > [class*="two wide on mobile"].column, .ui.grid > .column.row > [class*="two wide on mobile"].column, .ui.grid > [class*="two wide on mobile"].column, .ui.column.grid > [class*="two wide on mobile"].column {
     width: 12.5% !important; }
-  .ui.grid > .row > [class*="mobile three wide"].column, .ui.grid > .column.row > [class*="mobile three wide"].column, .ui.grid > [class*="mobile three wide"].column, .ui.column.grid > [class*="mobile three wide"].column {
+  .ui.grid > .row > [class*="three wide on mobile"].column, .ui.grid > .column.row > [class*="three wide on mobile"].column, .ui.grid > [class*="three wide on mobile"].column, .ui.column.grid > [class*="three wide on mobile"].column {
     width: 18.75% !important; }
-  .ui.grid > .row > [class*="mobile four wide"].column, .ui.grid > .column.row > [class*="mobile four wide"].column, .ui.grid > [class*="mobile four wide"].column, .ui.column.grid > [class*="mobile four wide"].column {
+  .ui.grid > .row > [class*="four wide on mobile"].column, .ui.grid > .column.row > [class*="four wide on mobile"].column, .ui.grid > [class*="four wide on mobile"].column, .ui.column.grid > [class*="four wide on mobile"].column {
     width: 25% !important; }
-  .ui.grid > .row > [class*="mobile five wide"].column, .ui.grid > .column.row > [class*="mobile five wide"].column, .ui.grid > [class*="mobile five wide"].column, .ui.column.grid > [class*="mobile five wide"].column {
+  .ui.grid > .row > [class*="five wide on mobile"].column, .ui.grid > .column.row > [class*="five wide on mobile"].column, .ui.grid > [class*="five wide on mobile"].column, .ui.column.grid > [class*="five wide on mobile"].column {
     width: 31.25% !important; }
-  .ui.grid > .row > [class*="mobile six wide"].column, .ui.grid > .column.row > [class*="mobile six wide"].column, .ui.grid > [class*="mobile six wide"].column, .ui.column.grid > [class*="mobile six wide"].column {
+  .ui.grid > .row > [class*="six wide on mobile"].column, .ui.grid > .column.row > [class*="six wide on mobile"].column, .ui.grid > [class*="six wide on mobile"].column, .ui.column.grid > [class*="six wide on mobile"].column {
     width: 31.25% !important; }
-  .ui.grid > .row > [class*="mobile seven wide"].column, .ui.grid > .column.row > [class*="mobile seven wide"].column, .ui.grid > [class*="mobile seven wide"].column, .ui.column.grid > [class*="mobile seven wide"].column {
+  .ui.grid > .row > [class*="seven wide on mobile"].column, .ui.grid > .column.row > [class*="seven wide on mobile"].column, .ui.grid > [class*="seven wide on mobile"].column, .ui.column.grid > [class*="seven wide on mobile"].column {
     width: 43.75% !important; }
-  .ui.grid > .row > [class*="mobile eight wide"].column, .ui.grid > .column.row > [class*="mobile eight wide"].column, .ui.grid > [class*="mobile eight wide"].column, .ui.column.grid > [class*="mobile eight wide"].column {
+  .ui.grid > .row > [class*="eight wide on mobile"].column, .ui.grid > .column.row > [class*="eight wide on mobile"].column, .ui.grid > [class*="eight wide on mobile"].column, .ui.column.grid > [class*="eight wide on mobile"].column {
     width: 50% !important; }
-  .ui.grid > .row > [class*="mobile night wide"].column, .ui.grid > .column.row > [class*="mobile night wide"].column, .ui.grid > [class*="mobile night wide"].column, .ui.column.grid > [class*="mobile night wide"].column {
+  .ui.grid > .row > [class*="night wide on mobile"].column, .ui.grid > .column.row > [class*="night wide on mobile"].column, .ui.grid > [class*="night wide on mobile"].column, .ui.column.grid > [class*="night wide on mobile"].column {
     width: 56.25% !important; }
-  .ui.grid > .row > [class*="mobile ten wide"].column, .ui.grid > .column.row > [class*="mobile ten wide"].column, .ui.grid > [class*="mobile ten wide"].column, .ui.column.grid > [class*="mobile ten wide"].column {
+  .ui.grid > .row > [class*="ten wide on mobile"].column, .ui.grid > .column.row > [class*="ten wide on mobile"].column, .ui.grid > [class*="ten wide on mobile"].column, .ui.column.grid > [class*="ten wide on mobile"].column {
     width: 62.5% !important; }
-  .ui.grid > .row > [class*="mobile eleven wide"].column, .ui.grid > .column.row > [class*="mobile eleven wide"].column, .ui.grid > [class*="mobile eleven wide"].column, .ui.column.grid > [class*="mobile eleven wide"].column {
+  .ui.grid > .row > [class*="eleven wide on mobile"].column, .ui.grid > .column.row > [class*="eleven wide on mobile"].column, .ui.grid > [class*="eleven wide on mobile"].column, .ui.column.grid > [class*="eleven wide on mobile"].column {
     width: 68.75% !important; }
-  .ui.grid > .row > [class*="mobile twelve wide"].column, .ui.grid > .column.row > [class*="mobile twelve wide"].column, .ui.grid > [class*="mobile twelve wide"].column, .ui.column.grid > [class*="mobile twelve wide"].column {
+  .ui.grid > .row > [class*="twelve wide on mobile"].column, .ui.grid > .column.row > [class*="twelve wide on mobile"].column, .ui.grid > [class*="twelve wide on mobile"].column, .ui.column.grid > [class*="twelve wide on mobile"].column {
     width: 75% !important; }
-  .ui.grid > .row > [class*="mobile thirteen wide"].column, .ui.grid > .column.row > [class*="mobile thirteen wide"].column, .ui.grid > [class*="mobile thirteen wide"].column, .ui.column.grid > [class*="mobile thirteen wide"].column {
+  .ui.grid > .row > [class*="thirteen wide on mobile"].column, .ui.grid > .column.row > [class*="thirteen wide on mobile"].column, .ui.grid > [class*="thirteen wide on mobile"].column, .ui.column.grid > [class*="thirteen wide on mobile"].column {
     width: 81.25% !important; }
-  .ui.grid > .row > [class*="mobile fourteen wide"].column, .ui.grid > .column.row > [class*="mobile fourteen wide"].column, .ui.grid > [class*="mobile fourteen wide"].column, .ui.column.grid > [class*="mobile fourteen wide"].column {
+  .ui.grid > .row > [class*="fourteen wide on mobile"].column, .ui.grid > .column.row > [class*="fourteen wide on mobile"].column, .ui.grid > [class*="fourteen wide on mobile"].column, .ui.column.grid > [class*="fourteen wide on mobile"].column {
     width: 87.5% !important; }
-  .ui.grid > .row > [class*="mobile fifteen wide"].column, .ui.grid > .column.row > [class*="mobile fifteen wide"].column, .ui.grid > [class*="mobile fifteen wide"].column, .ui.column.grid > [class*="mobile fifteen wide"].column {
+  .ui.grid > .row > [class*="fifteen wide on mobile"].column, .ui.grid > .column.row > [class*="fifteen wide on mobile"].column, .ui.grid > [class*="fifteen wide on mobile"].column, .ui.column.grid > [class*="fifteen wide on mobile"].column {
     width: 93.75% !important; }
-  .ui.grid > .row > [class*="mobile sixteen wide"].column, .ui.grid > .column.row > [class*="mobile sixteen wide"].column, .ui.grid > [class*="mobile sixteen wide"].column, .ui.column.grid > [class*="mobile sixteen wide"].column {
+  .ui.grid > .row > [class*="sixteen wide on mobile"].column, .ui.grid > .column.row > [class*="sixteen wide on mobile"].column, .ui.grid > [class*="sixteen wide on mobile"].column, .ui.column.grid > [class*="sixteen wide on mobile"].column {
     width: 100% !important; }
 
-  .ui[class*="mobile two column"].grid > .row > .column, .ui[class*="mobile two column"].grid > .column, .ui.grid > [class*="mobile two column"].row > .column {
+  .ui[class*="two column on mobile"].grid > .row > .column, .ui[class*="two column on mobile"].grid > .column, .ui.grid > [class*="two column on mobile"].row > .column {
     width: 50% !important; }
 
-  .ui[class*="mobile three column"].grid > .row > .column, .ui[class*="mobile three column"].grid > .column, .ui.grid > [class*="mobile three column"].row > .column {
+  .ui[class*="three column on mobile"].grid > .row > .column, .ui[class*="three column on mobile"].grid > .column, .ui.grid > [class*="three column on mobile"].row > .column {
     width: 33.33333% !important; }
 
-  .ui[class*="mobile four column"].grid > .row > .column, .ui[class*="mobile four column"].grid > .column, .ui.grid > [class*="mobile four column"].row > .column {
+  .ui[class*="four column on mobile"].grid > .row > .column, .ui[class*="four column on mobile"].grid > .column, .ui.grid > [class*="four column on mobile"].row > .column {
     width: 25% !important; }
 
-  .ui[class*="mobile two column"].grid > .row > .column, .ui[class*="mobile five column"].grid > .column, .ui.grid > [class*="mobile five column"].row > .column {
+  .ui[class*="two column on mobile"].grid > .row > .column, .ui[class*="five column on mobile"].grid > .column, .ui.grid > [class*="five column on mobile"].row > .column {
     width: 20% !important; }
 
-  .ui[class*="mobile six column"].grid > .row > .column, .ui[class*="mobile six column"].grid > .column, .ui.grid > [class*="mobile six column"].row > .column {
+  .ui[class*="six column on mobile"].grid > .row > .column, .ui[class*="six column on mobile"].grid > .column, .ui.grid > [class*="six column on mobile"].row > .column {
     width: 16.66667% !important; }
 
-  .ui[class*="mobile seven column"].grid > .row > .column, .ui[class*="mobile seven column"].grid > .column, .ui.grid > [class*="mobile seven column"].row > .column {
+  .ui[class*="seven column on mobile"].grid > .row > .column, .ui[class*="seven column on mobile"].grid > .column, .ui.grid > [class*="seven column on mobile"].row > .column {
     width: 14.28571% !important; }
 
-  .ui[class*="mobile eight column"].grid > .row > .column, .ui[class*="mobile eight column"].grid > .column, .ui.grid > [class*="mobile eight column"].row > .column {
+  .ui[class*="eight column on mobile"].grid > .row > .column, .ui[class*="eight column on mobile"].grid > .column, .ui.grid > [class*="eight column on mobile"].row > .column {
     width: 12.5% !important; }
 
-  .ui[class*="mobile nine column"].grid > .row > .column, .ui[class*="mobile nine column"].grid > .column, .ui.grid > [class*="mobile nine column"].row > .column {
+  .ui[class*="nine column on mobile"].grid > .row > .column, .ui[class*="nine column on mobile"].grid > .column, .ui.grid > [class*="nine column on mobile"].row > .column {
     width: 11.11111% !important; }
 
-  .ui[class*="mobile ten column"].grid > .row > .column, .ui[class*="mobile ten column"].grid > .column, .ui.grid > [class*="mobile ten column"].row > .column {
+  .ui[class*="ten column on mobile"].grid > .row > .column, .ui[class*="ten column on mobile"].grid > .column, .ui.grid > [class*="ten column on mobile"].row > .column {
     width: 10% !important; }
 
-  .ui[class*="mobile eleven column"].grid > .row > .column, .ui[class*="mobile eleven column"].grid > .column, .ui.grid > [class*="mobile eleven column"].row > .column {
+  .ui[class*="eleven column on mobile"].grid > .row > .column, .ui[class*="eleven column on mobile"].grid > .column, .ui.grid > [class*="eleven column on mobile"].row > .column {
     width: 9.09091% !important; }
 
-  .ui[class*="mobile twelve column"].grid > .row > .column, .ui[class*="mobile twelve column"].grid > .column, .ui.grid > [class*="mobile twelve column"].row > .column {
+  .ui[class*="twelve column on mobile"].grid > .row > .column, .ui[class*="twelve column on mobile"].grid > .column, .ui.grid > [class*="twelve column on mobile"].row > .column {
     width: 8.33333% !important; }
 
-  .ui[class*="mobile thirteen column"].grid > .row > .column, .ui[class*="mobile thirteen column"].grid > .column, .ui.grid > [class*="mobile thirteen column"].row > .column {
+  .ui[class*="thirteen column on mobile"].grid > .row > .column, .ui[class*="thirteen column on mobile"].grid > .column, .ui.grid > [class*="thirteen column on mobile"].row > .column {
     width: 7.69231% !important; }
 
-  .ui[class*="mobile fourteen column"].grid > .row > .column, .ui[class*="mobile fourteen column"].grid > .column, .ui.grid > [class*="mobile fourteen column"].row > .column {
+  .ui[class*="fourteen column on mobile"].grid > .row > .column, .ui[class*="fourteen column on mobile"].grid > .column, .ui.grid > [class*="fourteen column on mobile"].row > .column {
     width: 7.14286% !important; }
 
-  .ui[class*="mobile fifteen"].grid > .row > .column, .ui[class*="mobile fifteen"].grid > .column, .ui.grid > [class*="mobile fifteen column"].row > .column {
+  .ui[class*="fifteen column on mobile"].grid > .row > .column, .ui[class*="fifteen column on mobile"].grid > .column, .ui.grid > [class*="fifteen column on mobile"].row > .column {
     width: 6.66667% !important; }
 
-  .ui[class*="mobile sixteen"].grid > .row > .column, .ui[class*="mobile sixteen"].grid > .column, .ui.grid > [class*="mobile sixteen column"].row > .column {
+  .ui[class*="sixteen column on mobile"].grid > .row > .column, .ui[class*="sixteen column on mobile"].grid > .column, .ui.grid > [class*="sixteen column on mobile"].row > .column {
     width: 6.25% !important; } }
 @media only screen and (min-width: 769px) and (max-width: 991px) {
-  .ui.grid > .row > [class*="tablet two wide"].column, .ui.grid > .column.row > [class*="tablet two wide"].column, .ui.grid > [class*="tablet two wide"].column, .ui.column.grid > [class*="tablet two wide"].column {
+  .ui.grid > .row > [class*="two wide on tablet"].column, .ui.grid > .column.row > [class*="two wide on tablet"].column, .ui.grid > [class*="two wide on tablet"].column, .ui.column.grid > [class*="two wide on tablet"].column {
     width: 12.5% !important; }
-  .ui.grid > .row > [class*="tablet three wide"].column, .ui.grid > .column.row > [class*="tablet three wide"].column, .ui.grid > [class*="tablet three wide"].column, .ui.column.grid > [class*="tablet three wide"].column {
+  .ui.grid > .row > [class*="three wide on tablet"].column, .ui.grid > .column.row > [class*="three wide on tablet"].column, .ui.grid > [class*="three wide on tablet"].column, .ui.column.grid > [class*="three wide on tablet"].column {
     width: 18.75% !important; }
-  .ui.grid > .row > [class*="tablet four wide"].column, .ui.grid > .column.row > [class*="tablet four wide"].column, .ui.grid > [class*="tablet four wide"].column, .ui.column.grid > [class*="tablet four wide"].column {
+  .ui.grid > .row > [class*="four wide on tablet"].column, .ui.grid > .column.row > [class*="four wide on tablet"].column, .ui.grid > [class*="four wide on tablet"].column, .ui.column.grid > [class*="four wide on tablet"].column {
     width: 25% !important; }
-  .ui.grid > .row > [class*="tablet five wide"].column, .ui.grid > .column.row > [class*="tablet five wide"].column, .ui.grid > [class*="tablet five wide"].column, .ui.column.grid > [class*="tablet five wide"].column {
+  .ui.grid > .row > [class*="five wide on tablet"].column, .ui.grid > .column.row > [class*="five wide on tablet"].column, .ui.grid > [class*="five wide on tablet"].column, .ui.column.grid > [class*="five wide on tablet"].column {
     width: 31.25% !important; }
-  .ui.grid > .row > [class*="tablet six wide"].column, .ui.grid > .column.row > [class*="tablet six wide"].column, .ui.grid > [class*="tablet six wide"].column, .ui.column.grid > [class*="tablet six wide"].column {
+  .ui.grid > .row > [class*="six wide on tablet"].column, .ui.grid > .column.row > [class*="six wide on tablet"].column, .ui.grid > [class*="six wide on tablet"].column, .ui.column.grid > [class*="six wide on tablet"].column {
     width: 31.25% !important; }
-  .ui.grid > .row > [class*="tablet seven wide"].column, .ui.grid > .column.row > [class*="tablet seven wide"].column, .ui.grid > [class*="tablet seven wide"].column, .ui.column.grid > [class*="tablet seven wide"].column {
+  .ui.grid > .row > [class*="seven wide on tablet"].column, .ui.grid > .column.row > [class*="seven wide on tablet"].column, .ui.grid > [class*="seven wide on tablet"].column, .ui.column.grid > [class*="seven wide on tablet"].column {
     width: 43.75% !important; }
-  .ui.grid > .row > [class*="tablet eight wide"].column, .ui.grid > .column.row > [class*="tablet eight wide"].column, .ui.grid > [class*="tablet eight wide"].column, .ui.column.grid > [class*="tablet eight wide"].column {
+  .ui.grid > .row > [class*="eight wide on tablet"].column, .ui.grid > .column.row > [class*="eight wide on tablet"].column, .ui.grid > [class*="eight wide on tablet"].column, .ui.column.grid > [class*="eight wide on tablet"].column {
     width: 50% !important; }
-  .ui.grid > .row > [class*="tablet night wide"].column, .ui.grid > .column.row > [class*="tablet night wide"].column, .ui.grid > [class*="tablet night wide"].column, .ui.column.grid > [class*="tablet night wide"].column {
+  .ui.grid > .row > [class*="night wide on tablet"].column, .ui.grid > .column.row > [class*="night wide on tablet"].column, .ui.grid > [class*="night wide on tablet"].column, .ui.column.grid > [class*="night wide on tablet"].column {
     width: 56.25% !important; }
-  .ui.grid > .row > [class*="tablet ten wide"].column, .ui.grid > .column.row > [class*="tablet ten wide"].column, .ui.grid > [class*="tablet ten wide"].column, .ui.column.grid > [class*="tablet ten wide"].column {
+  .ui.grid > .row > [class*="ten wide on tablet"].column, .ui.grid > .column.row > [class*="ten wide on tablet"].column, .ui.grid > [class*="ten wide on tablet"].column, .ui.column.grid > [class*="ten wide on tablet"].column {
     width: 62.5% !important; }
-  .ui.grid > .row > [class*="tablet eleven wide"].column, .ui.grid > .column.row > [class*="tablet eleven wide"].column, .ui.grid > [class*="tablet eleven wide"].column, .ui.column.grid > [class*="tablet eleven wide"].column {
+  .ui.grid > .row > [class*="eleven wide on tablet"].column, .ui.grid > .column.row > [class*="eleven wide on tablet"].column, .ui.grid > [class*="eleven wide on tablet"].column, .ui.column.grid > [class*="eleven wide on tablet"].column {
     width: 68.75% !important; }
-  .ui.grid > .row > [class*="tablet twelve wide"].column, .ui.grid > .column.row > [class*="tablet twelve wide"].column, .ui.grid > [class*="tablet twelve wide"].column, .ui.column.grid > [class*="tablet twelve wide"].column {
+  .ui.grid > .row > [class*="twelve wide on tablet"].column, .ui.grid > .column.row > [class*="twelve wide on tablet"].column, .ui.grid > [class*="twelve wide on tablet"].column, .ui.column.grid > [class*="twelve wide on tablet"].column {
     width: 75% !important; }
-  .ui.grid > .row > [class*="tablet thirteen wide"].column, .ui.grid > .column.row > [class*="tablet thirteen wide"].column, .ui.grid > [class*="tablet thirteen wide"].column, .ui.column.grid > [class*="tablet thirteen wide"].column {
+  .ui.grid > .row > [class*="thirteen wide on tablet"].column, .ui.grid > .column.row > [class*="thirteen wide on tablet"].column, .ui.grid > [class*="thirteen wide on tablet"].column, .ui.column.grid > [class*="thirteen wide on tablet"].column {
     width: 81.25% !important; }
-  .ui.grid > .row > [class*="tablet fourteen wide"].column, .ui.grid > .column.row > [class*="tablet fourteen wide"].column, .ui.grid > [class*="tablet fourteen wide"].column, .ui.column.grid > [class*="tablet fourteen wide"].column {
+  .ui.grid > .row > [class*="fourteen wide on tablet"].column, .ui.grid > .column.row > [class*="fourteen wide on tablet"].column, .ui.grid > [class*="fourteen wide on tablet"].column, .ui.column.grid > [class*="fourteen wide on tablet"].column {
     width: 87.5% !important; }
-  .ui.grid > .row > [class*="tablet fifteen wide"].column, .ui.grid > .column.row > [class*="tablet fifteen wide"].column, .ui.grid > [class*="tablet fifteen wide"].column, .ui.column.grid > [class*="tablet fifteen wide"].column {
+  .ui.grid > .row > [class*="fifteen wide on tablet"].column, .ui.grid > .column.row > [class*="fifteen wide on tablet"].column, .ui.grid > [class*="fifteen wide on tablet"].column, .ui.column.grid > [class*="fifteen wide on tablet"].column {
     width: 93.75% !important; }
-  .ui.grid > .row > [class*="tablet sixteen wide"].column, .ui.grid > .column.row > [class*="tablet sixteen wide"].column, .ui.grid > [class*="tablet sixteen wide"].column, .ui.column.grid > [class*="tablet sixteen wide"].column {
+  .ui.grid > .row > [class*="sixteen wide on tablet"].column, .ui.grid > .column.row > [class*="sixteen wide on tablet"].column, .ui.grid > [class*="sixteen wide on tablet"].column, .ui.column.grid > [class*="sixteen wide on tablet"].column {
     width: 100% !important; }
 
-  .ui[class*="tablet two column"].grid > .row > .column, .ui[class*="tablet two column"].grid > .column, .ui.grid > [class*="tablet two column"].row > .column {
+  .ui[class*="two column on tablet"].grid > .row > .column, .ui[class*="two column on tablet"].grid > .column, .ui.grid > [class*="two column on tablet"].row > .column {
     width: 50% !important; }
 
-  .ui[class*="tablet three column"].grid > .row > .column, .ui[class*="tablet three column"].grid > .column, .ui.grid > [class*="tablet three column"].row > .column {
+  .ui[class*="three column on tablet"].grid > .row > .column, .ui[class*="three column on tablet"].grid > .column, .ui.grid > [class*="three column on tablet"].row > .column {
     width: 33.33333% !important; }
 
-  .ui[class*="tablet four column"].grid > .row > .column, .ui[class*="tablet four column"].grid > .column, .ui.grid > [class*="tablet four column"].row > .column {
+  .ui[class*="four column on tablet"].grid > .row > .column, .ui[class*="four column on tablet"].grid > .column, .ui.grid > [class*="four column on tablet"].row > .column {
     width: 25% !important; }
 
-  .ui[class*="tablet two column"].grid > .row > .column, .ui[class*="tablet five column"].grid > .column, .ui.grid > [class*="tablet five column"].row > .column {
+  .ui[class*="two column on tablet"].grid > .row > .column, .ui[class*="five column on tablet"].grid > .column, .ui.grid > [class*="five column on tablet"].row > .column {
     width: 20% !important; }
 
-  .ui[class*="tablet six column"].grid > .row > .column, .ui[class*="tablet six column"].grid > .column, .ui.grid > [class*="tablet six column"].row > .column {
+  .ui[class*="six column on tablet"].grid > .row > .column, .ui[class*="six column on tablet"].grid > .column, .ui.grid > [class*="six column on tablet"].row > .column {
     width: 16.66667% !important; }
 
-  .ui[class*="tablet seven column"].grid > .row > .column, .ui[class*="tablet seven column"].grid > .column, .ui.grid > [class*="tablet seven column"].row > .column {
+  .ui[class*="seven column on tablet"].grid > .row > .column, .ui[class*="seven column on tablet"].grid > .column, .ui.grid > [class*="seven column on tablet"].row > .column {
     width: 14.28571% !important; }
 
-  .ui[class*="tablet eight column"].grid > .row > .column, .ui[class*="tablet eight column"].grid > .column, .ui.grid > [class*="tablet eight column"].row > .column {
+  .ui[class*="eight column on tablet"].grid > .row > .column, .ui[class*="eight column on tablet"].grid > .column, .ui.grid > [class*="eight column on tablet"].row > .column {
     width: 12.5% !important; }
 
-  .ui[class*="tablet nine column"].grid > .row > .column, .ui[class*="tablet nine column"].grid > .column, .ui.grid > [class*="tablet nine column"].row > .column {
+  .ui[class*="nine column on tablet"].grid > .row > .column, .ui[class*="nine column on tablet"].grid > .column, .ui.grid > [class*="nine column on tablet"].row > .column {
     width: 11.11111% !important; }
 
-  .ui[class*="tablet ten column"].grid > .row > .column, .ui[class*="tablet ten column"].grid > .column, .ui.grid > [class*="tablet ten column"].row > .column {
+  .ui[class*="ten column on tablet"].grid > .row > .column, .ui[class*="ten column on tablet"].grid > .column, .ui.grid > [class*="ten column on tablet"].row > .column {
     width: 10% !important; }
 
-  .ui[class*="tablet eleven column"].grid > .row > .column, .ui[class*="tablet eleven column"].grid > .column, .ui.grid > [class*="tablet eleven column"].row > .column {
+  .ui[class*="eleven column on tablet"].grid > .row > .column, .ui[class*="eleven column on tablet"].grid > .column, .ui.grid > [class*="eleven column on tablet"].row > .column {
     width: 9.09091% !important; }
 
-  .ui[class*="tablet twelve column"].grid > .row > .column, .ui[class*="tablet twelve column"].grid > .column, .ui.grid > [class*="tablet twelve column"].row > .column {
+  .ui[class*="twelve column on tablet"].grid > .row > .column, .ui[class*="twelve column on tablet"].grid > .column, .ui.grid > [class*="twelve column on tablet"].row > .column {
     width: 8.33333% !important; }
 
-  .ui[class*="tablet thirteen column"].grid > .row > .column, .ui[class*="tablet thirteen column"].grid > .column, .ui.grid > [class*="tablet thirteen column"].row > .column {
+  .ui[class*="thirteen column on tablet"].grid > .row > .column, .ui[class*="thirteen column on tablet"].grid > .column, .ui.grid > [class*="thirteen column on tablet"].row > .column {
     width: 7.69231% !important; }
 
-  .ui[class*="tablet fourteen column"].grid > .row > .column, .ui[class*="tablet fourteen column"].grid > .column, .ui.grid > [class*="tablet fourteen column"].row > .column {
+  .ui[class*="fourteen column on tablet"].grid > .row > .column, .ui[class*="fourteen column on tablet"].grid > .column, .ui.grid > [class*="fourteen column on tablet"].row > .column {
     width: 7.14286% !important; }
 
-  .ui[class*="tablet fifteen"].grid > .row > .column, .ui[class*="tablet fifteen"].grid > .column, .ui.grid > [class*="tablet fifteen column"].row > .column {
+  .ui[class*="fifteen column on tablet"].grid > .row > .column, .ui[class*="fifteen column on tablet"].grid > .column, .ui.grid > [class*="fifteen column on tablet"].row > .column {
     width: 6.66667% !important; }
 
-  .ui[class*="tablet sixteen"].grid > .row > .column, .ui[class*="tablet sixteen"].grid > .column, .ui.grid > [class*="tablet sixteen column"].row > .column {
+  .ui[class*="sixteen column on tablet"].grid > .row > .column, .ui[class*="sixteen column on tablet"].grid > .column, .ui.grid > [class*="sixteen column on tablet"].row > .column {
     width: 6.25% !important; }
 
   .ui[class*='tablet stackable'].grid > .row > .wide.column, .ui[class*='tablet stackable'].grid > .wide.column, .ui[class*='tablet stackable'].grid > .column.grid > .column, .ui[class*='tablet stackable'].grid > .column.row > .column, .ui[class*='tablet stackable'].grid > .row > .column, .ui[class*='tablet stackable'].grid > .column:not(.row), .ui.grid > [class*='tablet stackable'][class*='tablet stackable'].row > .column {
@@ -248,308 +248,308 @@
     box-shadow: none !important;
     padding: 14px 14px !important; } }
 @media only screen and (max-width: 991px) {
-  .ui.grid > .row > [class*="portable two wide"].column, .ui.grid > .column.row > [class*="portable two wide"].column, .ui.grid > [class*="portable two wide"].column, .ui.column.grid > [class*="portable two wide"].column {
+  .ui.grid > .row > [class*="two wide on portable"].column, .ui.grid > .column.row > [class*="two wide on portable"].column, .ui.grid > [class*="two wide on portable"].column, .ui.column.grid > [class*="two wide on portable"].column {
     width: 12.5% !important; }
-  .ui.grid > .row > [class*="portable three wide"].column, .ui.grid > .column.row > [class*="portable three wide"].column, .ui.grid > [class*="portable three wide"].column, .ui.column.grid > [class*="portable three wide"].column {
+  .ui.grid > .row > [class*="three wide on portable"].column, .ui.grid > .column.row > [class*="three wide on portable"].column, .ui.grid > [class*="three wide on portable"].column, .ui.column.grid > [class*="three wide on portable"].column {
     width: 18.75% !important; }
-  .ui.grid > .row > [class*="portable four wide"].column, .ui.grid > .column.row > [class*="portable four wide"].column, .ui.grid > [class*="portable four wide"].column, .ui.column.grid > [class*="portable four wide"].column {
+  .ui.grid > .row > [class*="four wide on portable"].column, .ui.grid > .column.row > [class*="four wide on portable"].column, .ui.grid > [class*="four wide on portable"].column, .ui.column.grid > [class*="four wide on portable"].column {
     width: 25% !important; }
-  .ui.grid > .row > [class*="portable five wide"].column, .ui.grid > .column.row > [class*="portable five wide"].column, .ui.grid > [class*="portable five wide"].column, .ui.column.grid > [class*="portable five wide"].column {
+  .ui.grid > .row > [class*="five wide on portable"].column, .ui.grid > .column.row > [class*="five wide on portable"].column, .ui.grid > [class*="five wide on portable"].column, .ui.column.grid > [class*="five wide on portable"].column {
     width: 31.25% !important; }
-  .ui.grid > .row > [class*="portable six wide"].column, .ui.grid > .column.row > [class*="portable six wide"].column, .ui.grid > [class*="portable six wide"].column, .ui.column.grid > [class*="portable six wide"].column {
+  .ui.grid > .row > [class*="six wide on portable"].column, .ui.grid > .column.row > [class*="six wide on portable"].column, .ui.grid > [class*="six wide on portable"].column, .ui.column.grid > [class*="six wide on portable"].column {
     width: 31.25% !important; }
-  .ui.grid > .row > [class*="portable seven wide"].column, .ui.grid > .column.row > [class*="portable seven wide"].column, .ui.grid > [class*="portable seven wide"].column, .ui.column.grid > [class*="portable seven wide"].column {
+  .ui.grid > .row > [class*="seven wide on portable"].column, .ui.grid > .column.row > [class*="seven wide on portable"].column, .ui.grid > [class*="seven wide on portable"].column, .ui.column.grid > [class*="seven wide on portable"].column {
     width: 43.75% !important; }
-  .ui.grid > .row > [class*="portable eight wide"].column, .ui.grid > .column.row > [class*="portable eight wide"].column, .ui.grid > [class*="portable eight wide"].column, .ui.column.grid > [class*="portable eight wide"].column {
+  .ui.grid > .row > [class*="eight wide on portable"].column, .ui.grid > .column.row > [class*="eight wide on portable"].column, .ui.grid > [class*="eight wide on portable"].column, .ui.column.grid > [class*="eight wide on portable"].column {
     width: 50% !important; }
-  .ui.grid > .row > [class*="portable night wide"].column, .ui.grid > .column.row > [class*="portable night wide"].column, .ui.grid > [class*="portable night wide"].column, .ui.column.grid > [class*="portable night wide"].column {
+  .ui.grid > .row > [class*="night wide on portable"].column, .ui.grid > .column.row > [class*="night wide on portable"].column, .ui.grid > [class*="night wide on portable"].column, .ui.column.grid > [class*="night wide on portable"].column {
     width: 56.25% !important; }
-  .ui.grid > .row > [class*="portable ten wide"].column, .ui.grid > .column.row > [class*="portable ten wide"].column, .ui.grid > [class*="portable ten wide"].column, .ui.column.grid > [class*="portable ten wide"].column {
+  .ui.grid > .row > [class*="ten wide on portable"].column, .ui.grid > .column.row > [class*="ten wide on portable"].column, .ui.grid > [class*="ten wide on portable"].column, .ui.column.grid > [class*="ten wide on portable"].column {
     width: 62.5% !important; }
-  .ui.grid > .row > [class*="portable eleven wide"].column, .ui.grid > .column.row > [class*="portable eleven wide"].column, .ui.grid > [class*="portable eleven wide"].column, .ui.column.grid > [class*="portable eleven wide"].column {
+  .ui.grid > .row > [class*="eleven wide on portable"].column, .ui.grid > .column.row > [class*="eleven wide on portable"].column, .ui.grid > [class*="eleven wide on portable"].column, .ui.column.grid > [class*="eleven wide on portable"].column {
     width: 68.75% !important; }
-  .ui.grid > .row > [class*="portable twelve wide"].column, .ui.grid > .column.row > [class*="portable twelve wide"].column, .ui.grid > [class*="portable twelve wide"].column, .ui.column.grid > [class*="portable twelve wide"].column {
+  .ui.grid > .row > [class*="twelve wide on portable"].column, .ui.grid > .column.row > [class*="twelve wide on portable"].column, .ui.grid > [class*="twelve wide on portable"].column, .ui.column.grid > [class*="twelve wide on portable"].column {
     width: 75% !important; }
-  .ui.grid > .row > [class*="portable thirteen wide"].column, .ui.grid > .column.row > [class*="portable thirteen wide"].column, .ui.grid > [class*="portable thirteen wide"].column, .ui.column.grid > [class*="portable thirteen wide"].column {
+  .ui.grid > .row > [class*="thirteen wide on portable"].column, .ui.grid > .column.row > [class*="thirteen wide on portable"].column, .ui.grid > [class*="thirteen wide on portable"].column, .ui.column.grid > [class*="thirteen wide on portable"].column {
     width: 81.25% !important; }
-  .ui.grid > .row > [class*="portable fourteen wide"].column, .ui.grid > .column.row > [class*="portable fourteen wide"].column, .ui.grid > [class*="portable fourteen wide"].column, .ui.column.grid > [class*="portable fourteen wide"].column {
+  .ui.grid > .row > [class*="fourteen wide on portable"].column, .ui.grid > .column.row > [class*="fourteen wide on portable"].column, .ui.grid > [class*="fourteen wide on portable"].column, .ui.column.grid > [class*="fourteen wide on portable"].column {
     width: 87.5% !important; }
-  .ui.grid > .row > [class*="portable fifteen wide"].column, .ui.grid > .column.row > [class*="portable fifteen wide"].column, .ui.grid > [class*="portable fifteen wide"].column, .ui.column.grid > [class*="portable fifteen wide"].column {
+  .ui.grid > .row > [class*="fifteen wide on portable"].column, .ui.grid > .column.row > [class*="fifteen wide on portable"].column, .ui.grid > [class*="fifteen wide on portable"].column, .ui.column.grid > [class*="fifteen wide on portable"].column {
     width: 93.75% !important; }
-  .ui.grid > .row > [class*="portable sixteen wide"].column, .ui.grid > .column.row > [class*="portable sixteen wide"].column, .ui.grid > [class*="portable sixteen wide"].column, .ui.column.grid > [class*="portable sixteen wide"].column {
+  .ui.grid > .row > [class*="sixteen wide on portable"].column, .ui.grid > .column.row > [class*="sixteen wide on portable"].column, .ui.grid > [class*="sixteen wide on portable"].column, .ui.column.grid > [class*="sixteen wide on portable"].column {
     width: 100% !important; }
 
-  .ui[class*="portable two column"].grid > .row > .column, .ui[class*="portable two column"].grid > .column, .ui.grid > [class*="portable two column"].row > .column {
+  .ui[class*="two column on portable"].grid > .row > .column, .ui[class*="two column on portable"].grid > .column, .ui.grid > [class*="two column on portable"].row > .column {
     width: 50% !important; }
 
-  .ui[class*="portable three column"].grid > .row > .column, .ui[class*="portable three column"].grid > .column, .ui.grid > [class*="portable three column"].row > .column {
+  .ui[class*="three column on portable"].grid > .row > .column, .ui[class*="three column on portable"].grid > .column, .ui.grid > [class*="three column on portable"].row > .column {
     width: 33.33333% !important; }
 
-  .ui[class*="portable four column"].grid > .row > .column, .ui[class*="portable four column"].grid > .column, .ui.grid > [class*="portable four column"].row > .column {
+  .ui[class*="four column on portable"].grid > .row > .column, .ui[class*="four column on portable"].grid > .column, .ui.grid > [class*="four column on portable"].row > .column {
     width: 25% !important; }
 
-  .ui[class*="portable two column"].grid > .row > .column, .ui[class*="portable five column"].grid > .column, .ui.grid > [class*="portable five column"].row > .column {
+  .ui[class*="two column on portable"].grid > .row > .column, .ui[class*="five column on portable"].grid > .column, .ui.grid > [class*="five column on portable"].row > .column {
     width: 20% !important; }
 
-  .ui[class*="portable six column"].grid > .row > .column, .ui[class*="portable six column"].grid > .column, .ui.grid > [class*="portable six column"].row > .column {
+  .ui[class*="six column on portable"].grid > .row > .column, .ui[class*="six column on portable"].grid > .column, .ui.grid > [class*="six column on portable"].row > .column {
     width: 16.66667% !important; }
 
-  .ui[class*="portable seven column"].grid > .row > .column, .ui[class*="portable seven column"].grid > .column, .ui.grid > [class*="portable seven column"].row > .column {
+  .ui[class*="seven column on portable"].grid > .row > .column, .ui[class*="seven column on portable"].grid > .column, .ui.grid > [class*="seven column on portable"].row > .column {
     width: 14.28571% !important; }
 
-  .ui[class*="portable eight column"].grid > .row > .column, .ui[class*="portable eight column"].grid > .column, .ui.grid > [class*="portable eight column"].row > .column {
+  .ui[class*="eight column on portable"].grid > .row > .column, .ui[class*="eight column on portable"].grid > .column, .ui.grid > [class*="eight column on portable"].row > .column {
     width: 12.5% !important; }
 
-  .ui[class*="portable nine column"].grid > .row > .column, .ui[class*="portable nine column"].grid > .column, .ui.grid > [class*="portable nine column"].row > .column {
+  .ui[class*="nine column on portable"].grid > .row > .column, .ui[class*="nine column on portable"].grid > .column, .ui.grid > [class*="nine column on portable"].row > .column {
     width: 11.11111% !important; }
 
-  .ui[class*="portable ten column"].grid > .row > .column, .ui[class*="portable ten column"].grid > .column, .ui.grid > [class*="portable ten column"].row > .column {
+  .ui[class*="ten column on portable"].grid > .row > .column, .ui[class*="ten column on portable"].grid > .column, .ui.grid > [class*="ten column on portable"].row > .column {
     width: 10% !important; }
 
-  .ui[class*="portable eleven column"].grid > .row > .column, .ui[class*="portable eleven column"].grid > .column, .ui.grid > [class*="portable eleven column"].row > .column {
+  .ui[class*="eleven column on portable"].grid > .row > .column, .ui[class*="eleven column on portable"].grid > .column, .ui.grid > [class*="eleven column on portable"].row > .column {
     width: 9.09091% !important; }
 
-  .ui[class*="portable twelve column"].grid > .row > .column, .ui[class*="portable twelve column"].grid > .column, .ui.grid > [class*="portable twelve column"].row > .column {
+  .ui[class*="twelve column on portable"].grid > .row > .column, .ui[class*="twelve column on portable"].grid > .column, .ui.grid > [class*="twelve column on portable"].row > .column {
     width: 8.33333% !important; }
 
-  .ui[class*="portable thirteen column"].grid > .row > .column, .ui[class*="portable thirteen column"].grid > .column, .ui.grid > [class*="portable thirteen column"].row > .column {
+  .ui[class*="thirteen column on portable"].grid > .row > .column, .ui[class*="thirteen column on portable"].grid > .column, .ui.grid > [class*="thirteen column on portable"].row > .column {
     width: 7.69231% !important; }
 
-  .ui[class*="portable fourteen column"].grid > .row > .column, .ui[class*="portable fourteen column"].grid > .column, .ui.grid > [class*="portable fourteen column"].row > .column {
+  .ui[class*="fourteen column on portable"].grid > .row > .column, .ui[class*="fourteen column on portable"].grid > .column, .ui.grid > [class*="fourteen column on portable"].row > .column {
     width: 7.14286% !important; }
 
-  .ui[class*="portable fifteen"].grid > .row > .column, .ui[class*="portable fifteen"].grid > .column, .ui.grid > [class*="portable fifteen column"].row > .column {
+  .ui[class*="fifteen column on portable"].grid > .row > .column, .ui[class*="fifteen column on portable"].grid > .column, .ui.grid > [class*="fifteen column on portable"].row > .column {
     width: 6.66667% !important; }
 
-  .ui[class*="portable sixteen"].grid > .row > .column, .ui[class*="portable sixteen"].grid > .column, .ui.grid > [class*="portable sixteen column"].row > .column {
+  .ui[class*="sixteen column on portable"].grid > .row > .column, .ui[class*="sixteen column on portable"].grid > .column, .ui.grid > [class*="sixteen column on portable"].row > .column {
     width: 6.25% !important; } }
 @media only screen and (min-width: 992px) and (max-width: 1200px) {
-  .ui.grid > .row > [class*="small screen two wide"].column, .ui.grid > .column.row > [class*="small screen two wide"].column, .ui.grid > [class*="small screen two wide"].column, .ui.column.grid > [class*="small screen two wide"].column {
+  .ui.grid > .row > [class*="two wide on small screen"].column, .ui.grid > .column.row > [class*="two wide on small screen"].column, .ui.grid > [class*="two wide on small screen"].column, .ui.column.grid > [class*="two wide on small screen"].column {
     width: 12.5% !important; }
-  .ui.grid > .row > [class*="small screen three wide"].column, .ui.grid > .column.row > [class*="small screen three wide"].column, .ui.grid > [class*="small screen three wide"].column, .ui.column.grid > [class*="small screen three wide"].column {
+  .ui.grid > .row > [class*="three wide on small screen"].column, .ui.grid > .column.row > [class*="three wide on small screen"].column, .ui.grid > [class*="three wide on small screen"].column, .ui.column.grid > [class*="three wide on small screen"].column {
     width: 18.75% !important; }
-  .ui.grid > .row > [class*="small screen four wide"].column, .ui.grid > .column.row > [class*="small screen four wide"].column, .ui.grid > [class*="small screen four wide"].column, .ui.column.grid > [class*="small screen four wide"].column {
+  .ui.grid > .row > [class*="four wide on small screen"].column, .ui.grid > .column.row > [class*="four wide on small screen"].column, .ui.grid > [class*="four wide on small screen"].column, .ui.column.grid > [class*="four wide on small screen"].column {
     width: 25% !important; }
-  .ui.grid > .row > [class*="small screen five wide"].column, .ui.grid > .column.row > [class*="small screen five wide"].column, .ui.grid > [class*="small screen five wide"].column, .ui.column.grid > [class*="small screen five wide"].column {
+  .ui.grid > .row > [class*="five wide on small screen"].column, .ui.grid > .column.row > [class*="five wide on small screen"].column, .ui.grid > [class*="five wide on small screen"].column, .ui.column.grid > [class*="five wide on small screen"].column {
     width: 31.25% !important; }
-  .ui.grid > .row > [class*="small screen six wide"].column, .ui.grid > .column.row > [class*="small screen six wide"].column, .ui.grid > [class*="small screen six wide"].column, .ui.column.grid > [class*="small screen six wide"].column {
+  .ui.grid > .row > [class*="six wide on small screen"].column, .ui.grid > .column.row > [class*="six wide on small screen"].column, .ui.grid > [class*="six wide on small screen"].column, .ui.column.grid > [class*="six wide on small screen"].column {
     width: 31.25% !important; }
-  .ui.grid > .row > [class*="small screen seven wide"].column, .ui.grid > .column.row > [class*="small screen seven wide"].column, .ui.grid > [class*="small screen seven wide"].column, .ui.column.grid > [class*="small screen seven wide"].column {
+  .ui.grid > .row > [class*="seven wide on small screen"].column, .ui.grid > .column.row > [class*="seven wide on small screen"].column, .ui.grid > [class*="seven wide on small screen"].column, .ui.column.grid > [class*="seven wide on small screen"].column {
     width: 43.75% !important; }
-  .ui.grid > .row > [class*="small screen eight wide"].column, .ui.grid > .column.row > [class*="small screen eight wide"].column, .ui.grid > [class*="small screen eight wide"].column, .ui.column.grid > [class*="small screen eight wide"].column {
+  .ui.grid > .row > [class*="eight wide on small screen"].column, .ui.grid > .column.row > [class*="eight wide on small screen"].column, .ui.grid > [class*="eight wide on small screen"].column, .ui.column.grid > [class*="eight wide on small screen"].column {
     width: 50% !important; }
-  .ui.grid > .row > [class*="small screen night wide"].column, .ui.grid > .column.row > [class*="small screen night wide"].column, .ui.grid > [class*="small screen night wide"].column, .ui.column.grid > [class*="small screen night wide"].column {
+  .ui.grid > .row > [class*="night wide on small screen"].column, .ui.grid > .column.row > [class*="night wide on small screen"].column, .ui.grid > [class*="night wide on small screen"].column, .ui.column.grid > [class*="night wide on small screen"].column {
     width: 56.25% !important; }
-  .ui.grid > .row > [class*="small screen ten wide"].column, .ui.grid > .column.row > [class*="small screen ten wide"].column, .ui.grid > [class*="small screen ten wide"].column, .ui.column.grid > [class*="small screen ten wide"].column {
+  .ui.grid > .row > [class*="ten wide on small screen"].column, .ui.grid > .column.row > [class*="ten wide on small screen"].column, .ui.grid > [class*="ten wide on small screen"].column, .ui.column.grid > [class*="ten wide on small screen"].column {
     width: 62.5% !important; }
-  .ui.grid > .row > [class*="small screen eleven wide"].column, .ui.grid > .column.row > [class*="small screen eleven wide"].column, .ui.grid > [class*="small screen eleven wide"].column, .ui.column.grid > [class*="small screen eleven wide"].column {
+  .ui.grid > .row > [class*="eleven wide on small screen"].column, .ui.grid > .column.row > [class*="eleven wide on small screen"].column, .ui.grid > [class*="eleven wide on small screen"].column, .ui.column.grid > [class*="eleven wide on small screen"].column {
     width: 68.75% !important; }
-  .ui.grid > .row > [class*="small screen twelve wide"].column, .ui.grid > .column.row > [class*="small screen twelve wide"].column, .ui.grid > [class*="small screen twelve wide"].column, .ui.column.grid > [class*="small screen twelve wide"].column {
+  .ui.grid > .row > [class*="twelve wide on small screen"].column, .ui.grid > .column.row > [class*="twelve wide on small screen"].column, .ui.grid > [class*="twelve wide on small screen"].column, .ui.column.grid > [class*="twelve wide on small screen"].column {
     width: 75% !important; }
-  .ui.grid > .row > [class*="small screen thirteen wide"].column, .ui.grid > .column.row > [class*="small screen thirteen wide"].column, .ui.grid > [class*="small screen thirteen wide"].column, .ui.column.grid > [class*="small screen thirteen wide"].column {
+  .ui.grid > .row > [class*="thirteen wide on small screen"].column, .ui.grid > .column.row > [class*="thirteen wide on small screen"].column, .ui.grid > [class*="thirteen wide on small screen"].column, .ui.column.grid > [class*="thirteen wide on small screen"].column {
     width: 81.25% !important; }
-  .ui.grid > .row > [class*="small screen fourteen wide"].column, .ui.grid > .column.row > [class*="small screen fourteen wide"].column, .ui.grid > [class*="small screen fourteen wide"].column, .ui.column.grid > [class*="small screen fourteen wide"].column {
+  .ui.grid > .row > [class*="fourteen wide on small screen"].column, .ui.grid > .column.row > [class*="fourteen wide on small screen"].column, .ui.grid > [class*="fourteen wide on small screen"].column, .ui.column.grid > [class*="fourteen wide on small screen"].column {
     width: 87.5% !important; }
-  .ui.grid > .row > [class*="small screen fifteen wide"].column, .ui.grid > .column.row > [class*="small screen fifteen wide"].column, .ui.grid > [class*="small screen fifteen wide"].column, .ui.column.grid > [class*="small screen fifteen wide"].column {
+  .ui.grid > .row > [class*="fifteen wide on small screen"].column, .ui.grid > .column.row > [class*="fifteen wide on small screen"].column, .ui.grid > [class*="fifteen wide on small screen"].column, .ui.column.grid > [class*="fifteen wide on small screen"].column {
     width: 93.75% !important; }
-  .ui.grid > .row > [class*="small screen sixteen wide"].column, .ui.grid > .column.row > [class*="small screen sixteen wide"].column, .ui.grid > [class*="small screen sixteen wide"].column, .ui.column.grid > [class*="small screen sixteen wide"].column {
+  .ui.grid > .row > [class*="sixteen wide on small screen"].column, .ui.grid > .column.row > [class*="sixteen wide on small screen"].column, .ui.grid > [class*="sixteen wide on small screen"].column, .ui.column.grid > [class*="sixteen wide on small screen"].column {
     width: 100% !important; }
 
-  .ui[class*="small screen two column"].grid > .row > .column, .ui[class*="small screen two column"].grid > .column, .ui.grid > [class*="small screen two column"].row > .column {
+  .ui[class*="two column on small screen"].grid > .row > .column, .ui[class*="two column on small screen"].grid > .column, .ui.grid > [class*="two column on small screen"].row > .column {
     width: 50% !important; }
 
-  .ui[class*="small screen three column"].grid > .row > .column, .ui[class*="small screen three column"].grid > .column, .ui.grid > [class*="small screen three column"].row > .column {
+  .ui[class*="three column on small screen"].grid > .row > .column, .ui[class*="three column on small screen"].grid > .column, .ui.grid > [class*="three column on small screen"].row > .column {
     width: 33.33333% !important; }
 
-  .ui[class*="small screen four column"].grid > .row > .column, .ui[class*="small screen four column"].grid > .column, .ui.grid > [class*="small screen four column"].row > .column {
+  .ui[class*="four column on small screen"].grid > .row > .column, .ui[class*="four column on small screen"].grid > .column, .ui.grid > [class*="four column on small screen"].row > .column {
     width: 25% !important; }
 
-  .ui[class*="small screen two column"].grid > .row > .column, .ui[class*="small screen five column"].grid > .column, .ui.grid > [class*="small screen five column"].row > .column {
+  .ui[class*="two column on small screen"].grid > .row > .column, .ui[class*="five column on small screen"].grid > .column, .ui.grid > [class*="five column on small screen"].row > .column {
     width: 20% !important; }
 
-  .ui[class*="small screen six column"].grid > .row > .column, .ui[class*="small screen six column"].grid > .column, .ui.grid > [class*="small screen six column"].row > .column {
+  .ui[class*="six column on small screen"].grid > .row > .column, .ui[class*="six column on small screen"].grid > .column, .ui.grid > [class*="six column on small screen"].row > .column {
     width: 16.66667% !important; }
 
-  .ui[class*="small screen seven column"].grid > .row > .column, .ui[class*="small screen seven column"].grid > .column, .ui.grid > [class*="small screen seven column"].row > .column {
+  .ui[class*="seven column on small screen"].grid > .row > .column, .ui[class*="seven column on small screen"].grid > .column, .ui.grid > [class*="seven column on small screen"].row > .column {
     width: 14.28571% !important; }
 
-  .ui[class*="small screen eight column"].grid > .row > .column, .ui[class*="small screen eight column"].grid > .column, .ui.grid > [class*="small screen eight column"].row > .column {
+  .ui[class*="eight column on small screen"].grid > .row > .column, .ui[class*="eight column on small screen"].grid > .column, .ui.grid > [class*="eight column on small screen"].row > .column {
     width: 12.5% !important; }
 
-  .ui[class*="small screen nine column"].grid > .row > .column, .ui[class*="small screen nine column"].grid > .column, .ui.grid > [class*="small screen nine column"].row > .column {
+  .ui[class*="nine column on small screen"].grid > .row > .column, .ui[class*="nine column on small screen"].grid > .column, .ui.grid > [class*="nine column on small screen"].row > .column {
     width: 11.11111% !important; }
 
-  .ui[class*="small screen ten column"].grid > .row > .column, .ui[class*="small screen ten column"].grid > .column, .ui.grid > [class*="small screen ten column"].row > .column {
+  .ui[class*="ten column on small screen"].grid > .row > .column, .ui[class*="ten column on small screen"].grid > .column, .ui.grid > [class*="ten column on small screen"].row > .column {
     width: 10% !important; }
 
-  .ui[class*="small screen eleven column"].grid > .row > .column, .ui[class*="small screen eleven column"].grid > .column, .ui.grid > [class*="small screen eleven column"].row > .column {
+  .ui[class*="eleven column on small screen"].grid > .row > .column, .ui[class*="eleven column on small screen"].grid > .column, .ui.grid > [class*="eleven column on small screen"].row > .column {
     width: 9.09091% !important; }
 
-  .ui[class*="small screen twelve column"].grid > .row > .column, .ui[class*="small screen twelve column"].grid > .column, .ui.grid > [class*="small screen twelve column"].row > .column {
+  .ui[class*="twelve column on small screen"].grid > .row > .column, .ui[class*="twelve column on small screen"].grid > .column, .ui.grid > [class*="twelve column on small screen"].row > .column {
     width: 8.33333% !important; }
 
-  .ui[class*="small screen thirteen column"].grid > .row > .column, .ui[class*="small screen thirteen column"].grid > .column, .ui.grid > [class*="small screen thirteen column"].row > .column {
+  .ui[class*="thirteen column on small screen"].grid > .row > .column, .ui[class*="thirteen column on small screen"].grid > .column, .ui.grid > [class*="thirteen column on small screen"].row > .column {
     width: 7.69231% !important; }
 
-  .ui[class*="small screen fourteen column"].grid > .row > .column, .ui[class*="small screen fourteen column"].grid > .column, .ui.grid > [class*="small screen fourteen column"].row > .column {
+  .ui[class*="fourteen column on small screen"].grid > .row > .column, .ui[class*="fourteen column on small screen"].grid > .column, .ui.grid > [class*="fourteen column on small screen"].row > .column {
     width: 7.14286% !important; }
 
-  .ui[class*="small screen fifteen"].grid > .row > .column, .ui[class*="small screen fifteen"].grid > .column, .ui.grid > [class*="small screen fifteen column"].row > .column {
+  .ui[class*="fifteen column on small screen"].grid > .row > .column, .ui[class*="fifteen column on small screen"].grid > .column, .ui.grid > [class*="fifteen column on small screen"].row > .column {
     width: 6.66667% !important; }
 
-  .ui[class*="small screen sixteen"].grid > .row > .column, .ui[class*="small screen sixteen"].grid > .column, .ui.grid > [class*="small screen sixteen column"].row > .column {
+  .ui[class*="sixteen column on small screen"].grid > .row > .column, .ui[class*="sixteen column on small screen"].grid > .column, .ui.grid > [class*="sixteen column on small screen"].row > .column {
     width: 6.25% !important; } }
 @media only screen and (min-width: 1201px) {
-  .ui.grid > .row > [class*="large screen two wide"].column, .ui.grid > .column.row > [class*="large screen two wide"].column, .ui.grid > [class*="large screen two wide"].column, .ui.column.grid > [class*="large screen two wide"].column {
+  .ui.grid > .row > [class*="two wide on large screen"].column, .ui.grid > .column.row > [class*="two wide on large screen"].column, .ui.grid > [class*="two wide on large screen"].column, .ui.column.grid > [class*="two wide on large screen"].column {
     width: 12.5% !important; }
-  .ui.grid > .row > [class*="large screen three wide"].column, .ui.grid > .column.row > [class*="large screen three wide"].column, .ui.grid > [class*="large screen three wide"].column, .ui.column.grid > [class*="large screen three wide"].column {
+  .ui.grid > .row > [class*="three wide on large screen"].column, .ui.grid > .column.row > [class*="three wide on large screen"].column, .ui.grid > [class*="three wide on large screen"].column, .ui.column.grid > [class*="three wide on large screen"].column {
     width: 18.75% !important; }
-  .ui.grid > .row > [class*="large screen four wide"].column, .ui.grid > .column.row > [class*="large screen four wide"].column, .ui.grid > [class*="large screen four wide"].column, .ui.column.grid > [class*="large screen four wide"].column {
+  .ui.grid > .row > [class*="four wide on large screen"].column, .ui.grid > .column.row > [class*="four wide on large screen"].column, .ui.grid > [class*="four wide on large screen"].column, .ui.column.grid > [class*="four wide on large screen"].column {
     width: 25% !important; }
-  .ui.grid > .row > [class*="large screen five wide"].column, .ui.grid > .column.row > [class*="large screen five wide"].column, .ui.grid > [class*="large screen five wide"].column, .ui.column.grid > [class*="large screen five wide"].column {
+  .ui.grid > .row > [class*="five wide on large screen"].column, .ui.grid > .column.row > [class*="five wide on large screen"].column, .ui.grid > [class*="five wide on large screen"].column, .ui.column.grid > [class*="five wide on large screen"].column {
     width: 31.25% !important; }
-  .ui.grid > .row > [class*="large screen six wide"].column, .ui.grid > .column.row > [class*="large screen six wide"].column, .ui.grid > [class*="large screen six wide"].column, .ui.column.grid > [class*="large screen six wide"].column {
+  .ui.grid > .row > [class*="six wide on large screen"].column, .ui.grid > .column.row > [class*="six wide on large screen"].column, .ui.grid > [class*="six wide on large screen"].column, .ui.column.grid > [class*="six wide on large screen"].column {
     width: 31.25% !important; }
-  .ui.grid > .row > [class*="large screen seven wide"].column, .ui.grid > .column.row > [class*="large screen seven wide"].column, .ui.grid > [class*="large screen seven wide"].column, .ui.column.grid > [class*="large screen seven wide"].column {
+  .ui.grid > .row > [class*="seven wide on large screen"].column, .ui.grid > .column.row > [class*="seven wide on large screen"].column, .ui.grid > [class*="seven wide on large screen"].column, .ui.column.grid > [class*="seven wide on large screen"].column {
     width: 43.75% !important; }
-  .ui.grid > .row > [class*="large screen eight wide"].column, .ui.grid > .column.row > [class*="large screen eight wide"].column, .ui.grid > [class*="large screen eight wide"].column, .ui.column.grid > [class*="large screen eight wide"].column {
+  .ui.grid > .row > [class*="eight wide on large screen"].column, .ui.grid > .column.row > [class*="eight wide on large screen"].column, .ui.grid > [class*="eight wide on large screen"].column, .ui.column.grid > [class*="eight wide on large screen"].column {
     width: 50% !important; }
-  .ui.grid > .row > [class*="large screen night wide"].column, .ui.grid > .column.row > [class*="large screen night wide"].column, .ui.grid > [class*="large screen night wide"].column, .ui.column.grid > [class*="large screen night wide"].column {
+  .ui.grid > .row > [class*="night wide on large screen"].column, .ui.grid > .column.row > [class*="night wide on large screen"].column, .ui.grid > [class*="night wide on large screen"].column, .ui.column.grid > [class*="night wide on large screen"].column {
     width: 56.25% !important; }
-  .ui.grid > .row > [class*="large screen ten wide"].column, .ui.grid > .column.row > [class*="large screen ten wide"].column, .ui.grid > [class*="large screen ten wide"].column, .ui.column.grid > [class*="large screen ten wide"].column {
+  .ui.grid > .row > [class*="ten wide on large screen"].column, .ui.grid > .column.row > [class*="ten wide on large screen"].column, .ui.grid > [class*="ten wide on large screen"].column, .ui.column.grid > [class*="ten wide on large screen"].column {
     width: 62.5% !important; }
-  .ui.grid > .row > [class*="large screen eleven wide"].column, .ui.grid > .column.row > [class*="large screen eleven wide"].column, .ui.grid > [class*="large screen eleven wide"].column, .ui.column.grid > [class*="large screen eleven wide"].column {
+  .ui.grid > .row > [class*="eleven wide on large screen"].column, .ui.grid > .column.row > [class*="eleven wide on large screen"].column, .ui.grid > [class*="eleven wide on large screen"].column, .ui.column.grid > [class*="eleven wide on large screen"].column {
     width: 68.75% !important; }
-  .ui.grid > .row > [class*="large screen twelve wide"].column, .ui.grid > .column.row > [class*="large screen twelve wide"].column, .ui.grid > [class*="large screen twelve wide"].column, .ui.column.grid > [class*="large screen twelve wide"].column {
+  .ui.grid > .row > [class*="twelve wide on large screen"].column, .ui.grid > .column.row > [class*="twelve wide on large screen"].column, .ui.grid > [class*="twelve wide on large screen"].column, .ui.column.grid > [class*="twelve wide on large screen"].column {
     width: 75% !important; }
-  .ui.grid > .row > [class*="large screen thirteen wide"].column, .ui.grid > .column.row > [class*="large screen thirteen wide"].column, .ui.grid > [class*="large screen thirteen wide"].column, .ui.column.grid > [class*="large screen thirteen wide"].column {
+  .ui.grid > .row > [class*="thirteen wide on large screen"].column, .ui.grid > .column.row > [class*="thirteen wide on large screen"].column, .ui.grid > [class*="thirteen wide on large screen"].column, .ui.column.grid > [class*="thirteen wide on large screen"].column {
     width: 81.25% !important; }
-  .ui.grid > .row > [class*="large screen fourteen wide"].column, .ui.grid > .column.row > [class*="large screen fourteen wide"].column, .ui.grid > [class*="large screen fourteen wide"].column, .ui.column.grid > [class*="large screen fourteen wide"].column {
+  .ui.grid > .row > [class*="fourteen wide on large screen"].column, .ui.grid > .column.row > [class*="fourteen wide on large screen"].column, .ui.grid > [class*="fourteen wide on large screen"].column, .ui.column.grid > [class*="fourteen wide on large screen"].column {
     width: 87.5% !important; }
-  .ui.grid > .row > [class*="large screen fifteen wide"].column, .ui.grid > .column.row > [class*="large screen fifteen wide"].column, .ui.grid > [class*="large screen fifteen wide"].column, .ui.column.grid > [class*="large screen fifteen wide"].column {
+  .ui.grid > .row > [class*="fifteen wide on large screen"].column, .ui.grid > .column.row > [class*="fifteen wide on large screen"].column, .ui.grid > [class*="fifteen wide on large screen"].column, .ui.column.grid > [class*="fifteen wide on large screen"].column {
     width: 93.75% !important; }
-  .ui.grid > .row > [class*="large screen sixteen wide"].column, .ui.grid > .column.row > [class*="large screen sixteen wide"].column, .ui.grid > [class*="large screen sixteen wide"].column, .ui.column.grid > [class*="large screen sixteen wide"].column {
+  .ui.grid > .row > [class*="sixteen wide on large screen"].column, .ui.grid > .column.row > [class*="sixteen wide on large screen"].column, .ui.grid > [class*="sixteen wide on large screen"].column, .ui.column.grid > [class*="sixteen wide on large screen"].column {
     width: 100% !important; }
 
-  .ui[class*="large screen two column"].grid > .row > .column, .ui[class*="large screen two column"].grid > .column, .ui.grid > [class*="large screen two column"].row > .column {
+  .ui[class*="two column on large screen"].grid > .row > .column, .ui[class*="two column on large screen"].grid > .column, .ui.grid > [class*="two column on large screen"].row > .column {
     width: 50% !important; }
 
-  .ui[class*="large screen three column"].grid > .row > .column, .ui[class*="large screen three column"].grid > .column, .ui.grid > [class*="large screen three column"].row > .column {
+  .ui[class*="three column on large screen"].grid > .row > .column, .ui[class*="three column on large screen"].grid > .column, .ui.grid > [class*="three column on large screen"].row > .column {
     width: 33.33333% !important; }
 
-  .ui[class*="large screen four column"].grid > .row > .column, .ui[class*="large screen four column"].grid > .column, .ui.grid > [class*="large screen four column"].row > .column {
+  .ui[class*="four column on large screen"].grid > .row > .column, .ui[class*="four column on large screen"].grid > .column, .ui.grid > [class*="four column on large screen"].row > .column {
     width: 25% !important; }
 
-  .ui[class*="large screen two column"].grid > .row > .column, .ui[class*="large screen five column"].grid > .column, .ui.grid > [class*="large screen five column"].row > .column {
+  .ui[class*="two column on large screen"].grid > .row > .column, .ui[class*="five column on large screen"].grid > .column, .ui.grid > [class*="five column on large screen"].row > .column {
     width: 20% !important; }
 
-  .ui[class*="large screen six column"].grid > .row > .column, .ui[class*="large screen six column"].grid > .column, .ui.grid > [class*="large screen six column"].row > .column {
+  .ui[class*="six column on large screen"].grid > .row > .column, .ui[class*="six column on large screen"].grid > .column, .ui.grid > [class*="six column on large screen"].row > .column {
     width: 16.66667% !important; }
 
-  .ui[class*="large screen seven column"].grid > .row > .column, .ui[class*="large screen seven column"].grid > .column, .ui.grid > [class*="large screen seven column"].row > .column {
+  .ui[class*="seven column on large screen"].grid > .row > .column, .ui[class*="seven column on large screen"].grid > .column, .ui.grid > [class*="seven column on large screen"].row > .column {
     width: 14.28571% !important; }
 
-  .ui[class*="large screen eight column"].grid > .row > .column, .ui[class*="large screen eight column"].grid > .column, .ui.grid > [class*="large screen eight column"].row > .column {
+  .ui[class*="eight column on large screen"].grid > .row > .column, .ui[class*="eight column on large screen"].grid > .column, .ui.grid > [class*="eight column on large screen"].row > .column {
     width: 12.5% !important; }
 
-  .ui[class*="large screen nine column"].grid > .row > .column, .ui[class*="large screen nine column"].grid > .column, .ui.grid > [class*="large screen nine column"].row > .column {
+  .ui[class*="nine column on large screen"].grid > .row > .column, .ui[class*="nine column on large screen"].grid > .column, .ui.grid > [class*="nine column on large screen"].row > .column {
     width: 11.11111% !important; }
 
-  .ui[class*="large screen ten column"].grid > .row > .column, .ui[class*="large screen ten column"].grid > .column, .ui.grid > [class*="large screen ten column"].row > .column {
+  .ui[class*="ten column on large screen"].grid > .row > .column, .ui[class*="ten column on large screen"].grid > .column, .ui.grid > [class*="ten column on large screen"].row > .column {
     width: 10% !important; }
 
-  .ui[class*="large screen eleven column"].grid > .row > .column, .ui[class*="large screen eleven column"].grid > .column, .ui.grid > [class*="large screen eleven column"].row > .column {
+  .ui[class*="eleven column on large screen"].grid > .row > .column, .ui[class*="eleven column on large screen"].grid > .column, .ui.grid > [class*="eleven column on large screen"].row > .column {
     width: 9.09091% !important; }
 
-  .ui[class*="large screen twelve column"].grid > .row > .column, .ui[class*="large screen twelve column"].grid > .column, .ui.grid > [class*="large screen twelve column"].row > .column {
+  .ui[class*="twelve column on large screen"].grid > .row > .column, .ui[class*="twelve column on large screen"].grid > .column, .ui.grid > [class*="twelve column on large screen"].row > .column {
     width: 8.33333% !important; }
 
-  .ui[class*="large screen thirteen column"].grid > .row > .column, .ui[class*="large screen thirteen column"].grid > .column, .ui.grid > [class*="large screen thirteen column"].row > .column {
+  .ui[class*="thirteen column on large screen"].grid > .row > .column, .ui[class*="thirteen column on large screen"].grid > .column, .ui.grid > [class*="thirteen column on large screen"].row > .column {
     width: 7.69231% !important; }
 
-  .ui[class*="large screen fourteen column"].grid > .row > .column, .ui[class*="large screen fourteen column"].grid > .column, .ui.grid > [class*="large screen fourteen column"].row > .column {
+  .ui[class*="fourteen column on large screen"].grid > .row > .column, .ui[class*="fourteen column on large screen"].grid > .column, .ui.grid > [class*="fourteen column on large screen"].row > .column {
     width: 7.14286% !important; }
 
-  .ui[class*="large screen fifteen"].grid > .row > .column, .ui[class*="large screen fifteen"].grid > .column, .ui.grid > [class*="large screen fifteen column"].row > .column {
+  .ui[class*="fifteen column on large screen"].grid > .row > .column, .ui[class*="fifteen column on large screen"].grid > .column, .ui.grid > [class*="fifteen column on large screen"].row > .column {
     width: 6.66667% !important; }
 
-  .ui[class*="large screen sixteen"].grid > .row > .column, .ui[class*="large screen sixteen"].grid > .column, .ui.grid > [class*="large screen sixteen column"].row > .column {
+  .ui[class*="sixteen column on large screen"].grid > .row > .column, .ui[class*="sixteen column on large screen"].grid > .column, .ui.grid > [class*="sixteen column on large screen"].row > .column {
     width: 6.25% !important; } }
 @media only screen and (min-width: 992px) {
-  .ui.grid > .row > [class*="monitor two wide"].column, .ui.grid > .column.row > [class*="monitor two wide"].column, .ui.grid > [class*="monitor two wide"].column, .ui.column.grid > [class*="monitor two wide"].column {
+  .ui.grid > .row > [class*="two wide on monitor"].column, .ui.grid > .column.row > [class*="two wide on monitor"].column, .ui.grid > [class*="two wide on monitor"].column, .ui.column.grid > [class*="two wide on monitor"].column {
     width: 12.5% !important; }
-  .ui.grid > .row > [class*="monitor three wide"].column, .ui.grid > .column.row > [class*="monitor three wide"].column, .ui.grid > [class*="monitor three wide"].column, .ui.column.grid > [class*="monitor three wide"].column {
+  .ui.grid > .row > [class*="three wide on monitor"].column, .ui.grid > .column.row > [class*="three wide on monitor"].column, .ui.grid > [class*="three wide on monitor"].column, .ui.column.grid > [class*="three wide on monitor"].column {
     width: 18.75% !important; }
-  .ui.grid > .row > [class*="monitor four wide"].column, .ui.grid > .column.row > [class*="monitor four wide"].column, .ui.grid > [class*="monitor four wide"].column, .ui.column.grid > [class*="monitor four wide"].column {
+  .ui.grid > .row > [class*="four wide on monitor"].column, .ui.grid > .column.row > [class*="four wide on monitor"].column, .ui.grid > [class*="four wide on monitor"].column, .ui.column.grid > [class*="four wide on monitor"].column {
     width: 25% !important; }
-  .ui.grid > .row > [class*="monitor five wide"].column, .ui.grid > .column.row > [class*="monitor five wide"].column, .ui.grid > [class*="monitor five wide"].column, .ui.column.grid > [class*="monitor five wide"].column {
+  .ui.grid > .row > [class*="five wide on monitor"].column, .ui.grid > .column.row > [class*="five wide on monitor"].column, .ui.grid > [class*="five wide on monitor"].column, .ui.column.grid > [class*="five wide on monitor"].column {
     width: 31.25% !important; }
-  .ui.grid > .row > [class*="monitor six wide"].column, .ui.grid > .column.row > [class*="monitor six wide"].column, .ui.grid > [class*="monitor six wide"].column, .ui.column.grid > [class*="monitor six wide"].column {
+  .ui.grid > .row > [class*="six wide on monitor"].column, .ui.grid > .column.row > [class*="six wide on monitor"].column, .ui.grid > [class*="six wide on monitor"].column, .ui.column.grid > [class*="six wide on monitor"].column {
     width: 31.25% !important; }
-  .ui.grid > .row > [class*="monitor seven wide"].column, .ui.grid > .column.row > [class*="monitor seven wide"].column, .ui.grid > [class*="monitor seven wide"].column, .ui.column.grid > [class*="monitor seven wide"].column {
+  .ui.grid > .row > [class*="seven wide on monitor"].column, .ui.grid > .column.row > [class*="seven wide on monitor"].column, .ui.grid > [class*="seven wide on monitor"].column, .ui.column.grid > [class*="seven wide on monitor"].column {
     width: 43.75% !important; }
-  .ui.grid > .row > [class*="monitor eight wide"].column, .ui.grid > .column.row > [class*="monitor eight wide"].column, .ui.grid > [class*="monitor eight wide"].column, .ui.column.grid > [class*="monitor eight wide"].column {
+  .ui.grid > .row > [class*="eight wide on monitor"].column, .ui.grid > .column.row > [class*="eight wide on monitor"].column, .ui.grid > [class*="eight wide on monitor"].column, .ui.column.grid > [class*="eight wide on monitor"].column {
     width: 50% !important; }
-  .ui.grid > .row > [class*="monitor night wide"].column, .ui.grid > .column.row > [class*="monitor night wide"].column, .ui.grid > [class*="monitor night wide"].column, .ui.column.grid > [class*="monitor night wide"].column {
+  .ui.grid > .row > [class*="night wide on monitor"].column, .ui.grid > .column.row > [class*="night wide on monitor"].column, .ui.grid > [class*="night wide on monitor"].column, .ui.column.grid > [class*="night wide on monitor"].column {
     width: 56.25% !important; }
-  .ui.grid > .row > [class*="monitor ten wide"].column, .ui.grid > .column.row > [class*="monitor ten wide"].column, .ui.grid > [class*="monitor ten wide"].column, .ui.column.grid > [class*="monitor ten wide"].column {
+  .ui.grid > .row > [class*="ten wide on monitor"].column, .ui.grid > .column.row > [class*="ten wide on monitor"].column, .ui.grid > [class*="ten wide on monitor"].column, .ui.column.grid > [class*="ten wide on monitor"].column {
     width: 62.5% !important; }
-  .ui.grid > .row > [class*="monitor eleven wide"].column, .ui.grid > .column.row > [class*="monitor eleven wide"].column, .ui.grid > [class*="monitor eleven wide"].column, .ui.column.grid > [class*="monitor eleven wide"].column {
+  .ui.grid > .row > [class*="eleven wide on monitor"].column, .ui.grid > .column.row > [class*="eleven wide on monitor"].column, .ui.grid > [class*="eleven wide on monitor"].column, .ui.column.grid > [class*="eleven wide on monitor"].column {
     width: 68.75% !important; }
-  .ui.grid > .row > [class*="monitor twelve wide"].column, .ui.grid > .column.row > [class*="monitor twelve wide"].column, .ui.grid > [class*="monitor twelve wide"].column, .ui.column.grid > [class*="monitor twelve wide"].column {
+  .ui.grid > .row > [class*="twelve wide on monitor"].column, .ui.grid > .column.row > [class*="twelve wide on monitor"].column, .ui.grid > [class*="twelve wide on monitor"].column, .ui.column.grid > [class*="twelve wide on monitor"].column {
     width: 75% !important; }
-  .ui.grid > .row > [class*="monitor thirteen wide"].column, .ui.grid > .column.row > [class*="monitor thirteen wide"].column, .ui.grid > [class*="monitor thirteen wide"].column, .ui.column.grid > [class*="monitor thirteen wide"].column {
+  .ui.grid > .row > [class*="thirteen wide on monitor"].column, .ui.grid > .column.row > [class*="thirteen wide on monitor"].column, .ui.grid > [class*="thirteen wide on monitor"].column, .ui.column.grid > [class*="thirteen wide on monitor"].column {
     width: 81.25% !important; }
-  .ui.grid > .row > [class*="monitor fourteen wide"].column, .ui.grid > .column.row > [class*="monitor fourteen wide"].column, .ui.grid > [class*="monitor fourteen wide"].column, .ui.column.grid > [class*="monitor fourteen wide"].column {
+  .ui.grid > .row > [class*="fourteen wide on monitor"].column, .ui.grid > .column.row > [class*="fourteen wide on monitor"].column, .ui.grid > [class*="fourteen wide on monitor"].column, .ui.column.grid > [class*="fourteen wide on monitor"].column {
     width: 87.5% !important; }
-  .ui.grid > .row > [class*="monitor fifteen wide"].column, .ui.grid > .column.row > [class*="monitor fifteen wide"].column, .ui.grid > [class*="monitor fifteen wide"].column, .ui.column.grid > [class*="monitor fifteen wide"].column {
+  .ui.grid > .row > [class*="fifteen wide on monitor"].column, .ui.grid > .column.row > [class*="fifteen wide on monitor"].column, .ui.grid > [class*="fifteen wide on monitor"].column, .ui.column.grid > [class*="fifteen wide on monitor"].column {
     width: 93.75% !important; }
-  .ui.grid > .row > [class*="monitor sixteen wide"].column, .ui.grid > .column.row > [class*="monitor sixteen wide"].column, .ui.grid > [class*="monitor sixteen wide"].column, .ui.column.grid > [class*="monitor sixteen wide"].column {
+  .ui.grid > .row > [class*="sixteen wide on monitor"].column, .ui.grid > .column.row > [class*="sixteen wide on monitor"].column, .ui.grid > [class*="sixteen wide on monitor"].column, .ui.column.grid > [class*="sixteen wide on monitor"].column {
     width: 100% !important; }
 
-  .ui[class*="monitor two column"].grid > .row > .column, .ui[class*="monitor two column"].grid > .column, .ui.grid > [class*="monitor two column"].row > .column {
+  .ui[class*="two column on monitor"].grid > .row > .column, .ui[class*="two column on monitor"].grid > .column, .ui.grid > [class*="two column on monitor"].row > .column {
     width: 50% !important; }
 
-  .ui[class*="monitor three column"].grid > .row > .column, .ui[class*="monitor three column"].grid > .column, .ui.grid > [class*="monitor three column"].row > .column {
+  .ui[class*="three column on monitor"].grid > .row > .column, .ui[class*="three column on monitor"].grid > .column, .ui.grid > [class*="three column on monitor"].row > .column {
     width: 33.33333% !important; }
 
-  .ui[class*="monitor four column"].grid > .row > .column, .ui[class*="monitor four column"].grid > .column, .ui.grid > [class*="monitor four column"].row > .column {
+  .ui[class*="four column on monitor"].grid > .row > .column, .ui[class*="four column on monitor"].grid > .column, .ui.grid > [class*="four column on monitor"].row > .column {
     width: 25% !important; }
 
-  .ui[class*="monitor two column"].grid > .row > .column, .ui[class*="monitor five column"].grid > .column, .ui.grid > [class*="monitor five column"].row > .column {
+  .ui[class*="two column on monitor"].grid > .row > .column, .ui[class*="five column on monitor"].grid > .column, .ui.grid > [class*="five column on monitor"].row > .column {
     width: 20% !important; }
 
-  .ui[class*="monitor six column"].grid > .row > .column, .ui[class*="monitor six column"].grid > .column, .ui.grid > [class*="monitor six column"].row > .column {
+  .ui[class*="six column on monitor"].grid > .row > .column, .ui[class*="six column on monitor"].grid > .column, .ui.grid > [class*="six column on monitor"].row > .column {
     width: 16.66667% !important; }
 
-  .ui[class*="monitor seven column"].grid > .row > .column, .ui[class*="monitor seven column"].grid > .column, .ui.grid > [class*="monitor seven column"].row > .column {
+  .ui[class*="seven column on monitor"].grid > .row > .column, .ui[class*="seven column on monitor"].grid > .column, .ui.grid > [class*="seven column on monitor"].row > .column {
     width: 14.28571% !important; }
 
-  .ui[class*="monitor eight column"].grid > .row > .column, .ui[class*="monitor eight column"].grid > .column, .ui.grid > [class*="monitor eight column"].row > .column {
+  .ui[class*="eight column on monitor"].grid > .row > .column, .ui[class*="eight column on monitor"].grid > .column, .ui.grid > [class*="eight column on monitor"].row > .column {
     width: 12.5% !important; }
 
-  .ui[class*="monitor nine column"].grid > .row > .column, .ui[class*="monitor nine column"].grid > .column, .ui.grid > [class*="monitor nine column"].row > .column {
+  .ui[class*="nine column on monitor"].grid > .row > .column, .ui[class*="nine column on monitor"].grid > .column, .ui.grid > [class*="nine column on monitor"].row > .column {
     width: 11.11111% !important; }
 
-  .ui[class*="monitor ten column"].grid > .row > .column, .ui[class*="monitor ten column"].grid > .column, .ui.grid > [class*="monitor ten column"].row > .column {
+  .ui[class*="ten column on monitor"].grid > .row > .column, .ui[class*="ten column on monitor"].grid > .column, .ui.grid > [class*="ten column on monitor"].row > .column {
     width: 10% !important; }
 
-  .ui[class*="monitor eleven column"].grid > .row > .column, .ui[class*="monitor eleven column"].grid > .column, .ui.grid > [class*="monitor eleven column"].row > .column {
+  .ui[class*="eleven column on monitor"].grid > .row > .column, .ui[class*="eleven column on monitor"].grid > .column, .ui.grid > [class*="eleven column on monitor"].row > .column {
     width: 9.09091% !important; }
 
-  .ui[class*="monitor twelve column"].grid > .row > .column, .ui[class*="monitor twelve column"].grid > .column, .ui.grid > [class*="monitor twelve column"].row > .column {
+  .ui[class*="twelve column on monitor"].grid > .row > .column, .ui[class*="twelve column on monitor"].grid > .column, .ui.grid > [class*="twelve column on monitor"].row > .column {
     width: 8.33333% !important; }
 
-  .ui[class*="monitor thirteen column"].grid > .row > .column, .ui[class*="monitor thirteen column"].grid > .column, .ui.grid > [class*="monitor thirteen column"].row > .column {
+  .ui[class*="thirteen column on monitor"].grid > .row > .column, .ui[class*="thirteen column on monitor"].grid > .column, .ui.grid > [class*="thirteen column on monitor"].row > .column {
     width: 7.69231% !important; }
 
-  .ui[class*="monitor fourteen column"].grid > .row > .column, .ui[class*="monitor fourteen column"].grid > .column, .ui.grid > [class*="monitor fourteen column"].row > .column {
+  .ui[class*="fourteen column on monitor"].grid > .row > .column, .ui[class*="fourteen column on monitor"].grid > .column, .ui.grid > [class*="fourteen column on monitor"].row > .column {
     width: 7.14286% !important; }
 
-  .ui[class*="monitor fifteen"].grid > .row > .column, .ui[class*="monitor fifteen"].grid > .column, .ui.grid > [class*="monitor fifteen column"].row > .column {
+  .ui[class*="fifteen column on monitor"].grid > .row > .column, .ui[class*="fifteen column on monitor"].grid > .column, .ui.grid > [class*="fifteen column on monitor"].row > .column {
     width: 6.66667% !important; }
 
-  .ui[class*="monitor sixteen"].grid > .row > .column, .ui[class*="monitor sixteen"].grid > .column, .ui.grid > [class*="monitor sixteen column"].row > .column {
+  .ui[class*="sixteen column on monitor"].grid > .row > .column, .ui[class*="sixteen column on monitor"].grid > .column, .ui.grid > [class*="sixteen column on monitor"].row > .column {
     width: 6.25% !important; } }
 [class*='red background'] {
   background-color: #DB2828 !important; }
@@ -1689,971 +1689,1132 @@
 [class*='most padded left padding']:not(.mobile):not(.tablet):not(.monitor):not(.screen):not(.portable) {
   padding-left: 49px !important; }
 
+[class*='no padding as default'] {
+  padding: 0 !important; }
+
+[class*='default padding as default'] {
+  padding: 14px !important; }
+
+[class*='padded padding as default'] {
+  padding: 21px !important; }
+
+[class*='very padded padding as default'] {
+  padding: 28px !important; }
+
+[class*='more padded padding as default'] {
+  padding: 35px !important; }
+
+[class*='extra padded padding as default'] {
+  padding: 42px !important; }
+
+[class*='most padded padding as default'] {
+  padding: 49px !important; }
+
+[class*='no horizontal padding as default'] {
+  padding-left: 0 !important;
+  padding-right: 0 !important; }
+
+[class*='default horizontal padding as default'] {
+  padding-left: 14px !important;
+  padding-right: 14px !important; }
+
+[class*='padded horizontal padding as default'] {
+  padding-left: 21px !important;
+  padding-right: 21px !important; }
+
+[class*='very padded horizontal padding as default'] {
+  padding-left: 28px !important;
+  padding-right: 28px !important; }
+
+[class*='more padded horizontal padding as default'] {
+  padding-left: 35px !important;
+  padding-right: 35px !important; }
+
+[class*='extra padded horizontal padding as default'] {
+  padding-left: 42px !important;
+  padding-right: 42px !important; }
+
+[class*='most padded horizontal padding as default'] {
+  padding-left: 49px !important;
+  padding-right: 49px !important; }
+
+[class*='no vertical padding as default'] {
+  padding-top: 0 !important;
+  padding-bottom: 0 !important; }
+
+[class*='default vertical padding as default'] {
+  padding-top: 14px !important;
+  padding-bottom: 14px !important; }
+
+[class*='padded vertical padding as default'] {
+  padding-top: 21px !important;
+  padding-bottom: 21px !important; }
+
+[class*='very padded vertical padding as default'] {
+  padding-top: 28px !important;
+  padding-bottom: 28px !important; }
+
+[class*='more padded vertical padding as default'] {
+  padding-top: 35px !important;
+  padding-bottom: 35px !important; }
+
+[class*='extra padded vertical padding as default'] {
+  padding-top: 42px !important;
+  padding-bottom: 42px !important; }
+
+[class*='most padded vertical padding as default'] {
+  padding-top: 49px !important;
+  padding-bottom: 49px !important; }
+
+[class*='no top padding as default'] {
+  padding-top: 0 !important; }
+
+[class*='default top padding as default'] {
+  padding-top: 14px !important; }
+
+[class*='padded top padding as default'] {
+  padding-top: 21px !important; }
+
+[class*='very padded top padding as default'] {
+  padding-top: 28px !important; }
+
+[class*='more padded top padding as default'] {
+  padding-top: 35px !important; }
+
+[class*='extra padded top padding as default'] {
+  padding-top: 42px !important; }
+
+[class*='most padded top padding as default'] {
+  padding-top: 49px !important; }
+
+[class*='no right padding as default'] {
+  padding-right: 0 !important; }
+
+[class*='default right padding as default'] {
+  padding-right: 14px !important; }
+
+[class*='padded right padding as default'] {
+  padding-right: 21px !important; }
+
+[class*='very padded right padding as default'] {
+  padding-right: 28px !important; }
+
+[class*='more padded right padding as default'] {
+  padding-right: 35px !important; }
+
+[class*='extra padded right padding as default'] {
+  padding-right: 42px !important; }
+
+[class*='most padded top padding as default'] {
+  padding-top: 49px !important; }
+
+[class*='no bottom padding as default'] {
+  padding-bottom: 0 !important; }
+
+[class*='default bottom padding as default'] {
+  padding-bottom: 14px !important; }
+
+[class*='padded bottom padding as default'] {
+  padding-bottom: 21px !important; }
+
+[class*='very padded bottom padding as default'] {
+  padding-bottom: 28px !important; }
+
+[class*='more padded bottom padding as default'] {
+  padding-bottom: 35px !important; }
+
+[class*='extra padded bottom padding as default'] {
+  padding-bottom: 42px !important; }
+
+[class*='most padded bottom padding as default'] {
+  padding-bottom: 49px !important; }
+
+[class*='no left padding as default'] {
+  padding-left: 0 !important; }
+
+[class*='default left padding as default'] {
+  padding-left: 14px !important; }
+
+[class*='padded left padding as default'] {
+  padding-left: 21px !important; }
+
+[class*='very padded left padding as default'] {
+  padding-left: 28px !important; }
+
+[class*='more padded left padding as default'] {
+  padding-left: 35px !important; }
+
+[class*='extra padded left padding as default'] {
+  padding-left: 42px !important; }
+
+[class*='most padded left padding as default'] {
+  padding-left: 49px !important; }
+
 @media only screen and (max-width: 768px) {
-  [class*='mobile no padding'] {
+  [class*='no padding mobile'] {
     padding: 0 !important; }
 
-  [class*='mobile default padding'] {
+  [class*='default padding mobile'] {
     padding: 14px !important; }
 
-  [class*='mobile padded padding'] {
+  [class*='padded padding mobile'] {
     padding: 21px !important; }
 
-  [class*='mobile very padded padding'] {
+  [class*='very padded padding mobile'] {
     padding: 28px !important; }
 
-  [class*='mobile more padded padding'] {
+  [class*='more padded padding mobile'] {
     padding: 35px !important; }
 
-  [class*='mobile extra padded padding'] {
+  [class*='extra padded padding mobile'] {
     padding: 42px !important; }
 
-  [class*='mobile most padded padding'] {
+  [class*='most padded padding mobile'] {
     padding: 49px !important; }
 
-  [class*='mobile no horizontal padding'] {
+  [class*='no horizontal padding mobile'] {
     padding-left: 0 !important;
     padding-right: 0 !important; }
 
-  [class*='mobile default horizontal padding'] {
+  [class*='default horizontal padding mobile'] {
     padding-left: 14px !important;
     padding-right: 14px !important; }
 
-  [class*='mobile padded horizontal padding'] {
+  [class*='padded horizontal padding mobile'] {
     padding-left: 21px !important;
     padding-right: 21px !important; }
 
-  [class*='mobile very padded horizontal padding'] {
+  [class*='very padded horizontal padding mobile'] {
     padding-left: 28px !important;
     padding-right: 28px !important; }
 
-  [class*='mobile more padded horizontal padding'] {
+  [class*='more padded horizontal padding mobile'] {
     padding-left: 35px !important;
     padding-right: 35px !important; }
 
-  [class*='mobile extra padded horizontal padding'] {
+  [class*='extra padded horizontal padding mobile'] {
     padding-left: 42px !important;
     padding-right: 42px !important; }
 
-  [class*='mobile most padded horizontal padding'] {
+  [class*='most padded horizontal padding mobile'] {
     padding-left: 49px !important;
     padding-right: 49px !important; }
 
-  [class*='mobile no vertical padding'] {
+  [class*='no vertical padding mobile'] {
     padding-top: 0 !important;
     padding-bottom: 0 !important; }
 
-  [class*='mobile default vertical padding'] {
+  [class*='default vertical padding mobile'] {
     padding-top: 14px !important;
     padding-bottom: 14px !important; }
 
-  [class*='mobile padded vertical padding'] {
+  [class*='padded vertical padding mobile'] {
     padding-top: 21px !important;
     padding-bottom: 21px !important; }
 
-  [class*='mobile very padded vertical padding'] {
+  [class*='very padded vertical padding mobile'] {
     padding-top: 28px !important;
     padding-bottom: 28px !important; }
 
-  [class*='mobile more padded vertical padding'] {
+  [class*='more padded vertical padding mobile'] {
     padding-top: 35px !important;
     padding-bottom: 35px !important; }
 
-  [class*='mobile extra padded vertical padding'] {
+  [class*='extra padded vertical padding mobile'] {
     padding-top: 42px !important;
     padding-bottom: 42px !important; }
 
-  [class*='mobile most padded vertical padding'] {
+  [class*='most padded vertical padding mobile'] {
     padding-top: 49px !important;
     padding-bottom: 49px !important; }
 
-  [class*='mobile no top padding'] {
+  [class*='no top padding mobile'] {
     padding-top: 0 !important; }
 
-  [class*='mobile default top padding'] {
+  [class*='default top padding mobile'] {
     padding-top: 14px !important; }
 
-  [class*='mobile padded top padding'] {
+  [class*='padded top padding mobile'] {
     padding-top: 21px !important; }
 
-  [class*='mobile very padded top padding'] {
+  [class*='very padded top padding mobile'] {
     padding-top: 28px !important; }
 
-  [class*='mobile more padded top padding'] {
+  [class*='more padded top padding mobile'] {
     padding-top: 35px !important; }
 
-  [class*='mobile extra padded top padding'] {
+  [class*='extra padded top padding mobile'] {
     padding-top: 42px !important; }
 
-  [class*='mobile most padded top padding'] {
+  [class*='most padded top padding mobile'] {
     padding-top: 49px !important; }
 
-  [class*='mobile no right padding'] {
+  [class*='no right padding mobile'] {
     padding-right: 0 !important; }
 
-  [class*='mobile default right padding'] {
+  [class*='default right padding mobile'] {
     padding-right: 14px !important; }
 
-  [class*='mobile padded right padding'] {
+  [class*='padded right padding mobile'] {
     padding-right: 21px !important; }
 
-  [class*='mobile very padded right padding'] {
+  [class*='very padded right padding mobile'] {
     padding-right: 28px !important; }
 
-  [class*='mobile more padded right padding'] {
+  [class*='more padded right padding mobile'] {
     padding-right: 35px !important; }
 
-  [class*='mobile extra padded right padding'] {
+  [class*='extra padded right padding mobile'] {
     padding-right: 42px !important; }
 
-  [class*='mobile most padded top padding'] {
+  [class*='most padded top padding mobile'] {
     padding-top: 49px !important; }
 
-  [class*='mobile no bottom padding'] {
+  [class*='no bottom padding mobile'] {
     padding-bottom: 0 !important; }
 
-  [class*='mobile default bottom padding'] {
+  [class*='default bottom padding mobile'] {
     padding-bottom: 14px !important; }
 
-  [class*='mobile padded bottom padding'] {
+  [class*='padded bottom padding mobile'] {
     padding-bottom: 21px !important; }
 
-  [class*='mobile very padded bottom padding'] {
+  [class*='very padded bottom padding mobile'] {
     padding-bottom: 28px !important; }
 
-  [class*='mobile more padded bottom padding'] {
+  [class*='more padded bottom padding mobile'] {
     padding-bottom: 35px !important; }
 
-  [class*='mobile extra padded bottom padding'] {
+  [class*='extra padded bottom padding mobile'] {
     padding-bottom: 42px !important; }
 
-  [class*='mobile most padded bottom padding'] {
+  [class*='most padded bottom padding mobile'] {
     padding-bottom: 49px !important; }
 
-  [class*='mobile no left padding'] {
+  [class*='no left padding mobile'] {
     padding-left: 0 !important; }
 
-  [class*='mobile default left padding'] {
+  [class*='default left padding mobile'] {
     padding-left: 14px !important; }
 
-  [class*='mobile padded left padding'] {
+  [class*='padded left padding mobile'] {
     padding-left: 21px !important; }
 
-  [class*='mobile very padded left padding'] {
+  [class*='very padded left padding mobile'] {
     padding-left: 28px !important; }
 
-  [class*='mobile more padded left padding'] {
+  [class*='more padded left padding mobile'] {
     padding-left: 35px !important; }
 
-  [class*='mobile extra padded left padding'] {
+  [class*='extra padded left padding mobile'] {
     padding-left: 42px !important; }
 
-  [class*='mobile most padded left padding'] {
+  [class*='most padded left padding mobile'] {
     padding-left: 49px !important; } }
 @media only screen and (min-width: 769px) and (max-width: 991px) {
-  [class*='tablet no padding'] {
+  [class*='no padding on tablet'] {
     padding: 0 !important; }
 
-  [class*='tablet default padding'] {
+  [class*='default padding on tablet'] {
     padding: 14px !important; }
 
-  [class*='tablet padded padding'] {
+  [class*='padded padding on tablet'] {
     padding: 21px !important; }
 
-  [class*='tablet very padded padding'] {
+  [class*='very padded padding on tablet'] {
     padding: 28px !important; }
 
-  [class*='tablet more padded padding'] {
+  [class*='more padded padding on tablet'] {
     padding: 35px !important; }
 
-  [class*='tablet extra padded padding'] {
+  [class*='extra padded padding on tablet'] {
     padding: 42px !important; }
 
-  [class*='tablet most padded padding'] {
+  [class*='most padded padding on tablet'] {
     padding: 49px !important; }
 
-  [class*='tablet no horizontal padding'] {
+  [class*='no horizontal padding on tablet'] {
     padding-left: 0 !important;
     padding-right: 0 !important; }
 
-  [class*='tablet default horizontal padding'] {
+  [class*='default horizontal padding on tablet'] {
     padding-left: 14px !important;
     padding-right: 14px !important; }
 
-  [class*='tablet padded horizontal padding'] {
+  [class*='padded horizontal padding on tablet'] {
     padding-left: 21px !important;
     padding-right: 21px !important; }
 
-  [class*='tablet very padded horizontal padding'] {
+  [class*='very padded horizontal padding on tablet'] {
     padding-left: 28px !important;
     padding-right: 28px !important; }
 
-  [class*='tablet more padded horizontal padding'] {
+  [class*='more padded horizontal padding on tablet'] {
     padding-left: 35px !important;
     padding-right: 35px !important; }
 
-  [class*='tablet extra padded horizontal padding'] {
+  [class*='extra padded horizontal padding on tablet'] {
     padding-left: 42px !important;
     padding-right: 42px !important; }
 
-  [class*='tablet most padded horizontal padding'] {
+  [class*='most padded horizontal padding on tablet'] {
     padding-left: 49px !important;
     padding-right: 49px !important; }
 
-  [class*='tablet no vertical padding'] {
+  [class*='no vertical padding on tablet'] {
     padding-top: 0 !important;
     padding-bottom: 0 !important; }
 
-  [class*='tablet default vertical padding'] {
+  [class*='default vertical padding on tablet'] {
     padding-top: 14px !important;
     padding-bottom: 14px !important; }
 
-  [class*='tablet padded vertical padding'] {
+  [class*='padded vertical padding on tablet'] {
     padding-top: 21px !important;
     padding-bottom: 21px !important; }
 
-  [class*='tablet very padded vertical padding'] {
+  [class*='very padded vertical padding on tablet'] {
     padding-top: 28px !important;
     padding-bottom: 28px !important; }
 
-  [class*='tablet more padded vertical padding'] {
+  [class*='more padded vertical padding on tablet'] {
     padding-top: 35px !important;
     padding-bottom: 35px !important; }
 
-  [class*='tablet extra padded vertical padding'] {
+  [class*='extra padded vertical padding on tablet'] {
     padding-top: 42px !important;
     padding-bottom: 42px !important; }
 
-  [class*='tablet most padded vertical padding'] {
+  [class*='most padded vertical padding on tablet'] {
     padding-top: 49px !important;
     padding-bottom: 49px !important; }
 
-  [class*='tablet no top padding'] {
+  [class*='no top padding on tablet'] {
     padding-top: 0 !important; }
 
-  [class*='tablet default top padding'] {
+  [class*='default top padding on tablet'] {
     padding-top: 14px !important; }
 
-  [class*='tablet padded top padding'] {
+  [class*='padded top padding on tablet'] {
     padding-top: 21px !important; }
 
-  [class*='tablet very padded top padding'] {
+  [class*='very padded top padding on tablet'] {
     padding-top: 28px !important; }
 
-  [class*='tablet more padded top padding'] {
+  [class*='more padded top padding on tablet'] {
     padding-top: 35px !important; }
 
-  [class*='tablet extra padded top padding'] {
+  [class*='extra padded top padding on tablet'] {
     padding-top: 42px !important; }
 
-  [class*='tablet most padded top padding'] {
+  [class*='most padded top padding on tablet'] {
     padding-top: 49px !important; }
 
-  [class*='tablet no right padding'] {
+  [class*='no right padding on tablet'] {
     padding-right: 0 !important; }
 
-  [class*='tablet default right padding'] {
+  [class*='default right padding on tablet'] {
     padding-right: 14px !important; }
 
-  [class*='tablet padded right padding'] {
+  [class*='padded right padding on tablet'] {
     padding-right: 21px !important; }
 
-  [class*='tablet very padded right padding'] {
+  [class*='very padded right padding on tablet'] {
     padding-right: 28px !important; }
 
-  [class*='tablet more padded right padding'] {
+  [class*='more padded right padding on tablet'] {
     padding-right: 35px !important; }
 
-  [class*='tablet extra padded right padding'] {
+  [class*='extra padded right padding on tablet'] {
     padding-right: 42px !important; }
 
-  [class*='tablet most padded top padding'] {
+  [class*='most padded top padding on tablet'] {
     padding-top: 49px !important; }
 
-  [class*='tablet no bottom padding'] {
+  [class*='no bottom padding on tablet'] {
     padding-bottom: 0 !important; }
 
-  [class*='tablet default bottom padding'] {
+  [class*='default bottom padding on tablet'] {
     padding-bottom: 14px !important; }
 
-  [class*='tablet padded bottom padding'] {
+  [class*='padded bottom padding on tablet'] {
     padding-bottom: 21px !important; }
 
-  [class*='tablet very padded bottom padding'] {
+  [class*='very padded bottom padding on tablet'] {
     padding-bottom: 28px !important; }
 
-  [class*='tablet more padded bottom padding'] {
+  [class*='more padded bottom padding on tablet'] {
     padding-bottom: 35px !important; }
 
-  [class*='tablet extra padded bottom padding'] {
+  [class*='extra padded bottom padding on tablet'] {
     padding-bottom: 42px !important; }
 
-  [class*='tablet most padded bottom padding'] {
+  [class*='most padded bottom padding on tablet'] {
     padding-bottom: 49px !important; }
 
-  [class*='tablet no left padding'] {
+  [class*='no left padding on tablet'] {
     padding-left: 0 !important; }
 
-  [class*='tablet default left padding'] {
+  [class*='default left padding on tablet'] {
     padding-left: 14px !important; }
 
-  [class*='tablet padded left padding'] {
+  [class*='padded left padding on tablet'] {
     padding-left: 21px !important; }
 
-  [class*='tablet very padded left padding'] {
+  [class*='very padded left padding on tablet'] {
     padding-left: 28px !important; }
 
-  [class*='tablet more padded left padding'] {
+  [class*='more padded left padding on tablet'] {
     padding-left: 35px !important; }
 
-  [class*='tablet extra padded left padding'] {
+  [class*='extra padded left padding on tablet'] {
     padding-left: 42px !important; }
 
-  [class*='tablet most padded left padding'] {
+  [class*='most padded left padding on tablet'] {
     padding-left: 49px !important; } }
 @media only screen and (max-width: 991px) {
-  [class*='portable no padding'] {
+  [class*='no padding on portable'] {
     padding: 0 !important; }
 
-  [class*='portable default padding'] {
+  [class*='default padding on portable'] {
     padding: 14px !important; }
 
-  [class*='portable padded padding'] {
+  [class*='padded padding on portable'] {
     padding: 21px !important; }
 
-  [class*='portable very padded padding'] {
+  [class*='very padded padding on portable'] {
     padding: 28px !important; }
 
-  [class*='portable more padded padding'] {
+  [class*='more padded padding on portable'] {
     padding: 35px !important; }
 
-  [class*='portable extra padded padding'] {
+  [class*='extra padded padding on portable'] {
     padding: 42px !important; }
 
-  [class*='portable most padded padding'] {
+  [class*='most padded padding on portable'] {
     padding: 49px !important; }
 
-  [class*='portable no horizontal padding'] {
+  [class*='no horizontal padding on portable'] {
     padding-left: 0 !important;
     padding-right: 0 !important; }
 
-  [class*='portable default horizontal padding'] {
+  [class*='default horizontal padding on portable'] {
     padding-left: 14px !important;
     padding-right: 14px !important; }
 
-  [class*='portable padded horizontal padding'] {
+  [class*='padded horizontal padding on portable'] {
     padding-left: 21px !important;
     padding-right: 21px !important; }
 
-  [class*='portable very padded horizontal padding'] {
+  [class*='very padded horizontal padding on portable'] {
     padding-left: 28px !important;
     padding-right: 28px !important; }
 
-  [class*='portable more padded horizontal padding'] {
+  [class*='more padded horizontal padding on portable'] {
     padding-left: 35px !important;
     padding-right: 35px !important; }
 
-  [class*='portable extra padded horizontal padding'] {
+  [class*='extra padded horizontal padding on portable'] {
     padding-left: 42px !important;
     padding-right: 42px !important; }
 
-  [class*='portable most padded horizontal padding'] {
+  [class*='most padded horizontal padding on portable'] {
     padding-left: 49px !important;
     padding-right: 49px !important; }
 
-  [class*='portable no vertical padding'] {
+  [class*='no vertical padding on portable'] {
     padding-top: 0 !important;
     padding-bottom: 0 !important; }
 
-  [class*='portable default vertical padding'] {
+  [class*='default vertical padding on portable'] {
     padding-top: 14px !important;
     padding-bottom: 14px !important; }
 
-  [class*='portable padded vertical padding'] {
+  [class*='padded vertical padding on portable'] {
     padding-top: 21px !important;
     padding-bottom: 21px !important; }
 
-  [class*='portable very padded vertical padding'] {
+  [class*='very padded vertical padding on portable'] {
     padding-top: 28px !important;
     padding-bottom: 28px !important; }
 
-  [class*='portable more padded vertical padding'] {
+  [class*='more padded vertical padding on portable'] {
     padding-top: 35px !important;
     padding-bottom: 35px !important; }
 
-  [class*='portable extra padded vertical padding'] {
+  [class*='extra padded vertical padding on portable'] {
     padding-top: 42px !important;
     padding-bottom: 42px !important; }
 
-  [class*='portable most padded vertical padding'] {
+  [class*='most padded vertical padding on portable'] {
     padding-top: 49px !important;
     padding-bottom: 49px !important; }
 
-  [class*='portable no top padding'] {
+  [class*='no top padding on portable'] {
     padding-top: 0 !important; }
 
-  [class*='portable default top padding'] {
+  [class*='default top padding on portable'] {
     padding-top: 14px !important; }
 
-  [class*='portable padded top padding'] {
+  [class*='padded top padding on portable'] {
     padding-top: 21px !important; }
 
-  [class*='portable very padded top padding'] {
+  [class*='very padded top padding on portable'] {
     padding-top: 28px !important; }
 
-  [class*='portable more padded top padding'] {
+  [class*='more padded top padding on portable'] {
     padding-top: 35px !important; }
 
-  [class*='portable extra padded top padding'] {
+  [class*='extra padded top padding on portable'] {
     padding-top: 42px !important; }
 
-  [class*='portable most padded top padding'] {
+  [class*='most padded top padding on portable'] {
     padding-top: 49px !important; }
 
-  [class*='portable no right padding'] {
+  [class*='no right padding on portable'] {
     padding-right: 0 !important; }
 
-  [class*='portable default right padding'] {
+  [class*='default right padding on portable'] {
     padding-right: 14px !important; }
 
-  [class*='portable padded right padding'] {
+  [class*='padded right padding on portable'] {
     padding-right: 21px !important; }
 
-  [class*='portable very padded right padding'] {
+  [class*='very padded right padding on portable'] {
     padding-right: 28px !important; }
 
-  [class*='portable more padded right padding'] {
+  [class*='more padded right padding on portable'] {
     padding-right: 35px !important; }
 
-  [class*='portable extra padded right padding'] {
+  [class*='extra padded right padding on portable'] {
     padding-right: 42px !important; }
 
-  [class*='portable most padded top padding'] {
+  [class*='most padded top padding on portable'] {
     padding-top: 49px !important; }
 
-  [class*='portable no bottom padding'] {
+  [class*='no bottom padding on portable'] {
     padding-bottom: 0 !important; }
 
-  [class*='portable default bottom padding'] {
+  [class*='default bottom padding on portable'] {
     padding-bottom: 14px !important; }
 
-  [class*='portable padded bottom padding'] {
+  [class*='padded bottom padding on portable'] {
     padding-bottom: 21px !important; }
 
-  [class*='portable very padded bottom padding'] {
+  [class*='very padded bottom padding on portable'] {
     padding-bottom: 28px !important; }
 
-  [class*='portable more padded bottom padding'] {
+  [class*='more padded bottom padding on portable'] {
     padding-bottom: 35px !important; }
 
-  [class*='portable extra padded bottom padding'] {
+  [class*='extra padded bottom padding on portable'] {
     padding-bottom: 42px !important; }
 
-  [class*='portable most padded bottom padding'] {
+  [class*='most padded bottom padding on portable'] {
     padding-bottom: 49px !important; }
 
-  [class*='portable no left padding'] {
+  [class*='no left padding on portable'] {
     padding-left: 0 !important; }
 
-  [class*='portable default left padding'] {
+  [class*='default left padding on portable'] {
     padding-left: 14px !important; }
 
-  [class*='portable padded left padding'] {
+  [class*='padded left padding on portable'] {
     padding-left: 21px !important; }
 
-  [class*='portable very padded left padding'] {
+  [class*='very padded left padding on portable'] {
     padding-left: 28px !important; }
 
-  [class*='portable more padded left padding'] {
+  [class*='more padded left padding on portable'] {
     padding-left: 35px !important; }
 
-  [class*='portable extra padded left padding'] {
+  [class*='extra padded left padding on portable'] {
     padding-left: 42px !important; }
 
-  [class*='portable most padded left padding'] {
+  [class*='most padded left padding on portable'] {
     padding-left: 49px !important; } }
 @media only screen and (min-width: 992px) and (max-width: 1200px) {
-  [class*='small screen no padding'] {
+  [class*='no padding on small screen'] {
     padding: 0 !important; }
 
-  [class*='small screen default padding'] {
+  [class*='default padding on small screen'] {
     padding: 14px !important; }
 
-  [class*='small screen padded padding'] {
+  [class*='padded padding on small screen'] {
     padding: 21px !important; }
 
-  [class*='small screen very padded padding'] {
+  [class*='very padded padding on small screen'] {
     padding: 28px !important; }
 
-  [class*='small screen more padded padding'] {
+  [class*='more padded padding on small screen'] {
     padding: 35px !important; }
 
-  [class*='small screen extra padded padding'] {
+  [class*='extra padded padding on small screen'] {
     padding: 42px !important; }
 
-  [class*='small screen most padded padding'] {
+  [class*='most padded padding on small screen'] {
     padding: 49px !important; }
 
-  [class*='small screen no horizontal padding'] {
+  [class*='no horizontal padding on small screen'] {
     padding-left: 0 !important;
     padding-right: 0 !important; }
 
-  [class*='small screen default horizontal padding'] {
+  [class*='default horizontal padding on small screen'] {
     padding-left: 14px !important;
     padding-right: 14px !important; }
 
-  [class*='small screen padded horizontal padding'] {
+  [class*='padded horizontal padding on small screen'] {
     padding-left: 21px !important;
     padding-right: 21px !important; }
 
-  [class*='small screen very padded horizontal padding'] {
+  [class*='very padded horizontal padding on small screen'] {
     padding-left: 28px !important;
     padding-right: 28px !important; }
 
-  [class*='small screen more padded horizontal padding'] {
+  [class*='more padded horizontal padding on small screen'] {
     padding-left: 35px !important;
     padding-right: 35px !important; }
 
-  [class*='small screen extra padded horizontal padding'] {
+  [class*='extra padded horizontal padding on small screen'] {
     padding-left: 42px !important;
     padding-right: 42px !important; }
 
-  [class*='small screen most padded horizontal padding'] {
+  [class*='most padded horizontal padding on small screen'] {
     padding-left: 49px !important;
     padding-right: 49px !important; }
 
-  [class*='small screen no vertical padding'] {
+  [class*='no vertical padding on small screen'] {
     padding-top: 0 !important;
     padding-bottom: 0 !important; }
 
-  [class*='small screen default vertical padding'] {
+  [class*='default vertical padding on small screen'] {
     padding-top: 14px !important;
     padding-bottom: 14px !important; }
 
-  [class*='small screen padded vertical padding'] {
+  [class*='padded vertical padding on small screen'] {
     padding-top: 21px !important;
     padding-bottom: 21px !important; }
 
-  [class*='small screen very padded vertical padding'] {
+  [class*='very padded vertical padding on small screen'] {
     padding-top: 28px !important;
     padding-bottom: 28px !important; }
 
-  [class*='small screen more padded vertical padding'] {
+  [class*='more padded vertical padding on small screen'] {
     padding-top: 35px !important;
     padding-bottom: 35px !important; }
 
-  [class*='small screen extra padded vertical padding'] {
+  [class*='extra padded vertical padding on small screen'] {
     padding-top: 42px !important;
     padding-bottom: 42px !important; }
 
-  [class*='small screen most padded vertical padding'] {
+  [class*='most padded vertical padding on small screen'] {
     padding-top: 49px !important;
     padding-bottom: 49px !important; }
 
-  [class*='small screen no top padding'] {
+  [class*='no top padding on small screen'] {
     padding-top: 0 !important; }
 
-  [class*='small screen default top padding'] {
+  [class*='default top padding on small screen'] {
     padding-top: 14px !important; }
 
-  [class*='small screen padded top padding'] {
+  [class*='padded top padding on small screen'] {
     padding-top: 21px !important; }
 
-  [class*='small screen very padded top padding'] {
+  [class*='very padded top padding on small screen'] {
     padding-top: 28px !important; }
 
-  [class*='small screen more padded top padding'] {
+  [class*='more padded top padding on small screen'] {
     padding-top: 35px !important; }
 
-  [class*='small screen extra padded top padding'] {
+  [class*='extra padded top padding on small screen'] {
     padding-top: 42px !important; }
 
-  [class*='small screen most padded top padding'] {
+  [class*='most padded top padding on small screen'] {
     padding-top: 49px !important; }
 
-  [class*='small screen no right padding'] {
+  [class*='no right padding on small screen'] {
     padding-right: 0 !important; }
 
-  [class*='small screen default right padding'] {
+  [class*='default right padding on small screen'] {
     padding-right: 14px !important; }
 
-  [class*='small screen padded right padding'] {
+  [class*='padded right padding on small screen'] {
     padding-right: 21px !important; }
 
-  [class*='small screen very padded right padding'] {
+  [class*='very padded right padding on small screen'] {
     padding-right: 28px !important; }
 
-  [class*='small screen more padded right padding'] {
+  [class*='more padded right padding on small screen'] {
     padding-right: 35px !important; }
 
-  [class*='small screen extra padded right padding'] {
+  [class*='extra padded right padding on small screen'] {
     padding-right: 42px !important; }
 
-  [class*='small screen most padded top padding'] {
+  [class*='most padded top padding on small screen'] {
     padding-top: 49px !important; }
 
-  [class*='small screen no bottom padding'] {
+  [class*='no bottom padding on small screen'] {
     padding-bottom: 0 !important; }
 
-  [class*='small screen default bottom padding'] {
+  [class*='default bottom padding on small screen'] {
     padding-bottom: 14px !important; }
 
-  [class*='small screen padded bottom padding'] {
+  [class*='padded bottom padding on small screen'] {
     padding-bottom: 21px !important; }
 
-  [class*='small screen very padded bottom padding'] {
+  [class*='very padded bottom padding on small screen'] {
     padding-bottom: 28px !important; }
 
-  [class*='small screen more padded bottom padding'] {
+  [class*='more padded bottom padding on small screen'] {
     padding-bottom: 35px !important; }
 
-  [class*='small screen extra padded bottom padding'] {
+  [class*='extra padded bottom padding on small screen'] {
     padding-bottom: 42px !important; }
 
-  [class*='small screen most padded bottom padding'] {
+  [class*='most padded bottom padding on small screen'] {
     padding-bottom: 49px !important; }
 
-  [class*='small screen no left padding'] {
+  [class*='no left padding on small screen'] {
     padding-left: 0 !important; }
 
-  [class*='small screen default left padding'] {
+  [class*='default left padding on small screen'] {
     padding-left: 14px !important; }
 
-  [class*='small screen padded left padding'] {
+  [class*='padded left padding on small screen'] {
     padding-left: 21px !important; }
 
-  [class*='small screen very padded left padding'] {
+  [class*='very padded left padding on small screen'] {
     padding-left: 28px !important; }
 
-  [class*='small screen more padded left padding'] {
+  [class*='more padded left padding on small screen'] {
     padding-left: 35px !important; }
 
-  [class*='small screen extra padded left padding'] {
+  [class*='extra padded left padding on small screen'] {
     padding-left: 42px !important; }
 
-  [class*='small screen most padded left padding'] {
+  [class*='most padded left padding on small screen'] {
     padding-left: 49px !important; } }
 @media only screen and (min-width: 1201px) {
-  [class*='large screen no padding'] {
+  [class*='no padding on large screen'] {
     padding: 0 !important; }
 
-  [class*='large screen default padding'] {
+  [class*='default padding on large screen'] {
     padding: 14px !important; }
 
-  [class*='large screen padded padding'] {
+  [class*='padded padding on large screen'] {
     padding: 21px !important; }
 
-  [class*='large screen very padded padding'] {
+  [class*='very padded padding on large screen'] {
     padding: 28px !important; }
 
-  [class*='large screen more padded padding'] {
+  [class*='more padded padding on large screen'] {
     padding: 35px !important; }
 
-  [class*='large screen extra padded padding'] {
+  [class*='extra padded padding on large screen'] {
     padding: 42px !important; }
 
-  [class*='large screen most padded padding'] {
+  [class*='most padded padding on large screen'] {
     padding: 49px !important; }
 
-  [class*='large screen no horizontal padding'] {
+  [class*='no horizontal padding on large screen'] {
     padding-left: 0 !important;
     padding-right: 0 !important; }
 
-  [class*='large screen default horizontal padding'] {
+  [class*='default horizontal padding on large screen'] {
     padding-left: 14px !important;
     padding-right: 14px !important; }
 
-  [class*='large screen padded horizontal padding'] {
+  [class*='padded horizontal padding on large screen'] {
     padding-left: 21px !important;
     padding-right: 21px !important; }
 
-  [class*='large screen very padded horizontal padding'] {
+  [class*='very padded horizontal padding on large screen'] {
     padding-left: 28px !important;
     padding-right: 28px !important; }
 
-  [class*='large screen more padded horizontal padding'] {
+  [class*='more padded horizontal padding on large screen'] {
     padding-left: 35px !important;
     padding-right: 35px !important; }
 
-  [class*='large screen extra padded horizontal padding'] {
+  [class*='extra padded horizontal padding on large screen'] {
     padding-left: 42px !important;
     padding-right: 42px !important; }
 
-  [class*='large screen most padded horizontal padding'] {
+  [class*='most padded horizontal padding on large screen'] {
     padding-left: 49px !important;
     padding-right: 49px !important; }
 
-  [class*='large screen no vertical padding'] {
+  [class*='no vertical padding on large screen'] {
     padding-top: 0 !important;
     padding-bottom: 0 !important; }
 
-  [class*='large screen default vertical padding'] {
+  [class*='default vertical padding on large screen'] {
     padding-top: 14px !important;
     padding-bottom: 14px !important; }
 
-  [class*='large screen padded vertical padding'] {
+  [class*='padded vertical padding on large screen'] {
     padding-top: 21px !important;
     padding-bottom: 21px !important; }
 
-  [class*='large screen very padded vertical padding'] {
+  [class*='very padded vertical padding on large screen'] {
     padding-top: 28px !important;
     padding-bottom: 28px !important; }
 
-  [class*='large screen more padded vertical padding'] {
+  [class*='more padded vertical padding on large screen'] {
     padding-top: 35px !important;
     padding-bottom: 35px !important; }
 
-  [class*='large screen extra padded vertical padding'] {
+  [class*='extra padded vertical padding on large screen'] {
     padding-top: 42px !important;
     padding-bottom: 42px !important; }
 
-  [class*='large screen most padded vertical padding'] {
+  [class*='most padded vertical padding on large screen'] {
     padding-top: 49px !important;
     padding-bottom: 49px !important; }
 
-  [class*='large screen no top padding'] {
+  [class*='no top padding on large screen'] {
     padding-top: 0 !important; }
 
-  [class*='large screen default top padding'] {
+  [class*='default top padding on large screen'] {
     padding-top: 14px !important; }
 
-  [class*='large screen padded top padding'] {
+  [class*='padded top padding on large screen'] {
     padding-top: 21px !important; }
 
-  [class*='large screen very padded top padding'] {
+  [class*='very padded top padding on large screen'] {
     padding-top: 28px !important; }
 
-  [class*='large screen more padded top padding'] {
+  [class*='more padded top padding on large screen'] {
     padding-top: 35px !important; }
 
-  [class*='large screen extra padded top padding'] {
+  [class*='extra padded top padding on large screen'] {
     padding-top: 42px !important; }
 
-  [class*='large screen most padded top padding'] {
+  [class*='most padded top padding on large screen'] {
     padding-top: 49px !important; }
 
-  [class*='large screen no right padding'] {
+  [class*='no right padding on large screen'] {
     padding-right: 0 !important; }
 
-  [class*='large screen default right padding'] {
+  [class*='default right padding on large screen'] {
     padding-right: 14px !important; }
 
-  [class*='large screen padded right padding'] {
+  [class*='padded right padding on large screen'] {
     padding-right: 21px !important; }
 
-  [class*='large screen very padded right padding'] {
+  [class*='very padded right padding on large screen'] {
     padding-right: 28px !important; }
 
-  [class*='large screen more padded right padding'] {
+  [class*='more padded right padding on large screen'] {
     padding-right: 35px !important; }
 
-  [class*='large screen extra padded right padding'] {
+  [class*='extra padded right padding on large screen'] {
     padding-right: 42px !important; }
 
-  [class*='large screen most padded top padding'] {
+  [class*='most padded top padding on large screen'] {
     padding-top: 49px !important; }
 
-  [class*='large screen no bottom padding'] {
+  [class*='no bottom padding on large screen'] {
     padding-bottom: 0 !important; }
 
-  [class*='large screen default bottom padding'] {
+  [class*='default bottom padding on large screen'] {
     padding-bottom: 14px !important; }
 
-  [class*='large screen padded bottom padding'] {
+  [class*='padded bottom padding on large screen'] {
     padding-bottom: 21px !important; }
 
-  [class*='large screen very padded bottom padding'] {
+  [class*='very padded bottom padding on large screen'] {
     padding-bottom: 28px !important; }
 
-  [class*='large screen more padded bottom padding'] {
+  [class*='more padded bottom padding on large screen'] {
     padding-bottom: 35px !important; }
 
-  [class*='large screen extra padded bottom padding'] {
+  [class*='extra padded bottom padding on large screen'] {
     padding-bottom: 42px !important; }
 
-  [class*='large screen most padded bottom padding'] {
+  [class*='most padded bottom padding on large screen'] {
     padding-bottom: 49px !important; }
 
-  [class*='large screen no left padding'] {
+  [class*='no left padding on large screen'] {
     padding-left: 0 !important; }
 
-  [class*='large screen default left padding'] {
+  [class*='default left padding on large screen'] {
     padding-left: 14px !important; }
 
-  [class*='large screen padded left padding'] {
+  [class*='padded left padding on large screen'] {
     padding-left: 21px !important; }
 
-  [class*='large screen very padded left padding'] {
+  [class*='very padded left padding on large screen'] {
     padding-left: 28px !important; }
 
-  [class*='large screen more padded left padding'] {
+  [class*='more padded left padding on large screen'] {
     padding-left: 35px !important; }
 
-  [class*='large screen extra padded left padding'] {
+  [class*='extra padded left padding on large screen'] {
     padding-left: 42px !important; }
 
-  [class*='large screen most padded left padding'] {
+  [class*='most padded left padding on large screen'] {
     padding-left: 49px !important; } }
 @media only screen and (min-width: 992px) {
-  [class*='monitor no padding'] {
+  [class*='no padding on monitor'] {
     padding: 0 !important; }
 
-  [class*='monitor default padding'] {
+  [class*='default padding on monitor'] {
     padding: 14px !important; }
 
-  [class*='monitor padded padding'] {
+  [class*='padded padding on monitor'] {
     padding: 21px !important; }
 
-  [class*='monitor very padded padding'] {
+  [class*='very padded padding on monitor'] {
     padding: 28px !important; }
 
-  [class*='monitor more padded padding'] {
+  [class*='more padded padding on monitor'] {
     padding: 35px !important; }
 
-  [class*='monitor extra padded padding'] {
+  [class*='extra padded padding on monitor'] {
     padding: 42px !important; }
 
-  [class*='monitor most padded padding'] {
+  [class*='most padded padding on monitor'] {
     padding: 49px !important; }
 
-  [class*='monitor no horizontal padding'] {
+  [class*='no horizontal padding on monitor'] {
     padding-left: 0 !important;
     padding-right: 0 !important; }
 
-  [class*='monitor default horizontal padding'] {
+  [class*='default horizontal padding on monitor'] {
     padding-left: 14px !important;
     padding-right: 14px !important; }
 
-  [class*='monitor padded horizontal padding'] {
+  [class*='padded horizontal padding on monitor'] {
     padding-left: 21px !important;
     padding-right: 21px !important; }
 
-  [class*='monitor very padded horizontal padding'] {
+  [class*='very padded horizontal padding on monitor'] {
     padding-left: 28px !important;
     padding-right: 28px !important; }
 
-  [class*='monitor more padded horizontal padding'] {
+  [class*='more padded horizontal padding on monitor'] {
     padding-left: 35px !important;
     padding-right: 35px !important; }
 
-  [class*='monitor extra padded horizontal padding'] {
+  [class*='extra padded horizontal padding on monitor'] {
     padding-left: 42px !important;
     padding-right: 42px !important; }
 
-  [class*='monitor most padded horizontal padding'] {
+  [class*='most padded horizontal padding on monitor'] {
     padding-left: 49px !important;
     padding-right: 49px !important; }
 
-  [class*='monitor no vertical padding'] {
+  [class*='no vertical padding on monitor'] {
     padding-top: 0 !important;
     padding-bottom: 0 !important; }
 
-  [class*='monitor default vertical padding'] {
+  [class*='default vertical padding on monitor'] {
     padding-top: 14px !important;
     padding-bottom: 14px !important; }
 
-  [class*='monitor padded vertical padding'] {
+  [class*='padded vertical padding on monitor'] {
     padding-top: 21px !important;
     padding-bottom: 21px !important; }
 
-  [class*='monitor very padded vertical padding'] {
+  [class*='very padded vertical padding on monitor'] {
     padding-top: 28px !important;
     padding-bottom: 28px !important; }
 
-  [class*='monitor more padded vertical padding'] {
+  [class*='more padded vertical padding on monitor'] {
     padding-top: 35px !important;
     padding-bottom: 35px !important; }
 
-  [class*='monitor extra padded vertical padding'] {
+  [class*='extra padded vertical padding on monitor'] {
     padding-top: 42px !important;
     padding-bottom: 42px !important; }
 
-  [class*='monitor most padded vertical padding'] {
+  [class*='most padded vertical padding on monitor'] {
     padding-top: 49px !important;
     padding-bottom: 49px !important; }
 
-  [class*='monitor no top padding'] {
+  [class*='no top padding on monitor'] {
     padding-top: 0 !important; }
 
-  [class*='monitor default top padding'] {
+  [class*='default top padding on monitor'] {
     padding-top: 14px !important; }
 
-  [class*='monitor padded top padding'] {
+  [class*='padded top padding on monitor'] {
     padding-top: 21px !important; }
 
-  [class*='monitor very padded top padding'] {
+  [class*='very padded top padding on monitor'] {
     padding-top: 28px !important; }
 
-  [class*='monitor more padded top padding'] {
+  [class*='more padded top padding on monitor'] {
     padding-top: 35px !important; }
 
-  [class*='monitor extra padded top padding'] {
+  [class*='extra padded top padding on monitor'] {
     padding-top: 42px !important; }
 
-  [class*='monitor most padded top padding'] {
+  [class*='most padded top padding on monitor'] {
     padding-top: 49px !important; }
 
-  [class*='monitor no right padding'] {
+  [class*='no right padding on monitor'] {
     padding-right: 0 !important; }
 
-  [class*='monitor default right padding'] {
+  [class*='default right padding on monitor'] {
     padding-right: 14px !important; }
 
-  [class*='monitor padded right padding'] {
+  [class*='padded right padding on monitor'] {
     padding-right: 21px !important; }
 
-  [class*='monitor very padded right padding'] {
+  [class*='very padded right padding on monitor'] {
     padding-right: 28px !important; }
 
-  [class*='monitor more padded right padding'] {
+  [class*='more padded right padding on monitor'] {
     padding-right: 35px !important; }
 
-  [class*='monitor extra padded right padding'] {
+  [class*='extra padded right padding on monitor'] {
     padding-right: 42px !important; }
 
-  [class*='monitor most padded top padding'] {
+  [class*='most padded top padding on monitor'] {
     padding-top: 49px !important; }
 
-  [class*='monitor no bottom padding'] {
+  [class*='no bottom padding on monitor'] {
     padding-bottom: 0 !important; }
 
-  [class*='monitor default bottom padding'] {
+  [class*='default bottom padding on monitor'] {
     padding-bottom: 14px !important; }
 
-  [class*='monitor padded bottom padding'] {
+  [class*='padded bottom padding on monitor'] {
     padding-bottom: 21px !important; }
 
-  [class*='monitor very padded bottom padding'] {
+  [class*='very padded bottom padding on monitor'] {
     padding-bottom: 28px !important; }
 
-  [class*='monitor more padded bottom padding'] {
+  [class*='more padded bottom padding on monitor'] {
     padding-bottom: 35px !important; }
 
-  [class*='monitor extra padded bottom padding'] {
+  [class*='extra padded bottom padding on monitor'] {
     padding-bottom: 42px !important; }
 
-  [class*='monitor most padded bottom padding'] {
+  [class*='most padded bottom padding on monitor'] {
     padding-bottom: 49px !important; }
 
-  [class*='monitor no left padding'] {
+  [class*='no left padding on monitor'] {
     padding-left: 0 !important; }
 
-  [class*='monitor default left padding'] {
+  [class*='default left padding on monitor'] {
     padding-left: 14px !important; }
 
-  [class*='monitor padded left padding'] {
+  [class*='padded left padding on monitor'] {
     padding-left: 21px !important; }
 
-  [class*='monitor very padded left padding'] {
+  [class*='very padded left padding on monitor'] {
     padding-left: 28px !important; }
 
-  [class*='monitor more padded left padding'] {
+  [class*='more padded left padding on monitor'] {
     padding-left: 35px !important; }
 
-  [class*='monitor extra padded left padding'] {
+  [class*='extra padded left padding on monitor'] {
     padding-left: 42px !important; }
 
-  [class*='monitor most padded left padding'] {
+  [class*='most padded left padding on monitor'] {
     padding-left: 49px !important; } }
 [class*='no margin']:not(.mobile):not(.tablet):not(.monitor):not(.screen):not(.portable) {
   margin: 0 !important; }
@@ -2816,971 +2977,1132 @@
 [class*='most padded left margin']:not(.mobile):not(.tablet):not(.monitor):not(.screen):not(.portable) {
   margin-left: 49px !important; }
 
+[class*='no margin as default'] {
+  margin: 0 !important; }
+
+[class*='default margin as default'] {
+  margin: 14px !important; }
+
+[class*='padded margin as default'] {
+  margin: 21px !important; }
+
+[class*='very padded margin as default'] {
+  margin: 28px !important; }
+
+[class*='more padded margin as default'] {
+  margin: 35px !important; }
+
+[class*='extra padded margin as default'] {
+  margin: 42px !important; }
+
+[class*='most padded margin as default'] {
+  margin: 49px !important; }
+
+[class*='no horizontal margin as default'] {
+  margin-left: 0 !important;
+  margin-right: 0 !important; }
+
+[class*='default horizontal margin as default'] {
+  margin-left: 14px !important;
+  margin-right: 14px !important; }
+
+[class*='padded horizontal margin as default'] {
+  margin-left: 21px !important;
+  margin-right: 21px !important; }
+
+[class*='very padded horizontal margin as default'] {
+  margin-left: 28px !important;
+  margin-right: 28px !important; }
+
+[class*='more padded horizontal margin as default'] {
+  margin-left: 35px !important;
+  margin-right: 35px !important; }
+
+[class*='extra padded horizontal margin as default'] {
+  margin-left: 42px !important;
+  margin-right: 42px !important; }
+
+[class*='most padded horizontal margin as default'] {
+  margin-left: 49px !important;
+  margin-right: 49px !important; }
+
+[class*='no vertical margin as default'] {
+  margin-top: 0 !important;
+  margin-bottom: 0 !important; }
+
+[class*='default vertical margin as default'] {
+  margin-top: 14px !important;
+  margin-bottom: 14px !important; }
+
+[class*='padded vertical margin as default'] {
+  margin-top: 21px !important;
+  margin-bottom: 21px !important; }
+
+[class*='very padded vertical margin as default'] {
+  margin-top: 28px !important;
+  margin-bottom: 28px !important; }
+
+[class*='more padded vertical margin as default'] {
+  margin-top: 35px !important;
+  margin-bottom: 35px !important; }
+
+[class*='extra padded vertical margin as default'] {
+  margin-top: 42px !important;
+  margin-bottom: 42px !important; }
+
+[class*='most padded vertical margin as default'] {
+  margin-top: 49px !important;
+  margin-bottom: 49px !important; }
+
+[class*='no top margin as default'] {
+  margin-top: 0 !important; }
+
+[class*='default top margin as default'] {
+  margin-top: 14px !important; }
+
+[class*='padded top margin as default'] {
+  margin-top: 21px !important; }
+
+[class*='very padded top margin as default'] {
+  margin-top: 28px !important; }
+
+[class*='more padded top margin as default'] {
+  margin-top: 35px !important; }
+
+[class*='extra padded top margin as default'] {
+  margin-top: 42px !important; }
+
+[class*='most padded top margin as default'] {
+  margin-top: 49px !important; }
+
+[class*='no right margin as default'] {
+  margin-right: 0 !important; }
+
+[class*='default right margin as default'] {
+  margin-right: 14px !important; }
+
+[class*='padded right margin as default'] {
+  margin-right: 21px !important; }
+
+[class*='very padded right margin as default'] {
+  margin-right: 28px !important; }
+
+[class*='more padded right margin as default'] {
+  margin-right: 35px !important; }
+
+[class*='extra padded right margin as default'] {
+  margin-right: 42px !important; }
+
+[class*='most padded top margin as default'] {
+  margin-top: 49px !important; }
+
+[class*='no bottom margin as default'] {
+  margin-bottom: 0 !important; }
+
+[class*='default bottom margin as default'] {
+  margin-bottom: 14px !important; }
+
+[class*='padded bottom margin as default'] {
+  margin-bottom: 21px !important; }
+
+[class*='very padded bottom margin as default'] {
+  margin-bottom: 28px !important; }
+
+[class*='more padded bottom margin as default'] {
+  margin-bottom: 35px !important; }
+
+[class*='extra padded bottom margin as default'] {
+  margin-bottom: 42px !important; }
+
+[class*='most padded bottom margin as default'] {
+  margin-bottom: 49px !important; }
+
+[class*='no left margin as default'] {
+  margin-left: 0 !important; }
+
+[class*='default left margin as default'] {
+  margin-left: 14px !important; }
+
+[class*='padded left margin as default'] {
+  margin-left: 21px !important; }
+
+[class*='very padded left margin as default'] {
+  margin-left: 28px !important; }
+
+[class*='more padded left margin as default'] {
+  margin-left: 35px !important; }
+
+[class*='extra padded left margin as default'] {
+  margin-left: 42px !important; }
+
+[class*='most padded left margin as default'] {
+  margin-left: 49px !important; }
+
 @media only screen and (max-width: 768px) {
-  [class*='mobile no margin'] {
+  [class*='no margin on mobile'] {
     margin: 0 !important; }
 
-  [class*='mobile default margin'] {
+  [class*='default margin on mobile'] {
     margin: 14px !important; }
 
-  [class*='mobile padded margin'] {
+  [class*='padded margin on mobile'] {
     margin: 21px !important; }
 
-  [class*='mobile very padded margin'] {
+  [class*='very padded margin on mobile'] {
     margin: 28px !important; }
 
-  [class*='mobile more padded margin'] {
+  [class*='more padded margin on mobile'] {
     margin: 35px !important; }
 
-  [class*='mobile extra padded margin'] {
+  [class*='extra padded margin on mobile'] {
     margin: 42px !important; }
 
-  [class*='mobile most padded margin'] {
+  [class*='most padded margin on mobile'] {
     margin: 49px !important; }
 
-  [class*='mobile no horizontal margin'] {
+  [class*='no horizontal margin on mobile'] {
     margin-left: 0 !important;
     margin-right: 0 !important; }
 
-  [class*='mobile default horizontal margin'] {
+  [class*='default horizontal margin on mobile'] {
     margin-left: 14px !important;
     margin-right: 14px !important; }
 
-  [class*='mobile padded horizontal margin'] {
+  [class*='padded horizontal margin on mobile'] {
     margin-left: 21px !important;
     margin-right: 21px !important; }
 
-  [class*='mobile very padded horizontal margin'] {
+  [class*='very padded horizontal margin on mobile'] {
     margin-left: 28px !important;
     margin-right: 28px !important; }
 
-  [class*='mobile more padded horizontal margin'] {
+  [class*='more padded horizontal margin on mobile'] {
     margin-left: 35px !important;
     margin-right: 35px !important; }
 
-  [class*='mobile extra padded horizontal margin'] {
+  [class*='extra padded horizontal margin on mobile'] {
     margin-left: 42px !important;
     margin-right: 42px !important; }
 
-  [class*='mobile most padded horizontal margin'] {
+  [class*='most padded horizontal margin on mobile'] {
     margin-left: 49px !important;
     margin-right: 49px !important; }
 
-  [class*='mobile no vertical margin'] {
+  [class*='no vertical margin on mobile'] {
     margin-top: 0 !important;
     margin-bottom: 0 !important; }
 
-  [class*='mobile default vertical margin'] {
+  [class*='default vertical margin on mobile'] {
     margin-top: 14px !important;
     margin-bottom: 14px !important; }
 
-  [class*='mobile padded vertical margin'] {
+  [class*='padded vertical margin on mobile'] {
     margin-top: 21px !important;
     margin-bottom: 21px !important; }
 
-  [class*='mobile very padded vertical margin'] {
+  [class*='very padded vertical margin on mobile'] {
     margin-top: 28px !important;
     margin-bottom: 28px !important; }
 
-  [class*='mobile more padded vertical margin'] {
+  [class*='more padded vertical margin on mobile'] {
     margin-top: 35px !important;
     margin-bottom: 35px !important; }
 
-  [class*='mobile extra padded vertical margin'] {
+  [class*='extra padded vertical margin on mobile'] {
     margin-top: 42px !important;
     margin-bottom: 42px !important; }
 
-  [class*='mobile most padded vertical margin'] {
+  [class*='most padded vertical margin on mobile'] {
     margin-top: 49px !important;
     margin-bottom: 49px !important; }
 
-  [class*='mobile no top margin'] {
+  [class*='no top margin on mobile'] {
     margin-top: 0 !important; }
 
-  [class*='mobile default top margin'] {
+  [class*='default top margin on mobile'] {
     margin-top: 14px !important; }
 
-  [class*='mobile padded top margin'] {
+  [class*='padded top margin on mobile'] {
     margin-top: 21px !important; }
 
-  [class*='mobile very padded top margin'] {
+  [class*='very padded top margin on mobile'] {
     margin-top: 28px !important; }
 
-  [class*='mobile more padded top margin'] {
+  [class*='more padded top margin on mobile'] {
     margin-top: 35px !important; }
 
-  [class*='mobile extra padded top margin'] {
+  [class*='extra padded top margin on mobile'] {
     margin-top: 42px !important; }
 
-  [class*='mobile most padded top margin'] {
+  [class*='most padded top margin on mobile'] {
     margin-top: 49px !important; }
 
-  [class*='mobile no right margin'] {
+  [class*='no right margin on mobile'] {
     margin-right: 0 !important; }
 
-  [class*='mobile default right margin'] {
+  [class*='default right margin on mobile'] {
     margin-right: 14px !important; }
 
-  [class*='mobile padded right margin'] {
+  [class*='padded right margin on mobile'] {
     margin-right: 21px !important; }
 
-  [class*='mobile very padded right margin'] {
+  [class*='very padded right margin on mobile'] {
     margin-right: 28px !important; }
 
-  [class*='mobile more padded right margin'] {
+  [class*='more padded right margin on mobile'] {
     margin-right: 35px !important; }
 
-  [class*='mobile extra padded right margin'] {
+  [class*='extra padded right margin on mobile'] {
     margin-right: 42px !important; }
 
-  [class*='mobile most padded top margin'] {
+  [class*='most padded top margin on mobile'] {
     margin-top: 49px !important; }
 
-  [class*='mobile no bottom margin'] {
+  [class*='no bottom margin on mobile'] {
     margin-bottom: 0 !important; }
 
-  [class*='mobile default bottom margin'] {
+  [class*='default bottom margin on mobile'] {
     margin-bottom: 14px !important; }
 
-  [class*='mobile padded bottom margin'] {
+  [class*='padded bottom margin on mobile'] {
     margin-bottom: 21px !important; }
 
-  [class*='mobile very padded bottom margin'] {
+  [class*='very padded bottom margin on mobile'] {
     margin-bottom: 28px !important; }
 
-  [class*='mobile more padded bottom margin'] {
+  [class*='more padded bottom margin on mobile'] {
     margin-bottom: 35px !important; }
 
-  [class*='mobile extra padded bottom margin'] {
+  [class*='extra padded bottom margin on mobile'] {
     margin-bottom: 42px !important; }
 
-  [class*='mobile most padded bottom margin'] {
+  [class*='most padded bottom margin on mobile'] {
     margin-bottom: 49px !important; }
 
-  [class*='mobile no left margin'] {
+  [class*='no left margin on mobile'] {
     margin-left: 0 !important; }
 
-  [class*='mobile default left margin'] {
+  [class*='default left margin on mobile'] {
     margin-left: 14px !important; }
 
-  [class*='mobile padded left margin'] {
+  [class*='padded left margin on mobile'] {
     margin-left: 21px !important; }
 
-  [class*='mobile very padded left margin'] {
+  [class*='very padded left margin on mobile'] {
     margin-left: 28px !important; }
 
-  [class*='mobile more padded left margin'] {
+  [class*='more padded left margin on mobile'] {
     margin-left: 35px !important; }
 
-  [class*='mobile extra padded left margin'] {
+  [class*='extra padded left margin on mobile'] {
     margin-left: 42px !important; }
 
-  [class*='mobile most padded left margin'] {
+  [class*='most padded left margin on mobile'] {
     margin-left: 49px !important; } }
 @media only screen and (min-width: 769px) and (max-width: 991px) {
-  [class*='tablet no margin'] {
+  [class*='no margin on tablet'] {
     margin: 0 !important; }
 
-  [class*='tablet default margin'] {
+  [class*='default margin on tablet'] {
     margin: 14px !important; }
 
-  [class*='tablet padded margin'] {
+  [class*='padded margin on tablet'] {
     margin: 21px !important; }
 
-  [class*='tablet very padded margin'] {
+  [class*='very padded margin on tablet'] {
     margin: 28px !important; }
 
-  [class*='tablet more padded margin'] {
+  [class*='more padded margin on tablet'] {
     margin: 35px !important; }
 
-  [class*='tablet extra padded margin'] {
+  [class*='extra padded margin on tablet'] {
     margin: 42px !important; }
 
-  [class*='tablet most padded margin'] {
+  [class*='most padded margin on tablet'] {
     margin: 49px !important; }
 
-  [class*='tablet no horizontal margin'] {
+  [class*='no horizontal margin on tablet'] {
     margin-left: 0 !important;
     margin-right: 0 !important; }
 
-  [class*='tablet default horizontal margin'] {
+  [class*='default horizontal margin on tablet'] {
     margin-left: 14px !important;
     margin-right: 14px !important; }
 
-  [class*='tablet padded horizontal margin'] {
+  [class*='padded horizontal margin on tablet'] {
     margin-left: 21px !important;
     margin-right: 21px !important; }
 
-  [class*='tablet very padded horizontal margin'] {
+  [class*='very padded horizontal margin on tablet'] {
     margin-left: 28px !important;
     margin-right: 28px !important; }
 
-  [class*='tablet more padded horizontal margin'] {
+  [class*='more padded horizontal margin on tablet'] {
     margin-left: 35px !important;
     margin-right: 35px !important; }
 
-  [class*='tablet extra padded horizontal margin'] {
+  [class*='extra padded horizontal margin on tablet'] {
     margin-left: 42px !important;
     margin-right: 42px !important; }
 
-  [class*='tablet most padded horizontal margin'] {
+  [class*='most padded horizontal margin on tablet'] {
     margin-left: 49px !important;
     margin-right: 49px !important; }
 
-  [class*='tablet no vertical margin'] {
+  [class*='no vertical margin on tablet'] {
     margin-top: 0 !important;
     margin-bottom: 0 !important; }
 
-  [class*='tablet default vertical margin'] {
+  [class*='default vertical margin on tablet'] {
     margin-top: 14px !important;
     margin-bottom: 14px !important; }
 
-  [class*='tablet padded vertical margin'] {
+  [class*='padded vertical margin on tablet'] {
     margin-top: 21px !important;
     margin-bottom: 21px !important; }
 
-  [class*='tablet very padded vertical margin'] {
+  [class*='very padded vertical margin on tablet'] {
     margin-top: 28px !important;
     margin-bottom: 28px !important; }
 
-  [class*='tablet more padded vertical margin'] {
+  [class*='more padded vertical margin on tablet'] {
     margin-top: 35px !important;
     margin-bottom: 35px !important; }
 
-  [class*='tablet extra padded vertical margin'] {
+  [class*='extra padded vertical margin on tablet'] {
     margin-top: 42px !important;
     margin-bottom: 42px !important; }
 
-  [class*='tablet most padded vertical margin'] {
+  [class*='most padded vertical margin on tablet'] {
     margin-top: 49px !important;
     margin-bottom: 49px !important; }
 
-  [class*='tablet no top margin'] {
+  [class*='no top margin on tablet'] {
     margin-top: 0 !important; }
 
-  [class*='tablet default top margin'] {
+  [class*='default top margin on tablet'] {
     margin-top: 14px !important; }
 
-  [class*='tablet padded top margin'] {
+  [class*='padded top margin on tablet'] {
     margin-top: 21px !important; }
 
-  [class*='tablet very padded top margin'] {
+  [class*='very padded top margin on tablet'] {
     margin-top: 28px !important; }
 
-  [class*='tablet more padded top margin'] {
+  [class*='more padded top margin on tablet'] {
     margin-top: 35px !important; }
 
-  [class*='tablet extra padded top margin'] {
+  [class*='extra padded top margin on tablet'] {
     margin-top: 42px !important; }
 
-  [class*='tablet most padded top margin'] {
+  [class*='most padded top margin on tablet'] {
     margin-top: 49px !important; }
 
-  [class*='tablet no right margin'] {
+  [class*='no right margin on tablet'] {
     margin-right: 0 !important; }
 
-  [class*='tablet default right margin'] {
+  [class*='default right margin on tablet'] {
     margin-right: 14px !important; }
 
-  [class*='tablet padded right margin'] {
+  [class*='padded right margin on tablet'] {
     margin-right: 21px !important; }
 
-  [class*='tablet very padded right margin'] {
+  [class*='very padded right margin on tablet'] {
     margin-right: 28px !important; }
 
-  [class*='tablet more padded right margin'] {
+  [class*='more padded right margin on tablet'] {
     margin-right: 35px !important; }
 
-  [class*='tablet extra padded right margin'] {
+  [class*='extra padded right margin on tablet'] {
     margin-right: 42px !important; }
 
-  [class*='tablet most padded top margin'] {
+  [class*='most padded top margin on tablet'] {
     margin-top: 49px !important; }
 
-  [class*='tablet no bottom margin'] {
+  [class*='no bottom margin on tablet'] {
     margin-bottom: 0 !important; }
 
-  [class*='tablet default bottom margin'] {
+  [class*='default bottom margin on tablet'] {
     margin-bottom: 14px !important; }
 
-  [class*='tablet padded bottom margin'] {
+  [class*='padded bottom margin on tablet'] {
     margin-bottom: 21px !important; }
 
-  [class*='tablet very padded bottom margin'] {
+  [class*='very padded bottom margin on tablet'] {
     margin-bottom: 28px !important; }
 
-  [class*='tablet more padded bottom margin'] {
+  [class*='more padded bottom margin on tablet'] {
     margin-bottom: 35px !important; }
 
-  [class*='tablet extra padded bottom margin'] {
+  [class*='extra padded bottom margin on tablet'] {
     margin-bottom: 42px !important; }
 
-  [class*='tablet most padded bottom margin'] {
+  [class*='most padded bottom margin on tablet'] {
     margin-bottom: 49px !important; }
 
-  [class*='tablet no left margin'] {
+  [class*='no left margin on tablet'] {
     margin-left: 0 !important; }
 
-  [class*='tablet default left margin'] {
+  [class*='default left margin on tablet'] {
     margin-left: 14px !important; }
 
-  [class*='tablet padded left margin'] {
+  [class*='padded left margin on tablet'] {
     margin-left: 21px !important; }
 
-  [class*='tablet very padded left margin'] {
+  [class*='very padded left margin on tablet'] {
     margin-left: 28px !important; }
 
-  [class*='tablet more padded left margin'] {
+  [class*='more padded left margin on tablet'] {
     margin-left: 35px !important; }
 
-  [class*='tablet extra padded left margin'] {
+  [class*='extra padded left margin on tablet'] {
     margin-left: 42px !important; }
 
-  [class*='tablet most padded left margin'] {
+  [class*='most padded left margin on tablet'] {
     margin-left: 49px !important; } }
 @media only screen and (max-width: 991px) {
-  [class*='portable no margin'] {
+  [class*='no margin on portable'] {
     margin: 0 !important; }
 
-  [class*='portable default margin'] {
+  [class*='default margin on portable'] {
     margin: 14px !important; }
 
-  [class*='portable padded margin'] {
+  [class*='padded margin on portable'] {
     margin: 21px !important; }
 
-  [class*='portable very padded margin'] {
+  [class*='very padded margin on portable'] {
     margin: 28px !important; }
 
-  [class*='portable more padded margin'] {
+  [class*='more padded margin on portable'] {
     margin: 35px !important; }
 
-  [class*='portable extra padded margin'] {
+  [class*='extra padded margin on portable'] {
     margin: 42px !important; }
 
-  [class*='portable most padded margin'] {
+  [class*='most padded margin on portable'] {
     margin: 49px !important; }
 
-  [class*='portable no horizontal margin'] {
+  [class*='no horizontal margin on portable'] {
     margin-left: 0 !important;
     margin-right: 0 !important; }
 
-  [class*='portable default horizontal margin'] {
+  [class*='default horizontal margin on portable'] {
     margin-left: 14px !important;
     margin-right: 14px !important; }
 
-  [class*='portable padded horizontal margin'] {
+  [class*='padded horizontal margin on portable'] {
     margin-left: 21px !important;
     margin-right: 21px !important; }
 
-  [class*='portable very padded horizontal margin'] {
+  [class*='very padded horizontal margin on portable'] {
     margin-left: 28px !important;
     margin-right: 28px !important; }
 
-  [class*='portable more padded horizontal margin'] {
+  [class*='more padded horizontal margin on portable'] {
     margin-left: 35px !important;
     margin-right: 35px !important; }
 
-  [class*='portable extra padded horizontal margin'] {
+  [class*='extra padded horizontal margin on portable'] {
     margin-left: 42px !important;
     margin-right: 42px !important; }
 
-  [class*='portable most padded horizontal margin'] {
+  [class*='most padded horizontal margin on portable'] {
     margin-left: 49px !important;
     margin-right: 49px !important; }
 
-  [class*='portable no vertical margin'] {
+  [class*='no vertical margin on portable'] {
     margin-top: 0 !important;
     margin-bottom: 0 !important; }
 
-  [class*='portable default vertical margin'] {
+  [class*='default vertical margin on portable'] {
     margin-top: 14px !important;
     margin-bottom: 14px !important; }
 
-  [class*='portable padded vertical margin'] {
+  [class*='padded vertical margin on portable'] {
     margin-top: 21px !important;
     margin-bottom: 21px !important; }
 
-  [class*='portable very padded vertical margin'] {
+  [class*='very padded vertical margin on portable'] {
     margin-top: 28px !important;
     margin-bottom: 28px !important; }
 
-  [class*='portable more padded vertical margin'] {
+  [class*='more padded vertical margin on portable'] {
     margin-top: 35px !important;
     margin-bottom: 35px !important; }
 
-  [class*='portable extra padded vertical margin'] {
+  [class*='extra padded vertical margin on portable'] {
     margin-top: 42px !important;
     margin-bottom: 42px !important; }
 
-  [class*='portable most padded vertical margin'] {
+  [class*='most padded vertical margin on portable'] {
     margin-top: 49px !important;
     margin-bottom: 49px !important; }
 
-  [class*='portable no top margin'] {
+  [class*='no top margin on portable'] {
     margin-top: 0 !important; }
 
-  [class*='portable default top margin'] {
+  [class*='default top margin on portable'] {
     margin-top: 14px !important; }
 
-  [class*='portable padded top margin'] {
+  [class*='padded top margin on portable'] {
     margin-top: 21px !important; }
 
-  [class*='portable very padded top margin'] {
+  [class*='very padded top margin on portable'] {
     margin-top: 28px !important; }
 
-  [class*='portable more padded top margin'] {
+  [class*='more padded top margin on portable'] {
     margin-top: 35px !important; }
 
-  [class*='portable extra padded top margin'] {
+  [class*='extra padded top margin on portable'] {
     margin-top: 42px !important; }
 
-  [class*='portable most padded top margin'] {
+  [class*='most padded top margin on portable'] {
     margin-top: 49px !important; }
 
-  [class*='portable no right margin'] {
+  [class*='no right margin on portable'] {
     margin-right: 0 !important; }
 
-  [class*='portable default right margin'] {
+  [class*='default right margin on portable'] {
     margin-right: 14px !important; }
 
-  [class*='portable padded right margin'] {
+  [class*='padded right margin on portable'] {
     margin-right: 21px !important; }
 
-  [class*='portable very padded right margin'] {
+  [class*='very padded right margin on portable'] {
     margin-right: 28px !important; }
 
-  [class*='portable more padded right margin'] {
+  [class*='more padded right margin on portable'] {
     margin-right: 35px !important; }
 
-  [class*='portable extra padded right margin'] {
+  [class*='extra padded right margin on portable'] {
     margin-right: 42px !important; }
 
-  [class*='portable most padded top margin'] {
+  [class*='most padded top margin on portable'] {
     margin-top: 49px !important; }
 
-  [class*='portable no bottom margin'] {
+  [class*='no bottom margin on portable'] {
     margin-bottom: 0 !important; }
 
-  [class*='portable default bottom margin'] {
+  [class*='default bottom margin on portable'] {
     margin-bottom: 14px !important; }
 
-  [class*='portable padded bottom margin'] {
+  [class*='padded bottom margin on portable'] {
     margin-bottom: 21px !important; }
 
-  [class*='portable very padded bottom margin'] {
+  [class*='very padded bottom margin on portable'] {
     margin-bottom: 28px !important; }
 
-  [class*='portable more padded bottom margin'] {
+  [class*='more padded bottom margin on portable'] {
     margin-bottom: 35px !important; }
 
-  [class*='portable extra padded bottom margin'] {
+  [class*='extra padded bottom margin on portable'] {
     margin-bottom: 42px !important; }
 
-  [class*='portable most padded bottom margin'] {
+  [class*='most padded bottom margin on portable'] {
     margin-bottom: 49px !important; }
 
-  [class*='portable no left margin'] {
+  [class*='no left margin on portable'] {
     margin-left: 0 !important; }
 
-  [class*='portable default left margin'] {
+  [class*='default left margin on portable'] {
     margin-left: 14px !important; }
 
-  [class*='portable padded left margin'] {
+  [class*='padded left margin on portable'] {
     margin-left: 21px !important; }
 
-  [class*='portable very padded left margin'] {
+  [class*='very padded left margin on portable'] {
     margin-left: 28px !important; }
 
-  [class*='portable more padded left margin'] {
+  [class*='more padded left margin on portable'] {
     margin-left: 35px !important; }
 
-  [class*='portable extra padded left margin'] {
+  [class*='extra padded left margin on portable'] {
     margin-left: 42px !important; }
 
-  [class*='portable most padded left margin'] {
+  [class*='most padded left margin on portable'] {
     margin-left: 49px !important; } }
 @media only screen and (min-width: 992px) and (max-width: 1200px) {
-  [class*='small screen no margin'] {
+  [class*='no margin on small screen'] {
     margin: 0 !important; }
 
-  [class*='small screen default margin'] {
+  [class*='default margin on small screen'] {
     margin: 14px !important; }
 
-  [class*='small screen padded margin'] {
+  [class*='padded margin on small screen'] {
     margin: 21px !important; }
 
-  [class*='small screen very padded margin'] {
+  [class*='very padded margin on small screen'] {
     margin: 28px !important; }
 
-  [class*='small screen more padded margin'] {
+  [class*='more padded margin on small screen'] {
     margin: 35px !important; }
 
-  [class*='small screen extra padded margin'] {
+  [class*='extra padded margin on small screen'] {
     margin: 42px !important; }
 
-  [class*='small screen most padded margin'] {
+  [class*='most padded margin on small screen'] {
     margin: 49px !important; }
 
-  [class*='small screen no horizontal margin'] {
+  [class*='no horizontal margin on small screen'] {
     margin-left: 0 !important;
     margin-right: 0 !important; }
 
-  [class*='small screen default horizontal margin'] {
+  [class*='default horizontal margin on small screen'] {
     margin-left: 14px !important;
     margin-right: 14px !important; }
 
-  [class*='small screen padded horizontal margin'] {
+  [class*='padded horizontal margin on small screen'] {
     margin-left: 21px !important;
     margin-right: 21px !important; }
 
-  [class*='small screen very padded horizontal margin'] {
+  [class*='very padded horizontal margin on small screen'] {
     margin-left: 28px !important;
     margin-right: 28px !important; }
 
-  [class*='small screen more padded horizontal margin'] {
+  [class*='more padded horizontal margin on small screen'] {
     margin-left: 35px !important;
     margin-right: 35px !important; }
 
-  [class*='small screen extra padded horizontal margin'] {
+  [class*='extra padded horizontal margin on small screen'] {
     margin-left: 42px !important;
     margin-right: 42px !important; }
 
-  [class*='small screen most padded horizontal margin'] {
+  [class*='most padded horizontal margin on small screen'] {
     margin-left: 49px !important;
     margin-right: 49px !important; }
 
-  [class*='small screen no vertical margin'] {
+  [class*='no vertical margin on small screen'] {
     margin-top: 0 !important;
     margin-bottom: 0 !important; }
 
-  [class*='small screen default vertical margin'] {
+  [class*='default vertical margin on small screen'] {
     margin-top: 14px !important;
     margin-bottom: 14px !important; }
 
-  [class*='small screen padded vertical margin'] {
+  [class*='padded vertical margin on small screen'] {
     margin-top: 21px !important;
     margin-bottom: 21px !important; }
 
-  [class*='small screen very padded vertical margin'] {
+  [class*='very padded vertical margin on small screen'] {
     margin-top: 28px !important;
     margin-bottom: 28px !important; }
 
-  [class*='small screen more padded vertical margin'] {
+  [class*='more padded vertical margin on small screen'] {
     margin-top: 35px !important;
     margin-bottom: 35px !important; }
 
-  [class*='small screen extra padded vertical margin'] {
+  [class*='extra padded vertical margin on small screen'] {
     margin-top: 42px !important;
     margin-bottom: 42px !important; }
 
-  [class*='small screen most padded vertical margin'] {
+  [class*='most padded vertical margin on small screen'] {
     margin-top: 49px !important;
     margin-bottom: 49px !important; }
 
-  [class*='small screen no top margin'] {
+  [class*='no top margin on small screen'] {
     margin-top: 0 !important; }
 
-  [class*='small screen default top margin'] {
+  [class*='default top margin on small screen'] {
     margin-top: 14px !important; }
 
-  [class*='small screen padded top margin'] {
+  [class*='padded top margin on small screen'] {
     margin-top: 21px !important; }
 
-  [class*='small screen very padded top margin'] {
+  [class*='very padded top margin on small screen'] {
     margin-top: 28px !important; }
 
-  [class*='small screen more padded top margin'] {
+  [class*='more padded top margin on small screen'] {
     margin-top: 35px !important; }
 
-  [class*='small screen extra padded top margin'] {
+  [class*='extra padded top margin on small screen'] {
     margin-top: 42px !important; }
 
-  [class*='small screen most padded top margin'] {
+  [class*='most padded top margin on small screen'] {
     margin-top: 49px !important; }
 
-  [class*='small screen no right margin'] {
+  [class*='no right margin on small screen'] {
     margin-right: 0 !important; }
 
-  [class*='small screen default right margin'] {
+  [class*='default right margin on small screen'] {
     margin-right: 14px !important; }
 
-  [class*='small screen padded right margin'] {
+  [class*='padded right margin on small screen'] {
     margin-right: 21px !important; }
 
-  [class*='small screen very padded right margin'] {
+  [class*='very padded right margin on small screen'] {
     margin-right: 28px !important; }
 
-  [class*='small screen more padded right margin'] {
+  [class*='more padded right margin on small screen'] {
     margin-right: 35px !important; }
 
-  [class*='small screen extra padded right margin'] {
+  [class*='extra padded right margin on small screen'] {
     margin-right: 42px !important; }
 
-  [class*='small screen most padded top margin'] {
+  [class*='most padded top margin on small screen'] {
     margin-top: 49px !important; }
 
-  [class*='small screen no bottom margin'] {
+  [class*='no bottom margin on small screen'] {
     margin-bottom: 0 !important; }
 
-  [class*='small screen default bottom margin'] {
+  [class*='default bottom margin on small screen'] {
     margin-bottom: 14px !important; }
 
-  [class*='small screen padded bottom margin'] {
+  [class*='padded bottom margin on small screen'] {
     margin-bottom: 21px !important; }
 
-  [class*='small screen very padded bottom margin'] {
+  [class*='very padded bottom margin on small screen'] {
     margin-bottom: 28px !important; }
 
-  [class*='small screen more padded bottom margin'] {
+  [class*='more padded bottom margin on small screen'] {
     margin-bottom: 35px !important; }
 
-  [class*='small screen extra padded bottom margin'] {
+  [class*='extra padded bottom margin on small screen'] {
     margin-bottom: 42px !important; }
 
-  [class*='small screen most padded bottom margin'] {
+  [class*='most padded bottom margin on small screen'] {
     margin-bottom: 49px !important; }
 
-  [class*='small screen no left margin'] {
+  [class*='no left margin on small screen'] {
     margin-left: 0 !important; }
 
-  [class*='small screen default left margin'] {
+  [class*='default left margin on small screen'] {
     margin-left: 14px !important; }
 
-  [class*='small screen padded left margin'] {
+  [class*='padded left margin on small screen'] {
     margin-left: 21px !important; }
 
-  [class*='small screen very padded left margin'] {
+  [class*='very padded left margin on small screen'] {
     margin-left: 28px !important; }
 
-  [class*='small screen more padded left margin'] {
+  [class*='more padded left margin on small screen'] {
     margin-left: 35px !important; }
 
-  [class*='small screen extra padded left margin'] {
+  [class*='extra padded left margin on small screen'] {
     margin-left: 42px !important; }
 
-  [class*='small screen most padded left margin'] {
+  [class*='most padded left margin on small screen'] {
     margin-left: 49px !important; } }
 @media only screen and (min-width: 1201px) {
-  [class*='large screen no margin'] {
+  [class*='no margin on large screen'] {
     margin: 0 !important; }
 
-  [class*='large screen default margin'] {
+  [class*='default margin on large screen'] {
     margin: 14px !important; }
 
-  [class*='large screen padded margin'] {
+  [class*='padded margin on large screen'] {
     margin: 21px !important; }
 
-  [class*='large screen very padded margin'] {
+  [class*='very padded margin on large screen'] {
     margin: 28px !important; }
 
-  [class*='large screen more padded margin'] {
+  [class*='more padded margin on large screen'] {
     margin: 35px !important; }
 
-  [class*='large screen extra padded margin'] {
+  [class*='extra padded margin on large screen'] {
     margin: 42px !important; }
 
-  [class*='large screen most padded margin'] {
+  [class*='most padded margin on large screen'] {
     margin: 49px !important; }
 
-  [class*='large screen no horizontal margin'] {
+  [class*='no horizontal margin on large screen'] {
     margin-left: 0 !important;
     margin-right: 0 !important; }
 
-  [class*='large screen default horizontal margin'] {
+  [class*='default horizontal margin on large screen'] {
     margin-left: 14px !important;
     margin-right: 14px !important; }
 
-  [class*='large screen padded horizontal margin'] {
+  [class*='padded horizontal margin on large screen'] {
     margin-left: 21px !important;
     margin-right: 21px !important; }
 
-  [class*='large screen very padded horizontal margin'] {
+  [class*='very padded horizontal margin on large screen'] {
     margin-left: 28px !important;
     margin-right: 28px !important; }
 
-  [class*='large screen more padded horizontal margin'] {
+  [class*='more padded horizontal margin on large screen'] {
     margin-left: 35px !important;
     margin-right: 35px !important; }
 
-  [class*='large screen extra padded horizontal margin'] {
+  [class*='extra padded horizontal margin on large screen'] {
     margin-left: 42px !important;
     margin-right: 42px !important; }
 
-  [class*='large screen most padded horizontal margin'] {
+  [class*='most padded horizontal margin on large screen'] {
     margin-left: 49px !important;
     margin-right: 49px !important; }
 
-  [class*='large screen no vertical margin'] {
+  [class*='no vertical margin on large screen'] {
     margin-top: 0 !important;
     margin-bottom: 0 !important; }
 
-  [class*='large screen default vertical margin'] {
+  [class*='default vertical margin on large screen'] {
     margin-top: 14px !important;
     margin-bottom: 14px !important; }
 
-  [class*='large screen padded vertical margin'] {
+  [class*='padded vertical margin on large screen'] {
     margin-top: 21px !important;
     margin-bottom: 21px !important; }
 
-  [class*='large screen very padded vertical margin'] {
+  [class*='very padded vertical margin on large screen'] {
     margin-top: 28px !important;
     margin-bottom: 28px !important; }
 
-  [class*='large screen more padded vertical margin'] {
+  [class*='more padded vertical margin on large screen'] {
     margin-top: 35px !important;
     margin-bottom: 35px !important; }
 
-  [class*='large screen extra padded vertical margin'] {
+  [class*='extra padded vertical margin on large screen'] {
     margin-top: 42px !important;
     margin-bottom: 42px !important; }
 
-  [class*='large screen most padded vertical margin'] {
+  [class*='most padded vertical margin on large screen'] {
     margin-top: 49px !important;
     margin-bottom: 49px !important; }
 
-  [class*='large screen no top margin'] {
+  [class*='no top margin on large screen'] {
     margin-top: 0 !important; }
 
-  [class*='large screen default top margin'] {
+  [class*='default top margin on large screen'] {
     margin-top: 14px !important; }
 
-  [class*='large screen padded top margin'] {
+  [class*='padded top margin on large screen'] {
     margin-top: 21px !important; }
 
-  [class*='large screen very padded top margin'] {
+  [class*='very padded top margin on large screen'] {
     margin-top: 28px !important; }
 
-  [class*='large screen more padded top margin'] {
+  [class*='more padded top margin on large screen'] {
     margin-top: 35px !important; }
 
-  [class*='large screen extra padded top margin'] {
+  [class*='extra padded top margin on large screen'] {
     margin-top: 42px !important; }
 
-  [class*='large screen most padded top margin'] {
+  [class*='most padded top margin on large screen'] {
     margin-top: 49px !important; }
 
-  [class*='large screen no right margin'] {
+  [class*='no right margin on large screen'] {
     margin-right: 0 !important; }
 
-  [class*='large screen default right margin'] {
+  [class*='default right margin on large screen'] {
     margin-right: 14px !important; }
 
-  [class*='large screen padded right margin'] {
+  [class*='padded right margin on large screen'] {
     margin-right: 21px !important; }
 
-  [class*='large screen very padded right margin'] {
+  [class*='very padded right margin on large screen'] {
     margin-right: 28px !important; }
 
-  [class*='large screen more padded right margin'] {
+  [class*='more padded right margin on large screen'] {
     margin-right: 35px !important; }
 
-  [class*='large screen extra padded right margin'] {
+  [class*='extra padded right margin on large screen'] {
     margin-right: 42px !important; }
 
-  [class*='large screen most padded top margin'] {
+  [class*='most padded top margin on large screen'] {
     margin-top: 49px !important; }
 
-  [class*='large screen no bottom margin'] {
+  [class*='no bottom margin on large screen'] {
     margin-bottom: 0 !important; }
 
-  [class*='large screen default bottom margin'] {
+  [class*='default bottom margin on large screen'] {
     margin-bottom: 14px !important; }
 
-  [class*='large screen padded bottom margin'] {
+  [class*='padded bottom margin on large screen'] {
     margin-bottom: 21px !important; }
 
-  [class*='large screen very padded bottom margin'] {
+  [class*='very padded bottom margin on large screen'] {
     margin-bottom: 28px !important; }
 
-  [class*='large screen more padded bottom margin'] {
+  [class*='more padded bottom margin on large screen'] {
     margin-bottom: 35px !important; }
 
-  [class*='large screen extra padded bottom margin'] {
+  [class*='extra padded bottom margin on large screen'] {
     margin-bottom: 42px !important; }
 
-  [class*='large screen most padded bottom margin'] {
+  [class*='most padded bottom margin on large screen'] {
     margin-bottom: 49px !important; }
 
-  [class*='large screen no left margin'] {
+  [class*='no left margin on large screen'] {
     margin-left: 0 !important; }
 
-  [class*='large screen default left margin'] {
+  [class*='default left margin on large screen'] {
     margin-left: 14px !important; }
 
-  [class*='large screen padded left margin'] {
+  [class*='padded left margin on large screen'] {
     margin-left: 21px !important; }
 
-  [class*='large screen very padded left margin'] {
+  [class*='very padded left margin on large screen'] {
     margin-left: 28px !important; }
 
-  [class*='large screen more padded left margin'] {
+  [class*='more padded left margin on large screen'] {
     margin-left: 35px !important; }
 
-  [class*='large screen extra padded left margin'] {
+  [class*='extra padded left margin on large screen'] {
     margin-left: 42px !important; }
 
-  [class*='large screen most padded left margin'] {
+  [class*='most padded left margin on large screen'] {
     margin-left: 49px !important; } }
 @media only screen and (min-width: 992px) {
-  [class*='monitor no margin'] {
+  [class*='no margin on monitor'] {
     margin: 0 !important; }
 
-  [class*='monitor default margin'] {
+  [class*='default margin on monitor'] {
     margin: 14px !important; }
 
-  [class*='monitor padded margin'] {
+  [class*='padded margin on monitor'] {
     margin: 21px !important; }
 
-  [class*='monitor very padded margin'] {
+  [class*='very padded margin on monitor'] {
     margin: 28px !important; }
 
-  [class*='monitor more padded margin'] {
+  [class*='more padded margin on monitor'] {
     margin: 35px !important; }
 
-  [class*='monitor extra padded margin'] {
+  [class*='extra padded margin on monitor'] {
     margin: 42px !important; }
 
-  [class*='monitor most padded margin'] {
+  [class*='most padded margin on monitor'] {
     margin: 49px !important; }
 
-  [class*='monitor no horizontal margin'] {
+  [class*='no horizontal margin on monitor'] {
     margin-left: 0 !important;
     margin-right: 0 !important; }
 
-  [class*='monitor default horizontal margin'] {
+  [class*='default horizontal margin on monitor'] {
     margin-left: 14px !important;
     margin-right: 14px !important; }
 
-  [class*='monitor padded horizontal margin'] {
+  [class*='padded horizontal margin on monitor'] {
     margin-left: 21px !important;
     margin-right: 21px !important; }
 
-  [class*='monitor very padded horizontal margin'] {
+  [class*='very padded horizontal margin on monitor'] {
     margin-left: 28px !important;
     margin-right: 28px !important; }
 
-  [class*='monitor more padded horizontal margin'] {
+  [class*='more padded horizontal margin on monitor'] {
     margin-left: 35px !important;
     margin-right: 35px !important; }
 
-  [class*='monitor extra padded horizontal margin'] {
+  [class*='extra padded horizontal margin on monitor'] {
     margin-left: 42px !important;
     margin-right: 42px !important; }
 
-  [class*='monitor most padded horizontal margin'] {
+  [class*='most padded horizontal margin on monitor'] {
     margin-left: 49px !important;
     margin-right: 49px !important; }
 
-  [class*='monitor no vertical margin'] {
+  [class*='no vertical margin on monitor'] {
     margin-top: 0 !important;
     margin-bottom: 0 !important; }
 
-  [class*='monitor default vertical margin'] {
+  [class*='default vertical margin on monitor'] {
     margin-top: 14px !important;
     margin-bottom: 14px !important; }
 
-  [class*='monitor padded vertical margin'] {
+  [class*='padded vertical margin on monitor'] {
     margin-top: 21px !important;
     margin-bottom: 21px !important; }
 
-  [class*='monitor very padded vertical margin'] {
+  [class*='very padded vertical margin on monitor'] {
     margin-top: 28px !important;
     margin-bottom: 28px !important; }
 
-  [class*='monitor more padded vertical margin'] {
+  [class*='more padded vertical margin on monitor'] {
     margin-top: 35px !important;
     margin-bottom: 35px !important; }
 
-  [class*='monitor extra padded vertical margin'] {
+  [class*='extra padded vertical margin on monitor'] {
     margin-top: 42px !important;
     margin-bottom: 42px !important; }
 
-  [class*='monitor most padded vertical margin'] {
+  [class*='most padded vertical margin on monitor'] {
     margin-top: 49px !important;
     margin-bottom: 49px !important; }
 
-  [class*='monitor no top margin'] {
+  [class*='no top margin on monitor'] {
     margin-top: 0 !important; }
 
-  [class*='monitor default top margin'] {
+  [class*='default top margin on monitor'] {
     margin-top: 14px !important; }
 
-  [class*='monitor padded top margin'] {
+  [class*='padded top margin on monitor'] {
     margin-top: 21px !important; }
 
-  [class*='monitor very padded top margin'] {
+  [class*='very padded top margin on monitor'] {
     margin-top: 28px !important; }
 
-  [class*='monitor more padded top margin'] {
+  [class*='more padded top margin on monitor'] {
     margin-top: 35px !important; }
 
-  [class*='monitor extra padded top margin'] {
+  [class*='extra padded top margin on monitor'] {
     margin-top: 42px !important; }
 
-  [class*='monitor most padded top margin'] {
+  [class*='most padded top margin on monitor'] {
     margin-top: 49px !important; }
 
-  [class*='monitor no right margin'] {
+  [class*='no right margin on monitor'] {
     margin-right: 0 !important; }
 
-  [class*='monitor default right margin'] {
+  [class*='default right margin on monitor'] {
     margin-right: 14px !important; }
 
-  [class*='monitor padded right margin'] {
+  [class*='padded right margin on monitor'] {
     margin-right: 21px !important; }
 
-  [class*='monitor very padded right margin'] {
+  [class*='very padded right margin on monitor'] {
     margin-right: 28px !important; }
 
-  [class*='monitor more padded right margin'] {
+  [class*='more padded right margin on monitor'] {
     margin-right: 35px !important; }
 
-  [class*='monitor extra padded right margin'] {
+  [class*='extra padded right margin on monitor'] {
     margin-right: 42px !important; }
 
-  [class*='monitor most padded top margin'] {
+  [class*='most padded top margin on monitor'] {
     margin-top: 49px !important; }
 
-  [class*='monitor no bottom margin'] {
+  [class*='no bottom margin on monitor'] {
     margin-bottom: 0 !important; }
 
-  [class*='monitor default bottom margin'] {
+  [class*='default bottom margin on monitor'] {
     margin-bottom: 14px !important; }
 
-  [class*='monitor padded bottom margin'] {
+  [class*='padded bottom margin on monitor'] {
     margin-bottom: 21px !important; }
 
-  [class*='monitor very padded bottom margin'] {
+  [class*='very padded bottom margin on monitor'] {
     margin-bottom: 28px !important; }
 
-  [class*='monitor more padded bottom margin'] {
+  [class*='more padded bottom margin on monitor'] {
     margin-bottom: 35px !important; }
 
-  [class*='monitor extra padded bottom margin'] {
+  [class*='extra padded bottom margin on monitor'] {
     margin-bottom: 42px !important; }
 
-  [class*='monitor most padded bottom margin'] {
+  [class*='most padded bottom margin on monitor'] {
     margin-bottom: 49px !important; }
 
-  [class*='monitor no left margin'] {
+  [class*='no left margin on monitor'] {
     margin-left: 0 !important; }
 
-  [class*='monitor default left margin'] {
+  [class*='default left margin on monitor'] {
     margin-left: 14px !important; }
 
-  [class*='monitor padded left margin'] {
+  [class*='padded left margin on monitor'] {
     margin-left: 21px !important; }
 
-  [class*='monitor very padded left margin'] {
+  [class*='very padded left margin on monitor'] {
     margin-left: 28px !important; }
 
-  [class*='monitor more padded left margin'] {
+  [class*='more padded left margin on monitor'] {
     margin-left: 35px !important; }
 
-  [class*='monitor extra padded left margin'] {
+  [class*='extra padded left margin on monitor'] {
     margin-left: 42px !important; }
 
-  [class*='monitor most padded left margin'] {
+  [class*='most padded left margin on monitor'] {
     margin-left: 49px !important; } }
 [class*='red text'] {
   color: #DB2828 !important; }

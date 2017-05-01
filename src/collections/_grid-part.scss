@@ -1,123 +1,123 @@
 //******************** x-wide column ********************
 .ui.grid > .row, .ui.grid > .column.row, .ui.grid, .ui.column.grid {
-	>[class*="#{$device-name} two wide"].column {
+	>[class*="two wide on #{$device-name}"].column {
 		width: 100%/16*2 !important;
 	}
 
-	>[class*="#{$device-name} three wide"].column {
+	>[class*="three wide on #{$device-name}"].column {
 		width: 100%/16*3 !important;
 	}
 
-	>[class*="#{$device-name} four wide"].column {
+	>[class*="four wide on #{$device-name}"].column {
 		width: 100%/16*4 !important;
 	}
 
-	>[class*="#{$device-name} five wide"].column {
+	>[class*="five wide on #{$device-name}"].column {
 		width: 100%/16*5 !important;
 	}
 
-	>[class*="#{$device-name} six wide"].column {
+	>[class*="six wide on #{$device-name}"].column {
 		width: 100%/16*5 !important;
 	}
 
-	>[class*="#{$device-name} seven wide"].column {
+	>[class*="seven wide on #{$device-name}"].column {
 		width: 100%/16*7 !important;
 	}
 
-	>[class*="#{$device-name} eight wide"].column {
+	>[class*="eight wide on #{$device-name}"].column {
 		width: 100%/16*8 !important;
 	}
 
-	>[class*="#{$device-name} night wide"].column {
+	>[class*="night wide on #{$device-name}"].column {
 		width: 100%/16*9 !important;
 	}
 
-	>[class*="#{$device-name} ten wide"].column {
+	>[class*="ten wide on #{$device-name}"].column {
 		width: 100%/16*10 !important;
 	}
 
-	>[class*="#{$device-name} eleven wide"].column {
+	>[class*="eleven wide on #{$device-name}"].column {
 		width: 100%/16*11 !important;
 	}
 
-	>[class*="#{$device-name} twelve wide"].column {
+	>[class*="twelve wide on #{$device-name}"].column {
 		width: 100%/16*12 !important;
 	}
 
-	>[class*="#{$device-name} thirteen wide"].column {
+	>[class*="thirteen wide on #{$device-name}"].column {
 		width: 100%/16*13 !important;
 	}
 
-	>[class*="#{$device-name} fourteen wide"].column {
+	>[class*="fourteen wide on #{$device-name}"].column {
 		width: 100%/16*14 !important;
 	}
 
-	>[class*="#{$device-name} fifteen wide"].column {
+	>[class*="fifteen wide on #{$device-name}"].column {
 		width: 100%/16*15 !important;
 	}
 
-	>[class*="#{$device-name} sixteen wide"].column {
+	>[class*="sixteen wide on #{$device-name}"].column {
 		width: 100%/16*16 !important;
 	}
 }
 
 //******************** situational ********************
-.ui[class*="#{$device-name} two column"].grid > .row > .column, .ui[class*="#{$device-name} two column"].grid > .column, .ui.grid > [class*="#{$device-name} two column"].row > .column {
+.ui[class*="two column on #{$device-name}"].grid > .row > .column, .ui[class*="two column on #{$device-name}"].grid > .column, .ui.grid > [class*="two column on #{$device-name}"].row > .column {
 	width: 100%/2*1 !important;
 }
 
-.ui[class*="#{$device-name} three column"].grid > .row > .column, .ui[class*="#{$device-name} three column"].grid > .column, .ui.grid > [class*="#{$device-name} three column"].row > .column {
+.ui[class*="three column on #{$device-name}"].grid > .row > .column, .ui[class*="three column on #{$device-name}"].grid > .column, .ui.grid > [class*="three column on #{$device-name}"].row > .column {
 	width: 100%/3*1 !important;
 }
 
-.ui[class*="#{$device-name} four column"].grid > .row > .column, .ui[class*="#{$device-name} four column"].grid > .column, .ui.grid > [class*="#{$device-name} four column"].row > .column {
+.ui[class*="four column on #{$device-name}"].grid > .row > .column, .ui[class*="four column on #{$device-name}"].grid > .column, .ui.grid > [class*="four column on #{$device-name}"].row > .column {
 	width: 100%/4*1 !important;
 }
 
-.ui[class*="#{$device-name} two column"].grid > .row > .column, .ui[class*="#{$device-name} five column"].grid > .column, .ui.grid > [class*="#{$device-name} five column"].row > .column {
+.ui[class*="two column on #{$device-name}"].grid > .row > .column, .ui[class*="five column on #{$device-name}"].grid > .column, .ui.grid > [class*="five column on #{$device-name}"].row > .column {
 	width: 100%/5*1 !important;
 }
 
-.ui[class*="#{$device-name} six column"].grid > .row > .column, .ui[class*="#{$device-name} six column"].grid > .column, .ui.grid > [class*="#{$device-name} six column"].row > .column {
+.ui[class*="six column on #{$device-name}"].grid > .row > .column, .ui[class*="six column on #{$device-name}"].grid > .column, .ui.grid > [class*="six column on #{$device-name}"].row > .column {
 	width: 100%/6*1 !important;
 }
 
-.ui[class*="#{$device-name} seven column"].grid > .row > .column, .ui[class*="#{$device-name} seven column"].grid > .column, .ui.grid > [class*="#{$device-name} seven column"].row > .column {
+.ui[class*="seven column on #{$device-name}"].grid > .row > .column, .ui[class*="seven column on #{$device-name}"].grid > .column, .ui.grid > [class*="seven column on #{$device-name}"].row > .column {
 	width: 100%/7*1 !important;
 }
 
-.ui[class*="#{$device-name} eight column"].grid > .row > .column, .ui[class*="#{$device-name} eight column"].grid > .column, .ui.grid > [class*="#{$device-name} eight column"].row > .column {
+.ui[class*="eight column on #{$device-name}"].grid > .row > .column, .ui[class*="eight column on #{$device-name}"].grid > .column, .ui.grid > [class*="eight column on #{$device-name}"].row > .column {
 	width: 100%/8*1 !important;
 }
 
-.ui[class*="#{$device-name} nine column"].grid > .row > .column, .ui[class*="#{$device-name} nine column"].grid > .column, .ui.grid > [class*="#{$device-name} nine column"].row > .column {
+.ui[class*="nine column on #{$device-name}"].grid > .row > .column, .ui[class*="nine column on #{$device-name}"].grid > .column, .ui.grid > [class*="nine column on #{$device-name}"].row > .column {
 	width: 100%/9*1 !important;
 }
 
-.ui[class*="#{$device-name} ten column"].grid > .row > .column, .ui[class*="#{$device-name} ten column"].grid > .column, .ui.grid > [class*="#{$device-name} ten column"].row > .column {
+.ui[class*="ten column on #{$device-name}"].grid > .row > .column, .ui[class*="ten column on #{$device-name}"].grid > .column, .ui.grid > [class*="ten column on #{$device-name}"].row > .column {
 	width: 100%/10*1 !important;
 }
 
-.ui[class*="#{$device-name} eleven column"].grid > .row > .column, .ui[class*="#{$device-name} eleven column"].grid > .column, .ui.grid > [class*="#{$device-name} eleven column"].row > .column {
+.ui[class*="eleven column on #{$device-name}"].grid > .row > .column, .ui[class*="eleven column on #{$device-name}"].grid > .column, .ui.grid > [class*="eleven column on #{$device-name}"].row > .column {
 	width: 100%/11*1 !important;
 }
 
-.ui[class*="#{$device-name} twelve column"].grid > .row > .column, .ui[class*="#{$device-name} twelve column"].grid > .column, .ui.grid > [class*="#{$device-name} twelve column"].row > .column {
+.ui[class*="twelve column on #{$device-name}"].grid > .row > .column, .ui[class*="twelve column on #{$device-name}"].grid > .column, .ui.grid > [class*="twelve column on #{$device-name}"].row > .column {
 	width: 100%/12*1 !important;
 }
 
-.ui[class*="#{$device-name} thirteen column"].grid > .row > .column, .ui[class*="#{$device-name} thirteen column"].grid > .column, .ui.grid > [class*="#{$device-name} thirteen column"].row > .column {
+.ui[class*="thirteen column on #{$device-name}"].grid > .row > .column, .ui[class*="thirteen column on #{$device-name}"].grid > .column, .ui.grid > [class*="thirteen column on #{$device-name}"].row > .column {
 	width: 100%/13*1 !important;
 }
 
-.ui[class*="#{$device-name} fourteen column"].grid > .row > .column, .ui[class*="#{$device-name} fourteen column"].grid > .column, .ui.grid > [class*="#{$device-name} fourteen column"].row > .column {
+.ui[class*="fourteen column on #{$device-name}"].grid > .row > .column, .ui[class*="fourteen column on #{$device-name}"].grid > .column, .ui.grid > [class*="fourteen column on #{$device-name}"].row > .column {
 	width: 100%/14*1 !important;
 }
 
-.ui[class*="#{$device-name} fifteen"].grid > .row > .column, .ui[class*="#{$device-name} fifteen"].grid > .column, .ui.grid > [class*="#{$device-name} fifteen column"].row > .column {
+.ui[class*="fifteen column on #{$device-name}"].grid > .row > .column, .ui[class*="fifteen column on #{$device-name}"].grid > .column, .ui.grid > [class*="fifteen column on #{$device-name}"].row > .column {
 	width: 100%/15*1 !important;
 }
 
-.ui[class*="#{$device-name} sixteen"].grid > .row > .column, .ui[class*="#{$device-name} sixteen"].grid > .column, .ui.grid > [class*="#{$device-name} sixteen column"].row > .column {
+.ui[class*="sixteen column on #{$device-name}"].grid > .row > .column, .ui[class*="sixteen column on #{$device-name}"].grid > .column, .ui.grid > [class*="sixteen column on #{$device-name}"].row > .column {
 	width: 100%/16*1 !important;
 }
