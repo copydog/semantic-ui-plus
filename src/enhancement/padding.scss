@@ -1,3 +1,76 @@
+//******************** px/vh padding(none-situational) ********************
+$i: 0;
+@while($i <= 200) {
+	[class*='#{$i}px padding'] {
+		padding: $i * 1px;
+	}
+
+	[class*='#{$i}px top padding'] {
+		padding-top: $i * 1px;
+	}
+
+	[class*='#{$i}px right padding'] {
+		padding-right: $i * 1px;
+	}
+
+	[class*='#{$i}px left padding'] {
+		padding-left: $i * 1px;
+	}
+
+	[class*='#{$i}px bottom padding'] {
+		padding-bottom: $i * 1px;
+	}
+	$i: $i+2;
+}
+
+$i: 0;
+@while($i <= 100) {
+	[class*='#{$i}vh padding'] {
+		padding: $i * 1vh;
+	}
+
+	[class*='#{$i}vh top padding'] {
+		padding-top: $i * 1vh;
+	}
+
+	[class*='#{$i}vh right padding'] {
+		padding-right: $i * 1vh;
+	}
+
+	[class*='#{$i}vh left padding'] {
+		padding-left: $i * 1vh;
+	}
+
+	[class*='#{$i}vh bottom padding'] {
+		padding-bottom: $i * 1vh;
+	}
+	$i: $i+5;
+}
+
+$i: 0;
+@while($i <= 100) {
+	[class*='#{$i}vm padding'] {
+		padding: $i * 1vm;
+	}
+
+	[class*='#{$i}vm top padding'] {
+		padding-top: $i * 1vm;
+	}
+
+	[class*='#{$i}vm right padding'] {
+		padding-right: $i * 1vm;
+	}
+
+	[class*='#{$i}vm left padding'] {
+		padding-left: $i * 1vm;
+	}
+
+	[class*='#{$i}vm bottom padding'] {
+		padding-bottom: $i * 1vm;
+	}
+	$i: $i+5;
+}
+
 //******************** all-way direction padding ********************
 // basic
 [class*='no padding']:not(.mobile):not(.tablet):not(.monitor):not(.screen):not(.portable) {
