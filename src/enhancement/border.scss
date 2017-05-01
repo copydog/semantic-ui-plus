@@ -12,7 +12,7 @@
 $i: 0;
 @while($i <= 20) {
 	[class*='1px wide'].border {
-		border-width: $i * 1px;
+		border-width: $i * 1px !important;
 	}
 	$i: $i+1;
 }
@@ -61,30 +61,30 @@ $color-css: 'border-color';
 //******************** border radius ********************
 // readable
 [class*='no radius border'] {
-	-webkit-border-radius: 0;
-	-moz-border-radius: 0;
-	border-radius: 0;
+	-webkit-border-radius: 0 !important;
+	-moz-border-radius: 0 !important;
+	border-radius: 0 !important;
 }
 
 [class*='round corner'].border {
-	-webkit-border-radius: 50%;
-	-moz-border-radius: 50%;
-	border-radius: 50%;
+	-webkit-border-radius: 50% !important;
+	-moz-border-radius: 50% !important;
+	border-radius: 50% !important;
 }
 
 [class*='circle shape'] {
-	-webkit-border-radius: 50%;
-	-moz-border-radius: 50%;
-	border-radius: 50%;
+	-webkit-border-radius: 50% !important;
+	-moz-border-radius: 50% !important;
+	border-radius: 50% !important;
 }
 
 // px
 $i: 0;
 @while($i <= 100) {
 	[class*='#{$i}px radius border'] {
-		-webkit-border-radius: $i * 1px;
-		-moz-border-radius: $i * 1px;
-		border-radius: $i * 1px;
+		-webkit-border-radius: $i * 1px !important;
+		-moz-border-radius: $i * 1px !important;
+		border-radius: $i * 1px !important;
 	}
 	$i: $i+1;
 }
