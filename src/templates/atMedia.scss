@@ -1,0 +1,30 @@
+@import "../includes/sizing";
+// mobile
+@media only screen and (max-width: $mobileWidth) {
+
+}
+
+// tablet
+@media only screen and (min-width: $mobileWidth + 1) and (max-width: $tabletWidth) {
+
+}
+
+// mobile & tablet
+@media only screen and (max-width: $tabletWidth) {
+
+}
+
+// small monitor
+@media only screen and (min-width: $tabletWidth + 1) and (max-width: $computerWidth) {
+
+}
+
+// large monitor
+@media only screen and (min-width: $computerWidth + 1) {
+
+}
+
+// desktop (small + large monitor)
+@media only screen and (min-width: $tabletWidth + 1) {
+
+}
