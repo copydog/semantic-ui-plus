@@ -1012,15 +1012,39 @@
   [class*='mobile no padding'] {
     padding: 0 !important; }
 
+  [class*='mobile default padding'] {
+    padding: 14px !important; }
+
+  [class*='mobile padded padding'] {
+    padding: 21px !important; }
+
+  [class*='mobile very padded padding'] {
+    padding: 28px !important; }
+
+  [class*='mobile more padded padding'] {
+    padding: 35px !important; }
+
+  [class*='mobile extra padded padding'] {
+    padding: 42px !important; }
+
+  [class*='mobile most padded padding'] {
+    padding: 49px !important; }
+
   [class*='none monitor no padding'] {
     padding: 0 !important; } }
-@media only screen and (min-width: 769px) and (min-width: 991px) {
+@media only screen and (min-width: 769px) and (max-width: 991px) {
   [class*='tablet no padding'] {
     padding: 0 !important; }
 
   [class*='none monitor no padding'] {
     padding: 0 !important; } }
-@media only screen and (min-width: 992px) and (min-width: 1200px) {
+@media only screen and (min-width: 769px) and (max-width: 991px) {
+  [class*='tablet no padding'] {
+    padding: 0 !important; }
+
+  [class*='none monitor no padding'] {
+    padding: 0 !important; } }
+@media only screen and (min-width: 992px) and (max-width: 1200px) {
   [class*='small monitor no padding'] {
     padding: 0 !important; } }
 @media only screen and (min-width: 1201px) {

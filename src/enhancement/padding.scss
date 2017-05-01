@@ -27,10 +27,35 @@
 	padding: 3.5 * $emSize !important;
 }
 
-// situational
+//******************** situational ********************
+// mobile
 @media only screen and (max-width: $mobileWidth) {
 	[class*='mobile no padding'] {
 		padding: 0 !important;
+	}
+
+	[class*='mobile default padding'] {
+		padding: $emSize !important;
+	}
+
+	[class*='mobile padded padding'] {
+		padding: 1.5 * $emSize !important;
+	}
+
+	[class*='mobile very padded padding'] {
+		padding: 2 * $emSize !important;
+	}
+
+	[class*='mobile more padded padding'] {
+		padding: 2.5 * $emSize !important;
+	}
+
+	[class*='mobile extra padded padding'] {
+		padding: 3 * $emSize !important;
+	}
+
+	[class*='mobile most padded padding'] {
+		padding: 3.5 * $emSize !important;
 	}
 	
 	[class*='none monitor no padding'] {
@@ -38,7 +63,8 @@
 	}
 }
 
-@media only screen and (min-width: $mobileWidth + 1) and (min-width: $tabletWidth) {
+// tablet
+@media only screen and (min-width: $mobileWidth + 1) and (max-width: $tabletWidth) {
 	[class*='tablet no padding'] {
 		padding: 0 !important;
 	}
@@ -48,7 +74,18 @@
 	}
 }
 
-@media only screen and (min-width: $tabletWidth + 1) and (min-width: $computerWidth) {
+// mobile & tablet
+@media only screen and (min-width: $mobileWidth + 1) and (max-width: $tabletWidth) {
+	[class*='tablet no padding'] {
+		padding: 0 !important;
+	}
+
+	[class*='none monitor no padding'] {
+		padding: 0 !important;
+	}
+}
+
+@media only screen and (min-width: $tabletWidth + 1) and (max-width: $computerWidth) {
 	[class*='small monitor no padding'] {
 		padding: 0 !important;
 	}
