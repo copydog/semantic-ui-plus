@@ -10339,6 +10339,69 @@
 [class*='100% height'] {
   height: 100% !important; }
 
+[class*='0vh height'] {
+  height: 0vh; }
+
+[class*='5vh height'] {
+  height: 5vh; }
+
+[class*='10vh height'] {
+  height: 10vh; }
+
+[class*='15vh height'] {
+  height: 15vh; }
+
+[class*='20vh height'] {
+  height: 20vh; }
+
+[class*='25vh height'] {
+  height: 25vh; }
+
+[class*='30vh height'] {
+  height: 30vh; }
+
+[class*='35vh height'] {
+  height: 35vh; }
+
+[class*='40vh height'] {
+  height: 40vh; }
+
+[class*='45vh height'] {
+  height: 45vh; }
+
+[class*='50vh height'] {
+  height: 50vh; }
+
+[class*='55vh height'] {
+  height: 55vh; }
+
+[class*='60vh height'] {
+  height: 60vh; }
+
+[class*='65vh height'] {
+  height: 65vh; }
+
+[class*='70vh height'] {
+  height: 70vh; }
+
+[class*='75vh height'] {
+  height: 75vh; }
+
+[class*='80vh height'] {
+  height: 80vh; }
+
+[class*='85vh height'] {
+  height: 85vh; }
+
+[class*='90vh height'] {
+  height: 90vh; }
+
+[class*='95vh height'] {
+  height: 95vh; }
+
+[class*='100vh height'] {
+  height: 100vh; }
+
 [class*='0px width'] {
   width: 0px !important; }
 

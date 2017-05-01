@@ -14,6 +14,23 @@ $i: 0;
 	}
 	$i: $i+1;
 }
+
+$i: 0;
+
+@while($i <= 100) {
+	[class*='#{$i}vh height'] {
+		height: $i * 1vh;
+	}
+	$i: $i+5;
+}
+
+@while($i <= 100) {
+	[class*='#{$i}vw height'] {
+		height: $i * 1vw;
+	}
+	$i: $i+5;
+}
+
 //******************** width ********************
 $i: 0;
 @while($i <= 500) {
@@ -30,6 +47,21 @@ $i: 0;
 	}
 	$i: $i+1;
 }
+
+@while($i <= 100) {
+	[class*='#{$i}vh width'] {
+		width: $i * 1vh;
+	}
+	$i: $i+5;
+}
+
+@while($i <= 100) {
+	[class*='#{$i}vw width'] {
+		width: $i * 1vw;
+	}
+	$i: $i+5;
+}
+
 //******************** line height ********************
 $i: 0;
 @while($i <= 500) {
@@ -45,4 +77,18 @@ $i: 0;
 		line-height: $i * 1% !important;
 	}
 	$i: $i+1;
+}
+
+@while($i <= 100) {
+	[class*='#{$i}vh height'] {
+		height: $i * 1vh;
+	}
+	$i: $i+5;
+}
+
+@while($i <= 100) {
+	[class*='#{$i}vw line height'] {
+		line-height: $i * 1vw;
+	}
+	$i: $i+5;
 }
