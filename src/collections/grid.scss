@@ -1,62 +1,62 @@
 //******************** overwrite x-wide column ********************
 .ui.grid > .row, .ui.grid > .column.row, .ui.grid, .ui.column.grid {
-	>[class*='two wide column'].column {
+	> [class*='two wide column'].column {
 		width: 100%/16*2 !important;
 	}
 
-	>[class*='three wide column'].column {
+	> [class*='three wide column'].column {
 		width: 100%/16*3 !important;
 	}
 
-	>[class*='four wide column'].column {
+	> [class*='four wide column'].column {
 		width: 100%/16*4 !important;
 	}
 
-	>[class*='five wide column'].column {
+	> [class*='five wide column'].column {
 		width: 100%/16*5 !important;
 	}
 
-	>[class*='six wide column'].column {
+	> [class*='six wide column'].column {
 		width: 100%/16*5 !important;
 	}
 
-	>[class*='seven wide column'].column {
+	> [class*='seven wide column'].column {
 		width: 100%/16*7 !important;
 	}
 
-	>[class*='eight wide column'].column {
+	> [class*='eight wide column'].column {
 		width: 100%/16*8 !important;
 	}
 
-	>[class*='night wide column'].column {
+	> [class*='night wide column'].column {
 		width: 100%/16*9 !important;
 	}
 
-	>[class*='ten wide column'].column {
+	> [class*='ten wide column'].column {
 		width: 100%/16*10 !important;
 	}
 
-	>[class*='eleven wide column'].column {
+	> [class*='eleven wide column'].column {
 		width: 100%/16*11 !important;
 	}
 
-	>[class*='twelve wide column'].column {
+	> [class*='twelve wide column'].column {
 		width: 100%/16*12 !important;
 	}
 
-	>[class*='thirteen wide column'].column {
+	> [class*='thirteen wide column'].column {
 		width: 100%/16*13 !important;
 	}
 
-	>[class*='fourteen wide column'].column {
+	> [class*='fourteen wide column'].column {
 		width: 100%/16*14 !important;
 	}
 
-	>[class*='fifteen wide column'].column {
+	> [class*='fifteen wide column'].column {
 		width: 100%/16*15 !important;
 	}
 
-	>[class*='sixteen wide column'].column {
+	> [class*='sixteen wide column'].column {
 		width: 100%/16*16 !important;
 	}
 }
@@ -139,12 +139,21 @@
 @media only screen and (min-width: $mobileWidth + 1) and (max-width: $tabletWidth) {
 	$device-name: 'tablet';
 	@import "grid-part";
+
+	// tablet stackable
+	.ui[class*='tablet stackable'].grid > .row > .wide.column, .ui[class*='tablet stackable'].grid > .wide.column, .ui[class*='tablet stackable'].grid > .column.grid > .column, .ui[class*='tablet stackable'].grid > .column.row > .column, .ui[class*='tablet stackable'].grid > .row > .column, .ui[class*='tablet stackable'].grid > .column:not(.row), .ui.grid > [class*='tablet stackable'][class*='tablet stackable'].row > .column {
+		width: 100% !important;
+		margin: 0 0 !important;
+		box-shadow: none !important;
+		padding: $emSize $emSize !important;
+	}
 }
 
 // portable (mobile & tablet)
 @media only screen and (max-width: $tabletWidth) {
 	$device-name: 'portable';
 	@import "grid-part";
+
 }
 
 // small screen

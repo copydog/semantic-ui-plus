@@ -240,7 +240,13 @@
     width: 6.66667% !important; }
 
   .ui[class*="tablet sixteen"].grid > .row > .column, .ui[class*="tablet sixteen"].grid > .column, .ui.grid > [class*="tablet sixteen column"].row > .column {
-    width: 6.25% !important; } }
+    width: 6.25% !important; }
+
+  .ui[class*='tablet stackable'].grid > .row > .wide.column, .ui[class*='tablet stackable'].grid > .wide.column, .ui[class*='tablet stackable'].grid > .column.grid > .column, .ui[class*='tablet stackable'].grid > .column.row > .column, .ui[class*='tablet stackable'].grid > .row > .column, .ui[class*='tablet stackable'].grid > .column:not(.row), .ui.grid > [class*='tablet stackable'][class*='tablet stackable'].row > .column {
+    width: 100% !important;
+    margin: 0 0 !important;
+    box-shadow: none !important;
+    padding: 14px 14px !important; } }
 @media only screen and (max-width: 991px) {
   .ui.grid > .row > [class*="portable two wide"].column, .ui.grid > .column.row > [class*="portable two wide"].column, .ui.grid > [class*="portable two wide"].column, .ui.column.grid > [class*="portable two wide"].column {
     width: 12.5% !important; }
