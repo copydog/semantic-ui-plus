@@ -4,27 +4,27 @@
 }
 
 [class*='default padding']:not(.mobile):not(.tablet):not(.monitor) {
-    
+	padding: $emSize !important;
 }
 
 [class*='padded padding']:not(.mobile):not(.tablet):not(.monitor) {
-    
+	padding: 1.5 * $emSize !important;
 }
 
 [class*='very padded padding']:not(.mobile):not(.tablet):not(.monitor) {
-    
+	padding: 2 * $emSize !important;
 }
 
 [class*='more padded padding']:not(.mobile):not(.tablet):not(.monitor) {
-    
+	padding: 2.5 * $emSize !important;
 }
 
 [class*='extra padded padding']:not(.mobile):not(.tablet):not(.monitor) {
-    
+	padding: 3 * $emSize !important;
 }
 
 [class*='most padded padding']:not(.mobile):not(.tablet):not(.monitor) {
-    
+	padding: 3.5 * $emSize !important;
 }
 
 // situational

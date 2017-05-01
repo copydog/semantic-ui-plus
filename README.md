@@ -9,3 +9,6 @@ supper enhancement for semantic ui
 - Padding and Margin require ie9
 - Other require ie8
 - Considering make all component support ie8
+
+## Design
+- all attribute selector([class*='']) are using **!important**
