@@ -31,6 +31,39 @@ $i: 0;
 	$i: $i+5;
 }
 
+//******************** min height ********************
+$i: 0;
+@while($i <= 500) {
+	[class*='#{$i}px min height'] {
+		min-height: $i * 1px !important;
+	}
+	$i: $i+5;
+}
+
+$i: 0;
+@while($i <= 100) {
+	[class*='#{$i}% min height'] {
+		min-height: $i * 1% !important;
+	}
+	$i: $i+1;
+}
+
+$i: 0;
+
+@while($i <= 100) {
+	[class*='#{$i}vh min height'] {
+		min-height: $i * 1vh;
+	}
+	$i: $i+5;
+}
+
+@while($i <= 100) {
+	[class*='#{$i}vw min height'] {
+		min-height: $i * 1vw;
+	}
+	$i: $i+5;
+}
+
 //******************** width ********************
 $i: 0;
 @while($i <= 500) {
@@ -58,6 +91,37 @@ $i: 0;
 @while($i <= 100) {
 	[class*='#{$i}vw width'] {
 		width: $i * 1vw;
+	}
+	$i: $i+5;
+}
+
+//******************** min width ********************
+$i: 0;
+@while($i <= 500) {
+	[class*='#{$i}px min width'] {
+		min-width: $i * 1px !important;
+	}
+	$i: $i+5;
+}
+
+$i: 0;
+@while($i <= 100) {
+	[class*='#{$i}% min width'] {
+		min-width: $i * 1% !important;
+	}
+	$i: $i+1;
+}
+
+@while($i <= 100) {
+	[class*='#{$i}vh min width'] {
+		min-width: $i * 1vh;
+	}
+	$i: $i+5;
+}
+
+@while($i <= 100) {
+	[class*='#{$i}vw min width'] {
+		min-width: $i * 1vw;
 	}
 	$i: $i+5;
 }
