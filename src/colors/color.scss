@@ -18,3 +18,7 @@
 [class*='black #{$color-name}'] {
 	#{$color-css}: $black;
 }
+
+[class*='white #{$color-name}'] {
+	#{$color-css}: $white;
+}

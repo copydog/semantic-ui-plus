@@ -972,6 +972,9 @@
 [class*='black background'] {
   background-color: #1B1C1D !important; }
 
+[class*='white background'] {
+  background-color: #ffffff !important; }
+
 [class*='red text'] {
   color: #DB2828 !important; }
 
@@ -1376,6 +1379,9 @@
 
 [class*='black text'] {
   color: #1B1C1D !important; }
+
+[class*='white text'] {
+  color: #ffffff !important; }
 
 .text.normal {
   font-weight: normal;
@@ -2266,6 +2272,9 @@
 
 [class*='black border'] {
   border-color: #1B1C1D !important; }
+
+[class*='white border'] {
+  border-color: #ffffff !important; }
 
 .border.dotted {
   border-style: dotted; }

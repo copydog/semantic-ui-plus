@@ -1,7 +1,7 @@
-# Semantic ui plus
+# Semantic ui plus v0.2.0
 supper enhancement for semantic ui
 
-## Goal
+## 目标
 - No Css Writing at all
 - Semantic
 
@@ -15,13 +15,21 @@ supper enhancement for semantic ui
 ## Design
 - all attribute selector([class*='']) are using **!important**
 
+## Developing
+
+
 ## Todo
+- change padding/margin padded distance
+- hover
 - animation
 
 ## Considering
 - color divider
 - border radius direction
 - border direction
+
+## Delayed / Partial Finished
+- divider
 
 ## Finished
 - background
@@ -35,8 +43,5 @@ supper enhancement for semantic ui
 - border
 - border radius
 
-## Developing
-- divider
-
-## Need Fallback
+## Need Javascript Fallback
 - padding/margin (ie8)
