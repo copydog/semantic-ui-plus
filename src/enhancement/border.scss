@@ -1,7 +1,8 @@
 //******************** default setting ********************
 .border {
 	border-style: solid;
-	border: 1px $grey;
+	border-width: 1px;
+	border-color: #767676;
 }
 
 //******************** width ********************
@@ -11,8 +12,24 @@
 
 $i: 0;
 @while($i <= 20) {
-	[class*='1px wide'].border {
+	[class*='#{$i}px wide'].border {
 		border-width: $i * 1px !important;
+	}
+
+	[class*='#{$i}px top wide'].border {
+		border-top-width: $i * 1px !important;
+	}
+
+	[class*='#{$i}px right wide'].border {
+		border-right-width: $i * 1px !important;
+	}
+
+	[class*='#{$i}px bottom wide'].border {
+		border-bottom-width: $i * 1px !important;
+	}
+
+	[class*='#{$i}px left wide'].border {
+		border-left-width: $i * 1px !important;
 	}
 	$i: $i+1;
 }
