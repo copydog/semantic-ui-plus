@@ -25,3 +25,32 @@
 [class*='cursor inherit'] {
 	cursor: inherit !important;
 }
+
+// new
+[class*='pointer cursor'] {
+	cursor: pointer !important;
+}
+
+[class*='auto cursor'] {
+	cursor: auto !important;
+}
+
+[class*='no cursor'] {
+	cursor: none !important;
+}
+
+[class*='default cursor'] {
+	cursor: default !important;
+}
+
+[class*='text cursor'] {
+	cursor: text !important;
+}
+
+[class*='not allowed cursor'] {
+	cursor: not-allowed !important;
+}
+
+[class*='inherit cursor'] {
+	cursor: inherit !important;
+}
