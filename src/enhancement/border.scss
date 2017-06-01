@@ -10,6 +10,10 @@
 	border-width: 0 !important;
 }
 
+[class*='no box shadow'] {
+	box-shadow: none !important;
+}
+
 $i: 0;
 @while($i <= 20) {
 	[class*='#{$i}px wide'].border {

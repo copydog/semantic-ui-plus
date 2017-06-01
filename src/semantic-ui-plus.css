@@ -1827,6 +1827,9 @@
 [class*='no border'] {
   border-width: 0 !important; }
 
+[class*='no box shadow'] {
+  box-shadow: none !important; }
+
 [class*='0px wide'].border {
   border-width: 0px !important; }
 
@@ -3087,67 +3090,67 @@
   -moz-border-radius: 100px !important;
   border-radius: 100px !important; }
 
-[class*='zero percent opacity'] {
+[class*='0% opacity'] {
   opacity: 0 !important; }
 
-[class*='five percent opacity'] {
+[class*='5% opacity'] {
   opacity: .05 !important; }
 
-[class*='ten percent opacity'] {
+[class*='10% opacity'] {
   opacity: .1 !important; }
 
-[class*='fifteen percent opacity'] {
+[class*='15% opacity'] {
   opacity: .15 !important; }
 
-[class*='tweenty percent opacity'] {
+[class*='20% opacity'] {
   opacity: .2 !important; }
 
-[class*='tweenty five percent opacity'] {
+[class*='25% opacity'] {
   opacity: .25 !important; }
 
-[class*='thirty percent opacity'] {
+[class*='30% opacity'] {
   opacity: .3 !important; }
 
-[class*='thirty five percent opacity'] {
+[class*='35% opacity'] {
   opacity: .35 !important; }
 
-[class*='forty percent opacity'] {
+[class*='40% opacity'] {
   opacity: .4 !important; }
 
-[class*='forty five percent opacity'] {
+[class*='45% opacity'] {
   opacity: .45 !important; }
 
-[class*='fifty percent opacity'] {
+[class*='50% opacity'] {
   opacity: .5 !important; }
 
-[class*='fifty five percent opacity'] {
+[class*='55% opacity'] {
   opacity: .55 !important; }
 
-[class*='sixty percent opacity'] {
+[class*='60% opacity'] {
   opacity: .6 !important; }
 
-[class*='sixty five percent opacity'] {
+[class*='65% opacity'] {
   opacity: .65 !important; }
 
-[class*='seventy percent opacity'] {
+[class*='70% opacity'] {
   opacity: .7 !important; }
 
-[class*='seventy five percent opacity'] {
+[class*='75% opacity'] {
   opacity: .75 !important; }
 
-[class*='eighty percent opacity'] {
+[class*='80% opacity'] {
   opacity: .8 !important; }
 
-[class*='eighty five percent opacity'] {
+[class*='85% opacity'] {
   opacity: .85 !important; }
 
-[class*='ninety percent opacity'] {
+[class*='90% opacity'] {
   opacity: .9 !important; }
 
-[class*='ninety five percent opacity'] {
+[class*='95% opacity'] {
   opacity: .95 !important; }
 
-[class*='hundred percent opacity'] {
+[class*='100% opacity'] {
   opacity: 1 !important; }
 
 [class*='0px padding'] {
