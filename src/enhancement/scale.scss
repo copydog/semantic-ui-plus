@@ -151,7 +151,7 @@ $i: 0;
 $i: 0;
 @while($i <= 100) {
 	[class*='#{$i}vh line height'] {
-		height: $i * 1vh;
+		line-height: $i * 1vh;
 	}
 	$i: $i+5;
 }
