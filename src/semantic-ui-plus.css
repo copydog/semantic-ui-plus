@@ -10453,16 +10453,16 @@
   padding: 21px !important; }
 
 [class*='very padded padding']:not(.mobile):not(.tablet):not(.monitor):not(.screen):not(.portable) {
-  padding: 28px !important; }
-
-[class*='more padded padding']:not(.mobile):not(.tablet):not(.monitor):not(.screen):not(.portable) {
   padding: 35px !important; }
 
+[class*='more padded padding']:not(.mobile):not(.tablet):not(.monitor):not(.screen):not(.portable) {
+  padding: 49px !important; }
+
 [class*='extra padded padding']:not(.mobile):not(.tablet):not(.monitor):not(.screen):not(.portable) {
-  padding: 42px !important; }
+  padding: 63px !important; }
 
 [class*='most padded padding']:not(.mobile):not(.tablet):not(.monitor):not(.screen):not(.portable) {
-  padding: 49px !important; }
+  padding: 84px !important; }
 
 [class*='no horizontal padding']:not(.mobile):not(.tablet):not(.monitor):not(.screen):not(.portable) {
   padding-left: 0 !important;
@@ -10477,20 +10477,20 @@
   padding-right: 21px !important; }
 
 [class*='very padded horizontal padding']:not(.mobile):not(.tablet):not(.monitor):not(.screen):not(.portable) {
-  padding-left: 28px !important;
-  padding-right: 28px !important; }
-
-[class*='more padded horizontal padding']:not(.mobile):not(.tablet):not(.monitor):not(.screen):not(.portable) {
   padding-left: 35px !important;
   padding-right: 35px !important; }
 
-[class*='extra padded horizontal padding']:not(.mobile):not(.tablet):not(.monitor):not(.screen):not(.portable) {
-  padding-left: 42px !important;
-  padding-right: 42px !important; }
-
-[class*='most padded horizontal padding']:not(.mobile):not(.tablet):not(.monitor):not(.screen):not(.portable) {
+[class*='more padded horizontal padding']:not(.mobile):not(.tablet):not(.monitor):not(.screen):not(.portable) {
   padding-left: 49px !important;
   padding-right: 49px !important; }
+
+[class*='extra padded horizontal padding']:not(.mobile):not(.tablet):not(.monitor):not(.screen):not(.portable) {
+  padding-left: 63px !important;
+  padding-right: 63px !important; }
+
+[class*='most padded horizontal padding']:not(.mobile):not(.tablet):not(.monitor):not(.screen):not(.portable) {
+  padding-left: 84px !important;
+  padding-right: 84px !important; }
 
 [class*='no vertical padding']:not(.mobile):not(.tablet):not(.monitor):not(.screen):not(.portable) {
   padding-top: 0 !important;
@@ -10505,20 +10505,20 @@
   padding-bottom: 21px !important; }
 
 [class*='very padded vertical padding']:not(.mobile):not(.tablet):not(.monitor):not(.screen):not(.portable) {
-  padding-top: 28px !important;
-  padding-bottom: 28px !important; }
-
-[class*='more padded vertical padding']:not(.mobile):not(.tablet):not(.monitor):not(.screen):not(.portable) {
   padding-top: 35px !important;
   padding-bottom: 35px !important; }
 
-[class*='extra padded vertical padding']:not(.mobile):not(.tablet):not(.monitor):not(.screen):not(.portable) {
-  padding-top: 42px !important;
-  padding-bottom: 42px !important; }
-
-[class*='most padded vertical padding']:not(.mobile):not(.tablet):not(.monitor):not(.screen):not(.portable) {
+[class*='more padded vertical padding']:not(.mobile):not(.tablet):not(.monitor):not(.screen):not(.portable) {
   padding-top: 49px !important;
   padding-bottom: 49px !important; }
+
+[class*='extra padded vertical padding']:not(.mobile):not(.tablet):not(.monitor):not(.screen):not(.portable) {
+  padding-top: 63px !important;
+  padding-bottom: 63px !important; }
+
+[class*='most padded vertical padding']:not(.mobile):not(.tablet):not(.monitor):not(.screen):not(.portable) {
+  padding-top: 84px !important;
+  padding-bottom: 84px !important; }
 
 [class*='no top padding']:not(.mobile):not(.tablet):not(.monitor):not(.screen):not(.portable) {
   padding-top: 0 !important; }
@@ -10530,16 +10530,16 @@
   padding-top: 21px !important; }
 
 [class*='very padded top padding']:not(.mobile):not(.tablet):not(.monitor):not(.screen):not(.portable) {
-  padding-top: 28px !important; }
-
-[class*='more padded top padding']:not(.mobile):not(.tablet):not(.monitor):not(.screen):not(.portable) {
   padding-top: 35px !important; }
 
+[class*='more padded top padding']:not(.mobile):not(.tablet):not(.monitor):not(.screen):not(.portable) {
+  padding-top: 49px !important; }
+
 [class*='extra padded top padding']:not(.mobile):not(.tablet):not(.monitor):not(.screen):not(.portable) {
-  padding-top: 42px !important; }
+  padding-top: 63px !important; }
 
 [class*='most padded top padding']:not(.mobile):not(.tablet):not(.monitor):not(.screen):not(.portable) {
-  padding-top: 49px !important; }
+  padding-top: 84px !important; }
 
 [class*='no right padding']:not(.mobile):not(.tablet):not(.monitor):not(.screen):not(.portable) {
   padding-right: 0 !important; }
@@ -10551,16 +10551,16 @@
   padding-right: 21px !important; }
 
 [class*='very padded right padding']:not(.mobile):not(.tablet):not(.monitor):not(.screen):not(.portable) {
-  padding-right: 28px !important; }
-
-[class*='more padded right padding']:not(.mobile):not(.tablet):not(.monitor):not(.screen):not(.portable) {
   padding-right: 35px !important; }
 
+[class*='more padded right padding']:not(.mobile):not(.tablet):not(.monitor):not(.screen):not(.portable) {
+  padding-right: 49px !important; }
+
 [class*='extra padded right padding']:not(.mobile):not(.tablet):not(.monitor):not(.screen):not(.portable) {
-  padding-right: 42px !important; }
+  padding-right: 63px !important; }
 
 [class*='most padded top padding']:not(.mobile):not(.tablet):not(.monitor):not(.screen):not(.portable) {
-  padding-top: 49px !important; }
+  padding-top: 84px !important; }
 
 [class*='no bottom padding']:not(.mobile):not(.tablet):not(.monitor):not(.screen):not(.portable) {
   padding-bottom: 0 !important; }
@@ -10572,16 +10572,16 @@
   padding-bottom: 21px !important; }
 
 [class*='very padded bottom padding']:not(.mobile):not(.tablet):not(.monitor):not(.screen):not(.portable) {
-  padding-bottom: 28px !important; }
-
-[class*='more padded bottom padding']:not(.mobile):not(.tablet):not(.monitor):not(.screen):not(.portable) {
   padding-bottom: 35px !important; }
 
+[class*='more padded bottom padding']:not(.mobile):not(.tablet):not(.monitor):not(.screen):not(.portable) {
+  padding-bottom: 49px !important; }
+
 [class*='extra padded bottom padding']:not(.mobile):not(.tablet):not(.monitor):not(.screen):not(.portable) {
-  padding-bottom: 42px !important; }
+  padding-bottom: 63px !important; }
 
 [class*='most padded bottom padding']:not(.mobile):not(.tablet):not(.monitor):not(.screen):not(.portable) {
-  padding-bottom: 49px !important; }
+  padding-bottom: 84px !important; }
 
 [class*='no left padding']:not(.mobile):not(.tablet):not(.monitor):not(.screen):not(.portable) {
   padding-left: 0 !important; }
@@ -10593,16 +10593,16 @@
   padding-left: 21px !important; }
 
 [class*='very padded left padding']:not(.mobile):not(.tablet):not(.monitor):not(.screen):not(.portable) {
-  padding-left: 28px !important; }
-
-[class*='more padded left padding']:not(.mobile):not(.tablet):not(.monitor):not(.screen):not(.portable) {
   padding-left: 35px !important; }
 
+[class*='more padded left padding']:not(.mobile):not(.tablet):not(.monitor):not(.screen):not(.portable) {
+  padding-left: 49px !important; }
+
 [class*='extra padded left padding']:not(.mobile):not(.tablet):not(.monitor):not(.screen):not(.portable) {
-  padding-left: 42px !important; }
+  padding-left: 63px !important; }
 
 [class*='most padded left padding']:not(.mobile):not(.tablet):not(.monitor):not(.screen):not(.portable) {
-  padding-left: 49px !important; }
+  padding-left: 84px !important; }
 
 [class*='no padding as default'] {
   padding: 0 !important; }
@@ -19031,16 +19031,16 @@
   margin: 21px !important; }
 
 [class*='very padded margin']:not(.mobile):not(.tablet):not(.monitor):not(.screen):not(.portable) {
-  margin: 28px !important; }
-
-[class*='more padded margin']:not(.mobile):not(.tablet):not(.monitor):not(.screen):not(.portable) {
   margin: 35px !important; }
 
+[class*='more padded margin']:not(.mobile):not(.tablet):not(.monitor):not(.screen):not(.portable) {
+  margin: 49px !important; }
+
 [class*='extra padded margin']:not(.mobile):not(.tablet):not(.monitor):not(.screen):not(.portable) {
-  margin: 42px !important; }
+  margin: 63px !important; }
 
 [class*='most padded margin']:not(.mobile):not(.tablet):not(.monitor):not(.screen):not(.portable) {
-  margin: 49px !important; }
+  margin: 84px !important; }
 
 [class*='no horizontal margin']:not(.mobile):not(.tablet):not(.monitor):not(.screen):not(.portable) {
   margin-left: 0 !important;
@@ -19055,20 +19055,20 @@
   margin-right: 21px !important; }
 
 [class*='very padded horizontal margin']:not(.mobile):not(.tablet):not(.monitor):not(.screen):not(.portable) {
-  margin-left: 28px !important;
-  margin-right: 28px !important; }
-
-[class*='more padded horizontal margin']:not(.mobile):not(.tablet):not(.monitor):not(.screen):not(.portable) {
   margin-left: 35px !important;
   margin-right: 35px !important; }
 
-[class*='extra padded horizontal margin']:not(.mobile):not(.tablet):not(.monitor):not(.screen):not(.portable) {
-  margin-left: 42px !important;
-  margin-right: 42px !important; }
-
-[class*='most padded horizontal margin']:not(.mobile):not(.tablet):not(.monitor):not(.screen):not(.portable) {
+[class*='more padded horizontal margin']:not(.mobile):not(.tablet):not(.monitor):not(.screen):not(.portable) {
   margin-left: 49px !important;
   margin-right: 49px !important; }
+
+[class*='extra padded horizontal margin']:not(.mobile):not(.tablet):not(.monitor):not(.screen):not(.portable) {
+  margin-left: 63px !important;
+  margin-right: 63px !important; }
+
+[class*='most padded horizontal margin']:not(.mobile):not(.tablet):not(.monitor):not(.screen):not(.portable) {
+  margin-left: 84px !important;
+  margin-right: 84px !important; }
 
 [class*='no vertical margin']:not(.mobile):not(.tablet):not(.monitor):not(.screen):not(.portable) {
   margin-top: 0 !important;
@@ -19083,20 +19083,20 @@
   margin-bottom: 21px !important; }
 
 [class*='very padded vertical margin']:not(.mobile):not(.tablet):not(.monitor):not(.screen):not(.portable) {
-  margin-top: 28px !important;
-  margin-bottom: 28px !important; }
-
-[class*='more padded vertical margin']:not(.mobile):not(.tablet):not(.monitor):not(.screen):not(.portable) {
   margin-top: 35px !important;
   margin-bottom: 35px !important; }
 
-[class*='extra padded vertical margin']:not(.mobile):not(.tablet):not(.monitor):not(.screen):not(.portable) {
-  margin-top: 42px !important;
-  margin-bottom: 42px !important; }
-
-[class*='most padded vertical margin']:not(.mobile):not(.tablet):not(.monitor):not(.screen):not(.portable) {
+[class*='more padded vertical margin']:not(.mobile):not(.tablet):not(.monitor):not(.screen):not(.portable) {
   margin-top: 49px !important;
   margin-bottom: 49px !important; }
+
+[class*='extra padded vertical margin']:not(.mobile):not(.tablet):not(.monitor):not(.screen):not(.portable) {
+  margin-top: 63px !important;
+  margin-bottom: 63px !important; }
+
+[class*='most padded vertical margin']:not(.mobile):not(.tablet):not(.monitor):not(.screen):not(.portable) {
+  margin-top: 84px !important;
+  margin-bottom: 84px !important; }
 
 [class*='no top margin']:not(.mobile):not(.tablet):not(.monitor):not(.screen):not(.portable) {
   margin-top: 0 !important; }
@@ -19108,16 +19108,16 @@
   margin-top: 21px !important; }
 
 [class*='very padded top margin']:not(.mobile):not(.tablet):not(.monitor):not(.screen):not(.portable) {
-  margin-top: 28px !important; }
-
-[class*='more padded top margin']:not(.mobile):not(.tablet):not(.monitor):not(.screen):not(.portable) {
   margin-top: 35px !important; }
 
+[class*='more padded top margin']:not(.mobile):not(.tablet):not(.monitor):not(.screen):not(.portable) {
+  margin-top: 49px !important; }
+
 [class*='extra padded top margin']:not(.mobile):not(.tablet):not(.monitor):not(.screen):not(.portable) {
-  margin-top: 42px !important; }
+  margin-top: 63px !important; }
 
 [class*='most padded top margin']:not(.mobile):not(.tablet):not(.monitor):not(.screen):not(.portable) {
-  margin-top: 49px !important; }
+  margin-top: 84px !important; }
 
 [class*='no right margin']:not(.mobile):not(.tablet):not(.monitor):not(.screen):not(.portable) {
   margin-right: 0 !important; }
@@ -19129,16 +19129,16 @@
   margin-right: 21px !important; }
 
 [class*='very padded right margin']:not(.mobile):not(.tablet):not(.monitor):not(.screen):not(.portable) {
-  margin-right: 28px !important; }
-
-[class*='more padded right margin']:not(.mobile):not(.tablet):not(.monitor):not(.screen):not(.portable) {
   margin-right: 35px !important; }
 
+[class*='more padded right margin']:not(.mobile):not(.tablet):not(.monitor):not(.screen):not(.portable) {
+  margin-right: 49px !important; }
+
 [class*='extra padded right margin']:not(.mobile):not(.tablet):not(.monitor):not(.screen):not(.portable) {
-  margin-right: 42px !important; }
+  margin-right: 63px !important; }
 
 [class*='most padded top margin']:not(.mobile):not(.tablet):not(.monitor):not(.screen):not(.portable) {
-  margin-top: 49px !important; }
+  margin-top: 84px !important; }
 
 [class*='no bottom margin']:not(.mobile):not(.tablet):not(.monitor):not(.screen):not(.portable) {
   margin-bottom: 0 !important; }
@@ -19150,16 +19150,16 @@
   margin-bottom: 21px !important; }
 
 [class*='very padded bottom margin']:not(.mobile):not(.tablet):not(.monitor):not(.screen):not(.portable) {
-  margin-bottom: 28px !important; }
-
-[class*='more padded bottom margin']:not(.mobile):not(.tablet):not(.monitor):not(.screen):not(.portable) {
   margin-bottom: 35px !important; }
 
+[class*='more padded bottom margin']:not(.mobile):not(.tablet):not(.monitor):not(.screen):not(.portable) {
+  margin-bottom: 49px !important; }
+
 [class*='extra padded bottom margin']:not(.mobile):not(.tablet):not(.monitor):not(.screen):not(.portable) {
-  margin-bottom: 42px !important; }
+  margin-bottom: 63px !important; }
 
 [class*='most padded bottom margin']:not(.mobile):not(.tablet):not(.monitor):not(.screen):not(.portable) {
-  margin-bottom: 49px !important; }
+  margin-bottom: 84px !important; }
 
 [class*='no left margin']:not(.mobile):not(.tablet):not(.monitor):not(.screen):not(.portable) {
   margin-left: 0 !important; }
@@ -19171,16 +19171,16 @@
   margin-left: 21px !important; }
 
 [class*='very padded left margin']:not(.mobile):not(.tablet):not(.monitor):not(.screen):not(.portable) {
-  margin-left: 28px !important; }
-
-[class*='more padded left margin']:not(.mobile):not(.tablet):not(.monitor):not(.screen):not(.portable) {
   margin-left: 35px !important; }
 
+[class*='more padded left margin']:not(.mobile):not(.tablet):not(.monitor):not(.screen):not(.portable) {
+  margin-left: 49px !important; }
+
 [class*='extra padded left margin']:not(.mobile):not(.tablet):not(.monitor):not(.screen):not(.portable) {
-  margin-left: 42px !important; }
+  margin-left: 63px !important; }
 
 [class*='most padded left margin']:not(.mobile):not(.tablet):not(.monitor):not(.screen):not(.portable) {
-  margin-left: 49px !important; }
+  margin-left: 84px !important; }
 
 [class*='no margin as default'] {
   margin: 0 !important; }

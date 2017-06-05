@@ -147,23 +147,23 @@ $i: 0;
 }
 
 [class*='padded margin']:not(.mobile):not(.tablet):not(.monitor):not(.screen):not(.portable) {
-	margin: 1.5 * $emSize !important;
+	margin: $padded * $emSize !important;
 }
 
 [class*='very padded margin']:not(.mobile):not(.tablet):not(.monitor):not(.screen):not(.portable) {
-	margin: 2 * $emSize !important;
+	margin: $veryPadded * $emSize !important;
 }
 
 [class*='more padded margin']:not(.mobile):not(.tablet):not(.monitor):not(.screen):not(.portable) {
-	margin: 2.5 * $emSize !important;
+	margin: $morePadded * $emSize !important;
 }
 
 [class*='extra padded margin']:not(.mobile):not(.tablet):not(.monitor):not(.screen):not(.portable) {
-	margin: 3 * $emSize !important;
+	margin: $extraPadded * $emSize !important;
 }
 
 [class*='most padded margin']:not(.mobile):not(.tablet):not(.monitor):not(.screen):not(.portable) {
-	margin: 3.5 * $emSize !important;
+	margin: $mostPadded * $emSize !important;
 }
 
 //******************** two-way direction margin ********************
@@ -179,28 +179,28 @@ $i: 0;
 }
 
 [class*='padded horizontal margin']:not(.mobile):not(.tablet):not(.monitor):not(.screen):not(.portable) {
-	margin-left: 1.5 * $emSize !important;
-	margin-right: 1.5 * $emSize !important;
+	margin-left: $padded * $emSize !important;
+	margin-right: $padded * $emSize !important;
 }
 
 [class*='very padded horizontal margin']:not(.mobile):not(.tablet):not(.monitor):not(.screen):not(.portable) {
-	margin-left: 2 * $emSize !important;
-	margin-right: 2 * $emSize !important;
+	margin-left: $veryPadded * $emSize !important;
+	margin-right: $veryPadded * $emSize !important;
 }
 
 [class*='more padded horizontal margin']:not(.mobile):not(.tablet):not(.monitor):not(.screen):not(.portable) {
-	margin-left: 2.5 * $emSize !important;
-	margin-right: 2.5 * $emSize !important;
+	margin-left: $morePadded * $emSize !important;
+	margin-right: $morePadded * $emSize !important;
 }
 
 [class*='extra padded horizontal margin']:not(.mobile):not(.tablet):not(.monitor):not(.screen):not(.portable) {
-	margin-left: 3 * $emSize !important;
-	margin-right: 3 * $emSize !important;
+	margin-left: $extraPadded * $emSize !important;
+	margin-right: $extraPadded * $emSize !important;
 }
 
 [class*='most padded horizontal margin']:not(.mobile):not(.tablet):not(.monitor):not(.screen):not(.portable) {
-	margin-left: 3.5 * $emSize !important;
-	margin-right: 3.5 * $emSize !important;
+	margin-left: $mostPadded * $emSize !important;
+	margin-right: $mostPadded * $emSize !important;
 }
 // vertical
 [class*='no vertical margin']:not(.mobile):not(.tablet):not(.monitor):not(.screen):not(.portable) {
@@ -214,28 +214,28 @@ $i: 0;
 }
 
 [class*='padded vertical margin']:not(.mobile):not(.tablet):not(.monitor):not(.screen):not(.portable) {
-	margin-top: 1.5 * $emSize !important;
-	margin-bottom: 1.5 * $emSize !important;
+	margin-top: $padded * $emSize !important;
+	margin-bottom: $padded * $emSize !important;
 }
 
 [class*='very padded vertical margin']:not(.mobile):not(.tablet):not(.monitor):not(.screen):not(.portable) {
-	margin-top: 2 * $emSize !important;
-	margin-bottom: 2 * $emSize !important;
+	margin-top: $veryPadded * $emSize !important;
+	margin-bottom: $veryPadded * $emSize !important;
 }
 
 [class*='more padded vertical margin']:not(.mobile):not(.tablet):not(.monitor):not(.screen):not(.portable) {
-	margin-top: 2.5 * $emSize !important;
-	margin-bottom: 2.5 * $emSize !important;
+	margin-top: $morePadded * $emSize !important;
+	margin-bottom: $morePadded * $emSize !important;
 }
 
 [class*='extra padded vertical margin']:not(.mobile):not(.tablet):not(.monitor):not(.screen):not(.portable) {
-	margin-top: 3 * $emSize !important;
-	margin-bottom: 3 * $emSize !important;
+	margin-top: $extraPadded * $emSize !important;
+	margin-bottom: $extraPadded * $emSize !important;
 }
 
 [class*='most padded vertical margin']:not(.mobile):not(.tablet):not(.monitor):not(.screen):not(.portable) {
-	margin-top: 3.5 * $emSize !important;
-	margin-bottom: 3.5 * $emSize !important;
+	margin-top: $mostPadded * $emSize !important;
+	margin-bottom: $mostPadded * $emSize !important;
 }
 //******************** one-way direction ********************
 // top
@@ -248,23 +248,23 @@ $i: 0;
 }
 
 [class*='padded top margin']:not(.mobile):not(.tablet):not(.monitor):not(.screen):not(.portable) {
-	margin-top: 1.5 * $emSize !important;
+	margin-top: $padded * $emSize !important;
 }
 
 [class*='very padded top margin']:not(.mobile):not(.tablet):not(.monitor):not(.screen):not(.portable) {
-	margin-top: 2 * $emSize !important;
+	margin-top: $veryPadded * $emSize !important;
 }
 
 [class*='more padded top margin']:not(.mobile):not(.tablet):not(.monitor):not(.screen):not(.portable) {
-	margin-top: 2.5 * $emSize !important;
+	margin-top: $morePadded * $emSize !important;
 }
 
 [class*='extra padded top margin']:not(.mobile):not(.tablet):not(.monitor):not(.screen):not(.portable) {
-	margin-top: 3 * $emSize !important;
+	margin-top: $extraPadded * $emSize !important;
 }
 
 [class*='most padded top margin']:not(.mobile):not(.tablet):not(.monitor):not(.screen):not(.portable) {
-	margin-top: 3.5 * $emSize !important;
+	margin-top: $mostPadded * $emSize !important;
 }
 // right
 [class*='no right margin']:not(.mobile):not(.tablet):not(.monitor):not(.screen):not(.portable) {
@@ -276,23 +276,23 @@ $i: 0;
 }
 
 [class*='padded right margin']:not(.mobile):not(.tablet):not(.monitor):not(.screen):not(.portable) {
-	margin-right: 1.5 * $emSize !important;
+	margin-right: $padded * $emSize !important;
 }
 
 [class*='very padded right margin']:not(.mobile):not(.tablet):not(.monitor):not(.screen):not(.portable) {
-	margin-right: 2 * $emSize !important;
+	margin-right: $veryPadded * $emSize !important;
 }
 
 [class*='more padded right margin']:not(.mobile):not(.tablet):not(.monitor):not(.screen):not(.portable) {
-	margin-right: 2.5 * $emSize !important;
+	margin-right: $morePadded * $emSize !important;
 }
 
 [class*='extra padded right margin']:not(.mobile):not(.tablet):not(.monitor):not(.screen):not(.portable) {
-	margin-right: 3 * $emSize !important;
+	margin-right: $extraPadded * $emSize !important;
 }
 
 [class*='most padded top margin']:not(.mobile):not(.tablet):not(.monitor):not(.screen):not(.portable) {
-	margin-top: 3.5 * $emSize !important;
+	margin-top: $mostPadded * $emSize !important;
 }
 // bottom
 [class*='no bottom margin']:not(.mobile):not(.tablet):not(.monitor):not(.screen):not(.portable) {
@@ -304,23 +304,23 @@ $i: 0;
 }
 
 [class*='padded bottom margin']:not(.mobile):not(.tablet):not(.monitor):not(.screen):not(.portable) {
-	margin-bottom: 1.5 * $emSize !important;
+	margin-bottom: $padded * $emSize !important;
 }
 
 [class*='very padded bottom margin']:not(.mobile):not(.tablet):not(.monitor):not(.screen):not(.portable) {
-	margin-bottom: 2 * $emSize !important;
+	margin-bottom: $veryPadded * $emSize !important;
 }
 
 [class*='more padded bottom margin']:not(.mobile):not(.tablet):not(.monitor):not(.screen):not(.portable) {
-	margin-bottom: 2.5 * $emSize !important;
+	margin-bottom: $morePadded * $emSize !important;
 }
 
 [class*='extra padded bottom margin']:not(.mobile):not(.tablet):not(.monitor):not(.screen):not(.portable) {
-	margin-bottom: 3 * $emSize !important;
+	margin-bottom: $extraPadded * $emSize !important;
 }
 
 [class*='most padded bottom margin']:not(.mobile):not(.tablet):not(.monitor):not(.screen):not(.portable) {
-	margin-bottom: 3.5 * $emSize !important;
+	margin-bottom: $mostPadded * $emSize !important;
 }
 
 // left
@@ -333,23 +333,23 @@ $i: 0;
 }
 
 [class*='padded left margin']:not(.mobile):not(.tablet):not(.monitor):not(.screen):not(.portable) {
-	margin-left: 1.5 * $emSize !important;
+	margin-left: $padded * $emSize !important;
 }
 
 [class*='very padded left margin']:not(.mobile):not(.tablet):not(.monitor):not(.screen):not(.portable) {
-	margin-left: 2 * $emSize !important;
+	margin-left: $veryPadded * $emSize !important;
 }
 
 [class*='more padded left margin']:not(.mobile):not(.tablet):not(.monitor):not(.screen):not(.portable) {
-	margin-left: 2.5 * $emSize !important;
+	margin-left: $morePadded * $emSize !important;
 }
 
 [class*='extra padded left margin']:not(.mobile):not(.tablet):not(.monitor):not(.screen):not(.portable) {
-	margin-left: 3 * $emSize !important;
+	margin-left: $extraPadded * $emSize !important;
 }
 
 [class*='most padded left margin']:not(.mobile):not(.tablet):not(.monitor):not(.screen):not(.portable) {
-	margin-left: 3.5 * $emSize !important;
+	margin-left: $mostPadded * $emSize !important;
 }
 
 //******************** situational ********************
